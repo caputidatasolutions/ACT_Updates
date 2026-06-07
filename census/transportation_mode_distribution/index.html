@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Transportation by Mode</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap');
+  :root{--chart-h:520px}
+  *,*::before,*::after{box-sizing:border-box}
+  html,body{margin:0;padding:0;font-family:'DM Sans',system-ui,sans-serif;color:#1A2744;
+    background:#F0F2F5;
+    background-image:radial-gradient(rgba(26,39,68,.05) 1px, transparent 1px);
+    background-size:22px 22px;}
+  .card{max-width:1200px;margin:18px auto;background:#fff;border:1px solid #E2E8F0;
+    border-radius:16px;box-shadow:0 1px 3px rgba(16,24,40,.04);padding:22px 24px 18px;}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap}
+  h1{margin:0;font-family:Georgia,'Freight Macro Pro','Times New Roman',serif;
+    font-size:1.5rem;font-weight:700;letter-spacing:-0.01em;color:#1A2744;line-height:1.2}
+  .meta{display:flex;align-items:center;gap:10px;white-space:nowrap}
+  .badge{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
+    color:#0062A3;background:#E8F0F7;padding:4px 11px;border-radius:999px}
+  .updated{font-size:13px;color:#94A3B8}
+  .topic{margin:10px 0 0;font-size:.95rem;line-height:1.5;color:#475569;max-width:78ch}
+  .tabs{display:flex;gap:8px;margin:16px 0 0;flex-wrap:wrap}
+  .tab{padding:8px 18px;border:none;border-radius:999px;background:#EEF2F6;
+    font:600 13px 'DM Sans',sans-serif;color:#475569;cursor:pointer;transition:all .15s}
+  .tab:hover{background:#E2E8F0}
+  .tab.active{background:#0062A3;color:#fff}
+  .chartcard{position:relative;margin-top:16px;height:var(--chart-h);
+    border:1px solid #E2E8F0;border-radius:12px;overflow:hidden;background:#fff}
+  .view{position:absolute;inset:0;width:100%;height:100%;border:none}
+  .source-row{display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin-top:18px;
+    padding-top:14px;border-top:1px solid #EEF2F6}
+  .src-label{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
+    color:#94A3B8;margin-right:4px}
+  .dl{display:inline-flex;align-items:center;gap:7px;text-decoration:none;
+    padding:7px 16px;border:1.5px solid #CBD5E1;border-radius:999px;
+    font:600 13px 'DM Sans',sans-serif;color:#0062A3;transition:all .15s}
+  .dl:hover{background:#F1F5F9;border-color:#3B8FCC}
+</style>
+</head><body>
+<div class="card">
+  <div class="top">
+    <h1>Transportation by Mode</h1>
+    <div class="meta"><span class="badge">census</span><span class="updated">Updated Jun 05, 2026</span></div>
+  </div>
+  <p class="topic">This indicator shows how commuters travel to work by mode across the eight-county Rochester region (Monroe, Genesee, Livingston, Orleans, Ontario, Wayne, Yates, and Seneca).</p>
+  <div class="tabs"><button class="tab active" onclick="showTab(0)">Bar Chart</button><button class="tab" onclick="showTab(1)">Trend</button><button class="tab" onclick="showTab(2)">Map</button></div>
+  <div class="chartcard"><iframe class="view" id="f0" style="visibility:visible;z-index:2" src="../_views/Output_Transportation_Mode_Distribution_v2/bar_final_Transportation_Mode_Distribution.html"></iframe><iframe class="view" id="f1" style="visibility:hidden;z-index:1" src="../_views/Output_Transportation_Mode_Distribution_v2/line_final_Transportation_Mode_Distribution.html"></iframe><iframe class="view" id="f2" style="visibility:hidden;z-index:1" src="../_views/Output_Transportation_Mode_Distribution_v2/map_final_Transportation_Mode_Distribution.html"></iframe></div>
+  <div class="source-row"><span class="src-label">Source data</span><a class="dl" href="data/Transportation_Mode_Distribution_counties.csv" download><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 21h16"/></svg>Counties</a><a class="dl" href="data/Transportation_Mode_Distribution_subdivisions.csv" download><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 21h16"/></svg>Subdivisions</a></div>
+</div>
+<script>
+  function showTab(n){
+    document.querySelectorAll('.view').forEach(function(v,i){
+      v.style.visibility = (i===n) ? 'visible' : 'hidden';
+      v.style.zIndex = (i===n) ? 2 : 1;
+      if(i===n){ try{ v.contentWindow.dispatchEvent(new Event('resize')); }catch(e){} }
+    });
+    document.querySelectorAll('.tab').forEach(function(t,i){t.classList.toggle('active', i===n);});
+  }
+</script>
+</body></html>

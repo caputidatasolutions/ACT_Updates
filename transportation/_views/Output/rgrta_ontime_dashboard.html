@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>RGRTA On-Time Performance - RGRTA Service Area</title>
+<style>
+        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&display=swap');
+        *, *::before, *::after { box-sizing: border-box; }
+        html, body { margin: 0; padding: 0; height: 100%; width: 100%;
+                      font-family: 'DM Sans', 'Proxima Nova, sans-serif', system-ui, sans-serif;
+                      background-color: #F0F2F5; overflow: hidden; color: #1A2744; }
+        .card { display: flex; flex-direction: column; height: 100dvh; width: 100%;
+                 background: #FFFFFF; }
+        .header { flex: 0 0 auto; padding: 12px 20px;
+                   border-bottom: 2px solid #E8ECF0;
+                   display: flex; flex-wrap: wrap; gap: 12px;
+                   justify-content: space-between; align-items: center;
+                   background: #fff; z-index: 10; }
+        .controls-row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+        .tabs { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+        .tab { padding: 7px 14px; font-size: 13px; font-family: 'DM Sans', sans-serif;
+                font-weight: 500; border-radius: 999px; border: 1.5px solid #E8ECF0;
+                color: #1A2744; background: #FAFBFC; cursor: pointer; outline: none;
+                transition: background-color 0.15s, border-color 0.15s, color 0.15s; }
+        .tab:hover { border-color: #3B8FCC; }
+        .tab.active { background: #0062A3; border-color: #0062A3; color: #fff; }
+        iframe { flex: 1 1 auto; width: 100%; border: none; display: block; }
+        h2 { margin: 0; color: #1A2744; font-family: 'DM Sans', 'Freight Macro Pro, serif', serif;
+              font-size: 1.05rem; font-weight: 600; letter-spacing: -0.01em; }
+        select { padding: 7px 12px; font-size: 13px; font-family: 'DM Sans', sans-serif;
+                  font-weight: 500; border-radius: 6px; border: 1.5px solid #E8ECF0;
+                  color: #1A2744; background-color: #FAFBFC; cursor: pointer;
+                  transition: border-color 0.15s, box-shadow 0.15s; outline: none; }
+        select:hover { border-color: #3B8FCC; }
+        select:focus { border-color: #0062A3; box-shadow: 0 0 0 3px rgba(0,98,163,0.10); }
+        .geo-note { flex: 0 0 auto; padding: 6px 20px; background: #FAFBFC;
+                     border-top: 1px solid #E8ECF0; color: #94A3B8;
+                     font-family: 'DM Sans', sans-serif; font-size: 11px; line-height: 1.35; }
+    </style>
+<script>
+function showChart(btn, file) {
+    document.getElementById('chartFrame').src = 'charts/' + file;
+    var tabs = document.querySelectorAll('.tab');
+    for (var i = 0; i < tabs.length; i++) { tabs[i].classList.remove('active'); }
+    btn.classList.add('active');
+}
+</script>
+</head><body>
+<div class="card">
+    <div class="header">
+        <h2>RGRTA On-Time Performance - RGRTA Service Area</h2>
+        <div class="tabs"><button class="tab active" onclick="showChart(this, 'line_rts_main_ontime.html')">Trend: RTS Main (Monroe)</button><button class="tab" onclick="showChart(this, 'line_county_ontime.html')">Trend: Outer-County</button><button class="tab" onclick="showChart(this, 'bar_all_ontime.html')">Bar: All Subsidiaries</button><button class="tab" onclick="showChart(this, 'bar_county_ontime.html')">Bar: Outer-County & Paratransit</button></div>
+    </div>
+    <iframe id="chartFrame" src="charts/line_rts_main_ontime.html"></iframe>
+    <div class="geo-note">RGRTA service area: Monroe (RTS Main) plus Genesee, Livingston, Ontario, Orleans, Seneca, Wayne, and Wyoming counties. Note: this differs from the ACT 8-county region - it includes Wyoming County and does not include Yates County.</div>
+</div>
+</body></html>
