@@ -10,11 +10,9 @@
      overflow, so the chart fills the frame exactly and never produces a
      scrollbar. Control the overall size from the <iframe> height on your page:
      a taller iframe gives a taller chart, but it always fits with no scroll. */
-  html,body{margin:0;padding:18px 0;height:100vh;height:100dvh;overflow:hidden;
+  html,body{margin:0;padding:0;height:100%;overflow:hidden;
     font-family:'DM Sans',system-ui,sans-serif;color:#1A2744;
-    background:#F0F2F5;
-    background-image:radial-gradient(rgba(26,39,68,.05) 1px, transparent 1px);
-    background-size:22px 22px;}
+    background:transparent;}
   /* White card fills the available height; the chart area below takes whatever
      space the header/tabs/source leave. */
   .card{display:flex;flex-direction:column;height:100%;
