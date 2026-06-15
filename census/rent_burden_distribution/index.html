@@ -35,7 +35,7 @@
   /* Framed white chart area restored, but it now grows to fill the remaining
      height (flex:1 1 auto) instead of a fixed height, so the Plotly chart inside
      gets real space and the bottom axis/legend never clip. */
-  .chartcard{flex:1 1 auto;position:relative;margin-top:16px;
+  .chartcard{flex:1 1 auto;min-height:0;position:relative;margin-top:16px;
     border:1px solid #E2E8F0;border-radius:12px;overflow:hidden;background:#fff}
   .view{position:absolute;inset:0;width:100%;height:100%;border:none}
   .source-row{flex:0 0 auto;display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin-top:18px;
@@ -51,9 +51,9 @@
 <div class="card">
   <div class="top">
     <h1>Rent Burden Distribution</h1>
-    <div class="meta"><span class="badge">census</span><span class="updated">Updated Jun 09, 2026</span></div>
+    <div class="meta"><span class="badge">census</span><span class="updated">Updated Jun 14, 2026</span></div>
   </div>
-  <p class="topic">This indicator shows how renters are distributed across rent-burden categories in the eight-county Rochester region (Monroe, Genesee, Livingston, Orleans, Ontario, Wayne, Yates, and Seneca).</p>
+  <p class="topic">This indicator shows how renters are distributed across housing-cost-burden levels in the eight-county Rochester region (Monroe, Genesee, Livingston, Orleans, Ontario, Wayne, Yates, and Seneca). Renters paying 30 percent or more of household income on gross rent (contract rent plus utilities and fuel) are considered cost burdened.</p>
   <div class="tabs"><button class="tab active" onclick="showTab(0)">Bar Chart</button><button class="tab" onclick="showTab(1)">Trend</button><button class="tab" onclick="showTab(2)">Map</button></div>
   <div class="chartcard"><iframe class="view" id="f0" scrolling="no" style="visibility:visible;z-index:2" src="../_views/Output_Rent_Burden_Distribution_v2/bar_final_Rent_Burden_Distribution.html"></iframe><iframe class="view" id="f1" scrolling="no" style="visibility:hidden;z-index:1" src="../_views/Output_Rent_Burden_Distribution_v2/line_final_Rent_Burden_Distribution.html"></iframe><iframe class="view" id="f2" scrolling="no" style="visibility:hidden;z-index:1" src="../_views/Output_Rent_Burden_Distribution_v2/map_final_Rent_Burden_Distribution.html"></iframe></div>
   <div class="source-row"><span class="src-label">Source data</span><a class="dl" href="data/Rent_Burden_Distribution_counties.csv" download><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 21h16"/></svg>Counties</a><a class="dl" href="data/Rent_Burden_Distribution_subdivisions.csv" download><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 21h16"/></svg>Subdivisions</a></div>

@@ -1,0 +1,953 @@
+GEOID,year,variable,Variable_Description,estimate,moe,moe_pct_of_estimate,County,Geography,State
+3603700474,2017,Owner_Cost_Burden,Percent Cost Burdened,17.398945518453452,5.678698571407453,39.8229752438406,Genesee,Alabama town,New York
+3603700474,2018,Owner_Cost_Burden,Percent Cost Burdened,15.905245346869709,5.07796069865682,38.7635035278101,Genesee,Alabama town,New York
+3603700474,2019,Owner_Cost_Burden,Percent Cost Burdened,15.6896551724138,6.096843068283993,50.7458246926935,Genesee,Alabama town,New York
+3603700474,2020,Owner_Cost_Burden,Percent Cost Burdened,16.84397163120567,6.902147226819887,55.1909859797806,Genesee,Alabama town,New York
+3603700474,2021,Owner_Cost_Burden,Percent Cost Burdened,18.01470588235295,6.963678756908932,42.9805837626472,Genesee,Alabama town,New York
+3603700474,2022,Owner_Cost_Burden,Percent Cost Burdened,19.49152542372882,6.610776221842625,37.2267466282581,Genesee,Alabama town,New York
+3603700474,2023,Owner_Cost_Burden,Percent Cost Burdened,19.86183074265975,7.043007006249764,39.1733459366741,Genesee,Alabama town,New York
+3603700474,2024,Owner_Cost_Burden,Percent Cost Burdened,19.13357400722025,7.740687046450763,47.3594235915735,Genesee,Alabama town,New York
+3603701165,2017,Owner_Cost_Burden,Percent Cost Burdened,22.04819277108436,6.326766740677311,36.201764568901,Genesee,Alexander town,New York
+3603701165,2018,Owner_Cost_Burden,Percent Cost Burdened,23.896103896103902,7.298738870970472,35.8414114794541,Genesee,Alexander town,New York
+3603701165,2019,Owner_Cost_Burden,Percent Cost Burdened,21.094793057409852,7.191558452399223,40.5823587198395,Genesee,Alexander town,New York
+3603701165,2020,Owner_Cost_Burden,Percent Cost Burdened,25.56750298685781,13.282453707413477,66.9851186890009,Genesee,Alexander town,New York
+3603701165,2021,Owner_Cost_Burden,Percent Cost Burdened,26.63252240717032,14.487273061719788,66.3255876516097,Genesee,Alexander town,New York
+3603701165,2022,Owner_Cost_Burden,Percent Cost Burdened,27.73437500000003,14.502156305124648,62.3016005177585,Genesee,Alexander town,New York
+3603701165,2023,Owner_Cost_Burden,Percent Cost Burdened,26.18741976893456,14.699140961352573,63.8358960125489,Genesee,Alexander town,New York
+3603701165,2024,Owner_Cost_Burden,Percent Cost Burdened,30.0,14.606352401224251,55.8581919964432,Genesee,Alexander town,New York
+3603704715,2017,Owner_Cost_Burden,Percent Cost Burdened,18.94667108314006,4.103045465294581,27.3347098872741,Genesee,Batavia city,New York
+3603704715,2018,Owner_Cost_Burden,Percent Cost Burdened,18.68029739776949,3.9845996358640927,26.0174978108902,Genesee,Batavia city,New York
+3603704715,2019,Owner_Cost_Burden,Percent Cost Burdened,18.27586206896556,4.080051751125392,28.5056624101081,Genesee,Batavia city,New York
+3603704715,2020,Owner_Cost_Burden,Percent Cost Burdened,18.12736443883989,5.581533422825836,38.7728993849706,Genesee,Batavia city,New York
+3603704715,2021,Owner_Cost_Burden,Percent Cost Burdened,17.9765647327808,5.361304369537999,39.7128053291575,Genesee,Batavia city,New York
+3603704715,2022,Owner_Cost_Burden,Percent Cost Burdened,13.796627491057741,4.7837613708327185,44.3254417709491,Genesee,Batavia city,New York
+3603704715,2023,Owner_Cost_Burden,Percent Cost Burdened,14.20482520925654,4.920924733661866,44.3675126225031,Genesee,Batavia city,New York
+3603704715,2024,Owner_Cost_Burden,Percent Cost Burdened,13.625806451612899,4.586300082915376,46.1726755682463,Genesee,Batavia city,New York
+3603704726,2017,Owner_Cost_Burden,Percent Cost Burdened,16.58591129332838,5.8258289594794475,38.980490818604,Genesee,Batavia town,New York
+3603704726,2018,Owner_Cost_Burden,Percent Cost Burdened,20.18633540372674,7.0464078320400265,40.0683254532373,Genesee,Batavia town,New York
+3603704726,2019,Owner_Cost_Burden,Percent Cost Burdened,22.71434376269806,6.462388548189215,32.0010915205562,Genesee,Batavia town,New York
+3603704726,2020,Owner_Cost_Burden,Percent Cost Burdened,27.201198950918,10.242827981677218,40.6895043663154,Genesee,Batavia town,New York
+3603704726,2021,Owner_Cost_Burden,Percent Cost Burdened,29.4476190476191,9.967707542170821,40.5498082173623,Genesee,Batavia town,New York
+3603704726,2022,Owner_Cost_Burden,Percent Cost Burdened,29.4961081523966,9.95061312131405,37.726883313458,Genesee,Batavia town,New York
+3603704726,2023,Owner_Cost_Burden,Percent Cost Burdened,27.8338039532069,9.591117831933193,41.1898770504909,Genesee,Batavia town,New York
+3603704726,2024,Owner_Cost_Burden,Percent Cost Burdened,26.0997067448681,9.244309397297016,41.8211518971479,Genesee,Batavia town,New York
+3603706057,2017,Owner_Cost_Burden,Percent Cost Burdened,30.669800235017604,12.01586839929705,49.1367488095593,Genesee,Bergen town,New York
+3603706057,2018,Owner_Cost_Burden,Percent Cost Burdened,26.0162601626016,10.366148771971638,62.3008467745677,Genesee,Bergen town,New York
+3603706057,2019,Owner_Cost_Burden,Percent Cost Burdened,21.4521452145215,10.32387266871155,70.7506677094973,Genesee,Bergen town,New York
+3603706057,2020,Owner_Cost_Burden,Percent Cost Burdened,16.0377358490566,7.903494674948715,58.0008655289327,Genesee,Bergen town,New York
+3603706057,2021,Owner_Cost_Burden,Percent Cost Burdened,14.04651162790698,7.950654410113088,75.765088056278,Genesee,Bergen town,New York
+3603706057,2022,Owner_Cost_Burden,Percent Cost Burdened,13.4313725490196,5.4814466902574415,72.3992374215479,Genesee,Bergen town,New York
+3603706057,2023,Owner_Cost_Burden,Percent Cost Burdened,15.23809523809524,6.429271692054921,55.4178954833581,Genesee,Bergen town,New York
+3603706057,2024,Owner_Cost_Burden,Percent Cost Burdened,16.80290644868302,7.053468148713722,59.8451678685703,Genesee,Bergen town,New York
+3603706266,2017,Owner_Cost_Burden,Percent Cost Burdened,17.435897435897452,6.3632725435533395,44.8233659621158,Genesee,Bethany town,New York
+3603706266,2018,Owner_Cost_Burden,Percent Cost Burdened,18.69782971619362,6.1761569332750925,42.9731445142484,Genesee,Bethany town,New York
+3603706266,2019,Owner_Cost_Burden,Percent Cost Burdened,17.22972972972974,5.444423096944049,43.1679749843129,Genesee,Bethany town,New York
+3603706266,2020,Owner_Cost_Burden,Percent Cost Burdened,17.26618705035971,6.7100083038677765,51.2012013019663,Genesee,Bethany town,New York
+3603706266,2021,Owner_Cost_Burden,Percent Cost Burdened,19.79166666666667,7.305298710874172,45.4040820994797,Genesee,Bethany town,New York
+3603706266,2022,Owner_Cost_Burden,Percent Cost Burdened,21.013133208255198,7.969890589080646,54.9727494719524,Genesee,Bethany town,New York
+3603706266,2023,Owner_Cost_Burden,Percent Cost Burdened,19.41923774954627,7.574368574500114,50.7463876638528,Genesee,Bethany town,New York
+3603706266,2024,Owner_Cost_Burden,Percent Cost Burdened,22.2222222222222,8.088212419141902,48.8763590719881,Genesee,Bethany town,New York
+3603711572,2017,Owner_Cost_Burden,Percent Cost Burdened,19.30294906166217,5.502953541329464,34.8091246528714,Genesee,Byron town,New York
+3603711572,2018,Owner_Cost_Burden,Percent Cost Burdened,17.61517615176156,5.933510825922109,46.5448477937727,Genesee,Byron town,New York
+3603711572,2019,Owner_Cost_Burden,Percent Cost Burdened,16.75461741424802,5.3265818133557294,42.4232250505884,Genesee,Byron town,New York
+3603711572,2020,Owner_Cost_Burden,Percent Cost Burdened,15.98302687411598,5.239734913951219,43.7632383954132,Genesee,Byron town,New York
+3603711572,2021,Owner_Cost_Burden,Percent Cost Burdened,13.32312404287902,5.81404945487293,60.9702707076092,Genesee,Byron town,New York
+3603711572,2022,Owner_Cost_Burden,Percent Cost Burdened,11.58940397350994,5.711366874952772,66.592047991987,Genesee,Byron town,New York
+3603711572,2023,Owner_Cost_Burden,Percent Cost Burdened,12.84552845528456,6.863615663343332,58.175618874095,Genesee,Byron town,New York
+3603711572,2024,Owner_Cost_Burden,Percent Cost Burdened,15.8200290275762,6.903339606636694,40.6153421289784,Genesee,Byron town,New York
+3603719719,2017,Owner_Cost_Burden,Percent Cost Burdened,13.182286302780641,4.716732332044489,40.8359049715316,Genesee,Darien town,New York
+3603719719,2018,Owner_Cost_Burden,Percent Cost Burdened,12.77955271565494,5.55559575478208,48.1428950786795,Genesee,Darien town,New York
+3603719719,2019,Owner_Cost_Burden,Percent Cost Burdened,12.46040126715949,5.967220039363318,50.098920005782,Genesee,Darien town,New York
+3603719719,2020,Owner_Cost_Burden,Percent Cost Burdened,15.08165225744481,7.18215414600256,49.9666190634296,Genesee,Darien town,New York
+3603719719,2021,Owner_Cost_Burden,Percent Cost Burdened,15.73986804901037,7.607980063770529,57.4113787049388,Genesee,Darien town,New York
+3603719719,2022,Owner_Cost_Burden,Percent Cost Burdened,18.664047151277,8.40411739686002,54.8015700377097,Genesee,Darien town,New York
+3603719719,2023,Owner_Cost_Burden,Percent Cost Burdened,21.53392330383482,9.79486972402246,59.4839732553098,Genesee,Darien town,New York
+3603719719,2024,Owner_Cost_Burden,Percent Cost Burdened,21.00192678227362,9.691759103480203,62.3992329465312,Genesee,Darien town,New York
+3603723756,2017,Owner_Cost_Burden,Percent Cost Burdened,17.27272727272727,6.656880430833342,58.3015219632241,Genesee,Elba town,New York
+3603723756,2018,Owner_Cost_Burden,Percent Cost Burdened,16.74491392801251,6.496122821586726,57.3409265656776,Genesee,Elba town,New York
+3603723756,2019,Owner_Cost_Burden,Percent Cost Burdened,18.43317972350229,7.516310044853119,52.1680403360609,Genesee,Elba town,New York
+3603723756,2020,Owner_Cost_Burden,Percent Cost Burdened,12.86644951140065,5.789747457137252,53.1725907195574,Genesee,Elba town,New York
+3603723756,2021,Owner_Cost_Burden,Percent Cost Burdened,11.285266457680251,5.087509414579994,64.4151895517881,Genesee,Elba town,New York
+3603723756,2022,Owner_Cost_Burden,Percent Cost Burdened,12.74074074074074,5.421510790812257,51.1782452610077,Genesee,Elba town,New York
+3603723756,2023,Owner_Cost_Burden,Percent Cost Burdened,11.796982167352532,5.763158541278334,62.4436332386759,Genesee,Elba town,New York
+3603723756,2024,Owner_Cost_Burden,Percent Cost Burdened,13.87195121951219,5.50748383193461,52.2879698433365,Genesee,Elba town,New York
+3603742037,2017,Owner_Cost_Burden,Percent Cost Burdened,17.2429078014184,5.14357276367641,37.4219553624139,Genesee,Le Roy town,New York
+3603742037,2018,Owner_Cost_Burden,Percent Cost Burdened,13.352408202193608,4.30664560329483,37.9180646924378,Genesee,Le Roy town,New York
+3603742037,2019,Owner_Cost_Burden,Percent Cost Burdened,13.79466304839439,4.330246501893038,37.9264079975602,Genesee,Le Roy town,New York
+3603742037,2020,Owner_Cost_Burden,Percent Cost Burdened,12.88723667905829,4.674823573704495,40.0804093090478,Genesee,Le Roy town,New York
+3603742037,2021,Owner_Cost_Burden,Percent Cost Burdened,11.90858059342421,5.414125317998606,52.4175994320143,Genesee,Le Roy town,New York
+3603742037,2022,Owner_Cost_Burden,Percent Cost Burdened,14.58164094232332,6.19578538884194,48.6357659231183,Genesee,Le Roy town,New York
+3603742037,2023,Owner_Cost_Burden,Percent Cost Burdened,13.8243402914533,6.5406997205812125,53.6338433732645,Genesee,Le Roy town,New York
+3603742037,2024,Owner_Cost_Burden,Percent Cost Burdened,14.185228604923761,6.477820599339155,49.3975252458361,Genesee,Le Roy town,New York
+3603754166,2017,Owner_Cost_Burden,Percent Cost Burdened,18.31578947368424,5.5177786846090955,39.6714197672212,Genesee,Oakfield town,New York
+3603754166,2018,Owner_Cost_Burden,Percent Cost Burdened,19.734151329243332,8.533635540482386,56.9975176372707,Genesee,Oakfield town,New York
+3603754166,2019,Owner_Cost_Burden,Percent Cost Burdened,19.70802919708031,9.216185425914597,60.3062848634594,Genesee,Oakfield town,New York
+3603754166,2020,Owner_Cost_Burden,Percent Cost Burdened,18.78646441073515,7.909504792697563,53.4243466206116,Genesee,Oakfield town,New York
+3603754166,2021,Owner_Cost_Burden,Percent Cost Burdened,19.3548387096774,8.398851838840987,50.3891184997563,Genesee,Oakfield town,New York
+3603754166,2022,Owner_Cost_Burden,Percent Cost Burdened,20.611551528878838,9.2767163488775,55.035393424112,Genesee,Oakfield town,New York
+3603754166,2023,Owner_Cost_Burden,Percent Cost Burdened,17.032258064516128,6.9330915831964,46.8581572431063,Genesee,Oakfield town,New York
+3603754166,2024,Owner_Cost_Burden,Percent Cost Burdened,15.099337748344368,6.105000032765504,51.2754604452505,Genesee,Oakfield town,New York
+3603756792,2017,Owner_Cost_Burden,Percent Cost Burdened,18.00947867298582,6.918823307935923,42.5827136876713,Genesee,Pavilion town,New York
+3603756792,2018,Owner_Cost_Burden,Percent Cost Burdened,13.374233128834351,5.460649544177072,46.5076822748804,Genesee,Pavilion town,New York
+3603756792,2019,Owner_Cost_Burden,Percent Cost Burdened,14.01985111662531,6.27320261895845,61.1379124657755,Genesee,Pavilion town,New York
+3603756792,2020,Owner_Cost_Burden,Percent Cost Burdened,11.916461916461909,5.836676516684472,80.0472355455839,Genesee,Pavilion town,New York
+3603756792,2021,Owner_Cost_Burden,Percent Cost Burdened,12.07115628970775,5.797304448244199,91.6834888699103,Genesee,Pavilion town,New York
+3603756792,2022,Owner_Cost_Burden,Percent Cost Burdened,10.31746031746032,5.865323808691527,89.7608365744041,Genesee,Pavilion town,New York
+3603756792,2023,Owner_Cost_Burden,Percent Cost Burdened,13.584905660377359,5.9062684670017145,80.7216086335087,Genesee,Pavilion town,New York
+3603756792,2024,Owner_Cost_Burden,Percent Cost Burdened,10.39603960396039,5.6543803609416745,99.6986836540794,Genesee,Pavilion town,New York
+3603757078,2017,Owner_Cost_Burden,Percent Cost Burdened,18.36431226765803,7.291303803666811,46.5010029492051,Genesee,Pembroke town,New York
+3603757078,2018,Owner_Cost_Burden,Percent Cost Burdened,17.20351390922406,6.487486850660013,44.6220931031773,Genesee,Pembroke town,New York
+3603757078,2019,Owner_Cost_Burden,Percent Cost Burdened,14.421669106881401,6.341237300254569,48.1956086994546,Genesee,Pembroke town,New York
+3603757078,2020,Owner_Cost_Burden,Percent Cost Burdened,11.286681715575622,5.759840795461904,60.6233512805185,Genesee,Pembroke town,New York
+3603757078,2021,Owner_Cost_Burden,Percent Cost Burdened,12.78982797307404,6.2175083287588,55.8245886357926,Genesee,Pembroke town,New York
+3603757078,2022,Owner_Cost_Burden,Percent Cost Burdened,15.65086531226487,7.244497192654491,51.6287551929401,Genesee,Pembroke town,New York
+3603757078,2023,Owner_Cost_Burden,Percent Cost Burdened,15.379449294828781,6.345121358220901,51.1527322912885,Genesee,Pembroke town,New York
+3603757078,2024,Owner_Cost_Burden,Percent Cost Burdened,15.898959881129251,5.692587576850278,44.4528293179003,Genesee,Pembroke town,New York
+3603770607,2017,Owner_Cost_Burden,Percent Cost Burdened,24.7349823321555,8.248562920106467,44.2706146002613,Genesee,Stafford town,New York
+3603770607,2018,Owner_Cost_Burden,Percent Cost Burdened,22.83563362609788,8.033888812037421,45.9771120441762,Genesee,Stafford town,New York
+3603770607,2019,Owner_Cost_Burden,Percent Cost Burdened,18.53658536585366,7.5467514031792176,49.7290021446656,Genesee,Stafford town,New York
+3603770607,2020,Owner_Cost_Burden,Percent Cost Burdened,19.55990220048904,7.29608187771606,49.0528084539486,Genesee,Stafford town,New York
+3603770607,2021,Owner_Cost_Burden,Percent Cost Burdened,17.763157894736832,6.1571391539807525,44.0838670485368,Genesee,Stafford town,New York
+3603770607,2022,Owner_Cost_Burden,Percent Cost Burdened,13.488975356679632,5.56049896314007,46.4833509521021,Genesee,Stafford town,New York
+3603770607,2023,Owner_Cost_Burden,Percent Cost Burdened,13.92081736909323,6.584002754519661,55.5599317869451,Genesee,Stafford town,New York
+3603770607,2024,Owner_Cost_Burden,Percent Cost Burdened,18.47545219638246,8.868075337536435,56.9516862798227,Genesee,Stafford town,New York
+3603775011,2017,Owner_Cost_Burden,Percent Cost Burdened,28.9099526066351,18.056859491417043,88.7924986083016,Genesee,Tonawanda Reservation,New York
+3603775011,2018,Owner_Cost_Burden,Percent Cost Burdened,16.425120772946862,18.658907665482783,174.547288531296,Genesee,Tonawanda Reservation,New York
+3603775011,2019,Owner_Cost_Burden,Percent Cost Burdened,17.75147928994085,23.72556193071645,175.026729796242,Genesee,Tonawanda Reservation,New York
+3603775011,2020,Owner_Cost_Burden,Percent Cost Burdened,12.8378378378378,23.94128499207026,217.432759048424,Genesee,Tonawanda Reservation,New York
+3603775011,2021,Owner_Cost_Burden,Percent Cost Burdened,35.7142857142857,23.72598885218028,83.786080470249,Genesee,Tonawanda Reservation,New York
+3603775011,2022,Owner_Cost_Burden,Percent Cost Burdened,34.1935483870968,25.862970568116825,96.4356233974416,Genesee,Tonawanda Reservation,New York
+3603775011,2023,Owner_Cost_Burden,Percent Cost Burdened,31.6546762589928,24.974096450070125,108.049286510417,Genesee,Tonawanda Reservation,New York
+3603775011,2024,Owner_Cost_Burden,Percent Cost Burdened,31.932773109243698,27.881714898844397,132.144916774194,Genesee,Tonawanda Reservation,New York
+3605103364,2017,Owner_Cost_Burden,Percent Cost Burdened,16.56294877932028,5.161715100115444,37.2270238008521,Livingston,Avon town,New York
+3605103364,2018,Owner_Cost_Burden,Percent Cost Burdened,15.42078044193696,5.203340484740296,41.0813142781939,Livingston,Avon town,New York
+3605103364,2019,Owner_Cost_Burden,Percent Cost Burdened,15.15687140963323,5.186942587950661,42.2378951874874,Livingston,Avon town,New York
+3605103364,2020,Owner_Cost_Burden,Percent Cost Burdened,13.27554744525547,4.457506293263208,40.04971813111,Livingston,Avon town,New York
+3605103364,2021,Owner_Cost_Burden,Percent Cost Burdened,15.40208995910949,5.220375403378792,38.5588749390408,Livingston,Avon town,New York
+3605103364,2022,Owner_Cost_Burden,Percent Cost Burdened,18.37010355695635,6.214523425121715,38.7259641859285,Livingston,Avon town,New York
+3605103364,2023,Owner_Cost_Burden,Percent Cost Burdened,15.779645191409871,5.339535330803526,37.3549020003613,Livingston,Avon town,New York
+3605103364,2024,Owner_Cost_Burden,Percent Cost Burdened,15.50000000000004,5.072040144722866,35.6852110113925,Livingston,Avon town,New York
+3605111715,2017,Owner_Cost_Burden,Percent Cost Burdened,19.94047619047621,5.883529713840066,37.7738058030695,Livingston,Caledonia town,New York
+3605111715,2018,Owner_Cost_Burden,Percent Cost Burdened,17.440119760479078,4.389293795625616,31.952070003241,Livingston,Caledonia town,New York
+3605111715,2019,Owner_Cost_Burden,Percent Cost Burdened,16.57794676806084,4.6716410381314235,41.0316184874352,Livingston,Caledonia town,New York
+3605111715,2020,Owner_Cost_Burden,Percent Cost Burdened,13.995649021029731,4.6897621175568425,46.1920279737633,Livingston,Caledonia town,New York
+3605111715,2021,Owner_Cost_Burden,Percent Cost Burdened,14.476458186929019,5.004826494369978,50.2597617737301,Livingston,Caledonia town,New York
+3605111715,2022,Owner_Cost_Burden,Percent Cost Burdened,12.18274111675126,4.335834719027429,47.2006736955053,Livingston,Caledonia town,New York
+3605111715,2023,Owner_Cost_Burden,Percent Cost Burdened,13.476702508960571,5.0000227670816955,47.6396060992949,Livingston,Caledonia town,New York
+3605111715,2024,Owner_Cost_Burden,Percent Cost Burdened,17.38484398216943,6.566467414009302,45.4561205026983,Livingston,Caledonia town,New York
+3605117618,2017,Owner_Cost_Burden,Percent Cost Burdened,27.34778121775021,6.757090929332678,28.4659518854534,Livingston,Conesus town,New York
+3605117618,2018,Owner_Cost_Burden,Percent Cost Burdened,28.43551797040174,6.677622234853315,27.0570235814939,Livingston,Conesus town,New York
+3605117618,2019,Owner_Cost_Burden,Percent Cost Burdened,26.49006622516561,6.787267297263682,28.8514506547522,Livingston,Conesus town,New York
+3605117618,2020,Owner_Cost_Burden,Percent Cost Burdened,25.1269035532995,8.252016988647783,38.620970756996,Livingston,Conesus town,New York
+3605117618,2021,Owner_Cost_Burden,Percent Cost Burdened,20.94972067039107,8.559922253542334,55.0686162871753,Livingston,Conesus town,New York
+3605117618,2022,Owner_Cost_Burden,Percent Cost Burdened,24.55172413793106,9.226752890574843,52.2612272908141,Livingston,Conesus town,New York
+3605117618,2023,Owner_Cost_Burden,Percent Cost Burdened,27.369826435247028,9.887617103400132,48.0665753860435,Livingston,Conesus town,New York
+3605117618,2024,Owner_Cost_Burden,Percent Cost Burdened,27.72898368883311,9.214110903104663,43.9403944985342,Livingston,Conesus town,New York
+3605128629,2017,Owner_Cost_Burden,Percent Cost Burdened,16.51612903225803,6.041272696700115,42.9052597499201,Livingston,Geneseo town,New York
+3605128629,2018,Owner_Cost_Burden,Percent Cost Burdened,18.49507735583689,6.668138198058124,42.0880845681187,Livingston,Geneseo town,New York
+3605128629,2019,Owner_Cost_Burden,Percent Cost Burdened,16.16678858814923,6.734674764589328,54.2731029542463,Livingston,Geneseo town,New York
+3605128629,2020,Owner_Cost_Burden,Percent Cost Burdened,18.14946619217085,9.324494948088095,64.6832149213711,Livingston,Geneseo town,New York
+3605128629,2021,Owner_Cost_Burden,Percent Cost Burdened,18.16340310600944,9.980197690521923,64.1343390738826,Livingston,Geneseo town,New York
+3605128629,2022,Owner_Cost_Burden,Percent Cost Burdened,16.6666666666667,9.355188301481645,64.0768809810227,Livingston,Geneseo town,New York
+3605128629,2023,Owner_Cost_Burden,Percent Cost Burdened,16.94290976058932,8.943807318493857,61.2142075254545,Livingston,Geneseo town,New York
+3605128629,2024,Owner_Cost_Burden,Percent Cost Burdened,18.33333333333334,9.009389300456291,56.2535785043709,Livingston,Geneseo town,New York
+3605131016,2017,Owner_Cost_Burden,Percent Cost Burdened,22.01591511936343,8.157323964248157,40.7278737822402,Livingston,Groveland town,New York
+3605131016,2018,Owner_Cost_Burden,Percent Cost Burdened,18.28908554572276,7.6636628128274875,54.8704203388317,Livingston,Groveland town,New York
+3605131016,2019,Owner_Cost_Burden,Percent Cost Burdened,14.010989010989011,6.253872617595629,56.1670764227556,Livingston,Groveland town,New York
+3605131016,2020,Owner_Cost_Burden,Percent Cost Burdened,19.59798994974873,9.54680864940067,57.084635130662,Livingston,Groveland town,New York
+3605131016,2021,Owner_Cost_Burden,Percent Cost Burdened,23.311546840958563,9.548043075334848,49.6075365919851,Livingston,Groveland town,New York
+3605131016,2022,Owner_Cost_Burden,Percent Cost Burdened,22.13438735177865,9.117492785341554,48.9241282483253,Livingston,Groveland town,New York
+3605131016,2023,Owner_Cost_Burden,Percent Cost Burdened,25.6,9.784915590846964,46.7771603273759,Livingston,Groveland town,New York
+3605131016,2024,Owner_Cost_Burden,Percent Cost Burdened,25.42056074766352,9.032398434738134,42.1596783141904,Livingston,Groveland town,New York
+3605141883,2017,Owner_Cost_Burden,Percent Cost Burdened,21.81818181818185,8.228054185027457,45.392052884844,Livingston,Leicester town,New York
+3605141883,2018,Owner_Cost_Burden,Percent Cost Burdened,23.93980848153219,8.589101294577782,46.5570958354374,Livingston,Leicester town,New York
+3605141883,2019,Owner_Cost_Burden,Percent Cost Burdened,20.73863636363635,7.910912513484492,51.2103614704671,Livingston,Leicester town,New York
+3605141883,2020,Owner_Cost_Burden,Percent Cost Burdened,18.34170854271357,7.2180499397135165,51.0382062731337,Livingston,Leicester town,New York
+3605141883,2021,Owner_Cost_Burden,Percent Cost Burdened,16.4383561643836,6.52832457762491,50.58500172461,Livingston,Leicester town,New York
+3605141883,2022,Owner_Cost_Burden,Percent Cost Burdened,16.92307692307692,6.628959666025648,50.3074357622803,Livingston,Leicester town,New York
+3605141883,2023,Owner_Cost_Burden,Percent Cost Burdened,13.099870298313881,4.951240607867593,45.7322079848596,Livingston,Leicester town,New York
+3605141883,2024,Owner_Cost_Burden,Percent Cost Burdened,11.58455392809587,5.078482395180654,54.6667918231183,Livingston,Leicester town,New York
+3605142334,2017,Owner_Cost_Burden,Percent Cost Burdened,17.70573566084785,6.021299865065,41.6693248989297,Livingston,Lima town,New York
+3605142334,2018,Owner_Cost_Burden,Percent Cost Burdened,18.313253012048172,6.2228497233332165,43.1590240872214,Livingston,Lima town,New York
+3605142334,2019,Owner_Cost_Burden,Percent Cost Burdened,16.32329635499204,6.327557662048829,51.3777740875707,Livingston,Lima town,New York
+3605142334,2020,Owner_Cost_Burden,Percent Cost Burdened,12.619669277632731,5.297143649455447,54.417646179296,Livingston,Lima town,New York
+3605142334,2021,Owner_Cost_Burden,Percent Cost Burdened,13.013698630136991,5.033978349624733,47.4503310782883,Livingston,Lima town,New York
+3605142334,2022,Owner_Cost_Burden,Percent Cost Burdened,15.56101556101556,5.514282458349576,43.0893350837665,Livingston,Lima town,New York
+3605142334,2023,Owner_Cost_Burden,Percent Cost Burdened,17.03341483292583,5.8358756968949415,46.366284171854,Livingston,Lima town,New York
+3605142334,2024,Owner_Cost_Burden,Percent Cost Burdened,17.79527559055122,6.470238129566981,42.4944062954202,Livingston,Lima town,New York
+3605142961,2017,Owner_Cost_Burden,Percent Cost Burdened,23.5224117413725,7.2068465730181925,37.2290457133663,Livingston,Livonia town,New York
+3605142961,2018,Owner_Cost_Burden,Percent Cost Burdened,21.61845191555898,6.859571026644099,38.8854335347306,Livingston,Livonia town,New York
+3605142961,2019,Owner_Cost_Burden,Percent Cost Burdened,20.631665299425762,6.043517804147892,34.2567719270762,Livingston,Livonia town,New York
+3605142961,2020,Owner_Cost_Burden,Percent Cost Burdened,21.09133126934982,6.420336047382561,34.3262694764712,Livingston,Livonia town,New York
+3605142961,2021,Owner_Cost_Burden,Percent Cost Burdened,21.44607843137254,6.31648981289829,36.1487567975759,Livingston,Livonia town,New York
+3605142961,2022,Owner_Cost_Burden,Percent Cost Burdened,20.80482897384306,6.5163002403614,36.3674760867833,Livingston,Livonia town,New York
+3605142961,2023,Owner_Cost_Burden,Percent Cost Burdened,21.54803578374173,6.66456371052636,39.674948010739,Livingston,Livonia town,New York
+3605142961,2024,Owner_Cost_Burden,Percent Cost Burdened,18.83667180277345,6.2950484936269415,43.311243706482,Livingston,Livonia town,New York
+3605148956,2017,Owner_Cost_Burden,Percent Cost Burdened,19.724375538328978,6.374081234482635,41.3432266654426,Livingston,Mount Morris town,New York
+3605148956,2018,Owner_Cost_Burden,Percent Cost Burdened,15.274261603375521,6.811420561846876,63.9343055686544,Livingston,Mount Morris town,New York
+3605148956,2019,Owner_Cost_Burden,Percent Cost Burdened,18.27266238401137,7.366910157031966,55.12831943598,Livingston,Mount Morris town,New York
+3605148956,2020,Owner_Cost_Burden,Percent Cost Burdened,17.62917933130698,7.289691748725701,67.387056531355,Livingston,Mount Morris town,New York
+3605148956,2021,Owner_Cost_Burden,Percent Cost Burdened,13.549752999294281,6.129061843875553,75.8174747934959,Livingston,Mount Morris town,New York
+3605148956,2022,Owner_Cost_Burden,Percent Cost Burdened,16.44413211524947,6.701210565894319,56.6165856753522,Livingston,Mount Morris town,New York
+3605148956,2023,Owner_Cost_Burden,Percent Cost Burdened,17.36654804270465,7.722889415406063,70.1889517248845,Livingston,Mount Morris town,New York
+3605148956,2024,Owner_Cost_Burden,Percent Cost Burdened,15.66080977845684,6.412637712740933,59.1900585408395,Livingston,Mount Morris town,New York
+3605151869,2017,Owner_Cost_Burden,Percent Cost Burdened,21.1780277961615,7.836280604284136,55.3259193628824,Livingston,North Dansville town,New York
+3605151869,2018,Owner_Cost_Burden,Percent Cost Burdened,22.0606826801517,8.23153051842514,57.0948913473379,Livingston,North Dansville town,New York
+3605151869,2019,Owner_Cost_Burden,Percent Cost Burdened,23.918269230769198,8.974781502264927,57.9388186264022,Livingston,North Dansville town,New York
+3605151869,2020,Owner_Cost_Burden,Percent Cost Burdened,27.26377952755903,10.745456067299866,48.3238115625647,Livingston,North Dansville town,New York
+3605151869,2021,Owner_Cost_Burden,Percent Cost Burdened,25.6972111553785,9.776714199559114,45.2273470956106,Livingston,North Dansville town,New York
+3605151869,2022,Owner_Cost_Burden,Percent Cost Burdened,22.02597402597405,10.029130290802621,50.3591771354843,Livingston,North Dansville town,New York
+3605151869,2023,Owner_Cost_Burden,Percent Cost Burdened,22.78545826932925,9.881148902891315,50.0904972545894,Livingston,North Dansville town,New York
+3605151869,2024,Owner_Cost_Burden,Percent Cost Burdened,19.64668094218421,9.790530302310684,56.5327101157498,Livingston,North Dansville town,New York
+3605154089,2017,Owner_Cost_Burden,Percent Cost Burdened,18.66383881230114,5.914297111786092,38.8764584393423,Livingston,Nunda town,New York
+3605154089,2018,Owner_Cost_Burden,Percent Cost Burdened,15.77217962760129,5.359903822699494,41.8227528959294,Livingston,Nunda town,New York
+3605154089,2019,Owner_Cost_Burden,Percent Cost Burdened,15.164369034994738,5.035920259733841,39.6294467221204,Livingston,Nunda town,New York
+3605154089,2020,Owner_Cost_Burden,Percent Cost Burdened,14.60794844253488,5.881487352253999,45.9671331164169,Livingston,Nunda town,New York
+3605154089,2021,Owner_Cost_Burden,Percent Cost Burdened,11.74458380843785,6.115633493451239,57.4219961700743,Livingston,Nunda town,New York
+3605154089,2022,Owner_Cost_Burden,Percent Cost Burdened,15.1199165797706,7.272422253133692,53.8641610130144,Livingston,Nunda town,New York
+3605154089,2023,Owner_Cost_Burden,Percent Cost Burdened,15.32338308457712,7.186265897044364,50.623082507442,Livingston,Nunda town,New York
+3605154089,2024,Owner_Cost_Burden,Percent Cost Burdened,16.793893129770993,7.46310985940642,51.0533136279879,Livingston,Nunda town,New York
+3605155508,2017,Owner_Cost_Burden,Percent Cost Burdened,21.3559322033898,8.84462415292269,52.8385052069514,Livingston,Ossian town,New York
+3605155508,2018,Owner_Cost_Burden,Percent Cost Burdened,26.950354609929,9.287385239199928,46.9255035849908,Livingston,Ossian town,New York
+3605155508,2019,Owner_Cost_Burden,Percent Cost Burdened,20.67669172932326,8.171410762091774,48.1164386244074,Livingston,Ossian town,New York
+3605155508,2020,Owner_Cost_Burden,Percent Cost Burdened,20.48611111111109,7.739431862409304,45.5568218608743,Livingston,Ossian town,New York
+3605155508,2021,Owner_Cost_Burden,Percent Cost Burdened,18.8,9.839024341874556,58.8960949469487,Livingston,Ossian town,New York
+3605155508,2022,Owner_Cost_Burden,Percent Cost Burdened,24.1666666666667,9.768034424989395,47.0227743157273,Livingston,Ossian town,New York
+3605155508,2023,Owner_Cost_Burden,Percent Cost Burdened,19.49152542372877,11.893144999002823,79.5157629395321,Livingston,Ossian town,New York
+3605155508,2024,Owner_Cost_Burden,Percent Cost Burdened,20.992366412213762,11.700028323992013,72.3498829642714,Livingston,Ossian town,New York
+3605159179,2017,Owner_Cost_Burden,Percent Cost Burdened,23.93442622950823,10.030481742935097,48.6468495202414,Livingston,Portage town,New York
+3605159179,2018,Owner_Cost_Burden,Percent Cost Burdened,23.890784982935138,10.098859635503617,54.0425415606921,Livingston,Portage town,New York
+3605159179,2019,Owner_Cost_Burden,Percent Cost Burdened,25.6493506493507,10.760058151379202,66.178851056854,Livingston,Portage town,New York
+3605159179,2020,Owner_Cost_Burden,Percent Cost Burdened,18.35616438356165,8.906028815820045,86.402540549392,Livingston,Portage town,New York
+3605159179,2021,Owner_Cost_Burden,Percent Cost Burdened,13.915857605178,10.084694963214547,152.23161203684,Livingston,Portage town,New York
+3605159179,2022,Owner_Cost_Burden,Percent Cost Burdened,9.97150997150997,7.079285253957983,216.396348508685,Livingston,Portage town,New York
+3605159179,2023,Owner_Cost_Burden,Percent Cost Burdened,14.1566265060241,8.275700481995804,127.312315074972,Livingston,Portage town,New York
+3605159179,2024,Owner_Cost_Burden,Percent Cost Burdened,10.81081081081082,7.59727432302647,99.4817710083896,Livingston,Portage town,New York
+3605170101,2017,Owner_Cost_Burden,Percent Cost Burdened,19.89436619718305,5.8321952890293325,38.6605978401019,Livingston,Sparta town,New York
+3605170101,2018,Owner_Cost_Burden,Percent Cost Burdened,20.16528925619833,5.6785479997590915,40.3650583647776,Livingston,Sparta town,New York
+3605170101,2019,Owner_Cost_Burden,Percent Cost Burdened,15.60891938250429,5.573828221637891,50.5094497005714,Livingston,Sparta town,New York
+3605170101,2020,Owner_Cost_Burden,Percent Cost Burdened,13.61256544502618,4.575709885087733,46.6240367566725,Livingston,Sparta town,New York
+3605170101,2021,Owner_Cost_Burden,Percent Cost Burdened,13.849287169042771,4.9715835999866815,45.0996897711582,Livingston,Sparta town,New York
+3605170101,2022,Owner_Cost_Burden,Percent Cost Burdened,12.63345195729537,5.186417530278091,42.9160501838406,Livingston,Sparta town,New York
+3605170101,2023,Owner_Cost_Burden,Percent Cost Burdened,9.46428571428571,4.1657536440664495,50.8983915119466,Livingston,Sparta town,New York
+3605170101,2024,Owner_Cost_Burden,Percent Cost Burdened,11.60220994475138,4.523536071420011,43.7033180390046,Livingston,Sparta town,New York
+3605170475,2017,Owner_Cost_Burden,Percent Cost Burdened,20.88835534213683,6.57997992294464,38.1335066353325,Livingston,Springwater town,New York
+3605170475,2018,Owner_Cost_Burden,Percent Cost Burdened,20.32622333751573,5.310862470371159,31.8076314258773,Livingston,Springwater town,New York
+3605170475,2019,Owner_Cost_Burden,Percent Cost Burdened,25.26946107784433,6.359664016731002,30.7736862273364,Livingston,Springwater town,New York
+3605170475,2020,Owner_Cost_Burden,Percent Cost Burdened,30.13555787278419,10.123738740402432,43.8957656317659,Livingston,Springwater town,New York
+3605170475,2021,Owner_Cost_Burden,Percent Cost Burdened,30.966239813736898,9.435137346190098,43.6999717548347,Livingston,Springwater town,New York
+3605170475,2022,Owner_Cost_Burden,Percent Cost Burdened,29.14847161572049,10.718770987620045,50.709887356047,Livingston,Springwater town,New York
+3605170475,2023,Owner_Cost_Burden,Percent Cost Burdened,21.42121524201856,7.7425642229359966,53.8880927116573,Livingston,Springwater town,New York
+3605170475,2024,Owner_Cost_Burden,Percent Cost Burdened,16.48822269807281,6.644709822933494,52.7371590240258,Livingston,Springwater town,New York
+3605181006,2017,Owner_Cost_Burden,Percent Cost Burdened,19.383259911894292,8.712150421692785,55.5560732270272,Livingston,West Sparta town,New York
+3605181006,2018,Owner_Cost_Burden,Percent Cost Burdened,19.2307692307692,7.951088493085475,50.2399660457495,Livingston,West Sparta town,New York
+3605181006,2019,Owner_Cost_Burden,Percent Cost Burdened,17.0731707317073,7.0880605279717255,48.6634960712125,Livingston,West Sparta town,New York
+3605181006,2020,Owner_Cost_Burden,Percent Cost Burdened,19.16859122401852,8.078962836614556,45.9064339065352,Livingston,West Sparta town,New York
+3605181006,2021,Owner_Cost_Burden,Percent Cost Burdened,24.21875,8.362568545333788,38.4320319050791,Livingston,West Sparta town,New York
+3605181006,2022,Owner_Cost_Burden,Percent Cost Burdened,20.40302267002522,7.350090631735396,42.3251858674526,Livingston,West Sparta town,New York
+3605181006,2023,Owner_Cost_Burden,Percent Cost Burdened,19.54314720812187,6.958591094671516,53.8270074422101,Livingston,West Sparta town,New York
+3605181006,2024,Owner_Cost_Burden,Percent Cost Burdened,13.397129186602871,6.325841483942316,81.4565221954361,Livingston,West Sparta town,New York
+3605184022,2017,Owner_Cost_Burden,Percent Cost Burdened,22.47619047619048,8.0813691969141,51.6102952015526,Livingston,York town,New York
+3605184022,2018,Owner_Cost_Burden,Percent Cost Burdened,25.667938931297698,9.047928097648738,46.4927679027157,Livingston,York town,New York
+3605184022,2019,Owner_Cost_Burden,Percent Cost Burdened,24.695121951219498,9.508960155090397,50.7731492680124,Livingston,York town,New York
+3605184022,2020,Owner_Cost_Burden,Percent Cost Burdened,23.013698630137,9.771361783889716,58.919066764416,Livingston,York town,New York
+3605184022,2021,Owner_Cost_Burden,Percent Cost Burdened,21.47406733393997,9.464032319610427,57.5979362009122,Livingston,York town,New York
+3605184022,2022,Owner_Cost_Burden,Percent Cost Burdened,19.13875598086128,8.741456493893297,58.5766338380692,Livingston,York town,New York
+3605184022,2023,Owner_Cost_Burden,Percent Cost Burdened,15.88683351468988,7.875317294020226,66.406829999606,Livingston,York town,New York
+3605184022,2024,Owner_Cost_Burden,Percent Cost Burdened,18.29521829521825,9.076969185332887,60.6638782887807,Livingston,York town,New York
+3605500000,2017,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Monroe,County subdivisions not defined,New York
+3605500000,2018,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Monroe,County subdivisions not defined,New York
+3605500000,2019,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Monroe,County subdivisions not defined,New York
+3605500000,2020,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Monroe,County subdivisions not defined,New York
+3605500000,2021,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Monroe,County subdivisions not defined,New York
+3605500000,2022,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Monroe,County subdivisions not defined,New York
+3605500000,2023,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Monroe,County subdivisions not defined,New York
+3605500000,2024,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Monroe,County subdivisions not defined,New York
+3605508246,2017,Owner_Cost_Burden,Percent Cost Burdened,18.965901493202608,2.981663621969785,19.8652007630913,Monroe,Brighton town,New York
+3605508246,2018,Owner_Cost_Burden,Percent Cost Burdened,16.80180180180179,2.760084879791877,20.8381419070728,Monroe,Brighton town,New York
+3605508246,2019,Owner_Cost_Burden,Percent Cost Burdened,16.1874707807387,2.9429694861626734,22.9385396424514,Monroe,Brighton town,New York
+3605508246,2020,Owner_Cost_Burden,Percent Cost Burdened,18.779007497322432,3.8140486297429903,29.4018984465757,Monroe,Brighton town,New York
+3605508246,2021,Owner_Cost_Burden,Percent Cost Burdened,19.0596041642833,4.068702537232586,28.9937601944599,Monroe,Brighton town,New York
+3605508246,2022,Owner_Cost_Burden,Percent Cost Burdened,18.43026538678713,3.8711156204874047,30.6716902211905,Monroe,Brighton town,New York
+3605508246,2023,Owner_Cost_Burden,Percent Cost Burdened,17.1428571428571,3.784607839429566,29.8342516735078,Monroe,Brighton town,New York
+3605508246,2024,Owner_Cost_Burden,Percent Cost Burdened,18.16770186335403,4.016546256204566,28.9897042752023,Monroe,Brighton town,New York
+3605515462,2017,Owner_Cost_Burden,Percent Cost Burdened,18.27250322732071,2.7905963881308993,18.9390222601884,Monroe,Chili town,New York
+3605515462,2018,Owner_Cost_Burden,Percent Cost Burdened,17.315467251934848,2.8633830609025552,20.261413058095,Monroe,Chili town,New York
+3605515462,2019,Owner_Cost_Burden,Percent Cost Burdened,16.45598451201461,2.642205105963864,20.1102710307383,Monroe,Chili town,New York
+3605515462,2020,Owner_Cost_Burden,Percent Cost Burdened,15.59633027522936,3.0277174093186363,21.756597405941,Monroe,Chili town,New York
+3605515462,2021,Owner_Cost_Burden,Percent Cost Burdened,15.47748531651077,3.195500802986947,21.1279673460713,Monroe,Chili town,New York
+3605515462,2022,Owner_Cost_Burden,Percent Cost Burdened,16.22229360745262,3.5091039440528036,22.8533992457069,Monroe,Chili town,New York
+3605515462,2023,Owner_Cost_Burden,Percent Cost Burdened,18.03031932050317,3.6214567670146245,21.3268793194495,Monroe,Chili town,New York
+3605515462,2024,Owner_Cost_Burden,Percent Cost Burdened,17.56681823222801,3.91445696942805,23.9763094005359,Monroe,Chili town,New York
+3605515957,2017,Owner_Cost_Burden,Percent Cost Burdened,16.32551173240139,6.6373030951185195,47.9590897073871,Monroe,Clarkson town,New York
+3605515957,2018,Owner_Cost_Burden,Percent Cost Burdened,15.117416829745551,6.162348160166517,47.9888654190194,Monroe,Clarkson town,New York
+3605515957,2019,Owner_Cost_Burden,Percent Cost Burdened,13.60201511335012,5.950285054186277,55.6312390800175,Monroe,Clarkson town,New York
+3605515957,2020,Owner_Cost_Burden,Percent Cost Burdened,17.6020408163265,10.575202019240312,79.2544317354429,Monroe,Clarkson town,New York
+3605515957,2021,Owner_Cost_Burden,Percent Cost Burdened,20.229405630865532,10.656560214487993,61.8467897567743,Monroe,Clarkson town,New York
+3605515957,2022,Owner_Cost_Burden,Percent Cost Burdened,20.28353326063252,11.381048770829713,60.9082833033294,Monroe,Clarkson town,New York
+3605515957,2023,Owner_Cost_Burden,Percent Cost Burdened,23.27726532826911,11.406172519985507,54.1364239329867,Monroe,Clarkson town,New York
+3605515957,2024,Owner_Cost_Burden,Percent Cost Burdened,27.14285714285714,12.014066728061913,52.2953119124703,Monroe,Clarkson town,New York
+3605522870,2017,Owner_Cost_Burden,Percent Cost Burdened,23.04038004750594,5.35115116473987,26.7002541248549,Monroe,East Rochester town,New York
+3605522870,2018,Owner_Cost_Burden,Percent Cost Burdened,24.75811041548091,5.690398549472641,28.1880029984335,Monroe,East Rochester town,New York
+3605522870,2019,Owner_Cost_Burden,Percent Cost Burdened,26.2834821428571,6.419220517892345,32.1286360233222,Monroe,East Rochester town,New York
+3605522870,2020,Owner_Cost_Burden,Percent Cost Burdened,20.94986807387859,5.9265365375731305,39.7243632789028,Monroe,East Rochester town,New York
+3605522870,2021,Owner_Cost_Burden,Percent Cost Burdened,21.79775280898881,6.860870440175297,42.2661282902367,Monroe,East Rochester town,New York
+3605522870,2022,Owner_Cost_Burden,Percent Cost Burdened,19.866814650388427,5.7444744965684205,41.0401130890525,Monroe,East Rochester town,New York
+3605522870,2023,Owner_Cost_Burden,Percent Cost Burdened,18.90016017084886,5.76398535180214,49.1140631973561,Monroe,East Rochester town,New York
+3605522870,2024,Owner_Cost_Burden,Percent Cost Burdened,16.767123287671268,5.356280332447522,44.8211117919639,Monroe,East Rochester town,New York
+3605528442,2017,Owner_Cost_Burden,Percent Cost Burdened,24.6984491671453,3.4184646967290813,18.2728894304928,Monroe,Gates town,New York
+3605528442,2018,Owner_Cost_Burden,Percent Cost Burdened,24.2965905329361,3.3303966821221853,18.5969325139509,Monroe,Gates town,New York
+3605528442,2019,Owner_Cost_Burden,Percent Cost Burdened,22.40635641316684,3.1019417462271903,19.037607268456,Monroe,Gates town,New York
+3605528442,2020,Owner_Cost_Burden,Percent Cost Burdened,19.24410153192438,3.006947673160924,20.3290198313668,Monroe,Gates town,New York
+3605528442,2021,Owner_Cost_Burden,Percent Cost Burdened,19.99999999999996,3.3596782112791357,19.5045706253286,Monroe,Gates town,New York
+3605528442,2022,Owner_Cost_Burden,Percent Cost Burdened,22.548295154650077,3.378684755835738,18.4398651302757,Monroe,Gates town,New York
+3605528442,2023,Owner_Cost_Burden,Percent Cost Burdened,25.25767718627139,3.9357783284064,19.5364520314005,Monroe,Gates town,New York
+3605528442,2024,Owner_Cost_Burden,Percent Cost Burdened,27.203598586269713,3.917637421642937,18.6576249321901,Monroe,Gates town,New York
+3605530290,2017,Owner_Cost_Burden,Percent Cost Burdened,21.119749045281,1.682470362698249,10.8116479290334,Monroe,Greece town,New York
+3605530290,2018,Owner_Cost_Burden,Percent Cost Burdened,21.262505283922792,1.6887520438559085,10.0781832620137,Monroe,Greece town,New York
+3605530290,2019,Owner_Cost_Burden,Percent Cost Burdened,20.11449016100179,1.5777232859822417,9.8787972980604,Monroe,Greece town,New York
+3605530290,2020,Owner_Cost_Burden,Percent Cost Burdened,19.56397834140785,1.8324950092798156,12.3175254727176,Monroe,Greece town,New York
+3605530290,2021,Owner_Cost_Burden,Percent Cost Burdened,19.16247670616363,1.836283046671753,11.5346963397029,Monroe,Greece town,New York
+3605530290,2022,Owner_Cost_Burden,Percent Cost Burdened,19.51564983071927,1.8016600175184592,12.048211716746,Monroe,Greece town,New York
+3605530290,2023,Owner_Cost_Burden,Percent Cost Burdened,19.80422462648118,1.762169836377258,10.9867601922442,Monroe,Greece town,New York
+3605530290,2024,Owner_Cost_Burden,Percent Cost Burdened,21.58755971135273,1.9540507576006987,10.7951381258305,Monroe,Greece town,New York
+3605531797,2017,Owner_Cost_Burden,Percent Cost Burdened,23.2253618194349,4.878532847474481,29.1017127673304,Monroe,Hamlin town,New York
+3605531797,2018,Owner_Cost_Burden,Percent Cost Burdened,25.448895027624403,5.159846022983855,25.1324195209922,Monroe,Hamlin town,New York
+3605531797,2019,Owner_Cost_Burden,Percent Cost Burdened,21.00068073519405,4.4378580842508635,25.3683991060135,Monroe,Hamlin town,New York
+3605531797,2020,Owner_Cost_Burden,Percent Cost Burdened,18.87323943661968,4.604262388502427,30.3712238705084,Monroe,Hamlin town,New York
+3605531797,2021,Owner_Cost_Burden,Percent Cost Burdened,19.11330049261084,4.609168899967466,30.2598984873167,Monroe,Hamlin town,New York
+3605531797,2022,Owner_Cost_Burden,Percent Cost Burdened,16.98903932946487,4.31961031816773,31.269311781964,Monroe,Hamlin town,New York
+3605531797,2023,Owner_Cost_Burden,Percent Cost Burdened,16.39078221356703,4.351101247382597,32.2696008631263,Monroe,Hamlin town,New York
+3605531797,2024,Owner_Cost_Burden,Percent Cost Burdened,18.36086404066073,4.459671605084999,28.4746108912447,Monroe,Hamlin town,New York
+3605534099,2017,Owner_Cost_Burden,Percent Cost Burdened,18.363311046237918,2.8234163834769768,21.605786980786,Monroe,Henrietta town,New York
+3605534099,2018,Owner_Cost_Burden,Percent Cost Burdened,20.237649700598823,3.1524259053916173,19.7593256340442,Monroe,Henrietta town,New York
+3605534099,2019,Owner_Cost_Burden,Percent Cost Burdened,20.02050517289585,3.083000091859808,19.4958692730567,Monroe,Henrietta town,New York
+3605534099,2020,Owner_Cost_Burden,Percent Cost Burdened,17.22035132429235,2.9136025608694602,21.3915176208748,Monroe,Henrietta town,New York
+3605534099,2021,Owner_Cost_Burden,Percent Cost Burdened,17.01522502927895,2.6572259962630045,18.4064511991729,Monroe,Henrietta town,New York
+3605534099,2022,Owner_Cost_Burden,Percent Cost Burdened,15.9394703656999,2.5936645169845565,19.258571352465,Monroe,Henrietta town,New York
+3605534099,2023,Owner_Cost_Burden,Percent Cost Burdened,15.71942747133172,2.617060115649527,20.6124243233714,Monroe,Henrietta town,New York
+3605534099,2024,Owner_Cost_Burden,Percent Cost Burdened,15.62076389442631,2.7899897645116325,22.3076352935147,Monroe,Henrietta town,New York
+3605537726,2017,Owner_Cost_Burden,Percent Cost Burdened,23.18155283129012,2.1721142820709183,11.3694685771288,Monroe,Irondequoit town,New York
+3605537726,2018,Owner_Cost_Burden,Percent Cost Burdened,21.038840039597012,1.9422147664347325,11.9375006933435,Monroe,Irondequoit town,New York
+3605537726,2019,Owner_Cost_Burden,Percent Cost Burdened,20.786092214663622,1.8532317735488535,11.0342765973517,Monroe,Irondequoit town,New York
+3605537726,2020,Owner_Cost_Burden,Percent Cost Burdened,20.00345681857468,2.2335287461492666,14.1474969357147,Monroe,Irondequoit town,New York
+3605537726,2021,Owner_Cost_Burden,Percent Cost Burdened,19.12872400224844,2.157798488946511,14.3102363256238,Monroe,Irondequoit town,New York
+3605537726,2022,Owner_Cost_Burden,Percent Cost Burdened,19.01293127788135,2.1361079153649727,14.8642463103383,Monroe,Irondequoit town,New York
+3605537726,2023,Owner_Cost_Burden,Percent Cost Burdened,20.285924167938088,2.4821181129550998,15.1788799275061,Monroe,Irondequoit town,New York
+3605537726,2024,Owner_Cost_Burden,Percent Cost Burdened,19.55748715922562,2.3519214092828986,15.7709066534855,Monroe,Irondequoit town,New York
+3605546558,2017,Owner_Cost_Burden,Percent Cost Burdened,21.32915796798891,5.0511618025206495,43.5363975321491,Monroe,Mendon town,New York
+3605546558,2018,Owner_Cost_Burden,Percent Cost Burdened,18.81508078994616,5.260741478299567,45.0419055606041,Monroe,Mendon town,New York
+3605546558,2019,Owner_Cost_Burden,Percent Cost Burdened,17.50266808964781,5.808094476521956,40.9034144851452,Monroe,Mendon town,New York
+3605546558,2020,Owner_Cost_Burden,Percent Cost Burdened,18.75666074600359,8.466863882945672,61.654036787667,Monroe,Mendon town,New York
+3605546558,2021,Owner_Cost_Burden,Percent Cost Burdened,18.57883049592889,8.488765247445818,65.9892129992446,Monroe,Mendon town,New York
+3605546558,2022,Owner_Cost_Burden,Percent Cost Burdened,16.166541635408812,7.963491219653316,57.2376538993855,Monroe,Mendon town,New York
+3605546558,2023,Owner_Cost_Burden,Percent Cost Burdened,14.919941775836989,8.080570656576743,65.8847925650199,Monroe,Mendon town,New York
+3605546558,2024,Owner_Cost_Burden,Percent Cost Burdened,16.899852724594968,7.803554819086426,60.3646370483754,Monroe,Mendon town,New York
+3605554474,2017,Owner_Cost_Burden,Percent Cost Burdened,16.15942028985508,3.343279096552709,25.4504163606718,Monroe,Ogden town,New York
+3605554474,2018,Owner_Cost_Burden,Percent Cost Burdened,15.39917412250519,2.8884969645363996,23.3267992644472,Monroe,Ogden town,New York
+3605554474,2019,Owner_Cost_Burden,Percent Cost Burdened,15.319293478260889,2.9893986115441313,24.4171804518334,Monroe,Ogden town,New York
+3605554474,2020,Owner_Cost_Burden,Percent Cost Burdened,17.57071547420965,5.898611610628059,45.3968836587404,Monroe,Ogden town,New York
+3605554474,2021,Owner_Cost_Burden,Percent Cost Burdened,17.24767596281541,5.059967545074466,43.9835092964467,Monroe,Ogden town,New York
+3605554474,2022,Owner_Cost_Burden,Percent Cost Burdened,17.55800559486584,5.154261206024904,43.0150208519248,Monroe,Ogden town,New York
+3605554474,2023,Owner_Cost_Burden,Percent Cost Burdened,18.01801801801797,5.247616933452135,43.3795937214049,Monroe,Ogden town,New York
+3605554474,2024,Owner_Cost_Burden,Percent Cost Burdened,18.08062067802328,5.266279135321005,43.1328942376309,Monroe,Ogden town,New York
+3605556561,2017,Owner_Cost_Burden,Percent Cost Burdened,15.2612950239434,3.268506643609879,25.5207058890999,Monroe,Parma town,New York
+3605556561,2018,Owner_Cost_Burden,Percent Cost Burdened,15.107471852610018,3.370363525546248,27.1196122784059,Monroe,Parma town,New York
+3605556561,2019,Owner_Cost_Burden,Percent Cost Burdened,15.46928156894132,3.7053703923338874,30.2191476659696,Monroe,Parma town,New York
+3605556561,2020,Owner_Cost_Burden,Percent Cost Burdened,16.17047308319739,4.510926111267175,33.2761446697081,Monroe,Parma town,New York
+3605556561,2021,Owner_Cost_Burden,Percent Cost Burdened,16.99164345403898,4.247166698667087,28.5679819553805,Monroe,Parma town,New York
+3605556561,2022,Owner_Cost_Burden,Percent Cost Burdened,18.69633099141292,4.3408416146550515,29.0223214930051,Monroe,Parma town,New York
+3605556561,2023,Owner_Cost_Burden,Percent Cost Burdened,18.25208085612369,4.433718470119749,30.0601617787838,Monroe,Parma town,New York
+3605556561,2024,Owner_Cost_Burden,Percent Cost Burdened,18.61454324488556,4.662891449137214,32.0780158066779,Monroe,Parma town,New York
+3605557144,2017,Owner_Cost_Burden,Percent Cost Burdened,22.99182299182295,2.8063284536417283,15.2999393745333,Monroe,Penfield town,New York
+3605557144,2018,Owner_Cost_Burden,Percent Cost Burdened,22.09755709397628,2.6355166044654985,14.414689706048,Monroe,Penfield town,New York
+3605557144,2019,Owner_Cost_Burden,Percent Cost Burdened,19.896620278330012,2.4491934034013614,14.9939830462286,Monroe,Penfield town,New York
+3605557144,2020,Owner_Cost_Burden,Percent Cost Burdened,20.27802473126966,2.9693113483428335,16.6828055459652,Monroe,Penfield town,New York
+3605557144,2021,Owner_Cost_Burden,Percent Cost Burdened,16.43739799487058,2.845969535114141,20.5418737321384,Monroe,Penfield town,New York
+3605557144,2022,Owner_Cost_Burden,Percent Cost Burdened,15.2753108348135,2.4572495219296573,18.6818162958617,Monroe,Penfield town,New York
+3605557144,2023,Owner_Cost_Burden,Percent Cost Burdened,14.72383038648099,2.647554381776931,20.956825670656,Monroe,Penfield town,New York
+3605557144,2024,Owner_Cost_Burden,Percent Cost Burdened,14.948331624201309,2.5291977744761813,21.4174049402445,Monroe,Penfield town,New York
+3605557221,2017,Owner_Cost_Burden,Percent Cost Burdened,18.59988089724074,2.0264819809949004,14.0708987927908,Monroe,Perinton town,New York
+3605557221,2018,Owner_Cost_Burden,Percent Cost Burdened,18.00733656491549,2.143900582181252,15.4891031844999,Monroe,Perinton town,New York
+3605557221,2019,Owner_Cost_Burden,Percent Cost Burdened,17.33498242416353,2.1791810231202264,15.3930076800915,Monroe,Perinton town,New York
+3605557221,2020,Owner_Cost_Burden,Percent Cost Burdened,15.76611346970279,2.2534480067035565,18.3978895041662,Monroe,Perinton town,New York
+3605557221,2021,Owner_Cost_Burden,Percent Cost Burdened,15.68108822973742,2.296148841378185,17.4971730250235,Monroe,Perinton town,New York
+3605557221,2022,Owner_Cost_Burden,Percent Cost Burdened,15.98791464719586,2.3841972114538637,17.4750672292048,Monroe,Perinton town,New York
+3605557221,2023,Owner_Cost_Burden,Percent Cost Burdened,16.84433638800578,2.47958413768384,16.6695323193443,Monroe,Perinton town,New York
+3605557221,2024,Owner_Cost_Burden,Percent Cost Burdened,16.8827945647453,2.3075806073131893,17.1336874555324,Monroe,Perinton town,New York
+3605558365,2017,Owner_Cost_Burden,Percent Cost Burdened,19.71111111111111,2.5154028829060016,15.8181081076165,Monroe,Pittsford town,New York
+3605558365,2018,Owner_Cost_Burden,Percent Cost Burdened,17.578923461276382,2.180103679104902,17.0159401812097,Monroe,Pittsford town,New York
+3605558365,2019,Owner_Cost_Burden,Percent Cost Burdened,16.54101496568021,2.4275616973300127,20.4493403684128,Monroe,Pittsford town,New York
+3605558365,2020,Owner_Cost_Burden,Percent Cost Burdened,17.176228100309128,3.1728932906070373,27.2852487287518,Monroe,Pittsford town,New York
+3605558365,2021,Owner_Cost_Burden,Percent Cost Burdened,16.66666666666662,3.179702496180348,26.818025912225,Monroe,Pittsford town,New York
+3605558365,2022,Owner_Cost_Burden,Percent Cost Burdened,17.23604201216142,3.249499889768003,26.5596153291361,Monroe,Pittsford town,New York
+3605558365,2023,Owner_Cost_Burden,Percent Cost Burdened,18.18771626297579,3.3204706573823857,25.8940495453107,Monroe,Pittsford town,New York
+3605558365,2024,Owner_Cost_Burden,Percent Cost Burdened,19.35767707875057,3.2642803617476925,24.2692928259343,Monroe,Pittsford town,New York
+3605561808,2017,Owner_Cost_Burden,Percent Cost Burdened,22.96334012219954,6.899411906886568,36.7094349859555,Monroe,Riga town,New York
+3605561808,2018,Owner_Cost_Burden,Percent Cost Burdened,20.30456852791874,6.706800814626014,40.3060642303869,Monroe,Riga town,New York
+3605561808,2019,Owner_Cost_Burden,Percent Cost Burdened,16.26187961985217,5.46740145318968,40.0722992299173,Monroe,Riga town,New York
+3605561808,2020,Owner_Cost_Burden,Percent Cost Burdened,12.84501061571125,4.802287749454208,44.9161014026701,Monroe,Riga town,New York
+3605561808,2021,Owner_Cost_Burden,Percent Cost Burdened,12.632696390658179,4.737568349366934,48.7793551356087,Monroe,Riga town,New York
+3605561808,2022,Owner_Cost_Burden,Percent Cost Burdened,13.80417335473515,4.983741800073589,43.9109731804422,Monroe,Riga town,New York
+3605561808,2023,Owner_Cost_Burden,Percent Cost Burdened,10.062893081761011,5.069103378601453,56.8441980416857,Monroe,Riga town,New York
+3605561808,2024,Owner_Cost_Burden,Percent Cost Burdened,9.63977676306443,4.20381506918282,60.16841590607,Monroe,Riga town,New York
+3605563000,2017,Owner_Cost_Burden,Percent Cost Burdened,24.3256124297017,1.6281579903025598,8.2962001022802,Monroe,Rochester city,New York
+3605563000,2018,Owner_Cost_Burden,Percent Cost Burdened,24.0088387881893,1.4447047802084094,8.42884980776396,Monroe,Rochester city,New York
+3605563000,2019,Owner_Cost_Burden,Percent Cost Burdened,23.21729991401,1.5446944686062454,8.93932878129389,Monroe,Rochester city,New York
+3605563000,2020,Owner_Cost_Burden,Percent Cost Burdened,22.51740794178533,2.030385375844322,12.9475138773776,Monroe,Rochester city,New York
+3605563000,2021,Owner_Cost_Burden,Percent Cost Burdened,22.792923176891073,2.089895674221847,13.0652935168436,Monroe,Rochester city,New York
+3605563000,2022,Owner_Cost_Burden,Percent Cost Burdened,22.83575517393217,2.1957099702078104,13.0621597396121,Monroe,Rochester city,New York
+3605563000,2023,Owner_Cost_Burden,Percent Cost Burdened,23.2567630597015,2.1338255436055182,12.6942053082863,Monroe,Rochester city,New York
+3605563000,2024,Owner_Cost_Burden,Percent Cost Burdened,24.740440617878,2.2122225722423217,13.0993861219402,Monroe,Rochester city,New York
+3605564144,2017,Owner_Cost_Burden,Percent Cost Burdened,24.2904841402337,6.744806297776008,37.6496955498437,Monroe,Rush town,New York
+3605564144,2018,Owner_Cost_Burden,Percent Cost Burdened,23.914823914824,6.851235147900904,38.270212036777,Monroe,Rush town,New York
+3605564144,2019,Owner_Cost_Burden,Percent Cost Burdened,20.98283931357252,5.711613687968551,44.7455449504119,Monroe,Rush town,New York
+3605564144,2020,Owner_Cost_Burden,Percent Cost Burdened,17.13632901751714,5.456776499225636,46.7319449092266,Monroe,Rush town,New York
+3605564144,2021,Owner_Cost_Burden,Percent Cost Burdened,16.11410948342328,5.7656971247425925,47.3395081673984,Monroe,Rush town,New York
+3605564144,2022,Owner_Cost_Burden,Percent Cost Burdened,16.494133885438238,6.254781633205584,52.1330557509182,Monroe,Rush town,New York
+3605564144,2023,Owner_Cost_Burden,Percent Cost Burdened,14.98559077809798,5.965213898943439,61.8404733170144,Monroe,Rush town,New York
+3605564144,2024,Owner_Cost_Burden,Percent Cost Burdened,15.98837209302325,6.434866787265006,53.8403520381641,Monroe,Rush town,New York
+3605572455,2017,Owner_Cost_Burden,Percent Cost Burdened,14.87198795180727,3.785147614886707,26.6945125057265,Monroe,Sweden town,New York
+3605572455,2018,Owner_Cost_Burden,Percent Cost Burdened,17.51188589540413,4.4625696095525,29.1583573882505,Monroe,Sweden town,New York
+3605572455,2019,Owner_Cost_Burden,Percent Cost Burdened,17.04459561602421,4.569569264031081,30.8533469924132,Monroe,Sweden town,New York
+3605572455,2020,Owner_Cost_Burden,Percent Cost Burdened,14.62093862815884,3.548179582701748,27.801254025899,Monroe,Sweden town,New York
+3605572455,2021,Owner_Cost_Burden,Percent Cost Burdened,15.042210283960088,4.232924623636991,34.9844568110297,Monroe,Sweden town,New York
+3605572455,2022,Owner_Cost_Burden,Percent Cost Burdened,18.22480902146238,4.959560548857775,36.0066974743733,Monroe,Sweden town,New York
+3605572455,2023,Owner_Cost_Burden,Percent Cost Burdened,15.871404399323179,4.566812396313074,36.5968153199198,Monroe,Sweden town,New York
+3605572455,2024,Owner_Cost_Burden,Percent Cost Burdened,16.82464454976299,4.796634704418355,35.643407978297,Monroe,Sweden town,New York
+3605578971,2017,Owner_Cost_Burden,Percent Cost Burdened,19.9114391143911,2.3231812818690325,14.8522623366956,Monroe,Webster town,New York
+3605578971,2018,Owner_Cost_Burden,Percent Cost Burdened,19.14586639734526,2.0519241849755283,13.528188576045,Monroe,Webster town,New York
+3605578971,2019,Owner_Cost_Burden,Percent Cost Burdened,19.93134520489161,2.264768336145587,14.8801801305747,Monroe,Webster town,New York
+3605578971,2020,Owner_Cost_Burden,Percent Cost Burdened,19.25385004699586,3.1746331533498964,22.611841249385,Monroe,Webster town,New York
+3605578971,2021,Owner_Cost_Burden,Percent Cost Burdened,18.7779751332149,3.0742301782743495,22.5353851930099,Monroe,Webster town,New York
+3605578971,2022,Owner_Cost_Burden,Percent Cost Burdened,18.65314173006479,2.9959956263880057,22.6714000102217,Monroe,Webster town,New York
+3605578971,2023,Owner_Cost_Burden,Percent Cost Burdened,19.18011894647407,3.073380822244984,21.3819558891329,Monroe,Webster town,New York
+3605578971,2024,Owner_Cost_Burden,Percent Cost Burdened,17.82759352238177,3.0085421527796457,23.1024584555782,Monroe,Webster town,New York
+3605581402,2017,Owner_Cost_Burden,Percent Cost Burdened,24.65116279069765,7.225371996357375,36.713477986414,Monroe,Wheatland town,New York
+3605581402,2018,Owner_Cost_Burden,Percent Cost Burdened,23.35143522110159,7.188950181280761,39.9869810612087,Monroe,Wheatland town,New York
+3605581402,2019,Owner_Cost_Burden,Percent Cost Burdened,22.365428354814227,6.590771264815946,36.2959470579692,Monroe,Wheatland town,New York
+3605581402,2020,Owner_Cost_Burden,Percent Cost Burdened,17.44186046511624,5.779676680515851,37.896208493765,Monroe,Wheatland town,New York
+3605581402,2021,Owner_Cost_Burden,Percent Cost Burdened,15.72379367720466,6.4586404467354654,46.3091174967443,Monroe,Wheatland town,New York
+3605581402,2022,Owner_Cost_Burden,Percent Cost Burdened,9.45426594926979,4.528120954456656,62.0825960457403,Monroe,Wheatland town,New York
+3605581402,2023,Owner_Cost_Burden,Percent Cost Burdened,14.849921011058449,8.325823891019901,63.9447318078577,Monroe,Wheatland town,New York
+3605581402,2024,Owner_Cost_Burden,Percent Cost Burdened,11.22062168309326,6.426748340579573,84.2940107429348,Monroe,Wheatland town,New York
+3606908378,2017,Owner_Cost_Burden,Percent Cost Burdened,22.06736353077817,5.708634841163242,32.5111053280164,Ontario,Bristol town,New York
+3606908378,2018,Owner_Cost_Burden,Percent Cost Burdened,19.931271477663273,5.822506852606612,36.3608884813626,Ontario,Bristol town,New York
+3606908378,2019,Owner_Cost_Burden,Percent Cost Burdened,19.07514450867055,5.8563008204052185,36.4146341571994,Ontario,Bristol town,New York
+3606908378,2020,Owner_Cost_Burden,Percent Cost Burdened,22.703818369453,11.811381720921458,61.8008799350887,Ontario,Bristol town,New York
+3606908378,2021,Owner_Cost_Burden,Percent Cost Burdened,24.68085106382976,13.326854982802557,62.2754994780347,Ontario,Bristol town,New York
+3606908378,2022,Owner_Cost_Burden,Percent Cost Burdened,27.25146198830408,13.458893302016989,53.6881812200108,Ontario,Bristol town,New York
+3606908378,2023,Owner_Cost_Burden,Percent Cost Burdened,24.44444444444442,13.634681811147157,62.9271682935768,Ontario,Bristol town,New York
+3606908378,2024,Owner_Cost_Burden,Percent Cost Burdened,25.836216839677,14.250720676632072,70.4070878054694,Ontario,Bristol town,New York
+3606912100,2017,Owner_Cost_Burden,Percent Cost Burdened,25.55066079295152,7.157088335437581,34.7431550847925,Ontario,Canadice town,New York
+3606912100,2018,Owner_Cost_Burden,Percent Cost Burdened,26.57232704402511,7.463330637188373,32.5461438928555,Ontario,Canadice town,New York
+3606912100,2019,Owner_Cost_Burden,Percent Cost Burdened,24.53125,6.857706340560005,32.1810521454396,Ontario,Canadice town,New York
+3606912100,2020,Owner_Cost_Burden,Percent Cost Burdened,17.76729559748432,5.123544512761891,32.1660637614419,Ontario,Canadice town,New York
+3606912100,2021,Owner_Cost_Burden,Percent Cost Burdened,17.241379310344882,5.101576838431869,35.6140021774291,Ontario,Canadice town,New York
+3606912100,2022,Owner_Cost_Burden,Percent Cost Burdened,16.9254658385093,5.102327664851781,34.7720495208694,Ontario,Canadice town,New York
+3606912100,2023,Owner_Cost_Burden,Percent Cost Burdened,17.59398496240602,4.949811605972372,32.8980854859143,Ontario,Canadice town,New York
+3606912100,2024,Owner_Cost_Burden,Percent Cost Burdened,15.08052708638358,5.3352549638849025,44.2835839458347,Ontario,Canadice town,New York
+3606912144,2017,Owner_Cost_Burden,Percent Cost Burdened,15.89477584290478,3.991370696355138,31.7474337157466,Ontario,Canandaigua city,New York
+3606912144,2018,Owner_Cost_Burden,Percent Cost Burdened,17.07495429616092,4.143287041934117,30.7190269141599,Ontario,Canandaigua city,New York
+3606912144,2019,Owner_Cost_Burden,Percent Cost Burdened,17.96276013143479,4.255259447800111,28.1195012771601,Ontario,Canandaigua city,New York
+3606912144,2020,Owner_Cost_Burden,Percent Cost Burdened,19.99168744804659,5.333009415933532,32.4645080673918,Ontario,Canandaigua city,New York
+3606912144,2021,Owner_Cost_Burden,Percent Cost Burdened,23.18311002842066,5.876169581908324,32.9506251010418,Ontario,Canandaigua city,New York
+3606912144,2022,Owner_Cost_Burden,Percent Cost Burdened,22.93921731890092,6.329556801902851,37.5439667597301,Ontario,Canandaigua city,New York
+3606912144,2023,Owner_Cost_Burden,Percent Cost Burdened,25.944170771757,5.778021035899764,30.9335199486819,Ontario,Canandaigua city,New York
+3606912144,2024,Owner_Cost_Burden,Percent Cost Burdened,28.3593452607537,6.2232694841660825,31.8505245198289,Ontario,Canandaigua city,New York
+3606912155,2017,Owner_Cost_Burden,Percent Cost Burdened,21.30406714009035,5.219512121093849,31.2965269503582,Ontario,Canandaigua town,New York
+3606912155,2018,Owner_Cost_Burden,Percent Cost Burdened,20.29718621561809,4.92752401602714,31.1292953107017,Ontario,Canandaigua town,New York
+3606912155,2019,Owner_Cost_Burden,Percent Cost Burdened,17.89536266349584,4.340596442012145,35.6186219521061,Ontario,Canandaigua town,New York
+3606912155,2020,Owner_Cost_Burden,Percent Cost Burdened,18.00058633831726,6.068319802213486,46.2001668415023,Ontario,Canandaigua town,New York
+3606912155,2021,Owner_Cost_Burden,Percent Cost Burdened,19.70517448856801,5.7204341801837435,40.7927811287064,Ontario,Canandaigua town,New York
+3606912155,2022,Owner_Cost_Burden,Percent Cost Burdened,17.76618594660944,5.579507307796575,41.3073191598704,Ontario,Canandaigua town,New York
+3606912155,2023,Owner_Cost_Burden,Percent Cost Burdened,15.14522821576763,5.108945163554828,48.3708229305708,Ontario,Canandaigua town,New York
+3606912155,2024,Owner_Cost_Burden,Percent Cost Burdened,15.065171264019419,5.591035904383035,48.6180035178627,Ontario,Canandaigua town,New York
+3606921699,2017,Owner_Cost_Burden,Percent Cost Burdened,15.95648232094288,5.296740564404441,39.0113380392969,Ontario,East Bloomfield town,New York
+3606921699,2018,Owner_Cost_Burden,Percent Cost Burdened,21.454219030520647,9.460634556237089,51.9042344485144,Ontario,East Bloomfield town,New York
+3606921699,2019,Owner_Cost_Burden,Percent Cost Burdened,19.19927206551408,9.632530143306019,58.881589480934,Ontario,East Bloomfield town,New York
+3606921699,2020,Owner_Cost_Burden,Percent Cost Burdened,22.29129662522206,9.22934590188345,46.5740572327127,Ontario,East Bloomfield town,New York
+3606921699,2021,Owner_Cost_Burden,Percent Cost Burdened,15.2347209920283,7.006496788783518,54.3933348261385,Ontario,East Bloomfield town,New York
+3606921699,2022,Owner_Cost_Burden,Percent Cost Burdened,20.486985726280388,9.141395141386196,57.4866081086853,Ontario,East Bloomfield town,New York
+3606921699,2023,Owner_Cost_Burden,Percent Cost Burdened,22.0421393841167,8.831716922296756,50.6335797840906,Ontario,East Bloomfield town,New York
+3606921699,2024,Owner_Cost_Burden,Percent Cost Burdened,23.385826771653498,8.953344602449844,48.5107474959683,Ontario,East Bloomfield town,New York
+3606925406,2017,Owner_Cost_Burden,Percent Cost Burdened,14.274447949526781,3.9090878634055213,30.0640845284295,Ontario,Farmington town,New York
+3606925406,2018,Owner_Cost_Burden,Percent Cost Burdened,13.96502218741839,3.8262088538569037,30.0857237277392,Ontario,Farmington town,New York
+3606925406,2019,Owner_Cost_Burden,Percent Cost Burdened,13.35106382978728,4.084146169360938,33.8085275717382,Ontario,Farmington town,New York
+3606925406,2020,Owner_Cost_Burden,Percent Cost Burdened,15.27377521613833,4.8524624155074,34.9729190609034,Ontario,Farmington town,New York
+3606925406,2021,Owner_Cost_Burden,Percent Cost Burdened,12.39052035033488,4.248661214234551,40.1824978601432,Ontario,Farmington town,New York
+3606925406,2022,Owner_Cost_Burden,Percent Cost Burdened,9.46264744429882,3.722697914208483,44.4911746920702,Ontario,Farmington town,New York
+3606925406,2023,Owner_Cost_Burden,Percent Cost Burdened,13.746898263027301,4.37523992058539,41.8502960918887,Ontario,Farmington town,New York
+3606925406,2024,Owner_Cost_Burden,Percent Cost Burdened,15.16666666666667,3.8357040222669556,35.2050944906077,Ontario,Farmington town,New York
+3606928640,2017,Owner_Cost_Burden,Percent Cost Burdened,18.05733846812152,4.302599291142663,32.0529068683481,Ontario,Geneva city,New York
+3606928640,2018,Owner_Cost_Burden,Percent Cost Burdened,22.483370288248338,4.925069025491497,31.1533872775319,Ontario,Geneva city,New York
+3606928640,2019,Owner_Cost_Burden,Percent Cost Burdened,19.3324664065886,4.771186475640245,34.3757365271319,Ontario,Geneva city,New York
+3606928640,2020,Owner_Cost_Burden,Percent Cost Burdened,15.542652970075931,4.28921034059207,39.8347496124635,Ontario,Geneva city,New York
+3606928640,2021,Owner_Cost_Burden,Percent Cost Burdened,12.920122217372331,4.042772157304501,40.3836132667851,Ontario,Geneva city,New York
+3606928640,2022,Owner_Cost_Burden,Percent Cost Burdened,13.41728180633956,4.399304251252636,41.3386927140573,Ontario,Geneva city,New York
+3606928640,2023,Owner_Cost_Burden,Percent Cost Burdened,10.754481033764069,3.652039625321339,51.603064744318,Ontario,Geneva city,New York
+3606928640,2024,Owner_Cost_Burden,Percent Cost Burdened,14.314354450681641,5.088948135676128,51.9218958608039,Ontario,Geneva city,New York
+3606928651,2017,Owner_Cost_Burden,Percent Cost Burdened,19.4236926360726,6.669556977236908,41.2896147461287,Ontario,Geneva town,New York
+3606928651,2018,Owner_Cost_Burden,Percent Cost Burdened,16.86486486486488,6.36334765356429,45.6188025048934,Ontario,Geneva town,New York
+3606928651,2019,Owner_Cost_Burden,Percent Cost Burdened,16.57754010695188,6.876218676424448,49.3394732682491,Ontario,Geneva town,New York
+3606928651,2020,Owner_Cost_Burden,Percent Cost Burdened,12.6883425852498,5.979556887359429,57.2054597696693,Ontario,Geneva town,New York
+3606928651,2021,Owner_Cost_Burden,Percent Cost Burdened,11.1791730474732,6.567444778095056,72.4125480304717,Ontario,Geneva town,New York
+3606928651,2022,Owner_Cost_Burden,Percent Cost Burdened,11.74698795180723,6.000191116299123,66.8690145707785,Ontario,Geneva town,New York
+3606928651,2023,Owner_Cost_Burden,Percent Cost Burdened,11.498516320474781,6.080205831452638,75.2634484605938,Ontario,Geneva town,New York
+3606928651,2024,Owner_Cost_Burden,Percent Cost Burdened,11.00299401197605,5.718944653495884,77.3079408591751,Ontario,Geneva town,New York
+3606929531,2017,Owner_Cost_Burden,Percent Cost Burdened,20.16331658291457,5.922013373091228,37.1056749918422,Ontario,Gorham town,New York
+3606929531,2018,Owner_Cost_Burden,Percent Cost Burdened,19.98726925525148,5.756548319696492,36.4608259811945,Ontario,Gorham town,New York
+3606929531,2019,Owner_Cost_Burden,Percent Cost Burdened,17.51918158567775,5.70651904336666,44.7688691988991,Ontario,Gorham town,New York
+3606929531,2020,Owner_Cost_Burden,Percent Cost Burdened,17.079889807162537,5.87274028726927,45.6586160733388,Ontario,Gorham town,New York
+3606929531,2021,Owner_Cost_Burden,Percent Cost Burdened,17.01363962670495,6.2249134834061675,49.5851570527631,Ontario,Gorham town,New York
+3606929531,2022,Owner_Cost_Burden,Percent Cost Burdened,20.67039106145255,6.928207406050179,43.6194947023005,Ontario,Gorham town,New York
+3606929531,2023,Owner_Cost_Burden,Percent Cost Burdened,26.51030561478324,7.790799196659431,31.2586778267235,Ontario,Gorham town,New York
+3606929531,2024,Owner_Cost_Burden,Percent Cost Burdened,30.3347280334728,8.500807514292848,33.3355965435108,Ontario,Gorham town,New York
+3606935551,2017,Owner_Cost_Burden,Percent Cost Burdened,17.89954337899544,7.564445689408531,49.3748471312351,Ontario,Hopewell town,New York
+3606935551,2018,Owner_Cost_Burden,Percent Cost Burdened,17.19298245614032,7.427934265221096,48.247107922113,Ontario,Hopewell town,New York
+3606935551,2019,Owner_Cost_Burden,Percent Cost Burdened,19.21641791044778,7.539329195026112,44.6200234406867,Ontario,Hopewell town,New York
+3606935551,2020,Owner_Cost_Burden,Percent Cost Burdened,18.70967741935485,8.384199304625852,42.4248194144311,Ontario,Hopewell town,New York
+3606935551,2021,Owner_Cost_Burden,Percent Cost Burdened,16.75471698113208,8.250167981964573,46.9253575319978,Ontario,Hopewell town,New York
+3606935551,2022,Owner_Cost_Burden,Percent Cost Burdened,16.42105263157892,7.675666746397752,45.6901263184066,Ontario,Hopewell town,New York
+3606935551,2023,Owner_Cost_Burden,Percent Cost Burdened,20.3041825095057,8.966328109734656,50.8207947792549,Ontario,Hopewell town,New York
+3606935551,2024,Owner_Cost_Burden,Percent Cost Burdened,18.61662987490805,8.779263371549426,67.7938775962062,Ontario,Hopewell town,New York
+3606944864,2017,Owner_Cost_Burden,Percent Cost Burdened,25.025571087623547,4.298103657053048,20.360564301447,Ontario,Manchester town,New York
+3606944864,2018,Owner_Cost_Burden,Percent Cost Burdened,25.817323896191503,4.905382200138807,25.0172930308089,Ontario,Manchester town,New York
+3606944864,2019,Owner_Cost_Burden,Percent Cost Burdened,21.545827633378877,4.041994977912506,25.4460537062705,Ontario,Manchester town,New York
+3606944864,2020,Owner_Cost_Burden,Percent Cost Burdened,17.651075452372822,3.6868174855047506,28.3084082944306,Ontario,Manchester town,New York
+3606944864,2021,Owner_Cost_Burden,Percent Cost Burdened,17.02685003274395,3.9856706700102453,30.4875482878296,Ontario,Manchester town,New York
+3606944864,2022,Owner_Cost_Burden,Percent Cost Burdened,16.43049932523617,3.8718923132704157,29.9619349170266,Ontario,Manchester town,New York
+3606944864,2023,Owner_Cost_Burden,Percent Cost Burdened,15.486872715187769,3.5420038692032105,28.7027654997811,Ontario,Manchester town,New York
+3606944864,2024,Owner_Cost_Burden,Percent Cost Burdened,17.84271059993779,4.550183980708238,31.0584618068294,Ontario,Manchester town,New York
+3606949440,2017,Owner_Cost_Burden,Percent Cost Burdened,23.72262773722625,5.618701412861788,30.2810889794771,Ontario,Naples town,New York
+3606949440,2018,Owner_Cost_Burden,Percent Cost Burdened,21.56862745098043,5.3165998268977726,33.1633930093985,Ontario,Naples town,New York
+3606949440,2019,Owner_Cost_Burden,Percent Cost Burdened,23.6809815950921,6.44386649373056,31.9333787402589,Ontario,Naples town,New York
+3606949440,2020,Owner_Cost_Burden,Percent Cost Burdened,28.8288288288288,8.146297859181812,37.5819488629305,Ontario,Naples town,New York
+3606949440,2021,Owner_Cost_Burden,Percent Cost Burdened,29.268292682926898,9.200051727347441,44.9945805270615,Ontario,Naples town,New York
+3606949440,2022,Owner_Cost_Burden,Percent Cost Burdened,25.7631257631258,8.54812638455614,53.0316102247853,Ontario,Naples town,New York
+3606949440,2023,Owner_Cost_Burden,Percent Cost Burdened,27.5114155251141,8.883276378343641,45.9036370089373,Ontario,Naples town,New York
+3606949440,2024,Owner_Cost_Burden,Percent Cost Burdened,26.35212888377441,9.069893891077589,44.7357911916329,Ontario,Naples town,New York
+3606957529,2017,Owner_Cost_Burden,Percent Cost Burdened,17.21040189125295,5.383859165773675,39.6190857173377,Ontario,Phelps town,New York
+3606957529,2018,Owner_Cost_Burden,Percent Cost Burdened,17.70883054892606,4.944825052989672,34.9882762604091,Ontario,Phelps town,New York
+3606957529,2019,Owner_Cost_Burden,Percent Cost Burdened,19.103568320278463,5.052156701511279,30.3756761238761,Ontario,Phelps town,New York
+3606957529,2020,Owner_Cost_Burden,Percent Cost Burdened,20.97053726169849,5.954935613138863,31.7004057084487,Ontario,Phelps town,New York
+3606957529,2021,Owner_Cost_Burden,Percent Cost Burdened,18.590522478736332,5.22349151217469,33.6093638176511,Ontario,Phelps town,New York
+3606957529,2022,Owner_Cost_Burden,Percent Cost Burdened,17.52119499394429,5.367996818351116,36.4972233827507,Ontario,Phelps town,New York
+3606957529,2023,Owner_Cost_Burden,Percent Cost Burdened,16.739562624254468,5.055541785456145,33.8389531654417,Ontario,Phelps town,New York
+3606957529,2024,Owner_Cost_Burden,Percent Cost Burdened,16.733067729083672,5.500022841751304,41.0647302681681,Ontario,Phelps town,New York
+3606961544,2017,Owner_Cost_Burden,Percent Cost Burdened,19.59334565619224,10.073778853129664,65.396119163907,Ontario,Richmond town,New York
+3606961544,2018,Owner_Cost_Burden,Percent Cost Burdened,20.000000000000043,9.938353722673584,57.6883692585632,Ontario,Richmond town,New York
+3606961544,2019,Owner_Cost_Burden,Percent Cost Burdened,20.493358633776122,8.405366952338806,50.8071321896141,Ontario,Richmond town,New York
+3606961544,2020,Owner_Cost_Burden,Percent Cost Burdened,19.52117863720074,9.521259383894694,72.4750246242545,Ontario,Richmond town,New York
+3606961544,2021,Owner_Cost_Burden,Percent Cost Burdened,18.679409209383138,9.214257505092199,69.8389507052297,Ontario,Richmond town,New York
+3606961544,2022,Owner_Cost_Burden,Percent Cost Burdened,22.2398729150119,8.718333642909862,51.1483832019938,Ontario,Richmond town,New York
+3606961544,2023,Owner_Cost_Burden,Percent Cost Burdened,19.60784313725489,8.307854758179273,59.5463998114573,Ontario,Richmond town,New York
+3606961544,2024,Owner_Cost_Burden,Percent Cost Burdened,20.404858299595112,7.405889884332094,41.3375869920188,Ontario,Richmond town,New York
+3606966289,2017,Owner_Cost_Burden,Percent Cost Burdened,9.62627406568517,5.033593173459147,61.2060588927716,Ontario,Seneca town,New York
+3606966289,2018,Owner_Cost_Burden,Percent Cost Burdened,13.79310344827587,6.734618429671455,63.362788517399,Ontario,Seneca town,New York
+3606966289,2019,Owner_Cost_Burden,Percent Cost Burdened,12.88278775079197,5.922779651358025,56.3513966045487,Ontario,Seneca town,New York
+3606966289,2020,Owner_Cost_Burden,Percent Cost Burdened,15.44973544973545,7.466682578128833,59.9354734840085,Ontario,Seneca town,New York
+3606966289,2021,Owner_Cost_Burden,Percent Cost Burdened,21.42099681866384,8.099882987864799,49.5096999253883,Ontario,Seneca town,New York
+3606966289,2022,Owner_Cost_Burden,Percent Cost Burdened,25.56008146639507,8.433405067824442,42.9561387906322,Ontario,Seneca town,New York
+3606966289,2023,Owner_Cost_Burden,Percent Cost Burdened,27.411167512690312,9.216779426112272,39.501822289594,Ontario,Seneca town,New York
+3606966289,2024,Owner_Cost_Burden,Percent Cost Burdened,26.7708333333334,9.485672304657502,46.8196925020631,Ontario,Seneca town,New York
+3606968660,2017,Owner_Cost_Burden,Percent Cost Burdened,29.1845493562231,6.5590076898266245,28.1037697193946,Ontario,South Bristol town,New York
+3606968660,2018,Owner_Cost_Burden,Percent Cost Burdened,24.7899159663866,6.027320441233344,29.3198590747682,Ontario,South Bristol town,New York
+3606968660,2019,Owner_Cost_Burden,Percent Cost Burdened,22.392211404728798,5.561868531357741,32.1521552511684,Ontario,South Bristol town,New York
+3606968660,2020,Owner_Cost_Burden,Percent Cost Burdened,26.5560165975104,8.849411650073877,51.8821535694178,Ontario,South Bristol town,New York
+3606968660,2021,Owner_Cost_Burden,Percent Cost Burdened,26.2068965517242,8.5241517990185,48.1886990039988,Ontario,South Bristol town,New York
+3606968660,2022,Owner_Cost_Burden,Percent Cost Burdened,27.3480662983425,8.213513202302027,42.4787937926833,Ontario,South Bristol town,New York
+3606968660,2023,Owner_Cost_Burden,Percent Cost Burdened,30.5059523809524,8.680698201359139,40.2205305378746,Ontario,South Bristol town,New York
+3606968660,2024,Owner_Cost_Burden,Percent Cost Burdened,27.88906009244991,8.708489115176778,39.7322670324903,Ontario,South Bristol town,New York
+3606977387,2017,Owner_Cost_Burden,Percent Cost Burdened,15.13652977854225,3.954606807261272,31.0424353720324,Ontario,Victor town,New York
+3606977387,2018,Owner_Cost_Burden,Percent Cost Burdened,14.68961278426552,3.7494553129465427,29.0836443682072,Ontario,Victor town,New York
+3606977387,2019,Owner_Cost_Burden,Percent Cost Burdened,14.26824296779454,4.108983140486702,31.8945657303654,Ontario,Victor town,New York
+3606977387,2020,Owner_Cost_Burden,Percent Cost Burdened,13.24984851545139,3.6509453628588027,32.3021631261552,Ontario,Victor town,New York
+3606977387,2021,Owner_Cost_Burden,Percent Cost Burdened,12.82001924927815,3.6416902592782177,33.9185033334562,Ontario,Victor town,New York
+3606977387,2022,Owner_Cost_Burden,Percent Cost Burdened,14.59627329192547,3.636523277278619,31.9298412913695,Ontario,Victor town,New York
+3606977387,2023,Owner_Cost_Burden,Percent Cost Burdened,15.93071945184623,3.636167425169071,28.6904536207808,Ontario,Victor town,New York
+3606977387,2024,Owner_Cost_Burden,Percent Cost Burdened,18.08471454880295,3.5275646516013555,25.1959233606572,Ontario,Victor town,New York
+3606979356,2017,Owner_Cost_Burden,Percent Cost Burdened,17.45235707121368,5.034739875933267,38.3916558132679,Ontario,West Bloomfield town,New York
+3606979356,2018,Owner_Cost_Burden,Percent Cost Burdened,21.5526046986721,5.71469818339417,35.1760718518542,Ontario,West Bloomfield town,New York
+3606979356,2019,Owner_Cost_Burden,Percent Cost Burdened,20.55449330783942,5.635221911663871,33.4586786342583,Ontario,West Bloomfield town,New York
+3606979356,2020,Owner_Cost_Burden,Percent Cost Burdened,19.56295525494281,5.615334819036426,36.942920601382,Ontario,West Bloomfield town,New York
+3606979356,2021,Owner_Cost_Burden,Percent Cost Burdened,18.62385321100921,5.832808953241901,38.7735920652052,Ontario,West Bloomfield town,New York
+3606979356,2022,Owner_Cost_Burden,Percent Cost Burdened,19.87295825771328,6.273635380840638,42.5202883719405,Ontario,West Bloomfield town,New York
+3606979356,2023,Owner_Cost_Burden,Percent Cost Burdened,18.21428571428569,7.152462831393556,44.0272804019918,Ontario,West Bloomfield town,New York
+3606979356,2024,Owner_Cost_Burden,Percent Cost Burdened,15.875754961173419,6.5855935671188925,48.4276785557058,Ontario,West Bloomfield town,New York
+3607300000,2017,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Orleans,County subdivisions not defined,New York
+3607300000,2018,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Orleans,County subdivisions not defined,New York
+3607300000,2019,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Orleans,County subdivisions not defined,New York
+3607300000,2020,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Orleans,County subdivisions not defined,New York
+3607300000,2021,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Orleans,County subdivisions not defined,New York
+3607300000,2022,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Orleans,County subdivisions not defined,New York
+3607300000,2023,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Orleans,County subdivisions not defined,New York
+3607300000,2024,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Orleans,County subdivisions not defined,New York
+3607301044,2017,Owner_Cost_Burden,Percent Cost Burdened,18.213058419243993,7.509722799568352,54.9136228701182,Orleans,Albion town,New York
+3607301044,2018,Owner_Cost_Burden,Percent Cost Burdened,19.72318339100346,7.853557032456625,58.8572562826939,Orleans,Albion town,New York
+3607301044,2019,Owner_Cost_Burden,Percent Cost Burdened,25.30378842030023,10.299984132708563,67.2520831021101,Orleans,Albion town,New York
+3607301044,2020,Owner_Cost_Burden,Percent Cost Burdened,22.0064724919094,8.675789919091258,55.9527038659264,Orleans,Albion town,New York
+3607301044,2021,Owner_Cost_Burden,Percent Cost Burdened,22.17997465145755,8.70385615429782,56.2760772178626,Orleans,Albion town,New York
+3607301044,2022,Owner_Cost_Burden,Percent Cost Burdened,21.3968253968254,8.432813956201901,67.0095993019023,Orleans,Albion town,New York
+3607301044,2023,Owner_Cost_Burden,Percent Cost Burdened,18.331441543700308,7.461757543305516,91.9730672768103,Orleans,Albion town,New York
+3607301044,2024,Owner_Cost_Burden,Percent Cost Burdened,20.11494252873561,8.200967684210493,75.8824359901511,Orleans,Albion town,New York
+3607304572,2017,Owner_Cost_Burden,Percent Cost Burdened,21.75226586102715,6.1748215908795165,34.480364736707,Orleans,Barre town,New York
+3607304572,2018,Owner_Cost_Burden,Percent Cost Burdened,18.90243902439021,5.121513657398482,33.9271201741367,Orleans,Barre town,New York
+3607304572,2019,Owner_Cost_Burden,Percent Cost Burdened,19.11314984709483,5.916697095978485,42.3473496309523,Orleans,Barre town,New York
+3607304572,2020,Owner_Cost_Burden,Percent Cost Burdened,25.8169934640523,8.434250612423439,40.3488887237798,Orleans,Barre town,New York
+3607304572,2021,Owner_Cost_Burden,Percent Cost Burdened,22.1854304635761,6.972789600945447,36.1918853447538,Orleans,Barre town,New York
+3607304572,2022,Owner_Cost_Burden,Percent Cost Burdened,20.27439024390246,7.585372088485094,48.4315715526062,Orleans,Barre town,New York
+3607304572,2023,Owner_Cost_Burden,Percent Cost Burdened,20.516717325228,7.215713907992034,41.8082152269293,Orleans,Barre town,New York
+3607304572,2024,Owner_Cost_Burden,Percent Cost Burdened,22.204213938411712,7.33348128100612,35.8907646058161,Orleans,Barre town,New York
+3607312496,2017,Owner_Cost_Burden,Percent Cost Burdened,26.14188532555881,8.998933633086507,43.3127894035343,Orleans,Carlton town,New York
+3607312496,2018,Owner_Cost_Burden,Percent Cost Burdened,21.03688933200397,7.92948512193445,47.1339800530526,Orleans,Carlton town,New York
+3607312496,2019,Owner_Cost_Burden,Percent Cost Burdened,19.80932203389831,7.413039144715974,48.5688821696977,Orleans,Carlton town,New York
+3607312496,2020,Owner_Cost_Burden,Percent Cost Burdened,19.238683127572003,8.027883385714642,59.4479971041805,Orleans,Carlton town,New York
+3607312496,2021,Owner_Cost_Burden,Percent Cost Burdened,19.641076769690947,7.415127601515954,46.8454191306764,Orleans,Carlton town,New York
+3607312496,2022,Owner_Cost_Burden,Percent Cost Burdened,14.92682926829264,5.589345769930592,46.9005629832385,Orleans,Carlton town,New York
+3607312496,2023,Owner_Cost_Burden,Percent Cost Burdened,14.4578313253012,5.933604776058431,54.2372639643783,Orleans,Carlton town,New York
+3607312496,2024,Owner_Cost_Burden,Percent Cost Burdened,21.6796875,8.595513140845469,51.873767088833,Orleans,Carlton town,New York
+3607315880,2017,Owner_Cost_Burden,Percent Cost Burdened,25.0392464678179,7.836313892105088,38.4751948977668,Orleans,Clarendon town,New York
+3607315880,2018,Owner_Cost_Burden,Percent Cost Burdened,25.526932084309202,7.879713874990997,41.520075321063,Orleans,Clarendon town,New York
+3607315880,2019,Owner_Cost_Burden,Percent Cost Burdened,27.0015698587127,8.251652158145227,43.3372414073452,Orleans,Clarendon town,New York
+3607315880,2020,Owner_Cost_Burden,Percent Cost Burdened,27.0614692653673,9.298246323619194,44.2741175066176,Orleans,Clarendon town,New York
+3607315880,2021,Owner_Cost_Burden,Percent Cost Burdened,25.165016501650122,9.390141600380888,48.4441418368869,Orleans,Clarendon town,New York
+3607315880,2022,Owner_Cost_Burden,Percent Cost Burdened,29.5562599049128,9.900364472324462,50.7314577667607,Orleans,Clarendon town,New York
+3607315880,2023,Owner_Cost_Burden,Percent Cost Burdened,28.211189913317597,9.837341012538436,49.0965325030043,Orleans,Clarendon town,New York
+3607315880,2024,Owner_Cost_Burden,Percent Cost Burdened,25.983667409057098,9.633244345903787,46.8250574274804,Orleans,Clarendon town,New York
+3607327958,2017,Owner_Cost_Burden,Percent Cost Burdened,30.72625698324018,14.710269242407424,55.7862011337273,Orleans,Gaines town,New York
+3607327958,2018,Owner_Cost_Burden,Percent Cost Burdened,29.495718363463396,12.014830505541868,53.7396157120107,Orleans,Gaines town,New York
+3607327958,2019,Owner_Cost_Burden,Percent Cost Burdened,27.9924599434496,11.944244560886656,60.1835616588832,Orleans,Gaines town,New York
+3607327958,2020,Owner_Cost_Burden,Percent Cost Burdened,32.3404255319149,13.95511700797737,57.4928262061998,Orleans,Gaines town,New York
+3607327958,2021,Owner_Cost_Burden,Percent Cost Burdened,34.510869565217405,15.438820445600232,68.0115648902118,Orleans,Gaines town,New York
+3607327958,2022,Owner_Cost_Burden,Percent Cost Burdened,30.0080450522928,14.570458163696832,74.1926991309681,Orleans,Gaines town,New York
+3607327958,2023,Owner_Cost_Burden,Percent Cost Burdened,27.735368956743,13.479414271224758,70.9592411537147,Orleans,Gaines town,New York
+3607327958,2024,Owner_Cost_Burden,Percent Cost Burdened,25.090579710144908,13.489264679233607,78.806204812778,Orleans,Gaines town,New York
+3607339188,2017,Owner_Cost_Burden,Percent Cost Burdened,22.196261682242998,6.0049061946470905,36.3449625132617,Orleans,Kendall town,New York
+3607339188,2018,Owner_Cost_Burden,Percent Cost Burdened,23.96061269146605,6.791063480809203,36.360244126229,Orleans,Kendall town,New York
+3607339188,2019,Owner_Cost_Burden,Percent Cost Burdened,23.535253227408127,7.1316739177655775,38.5717470754727,Orleans,Kendall town,New York
+3607339188,2020,Owner_Cost_Burden,Percent Cost Burdened,22.08955223880599,6.387116727142008,35.1048375442795,Orleans,Kendall town,New York
+3607339188,2021,Owner_Cost_Burden,Percent Cost Burdened,21.76165803108809,6.516543976634282,35.0708469051316,Orleans,Kendall town,New York
+3607339188,2022,Owner_Cost_Burden,Percent Cost Burdened,19.99999999999996,6.438876064091287,39.5209635907906,Orleans,Kendall town,New York
+3607339188,2023,Owner_Cost_Burden,Percent Cost Burdened,20.935412026726063,6.920377860788697,38.7753254748288,Orleans,Kendall town,New York
+3607339188,2024,Owner_Cost_Burden,Percent Cost Burdened,22.96544035674468,7.1183751928194905,36.7912606451795,Orleans,Kendall town,New York
+3607349286,2017,Owner_Cost_Burden,Percent Cost Burdened,28.68965517241381,6.656087994895165,28.6466919942578,Orleans,Murray town,New York
+3607349286,2018,Owner_Cost_Burden,Percent Cost Burdened,24.35643564356434,5.99905778781059,30.5185367865378,Orleans,Murray town,New York
+3607349286,2019,Owner_Cost_Burden,Percent Cost Burdened,23.01480484522211,6.033855413815624,32.7291768234954,Orleans,Murray town,New York
+3607349286,2020,Owner_Cost_Burden,Percent Cost Burdened,20.08141112618729,5.827999432914227,34.959494517459,Orleans,Murray town,New York
+3607349286,2021,Owner_Cost_Burden,Percent Cost Burdened,20.32693674484721,6.457100663242331,39.3450347925587,Orleans,Murray town,New York
+3607349286,2022,Owner_Cost_Burden,Percent Cost Burdened,26.13488975356683,8.461824924354875,37.0773884206561,Orleans,Murray town,New York
+3607349286,2023,Owner_Cost_Burden,Percent Cost Burdened,28.589108910891092,7.958044547898395,34.8309377306594,Orleans,Murray town,New York
+3607349286,2024,Owner_Cost_Burden,Percent Cost Burdened,28.854229154169204,10.305980481913112,43.636399863103,Orleans,Murray town,New York
+3607361742,2017,Owner_Cost_Burden,Percent Cost Burdened,29.570429570429496,6.796090030331177,26.7254861464561,Orleans,Ridgeway town,New York
+3607361742,2018,Owner_Cost_Burden,Percent Cost Burdened,28.775913129318802,7.487398683500179,30.4729827468497,Orleans,Ridgeway town,New York
+3607361742,2019,Owner_Cost_Burden,Percent Cost Burdened,27.714675147660202,7.075640254322021,31.0346845417245,Orleans,Ridgeway town,New York
+3607361742,2020,Owner_Cost_Burden,Percent Cost Burdened,23.0376219228983,6.99332779097851,36.8152847888674,Orleans,Ridgeway town,New York
+3607361742,2021,Owner_Cost_Burden,Percent Cost Burdened,22.80617164898745,7.820249363641409,37.3434985953138,Orleans,Ridgeway town,New York
+3607361742,2022,Owner_Cost_Burden,Percent Cost Burdened,23.573333333333302,7.937010075476253,33.7995515690083,Orleans,Ridgeway town,New York
+3607361742,2023,Owner_Cost_Burden,Percent Cost Burdened,21.968911917098502,6.373782469036901,36.6342589704999,Orleans,Ridgeway town,New York
+3607361742,2024,Owner_Cost_Burden,Percent Cost Burdened,22.9122055674518,6.526774040580183,36.5781426697793,Orleans,Ridgeway town,New York
+3607366751,2017,Owner_Cost_Burden,Percent Cost Burdened,24.5182724252491,5.983475652864209,30.5996920381254,Orleans,Shelby town,New York
+3607366751,2018,Owner_Cost_Burden,Percent Cost Burdened,23.36683417085431,6.768754720017372,36.4529414089367,Orleans,Shelby town,New York
+3607366751,2019,Owner_Cost_Burden,Percent Cost Burdened,20.66792690611214,6.227034343986283,38.1447971140198,Orleans,Shelby town,New York
+3607366751,2020,Owner_Cost_Burden,Percent Cost Burdened,17.89617486338798,5.618859331890035,38.8829886619178,Orleans,Shelby town,New York
+3607366751,2021,Owner_Cost_Burden,Percent Cost Burdened,16.76470588235291,5.2729722753823705,41.406605463039,Orleans,Shelby town,New York
+3607366751,2022,Owner_Cost_Burden,Percent Cost Burdened,15.55721765145848,5.66228186342528,46.6556729343043,Orleans,Shelby town,New York
+3607366751,2023,Owner_Cost_Burden,Percent Cost Burdened,16.221910112359552,5.08085366195103,38.0209353766451,Orleans,Shelby town,New York
+3607366751,2024,Owner_Cost_Burden,Percent Cost Burdened,15.363321799307961,5.082118453837847,40.0058202954535,Orleans,Shelby town,New York
+3607383448,2017,Owner_Cost_Burden,Percent Cost Burdened,23.86495925494758,6.0040222669321786,34.2257774363649,Orleans,Yates town,New York
+3607383448,2018,Owner_Cost_Burden,Percent Cost Burdened,23.290845886442668,6.224753873540694,36.4839765835089,Orleans,Yates town,New York
+3607383448,2019,Owner_Cost_Burden,Percent Cost Burdened,25.68908489525905,7.24694353231857,37.2019642267332,Orleans,Yates town,New York
+3607383448,2020,Owner_Cost_Burden,Percent Cost Burdened,24.83487450462351,7.274802910169906,37.2213730910266,Orleans,Yates town,New York
+3607383448,2021,Owner_Cost_Burden,Percent Cost Burdened,25.725593667546182,7.6177888152783835,40.4217205687968,Orleans,Yates town,New York
+3607383448,2022,Owner_Cost_Burden,Percent Cost Burdened,24.14578587699317,7.613299895669346,43.476901880068,Orleans,Yates town,New York
+3607383448,2023,Owner_Cost_Burden,Percent Cost Burdened,24.41140024783143,7.546326966780634,41.6254850474638,Orleans,Yates town,New York
+3607383448,2024,Owner_Cost_Burden,Percent Cost Burdened,18.36228287841189,6.196171970832505,45.6527624783609,Orleans,Yates town,New York
+3609918663,2017,Owner_Cost_Burden,Percent Cost Burdened,16.57824933687003,4.757038573484536,36.7562282779879,Seneca,Covert town,New York
+3609918663,2018,Owner_Cost_Burden,Percent Cost Burdened,17.33333333333337,5.296091627270476,37.7096694114038,Seneca,Covert town,New York
+3609918663,2019,Owner_Cost_Burden,Percent Cost Burdened,18.38624338624335,5.3765697147511995,36.7655283784632,Seneca,Covert town,New York
+3609918663,2020,Owner_Cost_Burden,Percent Cost Burdened,22.7142857142857,9.923955761649864,41.4202360472849,Seneca,Covert town,New York
+3609918663,2021,Owner_Cost_Burden,Percent Cost Burdened,25.7553956834533,9.524929766180724,38.841572522023,Seneca,Covert town,New York
+3609918663,2022,Owner_Cost_Burden,Percent Cost Burdened,21.51724137931039,9.451890952501794,44.0082210121829,Seneca,Covert town,New York
+3609918663,2023,Owner_Cost_Burden,Percent Cost Burdened,21.744966442952972,7.412364957766172,41.0051554085983,Seneca,Covert town,New York
+3609918663,2024,Owner_Cost_Burden,Percent Cost Burdened,19.632768361581938,9.348514695895114,50.2911550729568,Seneca,Covert town,New York
+3609925505,2017,Owner_Cost_Burden,Percent Cost Burdened,25.13368983957214,6.703528075006869,34.1532152716116,Seneca,Fayette town,New York
+3609925505,2018,Owner_Cost_Burden,Percent Cost Burdened,22.88072018004501,6.602127321918892,35.4981947081251,Seneca,Fayette town,New York
+3609925505,2019,Owner_Cost_Burden,Percent Cost Burdened,22.18956649522406,6.6750051464499665,33.7372184308228,Seneca,Fayette town,New York
+3609925505,2020,Owner_Cost_Burden,Percent Cost Burdened,23.27773749093543,7.643061071577851,33.2611146525856,Seneca,Fayette town,New York
+3609925505,2021,Owner_Cost_Burden,Percent Cost Burdened,24.90302560124124,8.73857154984826,39.2874693270598,Seneca,Fayette town,New York
+3609925505,2022,Owner_Cost_Burden,Percent Cost Burdened,24.479999999999997,8.799245968567993,49.2280312049559,Seneca,Fayette town,New York
+3609925505,2023,Owner_Cost_Burden,Percent Cost Burdened,24.7993579454254,8.591989728900376,51.8264194804793,Seneca,Fayette town,New York
+3609925505,2024,Owner_Cost_Burden,Percent Cost Burdened,27.4258219727346,9.025228371247124,55.4726853274664,Seneca,Fayette town,New York
+3609928640,2017,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Seneca,Geneva city,New York
+3609928640,2018,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Seneca,Geneva city,New York
+3609928640,2019,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Seneca,Geneva city,New York
+3609928640,2020,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Seneca,Geneva city,New York
+3609928640,2021,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Seneca,Geneva city,New York
+3609928640,2022,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Seneca,Geneva city,New York
+3609928640,2023,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Seneca,Geneva city,New York
+3609928640,2024,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Seneca,Geneva city,New York
+3609938858,2017,Owner_Cost_Burden,Percent Cost Burdened,20.04504504504503,8.266854339928612,50.433122759569,Seneca,Junius town,New York
+3609938858,2018,Owner_Cost_Burden,Percent Cost Burdened,18.97654584221744,7.473151235696652,47.2613310770398,Seneca,Junius town,New York
+3609938858,2019,Owner_Cost_Burden,Percent Cost Burdened,19.0697674418605,7.133483992220429,53.209616037079,Seneca,Junius town,New York
+3609938858,2020,Owner_Cost_Burden,Percent Cost Burdened,18.47290640394088,7.321966109962044,58.4311361766793,Seneca,Junius town,New York
+3609938858,2021,Owner_Cost_Burden,Percent Cost Burdened,17.09844559585492,7.277469760563406,62.2073378698158,Seneca,Junius town,New York
+3609938858,2022,Owner_Cost_Burden,Percent Cost Burdened,17.31266149870801,6.715590998803684,55.6834163556426,Seneca,Junius town,New York
+3609938858,2023,Owner_Cost_Burden,Percent Cost Burdened,14.8989898989899,5.7749687741151225,59.4028864006555,Seneca,Junius town,New York
+3609938858,2024,Owner_Cost_Burden,Percent Cost Burdened,19.0909090909091,6.455879958549802,40.9542000008319,Seneca,Junius town,New York
+3609943225,2017,Owner_Cost_Burden,Percent Cost Burdened,23.630136986301352,7.006892237236767,32.2658648893955,Seneca,Lodi town,New York
+3609943225,2018,Owner_Cost_Burden,Percent Cost Burdened,20.588235294117702,6.344709098346337,31.2758890291211,Seneca,Lodi town,New York
+3609943225,2019,Owner_Cost_Burden,Percent Cost Burdened,17.17171717171717,4.840672804332164,35.2724378493814,Seneca,Lodi town,New York
+3609943225,2020,Owner_Cost_Burden,Percent Cost Burdened,18.49710982658958,5.707396740823857,38.1362377983938,Seneca,Lodi town,New York
+3609943225,2021,Owner_Cost_Burden,Percent Cost Burdened,17.20841300191205,6.020576705654508,38.6016680812319,Seneca,Lodi town,New York
+3609943225,2022,Owner_Cost_Burden,Percent Cost Burdened,19.957983193277343,5.949188892041441,39.9733890367751,Seneca,Lodi town,New York
+3609943225,2023,Owner_Cost_Burden,Percent Cost Burdened,20.70484581497799,6.5264517694068305,41.5218372788022,Seneca,Lodi town,New York
+3609943225,2024,Owner_Cost_Burden,Percent Cost Burdened,24.02597402597408,7.4751948816300215,39.7697454487859,Seneca,Lodi town,New York
+3609955827,2017,Owner_Cost_Burden,Percent Cost Burdened,25.655172413793117,7.1276179474432,31.1284259677797,Seneca,Ovid town,New York
+3609955827,2018,Owner_Cost_Burden,Percent Cost Burdened,27.245508982036,6.92161178265327,29.7648029714912,Seneca,Ovid town,New York
+3609955827,2019,Owner_Cost_Burden,Percent Cost Burdened,28.815789473684198,8.227513095747234,38.5731577114229,Seneca,Ovid town,New York
+3609955827,2020,Owner_Cost_Burden,Percent Cost Burdened,29.8527443105756,9.660952119550668,44.2233817525202,Seneca,Ovid town,New York
+3609955827,2021,Owner_Cost_Burden,Percent Cost Burdened,29.8429319371728,9.051945888037016,47.5928811790303,Seneca,Ovid town,New York
+3609955827,2022,Owner_Cost_Burden,Percent Cost Burdened,31.203007518797,9.934206106444215,43.3467314197392,Seneca,Ovid town,New York
+3609955827,2023,Owner_Cost_Burden,Percent Cost Burdened,29.562043795620497,9.960963717778748,48.2635126227139,Seneca,Ovid town,New York
+3609955827,2024,Owner_Cost_Burden,Percent Cost Burdened,26.77419354838706,11.211158413175431,57.4402632057699,Seneca,Ovid town,New York
+3609963440,2017,Owner_Cost_Burden,Percent Cost Burdened,19.1616766467066,6.9084107644475115,37.4017800753364,Seneca,Romulus town,New York
+3609963440,2018,Owner_Cost_Burden,Percent Cost Burdened,20.31872509960163,7.619827079169741,41.6329895700817,Seneca,Romulus town,New York
+3609963440,2019,Owner_Cost_Burden,Percent Cost Burdened,18.66404715127705,7.887126864475358,52.7757153736255,Seneca,Romulus town,New York
+3609963440,2020,Owner_Cost_Burden,Percent Cost Burdened,17.42160278745648,6.927052669949979,45.4328569475399,Seneca,Romulus town,New York
+3609963440,2021,Owner_Cost_Burden,Percent Cost Burdened,15.18987341772149,6.629354271544158,48.2491688141881,Seneca,Romulus town,New York
+3609963440,2022,Owner_Cost_Burden,Percent Cost Burdened,18.24953445065173,7.920631425181761,51.3110645608165,Seneca,Romulus town,New York
+3609963440,2023,Owner_Cost_Burden,Percent Cost Burdened,16.37554585152839,7.4145632333398055,53.7677079984225,Seneca,Romulus town,New York
+3609963440,2024,Owner_Cost_Burden,Percent Cost Burdened,17.24845995893223,7.053703871415154,42.6211353642641,Seneca,Romulus town,New York
+3609966333,2017,Owner_Cost_Burden,Percent Cost Burdened,18.87894122226549,4.666098820702223,27.7715652461508,Seneca,Seneca Falls town,New York
+3609966333,2018,Owner_Cost_Burden,Percent Cost Burdened,20.10848508330104,5.193484054383062,30.6259343550908,Seneca,Seneca Falls town,New York
+3609966333,2019,Owner_Cost_Burden,Percent Cost Burdened,18.62784204228158,4.112919654917989,24.777220316851,Seneca,Seneca Falls town,New York
+3609966333,2020,Owner_Cost_Burden,Percent Cost Burdened,19.28216876670485,6.982778229228651,44.6632250342413,Seneca,Seneca Falls town,New York
+3609966333,2021,Owner_Cost_Burden,Percent Cost Burdened,15.53254437869818,6.993309858294657,53.9784676448039,Seneca,Seneca Falls town,New York
+3609966333,2022,Owner_Cost_Burden,Percent Cost Burdened,15.90992986341822,6.823625725869688,53.4768212730119,Seneca,Seneca Falls town,New York
+3609966333,2023,Owner_Cost_Burden,Percent Cost Burdened,13.78563695416816,6.567955153900265,58.7713250448621,Seneca,Seneca Falls town,New York
+3609966333,2024,Owner_Cost_Burden,Percent Cost Burdened,14.70143613000756,6.570629613793458,58.1310649220001,Seneca,Seneca Falls town,New York
+3609975902,2017,Owner_Cost_Burden,Percent Cost Burdened,15.170278637770899,5.3713700696735645,42.3864702197557,Seneca,Tyre town,New York
+3609975902,2018,Owner_Cost_Burden,Percent Cost Burdened,16.77018633540372,6.0109549932367266,44.0599456273829,Seneca,Tyre town,New York
+3609975902,2019,Owner_Cost_Burden,Percent Cost Burdened,16.07142857142857,5.5139083117954675,52.7694264291012,Seneca,Tyre town,New York
+3609975902,2020,Owner_Cost_Burden,Percent Cost Burdened,14.61318051575932,6.256924966829007,53.0625212388932,Seneca,Tyre town,New York
+3609975902,2021,Owner_Cost_Burden,Percent Cost Burdened,14.166666666666659,4.98835401636272,38.6844602145,Seneca,Tyre town,New York
+3609975902,2022,Owner_Cost_Burden,Percent Cost Burdened,13.563829787234042,5.8259419673503565,60.4687605500945,Seneca,Tyre town,New York
+3609975902,2023,Owner_Cost_Burden,Percent Cost Burdened,15.05681818181814,5.947081444891304,49.6665694838983,Seneca,Tyre town,New York
+3609975902,2024,Owner_Cost_Burden,Percent Cost Burdened,17.220543806646518,6.634779178419973,57.9110804785267,Seneca,Tyre town,New York
+3609976958,2017,Owner_Cost_Burden,Percent Cost Burdened,22.49134948096888,5.5119875868231745,31.766429651305,Seneca,Varick town,New York
+3609976958,2018,Owner_Cost_Burden,Percent Cost Burdened,22.1640488656195,5.297300430392034,36.3836198657921,Seneca,Varick town,New York
+3609976958,2019,Owner_Cost_Burden,Percent Cost Burdened,23.24723247232476,5.531682847365579,43.2229873259921,Seneca,Varick town,New York
+3609976958,2020,Owner_Cost_Burden,Percent Cost Burdened,20.8333333333333,6.479894279428072,51.5318132008808,Seneca,Varick town,New York
+3609976958,2021,Owner_Cost_Burden,Percent Cost Burdened,19.41964285714284,6.354255012094622,43.9662151175866,Seneca,Varick town,New York
+3609976958,2022,Owner_Cost_Burden,Percent Cost Burdened,23.0443974630021,6.326844567601629,32.1635293892213,Seneca,Varick town,New York
+3609976958,2023,Owner_Cost_Burden,Percent Cost Burdened,20.255863539445592,6.210704321534769,35.8166671786058,Seneca,Varick town,New York
+3609976958,2024,Owner_Cost_Burden,Percent Cost Burdened,22.153209109730803,6.236101759751073,31.0570648813821,Seneca,Varick town,New York
+3609978564,2017,Owner_Cost_Burden,Percent Cost Burdened,13.2235294117647,4.374264107947912,37.1730964589449,Seneca,Waterloo town,New York
+3609978564,2018,Owner_Cost_Burden,Percent Cost Burdened,13.695554557700941,4.774629237769793,41.2090332370885,Seneca,Waterloo town,New York
+3609978564,2019,Owner_Cost_Burden,Percent Cost Burdened,13.291423439604849,4.650713311595744,47.483685973999,Seneca,Waterloo town,New York
+3609978564,2020,Owner_Cost_Burden,Percent Cost Burdened,13.13672922252011,4.137583677339816,42.2266433019474,Seneca,Waterloo town,New York
+3609978564,2021,Owner_Cost_Burden,Percent Cost Burdened,18.41644794400704,5.400968576834833,37.3578326626061,Seneca,Waterloo town,New York
+3609978564,2022,Owner_Cost_Burden,Percent Cost Burdened,19.43282194328216,5.509872925034334,35.3652519035365,Seneca,Waterloo town,New York
+3609978564,2023,Owner_Cost_Burden,Percent Cost Burdened,23.09133489461363,5.945985019925034,30.5408773938494,Seneca,Waterloo town,New York
+3609978564,2024,Owner_Cost_Burden,Percent Cost Burdened,22.28699551569505,6.188054957124545,34.3243564358358,Seneca,Waterloo town,New York
+3611700000,2017,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Wayne,County subdivisions not defined,New York
+3611700000,2018,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Wayne,County subdivisions not defined,New York
+3611700000,2019,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Wayne,County subdivisions not defined,New York
+3611700000,2020,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Wayne,County subdivisions not defined,New York
+3611700000,2021,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Wayne,County subdivisions not defined,New York
+3611700000,2022,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Wayne,County subdivisions not defined,New York
+3611700000,2023,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Wayne,County subdivisions not defined,New York
+3611700000,2024,Owner_Cost_Burden,Percent Cost Burdened,0.0,0.0,,Wayne,County subdivisions not defined,New York
+3611702440,2017,Owner_Cost_Burden,Percent Cost Burdened,22.734541577825098,5.244147001969916,29.3811308989517,Wayne,Arcadia town,New York
+3611702440,2018,Owner_Cost_Burden,Percent Cost Burdened,19.854090672225112,4.853335608258561,30.2179429009552,Wayne,Arcadia town,New York
+3611702440,2019,Owner_Cost_Burden,Percent Cost Burdened,21.09148431320855,4.895893070318946,27.3514988778829,Wayne,Arcadia town,New York
+3611702440,2020,Owner_Cost_Burden,Percent Cost Burdened,21.70725320764599,6.180301814477891,33.4817076195915,Wayne,Arcadia town,New York
+3611702440,2021,Owner_Cost_Burden,Percent Cost Burdened,21.71651495448638,5.704859576137,31.3476861341893,Wayne,Arcadia town,New York
+3611702440,2022,Owner_Cost_Burden,Percent Cost Burdened,26.7770700636943,6.887380119103598,30.5657806697164,Wayne,Arcadia town,New York
+3611702440,2023,Owner_Cost_Burden,Percent Cost Burdened,24.981649131392203,6.030220806310473,33.0802376674854,Wayne,Arcadia town,New York
+3611702440,2024,Owner_Cost_Burden,Percent Cost Burdened,22.93398533007338,5.958359946421672,34.7067172776742,Wayne,Arcadia town,New York
+3611711473,2017,Owner_Cost_Burden,Percent Cost Burdened,20.73578595317729,7.015878635846927,48.8929967741994,Wayne,Butler town,New York
+3611711473,2018,Owner_Cost_Burden,Percent Cost Burdened,17.414721723518852,5.924439569332325,48.5229633282953,Wayne,Butler town,New York
+3611711473,2019,Owner_Cost_Burden,Percent Cost Burdened,20.52730696798495,6.615967606832668,43.5353189802147,Wayne,Butler town,New York
+3611711473,2020,Owner_Cost_Burden,Percent Cost Burdened,18.51851851851852,7.136072013432624,56.1636675126952,Wayne,Butler town,New York
+3611711473,2021,Owner_Cost_Burden,Percent Cost Burdened,18.85813148788927,6.560357761974659,48.4720019758697,Wayne,Butler town,New York
+3611711473,2022,Owner_Cost_Burden,Percent Cost Burdened,18.97689768976901,6.599449390908707,44.1346505025697,Wayne,Butler town,New York
+3611711473,2023,Owner_Cost_Burden,Percent Cost Burdened,20.06420545746386,6.597514760061798,43.8593789509094,Wayne,Butler town,New York
+3611711473,2024,Owner_Cost_Burden,Percent Cost Burdened,21.91103789126857,6.915828723129602,49.5194682284528,Wayne,Butler town,New York
+3611728013,2017,Owner_Cost_Burden,Percent Cost Burdened,15.67425569176885,5.267450928186441,42.3185833526269,Wayne,Galen town,New York
+3611728013,2018,Owner_Cost_Burden,Percent Cost Burdened,17.79879621668098,4.934834883362631,33.9642340292426,Wayne,Galen town,New York
+3611728013,2019,Owner_Cost_Burden,Percent Cost Burdened,20.38917089678508,6.949242956738579,42.0174942308231,Wayne,Galen town,New York
+3611728013,2020,Owner_Cost_Burden,Percent Cost Burdened,23.5042735042735,8.151825615778705,44.9117764620954,Wayne,Galen town,New York
+3611728013,2021,Owner_Cost_Burden,Percent Cost Burdened,21.6017634092578,9.466604734449879,51.7599296164389,Wayne,Galen town,New York
+3611728013,2022,Owner_Cost_Burden,Percent Cost Burdened,20.1157742402316,8.759918491660962,49.6325342015157,Wayne,Galen town,New York
+3611728013,2023,Owner_Cost_Burden,Percent Cost Burdened,23.703703703703702,9.263045162020466,52.6686681061109,Wayne,Galen town,New York
+3611728013,2024,Owner_Cost_Burden,Percent Cost Burdened,22.29299363057326,8.690080211437627,47.9065151729032,Wayne,Galen town,New York
+3611737165,2017,Owner_Cost_Burden,Percent Cost Burdened,15.31791907514456,5.75384668847656,40.4003166005404,Wayne,Huron town,New York
+3611737165,2018,Owner_Cost_Burden,Percent Cost Burdened,15.868263473053862,5.144227128251248,34.8855606141639,Wayne,Huron town,New York
+3611737165,2019,Owner_Cost_Burden,Percent Cost Burdened,13.604488078541369,5.2373370136292365,43.3257905424577,Wayne,Huron town,New York
+3611737165,2020,Owner_Cost_Burden,Percent Cost Burdened,16.90322580645161,6.894694261253221,51.3246591421335,Wayne,Huron town,New York
+3611737165,2021,Owner_Cost_Burden,Percent Cost Burdened,17.03296703296703,7.264647533197592,65.0022814778457,Wayne,Huron town,New York
+3611737165,2022,Owner_Cost_Burden,Percent Cost Burdened,19.8358413132695,7.180770141869562,68.3833302647084,Wayne,Huron town,New York
+3611737165,2023,Owner_Cost_Burden,Percent Cost Burdened,17.3154362416107,6.967854379798419,71.0827486542347,Wayne,Huron town,New York
+3611737165,2024,Owner_Cost_Burden,Percent Cost Burdened,17.78774289985052,7.790846428865334,85.3396969083893,Wayne,Huron town,New York
+3611743973,2017,Owner_Cost_Burden,Percent Cost Burdened,21.63429336905561,7.7827306274129855,46.4360221454451,Wayne,Lyons town,New York
+3611743973,2018,Owner_Cost_Burden,Percent Cost Burdened,18.525641025641,7.148120567541624,54.9110809901172,Wayne,Lyons town,New York
+3611743973,2019,Owner_Cost_Burden,Percent Cost Burdened,20.582261340555192,8.295516208928085,63.7232200385312,Wayne,Lyons town,New York
+3611743973,2020,Owner_Cost_Burden,Percent Cost Burdened,22.76816608996544,8.740547858438683,65.6392710880914,Wayne,Lyons town,New York
+3611743973,2021,Owner_Cost_Burden,Percent Cost Burdened,18.2344428364689,7.8443043374779515,75.4872900404993,Wayne,Lyons town,New York
+3611743973,2022,Owner_Cost_Burden,Percent Cost Burdened,19.24603174603174,8.342911382749842,63.112911547323,Wayne,Lyons town,New York
+3611743973,2023,Owner_Cost_Burden,Percent Cost Burdened,17.31448763250881,7.126074631410059,51.3522293613368,Wayne,Lyons town,New York
+3611743973,2024,Owner_Cost_Burden,Percent Cost Burdened,17.04980842911877,7.286761286294652,56.1900148850902,Wayne,Lyons town,New York
+3611744160,2017,Owner_Cost_Burden,Percent Cost Burdened,21.02174663444943,4.983016345992242,25.716707744498,Wayne,Macedon town,New York
+3611744160,2018,Owner_Cost_Burden,Percent Cost Burdened,23.494809688581363,5.2882888129649395,26.2228886485166,Wayne,Macedon town,New York
+3611744160,2019,Owner_Cost_Burden,Percent Cost Burdened,25.20382842963487,5.407544325373725,25.2231290671593,Wayne,Macedon town,New York
+3611744160,2020,Owner_Cost_Burden,Percent Cost Burdened,21.710308253231652,6.6617108847904705,28.3295195258554,Wayne,Macedon town,New York
+3611744160,2021,Owner_Cost_Burden,Percent Cost Burdened,22.52925877763331,6.5537543478281455,29.7773075623842,Wayne,Macedon town,New York
+3611744160,2022,Owner_Cost_Burden,Percent Cost Burdened,20.16207455429495,6.949628125979943,35.8780312341819,Wayne,Macedon town,New York
+3611744160,2023,Owner_Cost_Burden,Percent Cost Burdened,19.80705456738016,6.327718755150138,36.1929746417598,Wayne,Macedon town,New York
+3611744160,2024,Owner_Cost_Burden,Percent Cost Burdened,19.20046688065363,6.255986277273822,36.569580221976,Wayne,Macedon town,New York
+3611745645,2017,Owner_Cost_Burden,Percent Cost Burdened,17.09295071740486,6.391701480708322,43.4432425425487,Wayne,Marion town,New York
+3611745645,2018,Owner_Cost_Burden,Percent Cost Burdened,15.61892417368762,5.510453964126357,47.8357589272672,Wayne,Marion town,New York
+3611745645,2019,Owner_Cost_Burden,Percent Cost Burdened,16.95792880258904,5.6005353086143765,42.2841179664463,Wayne,Marion town,New York
+3611745645,2020,Owner_Cost_Burden,Percent Cost Burdened,20.554428668018943,7.090100075081031,40.1177068715699,Wayne,Marion town,New York
+3611745645,2021,Owner_Cost_Burden,Percent Cost Burdened,18.18783068783069,6.192397867226189,40.1651209653065,Wayne,Marion town,New York
+3611745645,2022,Owner_Cost_Burden,Percent Cost Burdened,14.43951868271062,5.383159517041225,43.3766965564505,Wayne,Marion town,New York
+3611745645,2023,Owner_Cost_Burden,Percent Cost Burdened,12.69942565411615,4.649846118813415,41.8613800717976,Wayne,Marion town,New York
+3611745645,2024,Owner_Cost_Burden,Percent Cost Burdened,16.08579088471846,6.0892756072065914,43.8560447639755,Wayne,Marion town,New York
+3611755013,2017,Owner_Cost_Burden,Percent Cost Burdened,15.928178395597989,4.352192462021116,32.1988730450614,Wayne,Ontario town,New York
+3611755013,2018,Owner_Cost_Burden,Percent Cost Burdened,18.12001182382502,4.780296352321249,32.9270932073438,Wayne,Ontario town,New York
+3611755013,2019,Owner_Cost_Burden,Percent Cost Burdened,18.954802259887,4.674312993958803,31.7934281959779,Wayne,Ontario town,New York
+3611755013,2020,Owner_Cost_Burden,Percent Cost Burdened,17.2629187961386,4.808369867576595,32.6655896584633,Wayne,Ontario town,New York
+3611755013,2021,Owner_Cost_Burden,Percent Cost Burdened,18.30742659758206,5.3609826510142895,34.6268966146484,Wayne,Ontario town,New York
+3611755013,2022,Owner_Cost_Burden,Percent Cost Burdened,17.754931925534912,4.723638156988842,31.5399541467879,Wayne,Ontario town,New York
+3611755013,2023,Owner_Cost_Burden,Percent Cost Burdened,17.24039829302987,4.501522940323399,30.2680724135297,Wayne,Ontario town,New York
+3611755013,2024,Owner_Cost_Burden,Percent Cost Burdened,20.453273642977088,5.19843098627592,29.7835110134921,Wayne,Ontario town,New York
+3611756198,2017,Owner_Cost_Burden,Percent Cost Burdened,22.366651725683518,5.736995649026846,30.194225460864,Wayne,Palmyra town,New York
+3611756198,2018,Owner_Cost_Burden,Percent Cost Burdened,24.84705882352943,6.221138765790395,30.1708223758802,Wayne,Palmyra town,New York
+3611756198,2019,Owner_Cost_Burden,Percent Cost Burdened,21.20658135283362,5.417911941963194,31.3516117847702,Wayne,Palmyra town,New York
+3611756198,2020,Owner_Cost_Burden,Percent Cost Burdened,14.75340136054422,5.370881738137561,36.2363797047501,Wayne,Palmyra town,New York
+3611756198,2021,Owner_Cost_Burden,Percent Cost Burdened,14.5631067961165,6.404828946929814,44.49123025307,Wayne,Palmyra town,New York
+3611756198,2022,Owner_Cost_Burden,Percent Cost Burdened,15.27604815276048,6.565831505963454,45.5690976879292,Wayne,Palmyra town,New York
+3611756198,2023,Owner_Cost_Burden,Percent Cost Burdened,17.302173021730212,6.4174278774834335,40.5715440257947,Wayne,Palmyra town,New York
+3611756198,2024,Owner_Cost_Burden,Percent Cost Burdened,16.30252100840336,5.915495738254002,39.660119457943,Wayne,Palmyra town,New York
+3611763605,2017,Owner_Cost_Burden,Percent Cost Burdened,16.388888888888893,7.009130636020785,69.4481563790727,Wayne,Rose town,New York
+3611763605,2018,Owner_Cost_Burden,Percent Cost Burdened,19.851851851851812,8.203021720136164,66.5257358123699,Wayne,Rose town,New York
+3611763605,2019,Owner_Cost_Burden,Percent Cost Burdened,13.10975609756097,6.528294563199076,123.879580418291,Wayne,Rose town,New York
+3611763605,2020,Owner_Cost_Burden,Percent Cost Burdened,12.26415094339622,7.747794874040869,117.322608865456,Wayne,Rose town,New York
+3611763605,2021,Owner_Cost_Burden,Percent Cost Burdened,11.367380560131789,7.966000368602512,138.243286299253,Wayne,Rose town,New York
+3611763605,2022,Owner_Cost_Burden,Percent Cost Burdened,17.23076923076928,9.969273195119799,124.27243063393,Wayne,Rose town,New York
+3611763605,2023,Owner_Cost_Burden,Percent Cost Burdened,13.23076923076923,9.456302128328439,123.920358607165,Wayne,Rose town,New York
+3611763605,2024,Owner_Cost_Burden,Percent Cost Burdened,15.25157232704403,10.532090791415069,98.6856416395071,Wayne,Rose town,New York
+3611765343,2017,Owner_Cost_Burden,Percent Cost Burdened,23.28244274809157,8.126434488403634,42.3683445698149,Wayne,Savannah town,New York
+3611765343,2018,Owner_Cost_Burden,Percent Cost Burdened,19.10569105691056,7.527566550777679,49.0091116998671,Wayne,Savannah town,New York
+3611765343,2019,Owner_Cost_Burden,Percent Cost Burdened,17.84989858012171,7.742528605783066,67.3510403261199,Wayne,Savannah town,New York
+3611765343,2020,Owner_Cost_Burden,Percent Cost Burdened,17.65913757700205,7.6811125819810595,74.3933274974376,Wayne,Savannah town,New York
+3611765343,2021,Owner_Cost_Burden,Percent Cost Burdened,16.35220125786164,8.450654324831513,82.4708634796916,Wayne,Savannah town,New York
+3611765343,2022,Owner_Cost_Burden,Percent Cost Burdened,16.15201900237533,7.624531709254088,64.0373388504371,Wayne,Savannah town,New York
+3611765343,2023,Owner_Cost_Burden,Percent Cost Burdened,21.304347826086982,9.724643065531573,59.2378464726705,Wayne,Savannah town,New York
+3611765343,2024,Owner_Cost_Burden,Percent Cost Burdened,23.27586206896553,9.877205315247197,53.1592393063894,Wayne,Savannah town,New York
+3611768220,2017,Owner_Cost_Burden,Percent Cost Burdened,27.48440748440745,5.51009399392498,24.4295981736159,Wayne,Sodus town,New York
+3611768220,2018,Owner_Cost_Burden,Percent Cost Burdened,28.476546284765497,5.892121580215519,26.2504678217777,Wayne,Sodus town,New York
+3611768220,2019,Owner_Cost_Burden,Percent Cost Burdened,27.18370544457506,6.2123817595409605,27.7830057789726,Wayne,Sodus town,New York
+3611768220,2020,Owner_Cost_Burden,Percent Cost Burdened,20.5093833780161,4.529907538788156,24.7154648383986,Wayne,Sodus town,New York
+3611768220,2021,Owner_Cost_Burden,Percent Cost Burdened,18.44370860927151,4.623085160616191,27.8289574536909,Wayne,Sodus town,New York
+3611768220,2022,Owner_Cost_Burden,Percent Cost Burdened,19.27167257492749,5.191830331457272,28.6585574971813,Wayne,Sodus town,New York
+3611768220,2023,Owner_Cost_Burden,Percent Cost Burdened,18.91268533772652,4.893417567320382,29.8132548266755,Wayne,Sodus town,New York
+3611768220,2024,Owner_Cost_Burden,Percent Cost Burdened,19.566712517194,5.745001188213232,34.7924631241734,Wayne,Sodus town,New York
+3611778102,2017,Owner_Cost_Burden,Percent Cost Burdened,19.452313503305042,3.8484240056273493,24.1681858126841,Wayne,Walworth town,New York
+3611778102,2018,Owner_Cost_Burden,Percent Cost Burdened,18.304,4.009677813683244,28.0321552362267,Wayne,Walworth town,New York
+3611778102,2019,Owner_Cost_Burden,Percent Cost Burdened,17.163476623784078,3.672592666252931,28.6306110141803,Wayne,Walworth town,New York
+3611778102,2020,Owner_Cost_Burden,Percent Cost Burdened,23.726782504493762,6.8608512308107406,41.2522579236588,Wayne,Walworth town,New York
+3611778102,2021,Owner_Cost_Burden,Percent Cost Burdened,24.91610738255033,7.16110453623677,37.6598382992305,Wayne,Walworth town,New York
+3611778102,2022,Owner_Cost_Burden,Percent Cost Burdened,25.213557453844082,7.2949336363951565,39.5358896548146,Wayne,Walworth town,New York
+3611778102,2023,Owner_Cost_Burden,Percent Cost Burdened,25.29928172386274,6.964246581812685,37.9698963957138,Wayne,Walworth town,New York
+3611778102,2024,Owner_Cost_Burden,Percent Cost Burdened,25.168831168831183,6.752948827694126,35.0676342560543,Wayne,Walworth town,New York
+3611782040,2017,Owner_Cost_Burden,Percent Cost Burdened,24.789128397375833,5.681350848412597,28.1447337891989,Wayne,Williamson town,New York
+3611782040,2018,Owner_Cost_Burden,Percent Cost Burdened,25.9708737864077,6.001296186287661,25.9045040367311,Wayne,Williamson town,New York
+3611782040,2019,Owner_Cost_Burden,Percent Cost Burdened,23.77723970944314,5.853756410584091,28.6635421744074,Wayne,Williamson town,New York
+3611782040,2020,Owner_Cost_Burden,Percent Cost Burdened,21.401515151515177,6.426617263141467,35.6707786648093,Wayne,Williamson town,New York
+3611782040,2021,Owner_Cost_Burden,Percent Cost Burdened,23.97169394073417,6.937633419218894,34.7673424852863,Wayne,Williamson town,New York
+3611782040,2022,Owner_Cost_Burden,Percent Cost Burdened,20.90784044016509,5.56899951357081,31.8522334665361,Wayne,Williamson town,New York
+3611782040,2023,Owner_Cost_Burden,Percent Cost Burdened,17.77677767776781,5.275614321739229,36.4973882669333,Wayne,Williamson town,New York
+3611782040,2024,Owner_Cost_Burden,Percent Cost Burdened,20.72743207712537,5.665041066391382,34.6424882439287,Wayne,Williamson town,New York
+3611782689,2017,Owner_Cost_Burden,Percent Cost Burdened,19.79813664596276,5.157130027830142,33.1059695194394,Wayne,Wolcott town,New York
+3611782689,2018,Owner_Cost_Burden,Percent Cost Burdened,21.86234817813762,5.761723309479035,33.7246164903992,Wayne,Wolcott town,New York
+3611782689,2019,Owner_Cost_Burden,Percent Cost Burdened,22.83345892991707,6.256374535387882,31.412800543824,Wayne,Wolcott town,New York
+3611782689,2020,Owner_Cost_Burden,Percent Cost Burdened,21.33238837703755,6.101469015553681,34.6757085606178,Wayne,Wolcott town,New York
+3611782689,2021,Owner_Cost_Burden,Percent Cost Burdened,19.59611069558709,5.631829223183734,34.9452229084134,Wayne,Wolcott town,New York
+3611782689,2022,Owner_Cost_Burden,Percent Cost Burdened,16.48773006134969,5.371532922390252,40.5830173240583,Wayne,Wolcott town,New York
+3611782689,2023,Owner_Cost_Burden,Percent Cost Burdened,17.74313288789903,5.024529558854639,39.0252675777634,Wayne,Wolcott town,New York
+3611782689,2024,Owner_Cost_Burden,Percent Cost Burdened,18.588770864946902,5.826630530928735,40.568855366721,Wayne,Wolcott town,New York
+3612304594,2017,Owner_Cost_Burden,Percent Cost Burdened,29.759704251386296,7.815180005570643,33.5354523796073,Yates,Barrington town,New York
+3612304594,2018,Owner_Cost_Burden,Percent Cost Burdened,25.64102564102562,7.198821423148758,37.0191176791532,Yates,Barrington town,New York
+3612304594,2019,Owner_Cost_Burden,Percent Cost Burdened,20.67226890756306,6.740296413722586,47.3743442511271,Yates,Barrington town,New York
+3612304594,2020,Owner_Cost_Burden,Percent Cost Burdened,19.37172774869113,7.684575086570875,61.6240178728373,Yates,Barrington town,New York
+3612304594,2021,Owner_Cost_Burden,Percent Cost Burdened,13.73307543520309,7.157789550031749,86.1598833662247,Yates,Barrington town,New York
+3612304594,2022,Owner_Cost_Burden,Percent Cost Burdened,14.65076660988078,6.876343218750937,91.648412923249,Yates,Barrington town,New York
+3612304594,2023,Owner_Cost_Burden,Percent Cost Burdened,14.569536423841019,6.881914941280056,79.6755181564593,Yates,Barrington town,New York
+3612304594,2024,Owner_Cost_Burden,Percent Cost Burdened,18.87096774193551,6.384620454683033,44.3387298364172,Yates,Barrington town,New York
+3612306002,2017,Owner_Cost_Burden,Percent Cost Burdened,22.7210884353742,6.000545624498184,37.9875082367437,Yates,Benton town,New York
+3612306002,2018,Owner_Cost_Burden,Percent Cost Burdened,24.9315068493151,6.691650685938073,38.4043208557056,Yates,Benton town,New York
+3612306002,2019,Owner_Cost_Burden,Percent Cost Burdened,24.320652173913,6.174115003802469,36.5341506702081,Yates,Benton town,New York
+3612306002,2020,Owner_Cost_Burden,Percent Cost Burdened,22.07001522070016,6.091287357206521,38.3827948832351,Yates,Benton town,New York
+3612306002,2021,Owner_Cost_Burden,Percent Cost Burdened,21.08183079056866,6.297263821905591,38.1816279449653,Yates,Benton town,New York
+3612306002,2022,Owner_Cost_Burden,Percent Cost Burdened,22.311827956989198,7.57786385649471,37.801438401967,Yates,Benton town,New York
+3612306002,2023,Owner_Cost_Burden,Percent Cost Burdened,20.02583979328164,7.30230834699166,47.7906728439914,Yates,Benton town,New York
+3612306002,2024,Owner_Cost_Burden,Percent Cost Burdened,18.39999999999997,7.049523094350267,50.6327432908602,Yates,Benton town,New York
+3612338044,2017,Owner_Cost_Burden,Percent Cost Burdened,22.807017543859622,7.637306491174391,47.0695285220874,Yates,Italy town,New York
+3612338044,2018,Owner_Cost_Burden,Percent Cost Burdened,23.11827956989248,7.256600912403137,44.9496284464776,Yates,Italy town,New York
+3612338044,2019,Owner_Cost_Burden,Percent Cost Burdened,23.54651162790702,8.005707603413443,41.8528779935276,Yates,Italy town,New York
+3612338044,2020,Owner_Cost_Burden,Percent Cost Burdened,20.95808383233532,7.866018155600797,44.8629474113361,Yates,Italy town,New York
+3612338044,2021,Owner_Cost_Burden,Percent Cost Burdened,20.3125,8.658198664049015,63.6648935464484,Yates,Italy town,New York
+3612338044,2022,Owner_Cost_Burden,Percent Cost Burdened,22.06703910614529,7.983299358354565,76.3237830744849,Yates,Italy town,New York
+3612338044,2023,Owner_Cost_Burden,Percent Cost Burdened,19.80440097799515,7.5372386662051145,71.8279874399708,Yates,Italy town,New York
+3612338044,2024,Owner_Cost_Burden,Percent Cost Burdened,21.256038647343,9.116954772325492,104.953241147027,Yates,Italy town,New York
+3612338583,2017,Owner_Cost_Burden,Percent Cost Burdened,16.73243883188635,5.696037489974473,48.1344924725571,Yates,Jerusalem town,New York
+3612338583,2018,Owner_Cost_Burden,Percent Cost Burdened,15.586419753086421,5.404186628101685,45.8767819736769,Yates,Jerusalem town,New York
+3612338583,2019,Owner_Cost_Burden,Percent Cost Burdened,13.23529411764705,5.358354201711842,65.8621694833819,Yates,Jerusalem town,New York
+3612338583,2020,Owner_Cost_Burden,Percent Cost Burdened,20.08438818565399,7.297594484652339,47.3576772784777,Yates,Jerusalem town,New York
+3612338583,2021,Owner_Cost_Burden,Percent Cost Burdened,18.64253393665158,6.749828412828108,46.6854491237947,Yates,Jerusalem town,New York
+3612338583,2022,Owner_Cost_Burden,Percent Cost Burdened,19.43212067435674,7.277412359924293,47.0218483979706,Yates,Jerusalem town,New York
+3612338583,2023,Owner_Cost_Burden,Percent Cost Burdened,23.38435374149658,7.846651154480702,44.263689415159,Yates,Jerusalem town,New York
+3612338583,2024,Owner_Cost_Burden,Percent Cost Burdened,22.97734627831717,6.7745464976173935,36.1935715425498,Yates,Jerusalem town,New York
+3612347020,2017,Owner_Cost_Burden,Percent Cost Burdened,23.467230443974643,7.386266135880063,38.5899513010409,Yates,Middlesex town,New York
+3612347020,2018,Owner_Cost_Burden,Percent Cost Burdened,23.82022471910111,8.152686309149123,45.5846935061636,Yates,Middlesex town,New York
+3612347020,2019,Owner_Cost_Burden,Percent Cost Burdened,22.94736842105258,7.4998219135145225,38.0844216037862,Yates,Middlesex town,New York
+3612347020,2020,Owner_Cost_Burden,Percent Cost Burdened,32.8054298642534,10.906316572750308,33.8573449610947,Yates,Middlesex town,New York
+3612347020,2021,Owner_Cost_Burden,Percent Cost Burdened,32.541567695962,10.101744311713162,31.9451154426289,Yates,Middlesex town,New York
+3612347020,2022,Owner_Cost_Burden,Percent Cost Burdened,29.5711060948082,10.141606996851955,38.2826905657271,Yates,Middlesex town,New York
+3612347020,2023,Owner_Cost_Burden,Percent Cost Burdened,29.1828793774319,10.125918826024071,38.2281406330257,Yates,Middlesex town,New York
+3612347020,2024,Owner_Cost_Burden,Percent Cost Burdened,23.4404536862004,9.905020947854382,46.6837418653884,Yates,Middlesex town,New York
+3612347504,2017,Owner_Cost_Burden,Percent Cost Burdened,26.2339055793991,6.713830943429182,29.6138762084434,Yates,Milo town,New York
+3612347504,2018,Owner_Cost_Burden,Percent Cost Burdened,24.971687429218548,6.662031052516434,32.4466403442863,Yates,Milo town,New York
+3612347504,2019,Owner_Cost_Burden,Percent Cost Burdened,28.6912751677853,7.1162980896397094,31.173641422862,Yates,Milo town,New York
+3612347504,2020,Owner_Cost_Burden,Percent Cost Burdened,28.5541439806412,8.049856661425478,39.0980720723195,Yates,Milo town,New York
+3612347504,2021,Owner_Cost_Burden,Percent Cost Burdened,27.855936972425397,8.294062684502098,41.889358090625,Yates,Milo town,New York
+3612347504,2022,Owner_Cost_Burden,Percent Cost Burdened,23.49756361667571,7.058700359450051,40.9560228849199,Yates,Milo town,New York
+3612347504,2023,Owner_Cost_Burden,Percent Cost Burdened,23.42442833240377,7.556762917387333,43.9555867334893,Yates,Milo town,New York
+3612347504,2024,Owner_Cost_Burden,Percent Cost Burdened,16.13891726251277,5.284644572242675,41.8273644834109,Yates,Milo town,New York
+3612359597,2017,Owner_Cost_Burden,Percent Cost Burdened,19.88416988416984,6.425204853995461,40.528223689667,Yates,Potter town,New York
+3612359597,2018,Owner_Cost_Burden,Percent Cost Burdened,16.57250470809796,5.127331346777612,34.9553650854752,Yates,Potter town,New York
+3612359597,2019,Owner_Cost_Burden,Percent Cost Burdened,19.92337164750961,5.865142867932777,34.75697467318,Yates,Potter town,New York
+3612359597,2020,Owner_Cost_Burden,Percent Cost Burdened,14.519056261343039,4.741879910304467,33.1248306698449,Yates,Potter town,New York
+3612359597,2021,Owner_Cost_Burden,Percent Cost Burdened,15.401301518438181,6.181322894043785,50.7760004202395,Yates,Potter town,New York
+3612359597,2022,Owner_Cost_Burden,Percent Cost Burdened,17.94354838709675,5.490874486014831,42.7867293215265,Yates,Potter town,New York
+3612359597,2023,Owner_Cost_Burden,Percent Cost Burdened,18.019801980198018,5.694266763484491,42.5582608676807,Yates,Potter town,New York
+3612359597,2024,Owner_Cost_Burden,Percent Cost Burdened,20.6,6.645863375062715,47.1385366365018,Yates,Potter town,New York
+3612370816,2017,Owner_Cost_Burden,Percent Cost Burdened,19.011815252416753,8.546576359055333,45.3000391231798,Yates,Starkey town,New York
+3612370816,2018,Owner_Cost_Burden,Percent Cost Burdened,16.69921875,7.345951787089257,42.8086240815226,Yates,Starkey town,New York
+3612370816,2019,Owner_Cost_Burden,Percent Cost Burdened,15.57935735150925,6.685038688031113,44.8138692523039,Yates,Starkey town,New York
+3612370816,2020,Owner_Cost_Burden,Percent Cost Burdened,16.868686868686858,8.10901694832807,59.2414927140892,Yates,Starkey town,New York
+3612370816,2021,Owner_Cost_Burden,Percent Cost Burdened,17.852975495915977,8.350204122151618,65.9265421302752,Yates,Starkey town,New York
+3612370816,2022,Owner_Cost_Burden,Percent Cost Burdened,21.54377880184333,7.986879555202273,59.0995552604157,Yates,Starkey town,New York
+3612370816,2023,Owner_Cost_Burden,Percent Cost Burdened,24.476295479603102,9.004092280251333,61.570642553435,Yates,Starkey town,New York
+3612370816,2024,Owner_Cost_Burden,Percent Cost Burdened,22.554890219560903,7.506033809857111,50.4351215301013,Yates,Starkey town,New York
+3612375055,2017,Owner_Cost_Burden,Percent Cost Burdened,23.0769230769231,6.841517303376315,38.8918238772244,Yates,Torrey town,New York
+3612375055,2018,Owner_Cost_Burden,Percent Cost Burdened,22.1719457013574,6.595801432445068,39.6782251890615,Yates,Torrey town,New York
+3612375055,2019,Owner_Cost_Burden,Percent Cost Burdened,20.65727699530516,6.817766309214544,43.9296209784178,Yates,Torrey town,New York
+3612375055,2020,Owner_Cost_Burden,Percent Cost Burdened,23.095238095238088,8.435156228136243,53.4592262894937,Yates,Torrey town,New York
+3612375055,2021,Owner_Cost_Burden,Percent Cost Burdened,18.80108991825613,7.41756812160674,66.6912329417796,Yates,Torrey town,New York
+3612375055,2022,Owner_Cost_Burden,Percent Cost Burdened,19.64285714285716,6.781155861918466,50.0819700646524,Yates,Torrey town,New York
+3612375055,2023,Owner_Cost_Burden,Percent Cost Burdened,19.590643274853832,6.543299791694028,53.6265488224991,Yates,Torrey town,New York
+3612375055,2024,Owner_Cost_Burden,Percent Cost Burdened,18.29652996845426,8.114223946159958,67.5665375101718,Yates,Torrey town,New York

@@ -8,7 +8,7 @@
         html, body { margin: 0; padding: 0; height: 100%; width: 100%;
                       font-family: 'DM Sans', 'Proxima Nova, sans-serif', system-ui, sans-serif;
                       background-color: #F0F2F5; overflow: hidden; color: #1A2744; }
-        .card { display: flex; flex-direction: column; height: 100dvh; width: 100%;
+        .card { display: flex; flex-direction: column; height: 100%; width: 100%;
                  background: #FFFFFF; }
         .header { flex: 0 0 auto; padding: 12px 20px;
                    border-bottom: 2px solid #E8ECF0;
@@ -16,7 +16,7 @@
                    justify-content: space-between; align-items: center;
                    background: #fff; z-index: 10; }
         .controls-row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-        iframe { flex: 1 1 auto; width: 100%; border: none; display: block; }
+        iframe { flex: 1 1 auto; width: 100%; border: none; display: block; min-height: 0; }
         h2 { margin: 0; color: #1A2744; font-family: 'DM Sans', 'Freight Macro Pro, serif', serif;
               font-size: 1.05rem; font-weight: 600; letter-spacing: -0.01em; }
         select { padding: 7px 12px; font-size: 13px; font-family: 'DM Sans', sans-serif;
@@ -33,7 +33,7 @@
                        transition: all 0.15s; }
         .toggle-btn:hover { background: #F0F2F5; }
         .toggle-btn.active { background: #0062A3; color: white; }
-     #countySelect { display: none; } iframe { height: 100%; }
+     iframe { height: 100%; }
 select { max-width: 160px; }</style>
 <script>
 var currentDeviceMode = 'desktop';
@@ -44,8 +44,6 @@ function setDeviceMode(mode) {
     updateMapSource();
 }
 function updateViewType() {
-    document.getElementById('countySelect').style.display =
-        (document.getElementById('viewMode').value === 'county') ? 'none' : 'inline-block';
     updateMapSource();
 }
 function updateMapSource() {
@@ -53,7 +51,7 @@ function updateMapSource() {
     if (type === 'county') {
         document.getElementById('mainFrame').src = "maps/map_county_Percent_Households_Receiving_SNAP_" + currentDeviceMode + ".html";
     } else {
-        document.getElementById('mainFrame').src = document.getElementById('countySelect').value + "_" + currentDeviceMode + ".html";
+        document.getElementById('mainFrame').src = "maps/Region_map_" + currentDeviceMode + ".html";
     }
 }
 </script>
@@ -69,17 +67,6 @@ function updateMapSource() {
             <select id="viewMode" onchange="updateViewType()">
                 <option value="county">By County</option>
                 <option value="subdiv">By Subdivision</option>
-            </select>
-            <select id="countySelect" onchange="updateMapSource()">
-                <option value="maps/Region_map">All Subdivisions</option>
-                <option value="maps/Genesee_map">Genesee</option>
-<option value="maps/Livingston_map">Livingston</option>
-<option value="maps/Monroe_map">Monroe</option>
-<option value="maps/Ontario_map">Ontario</option>
-<option value="maps/Orleans_map">Orleans</option>
-<option value="maps/Seneca_map">Seneca</option>
-<option value="maps/Wayne_map">Wayne</option>
-<option value="maps/Yates_map">Yates</option>
             </select>
         </div>
     </div>

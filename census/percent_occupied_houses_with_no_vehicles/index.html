@@ -35,7 +35,7 @@
   /* Framed white chart area restored, but it now grows to fill the remaining
      height (flex:1 1 auto) instead of a fixed height, so the Plotly chart inside
      gets real space and the bottom axis/legend never clip. */
-  .chartcard{flex:1 1 auto;position:relative;margin-top:16px;
+  .chartcard{flex:1 1 auto;min-height:0;position:relative;margin-top:16px;
     border:1px solid #E2E8F0;border-radius:12px;overflow:hidden;background:#fff}
   .view{position:absolute;inset:0;width:100%;height:100%;border:none}
   .source-row{flex:0 0 auto;display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin-top:18px;
@@ -51,7 +51,7 @@
 <div class="card">
   <div class="top">
     <h1>Homes with No Vehicle (%)</h1>
-    <div class="meta"><span class="badge">census</span><span class="updated">Updated Jun 09, 2026</span></div>
+    <div class="meta"><span class="badge">census</span><span class="updated">Updated Jun 14, 2026</span></div>
   </div>
   <p class="topic">This indicator shows the share of occupied homes with no vehicle available across the eight-county Rochester region (Monroe, Genesee, Livingston, Orleans, Ontario, Wayne, Yates, and Seneca).</p>
   <div class="tabs"><button class="tab active" onclick="showTab(0)">Bar Chart</button><button class="tab" onclick="showTab(1)">Trend</button><button class="tab" onclick="showTab(2)">Map</button></div>
