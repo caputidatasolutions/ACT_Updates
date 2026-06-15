@@ -10,12 +10,12 @@
      overflow, so the chart fills the frame exactly and never produces a
      scrollbar. Control the overall size from the <iframe> height on your page:
      a taller iframe gives a taller chart, but it always fits with no scroll. */
-  html,body{margin:0;padding:0;height:100%;overflow:hidden;
+  html,body{margin:0;padding:0;
     font-family:'DM Sans',system-ui,sans-serif;color:#1A2744;
     background:transparent;}
   /* White card fills the available height; the chart area below takes whatever
      space the header/tabs/source leave. */
-  .card{display:flex;flex-direction:column;height:100%;
+  .card{display:flex;flex-direction:column;
     max-width:960px;margin:0 auto;
     background:#fff;border:1px solid #E2E8F0;border-radius:16px;
     box-shadow:0 1px 3px rgba(16,24,40,.04);padding:16px 22px 14px;}
@@ -35,8 +35,14 @@
   /* Framed white chart area. Flexes to fill whatever height the card has after
      the header/tabs/source. The card's min-height floor (and your iframe height)
      control the overall size; min-height:0 here lets it flex correctly. */
-  .chartcard{flex:1 1 auto;min-height:0;position:relative;margin-top:11px;
+  /* The chart area's height comes from its WIDTH via aspect-ratio, so it never
+     depends on the iframe/percentage chain and can never collapse. A wider
+     screen gets a landscape chart; a phone gets a taller, near-portrait chart
+     so the bars stay readable. min-height is a safety floor. */
+  .chartcard{width:100%;aspect-ratio:2/1;min-height:240px;position:relative;margin-top:11px;
     border:1px solid #E2E8F0;border-radius:12px;overflow:hidden;background:#fff}
+  @media (max-width:768px){ .chartcard{aspect-ratio:3/2} }
+  @media (max-width:480px){ .chartcard{aspect-ratio:3/4} }
   .view{position:absolute;inset:0;width:100%;height:100%;border:none}
   .source-row{flex:0 0 auto;display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin-top:11px;
     padding-top:10px;border-top:1px solid #EEF2F6}
