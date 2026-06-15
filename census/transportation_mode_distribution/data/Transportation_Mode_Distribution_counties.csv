@@ -1,449 +1,449 @@
-"GEOID","year","variable","Variable_Description","estimate","moe","moe_pct_of_estimate","County","Geography","State"
-"36037",2017,"Bicycle","Bicycle",0.568320490917332,0.34517624908476,60.7361963190184,"Genesee","Genesee County","New York"
-"36037",2017,"Carpooled","Carpooled",8.34350266727102,1.03552874725428,12.4111993313832,"Genesee","Genesee County","New York"
-"36037",2017,"Drove Alone","Drove Alone",83.3862138698093,2.01875806282905,2.42097340692423,"Genesee","Genesee County","New York"
-"36037",2017,"Public Transportation","Public Transportation",0.383529165649733,0.188277954046233,49.0909090909091,"Genesee","Genesee County","New York"
-"36037",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.08782817893379,0.406293247641329,37.3490276782082,"Genesee","Genesee County","New York"
-"36037",2017,"Walked","Walked",3.62958055855793,0.777518217635368,21.4217098943324,"Genesee","Genesee County","New York"
-"36037",2017,"Worked from Home","Worked from Home",2.60102506886092,0.627593180154109,24.1286863270778,"Genesee","Genesee County","New York"
-"36037",2018,"Bicycle","Bicycle",0.607704456499348,0.27466868090366,45.1977401129944,"Genesee","Genesee County","New York"
-"36037",2018,"Carpooled","Carpooled",8.46322873034402,1.12614159170501,13.3062880324544,"Genesee","Genesee County","New York"
-"36037",2018,"Drove Alone","Drove Alone",83.5988463915402,2.28318341001167,2.73111832108095,"Genesee","Genesee County","New York"
-"36037",2018,"Public Transportation","Public Transportation",0.346769209640871,0.202568152166449,58.4158415841584,"Genesee","Genesee County","New York"
-"36037",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.27377600769072,0.482359378748835,37.8684616319099,"Genesee","Genesee County","New York"
-"36037",2018,"Walked","Walked",3.21019020806153,0.696971777793037,21.7112299465241,"Genesee","Genesee County","New York"
-"36037",2018,"Worked from Home","Worked from Home",2.49948499622331,0.480670191581405,19.2307692307692,"Genesee","Genesee County","New York"
-"36037",2019,"Bicycle","Bicycle",0.660831055599765,0.332145452029201,50.261780104712,"Genesee","Genesee County","New York"
-"36037",2019,"Carpooled","Carpooled",8.41435145140643,1.2732242327786,15.1315789473684,"Genesee","Genesee County","New York"
-"36037",2019,"Drove Alone","Drove Alone",82.8979690689548,2.2592810434903,2.72537562604341,"Genesee","Genesee County","New York"
-"36037",2019,"Public Transportation","Public Transportation",0.176452271390513,0.128014392969588,72.5490196078431,"Genesee","Genesee County","New York"
-"36037",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.57769089713871,0.532569473258195,33.7562620297842,"Genesee","Genesee County","New York"
-"36037",2019,"Walked","Walked",3.40103103484067,0.979137113794416,28.7894201424212,"Genesee","Genesee County","New York"
-"36037",2019,"Worked from Home","Worked from Home",2.87167422066914,0.557035601840639,19.3975903614458,"Genesee","Genesee County","New York"
-"36037",2020,"Bicycle","Bicycle",0.375412251771805,0.224545645919585,59.8130841121495,"Genesee","Genesee County","New York"
-"36037",2020,"Carpooled","Carpooled",8.49063223633429,1.29113746403761,15.2066115702479,"Genesee","Genesee County","New York"
-"36037",2020,"Drove Alone","Drove Alone",82.3240474352677,2.40684864220055,2.9236276849642,"Genesee","Genesee County","New York"
-"36037",2020,"Public Transportation","Public Transportation",0.157883657287208,0.122798400112273,77.7777777777778,"Genesee","Genesee County","New York"
-"36037",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.41042733843239,0.475052309159922,33.6814450638709,"Genesee","Genesee County","New York"
-"36037",2020,"Walked","Walked",4.41021682688934,1.12623675531542,25.5369928400955,"Genesee","Genesee County","New York"
-"36037",2020,"Worked from Home","Worked from Home",2.83138025401726,0.575398217668936,20.3221809169765,"Genesee","Genesee County","New York"
-"36037",2021,"Bicycle","Bicycle",0.369666244190959,0.211237853823405,57.1428571428571,"Genesee","Genesee County","New York"
-"36037",2021,"Carpooled","Carpooled",6.8300239402901,1.16532882692579,17.0618556701031,"Genesee","Genesee County","New York"
-"36037",2021,"Drove Alone","Drove Alone",81.9286016054077,2.74609209970427,3.35181126724249,"Genesee","Genesee County","New York"
-"36037",2021,"Public Transportation","Public Transportation",0.102098296014646,0.0774538797352486,75.8620689655173,"Genesee","Genesee County","New York"
-"36037",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.71454724686664,0.559204315640459,32.6152759372723,"Genesee","Genesee County","New York"
-"36037",2021,"Walked","Walked",4.23179833826222,1.10547810167582,26.1231281198003,"Genesee","Genesee County","New York"
-"36037",2021,"Worked from Home","Worked from Home",4.82326432896775,0.82382762991128,17.0802919708029,"Genesee","Genesee County","New York"
-"36037",2022,"Bicycle","Bicycle",0.559351435550678,0.304457110489609,54.4303797468354,"Genesee","Genesee County","New York"
-"36037",2022,"Carpooled","Carpooled",7.20076468297518,1.12578326901972,15.6342182890855,"Genesee","Genesee County","New York"
-"36037",2022,"Drove Alone","Drove Alone",81.7715155591744,2.1630615640599,2.64525067105377,"Genesee","Genesee County","New York"
-"36037",2022,"Public Transportation","Public Transportation",0.120366764612171,0.109746167734627,91.1764705882353,"Genesee","Genesee County","New York"
-"36037",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.47626296597869,0.496209117552678,33.6125154520635,"Genesee","Genesee County","New York"
-"36037",2022,"Walked","Walked",3.56498035189578,0.70449959287712,19.7616683217478,"Genesee","Genesee County","New York"
-"36037",2022,"Worked from Home","Worked from Home",5.30675823981308,0.874429142917832,16.4776517678452,"Genesee","Genesee County","New York"
-"36037",2023,"Bicycle","Bicycle",0.392086972019248,0.217430048119765,55.4545454545455,"Genesee","Genesee County","New York"
-"36037",2023,"Carpooled","Carpooled",6.17002316877562,1.21903404027803,19.7573656845754,"Genesee","Genesee County","New York"
-"36037",2023,"Drove Alone","Drove Alone",82.3703439672073,2.23489574050971,2.713228612229,"Genesee","Genesee County","New York"
-"36037",2023,"Public Transportation","Public Transportation",0.121190518624131,0.110497237569061,91.1764705882353,"Genesee","Genesee County","New York"
-"36037",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.37586882908572,0.473921369401481,34.4452435713952,"Genesee","Genesee County","New York"
-"36037",2023,"Walked","Walked",3.32561040812689,0.973088576011406,29.2604501607717,"Genesee","Genesee County","New York"
-"36037",2023,"Worked from Home","Worked from Home",6.24487613616111,1.19051862413117,19.0639269406393,"Genesee","Genesee County","New York"
-"36037",2024,"Bicycle","Bicycle",0.367834510889358,0.280428290480006,76.2376237623762,"Genesee","Genesee County","New York"
-"36037",2024,"Carpooled","Carpooled",6.40250564498507,1.07801005171535,16.8373151308305,"Genesee","Genesee County","New York"
-"36037",2024,"Drove Alone","Drove Alone",81.8122223031539,2.37089372860369,2.89797008547009,"Genesee","Genesee County","New York"
-"36037",2024,"Public Transportation","Public Transportation",0.163886663267536,0.134751256464418,82.2222222222222,"Genesee","Genesee County","New York"
-"36037",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.21276130817977,0.535759353454702,44.1768177992769,"Genesee","Genesee County","New York"
-"36037",2024,"Walked","Walked",3.29958482045306,0.750236725180275,22.7373068432671,"Genesee","Genesee County","New York"
-"36037",2024,"Worked from Home","Worked from Home",6.74120474907131,0.93233301769976,13.8303619665046,"Genesee","Genesee County","New York"
-"36051",2017,"Bicycle","Bicycle",0.336525117957258,0.242853177907299,72.1649484536083,"Livingston","Livingston County","New York"
-"36051",2017,"Carpooled","Carpooled",7.20927005273383,0.915903413821815,12.7045235803657,"Livingston","Livingston County","New York"
-"36051",2017,"Drove Alone","Drove Alone",81.1996946988621,2.3556758257008,2.90108951078829,"Livingston","Livingston County","New York"
-"36051",2017,"Public Transportation","Public Transportation",0.461421038023869,0.211629197890647,45.8646616541353,"Livingston","Livingston County","New York"
-"36051",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.19344990285873,0.66507176972804,55.7268275890727,"Livingston","Livingston County","New York"
-"36051",2017,"Walked","Walked",6.21704135442687,1.05814598945323,17.0200892857143,"Livingston","Livingston County","New York"
-"36051",2017,"Worked from Home","Worked from Home",3.38259783513739,0.596724951429364,17.6410256410256,"Livingston","Livingston County","New York"
-"36051",2018,"Bicycle","Bicycle",0.393798559619683,0.312200659878667,79.2792792792793,"Livingston","Livingston County","New York"
-"36051",2018,"Carpooled","Carpooled",7.23737893355093,0.961436123035442,13.2843137254902,"Livingston","Livingston County","New York"
-"36051",2018,"Drove Alone","Drove Alone",81.4382516763047,1.91932451129954,2.35678501415814,"Livingston","Livingston County","New York"
-"36051",2018,"Public Transportation","Public Transportation",0.603114911129244,0.319296129421364,52.9411764705882,"Livingston","Livingston County","New York"
-"36051",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.358321211906198,0.14696360149862,41.0144854994217,"Livingston","Livingston County","New York"
-"36051",2018,"Walked","Walked",6.17305850214638,1.01110440983432,16.3793103448276,"Livingston","Livingston County","New York"
-"36051",2018,"Worked from Home","Worked from Home",3.79607620534289,0.592471706815199,15.607476635514,"Livingston","Livingston County","New York"
-"36051",2019,"Bicycle","Bicycle",0.230229881047895,0.24418320717201,106.060606060606,"Livingston","Livingston County","New York"
-"36051",2019,"Carpooled","Carpooled",8.2499040708829,1.20696270973593,14.630021141649,"Livingston","Livingston County","New York"
-"36051",2019,"Drove Alone","Drove Alone",80.1653469145708,2.29532214741689,2.86323484617728,"Livingston","Livingston County","New York"
-"36051",2019,"Public Transportation","Public Transportation",0.659294659364426,0.286043185544354,43.3862433862434,"Livingston","Livingston County","New York"
-"36051",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.743014616109115,0.429518305327801,57.8075176470989,"Livingston","Livingston County","New York"
-"36051",2019,"Walked","Walked",6.38364670178254,1.08835943768096,17.0491803278689,"Livingston","Livingston County","New York"
-"36051",2019,"Worked from Home","Worked from Home",3.56856315624237,0.582551365681794,16.3245356793744,"Livingston","Livingston County","New York"
-"36051",2020,"Bicycle","Bicycle",0.24313997915943,0.232719694338312,95.7142857142857,"Livingston","Livingston County","New York"
-"36051",2020,"Carpooled","Carpooled",7.683223341438,0.993400486279958,12.9294755877034,"Livingston","Livingston County","New York"
-"36051",2020,"Drove Alone","Drove Alone",79.8853768669677,2.74748176450156,3.43927996869429,"Livingston","Livingston County","New York"
-"36051",2020,"Public Transportation","Public Transportation",0.590482806530045,0.257033692254255,43.5294117647059,"Livingston","Livingston County","New York"
-"36051",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.857936783605418,0.41265146536637,48.0981201939181,"Livingston","Livingston County","New York"
-"36051",2020,"Walked","Walked",5.8214657867315,0.889197638068774,15.2744630071599,"Livingston","Livingston County","New York"
-"36051",2020,"Worked from Home","Worked from Home",4.91837443556791,1.02118791246961,20.7627118644068,"Livingston","Livingston County","New York"
-"36051",2021,"Bicycle","Bicycle",0.124564025909317,0.13524094241583,108.571428571429,"Livingston","Livingston County","New York"
-"36051",2021,"Carpooled","Carpooled",7.98633354687166,1.27411203644387,15.9536541889483,"Livingston","Livingston County","New York"
-"36051",2021,"Drove Alone","Drove Alone",78.3329774361165,2.17809096732864,2.78055429350295,"Livingston","Livingston County","New York"
-"36051",2021,"Public Transportation","Public Transportation",0.647732934728451,0.259804968325148,40.1098901098901,"Livingston","Livingston County","New York"
-"36051",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.04633781763827,0.426616712013748,40.7723686195997,"Livingston","Livingston County","New York"
-"36051",2021,"Walked","Walked",5.73706313616628,0.921773791728949,16.0669975186104,"Livingston","Livingston County","New York"
-"36051",2021,"Worked from Home","Worked from Home",6.12499110256958,1.12819417752153,18.4195235328298,"Livingston","Livingston County","New York"
-"36051",2022,"Bicycle","Bicycle",0.0920810313075506,0.123955234452472,134.615384615385,"Livingston","Livingston County","New York"
-"36051",2022,"Carpooled","Carpooled",8.2200028332625,1.21476129763423,14.7781128823783,"Livingston","Livingston County","New York"
-"36051",2022,"Drove Alone","Drove Alone",76.3989233602493,2.2311942201445,2.920452438346,"Livingston","Livingston County","New York"
-"36051",2022,"Public Transportation","Public Transportation",0.61977617226236,0.286867828304292,46.2857142857143,"Livingston","Livingston County","New York"
-"36051",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.32455021957784,0.505652530144105,38.1754140137672,"Livingston","Livingston County","New York"
-"36051",2022,"Walked","Walked",6.10922226944326,1.08726448505454,17.7971014492754,"Livingston","Livingston County","New York"
-"36051",2022,"Worked from Home","Worked from Home",7.23544411389715,1.06955659441847,14.7821830641214,"Livingston","Livingston County","New York"
-"36051",2023,"Bicycle","Bicycle",0.211200675842163,0.207680664578127,98.3333333333334,"Livingston","Livingston County","New York"
-"36051",2023,"Carpooled","Carpooled",8.6521876870006,1.32352423527755,15.2969894222945,"Livingston","Livingston County","New York"
-"36051",2023,"Drove Alone","Drove Alone",75.3634411630117,2.02048646555669,2.6809901914993,"Livingston","Livingston County","New York"
-"36051",2023,"Public Transportation","Public Transportation",0.577281847301911,0.267520856066739,46.3414634146341,"Livingston","Livingston County","New York"
-"36051",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.61568517019254,0.651839179644237,40.3444428202901,"Livingston","Livingston County","New York"
-"36051",2023,"Walked","Walked",6.21985990355169,1.24256397620472,19.9773627617431,"Livingston","Livingston County","New York"
-"36051",2023,"Worked from Home","Worked from Home",7.36034355309937,1.09472350311521,14.8732663797226,"Livingston","Livingston County","New York"
-"36051",2024,"Bicycle","Bicycle",0.516275493390941,0.285599209109882,55.3191489361702,"Livingston","Livingston County","New York"
-"36051",2024,"Carpooled","Carpooled",7.59767126798726,1.1716890630149,15.421686746988,"Livingston","Livingston County","New York"
-"36051",2024,"Drove Alone","Drove Alone",75.9181282267218,2.65460803339314,3.49667213272885,"Livingston","Livingston County","New York"
-"36051",2024,"Public Transportation","Public Transportation",0.622459814726667,0.252645454212588,40.5882352941176,"Livingston","Livingston County","New York"
-"36051",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.65501080150855,0.617638075870214,37.3192776329456,"Livingston","Livingston County","New York"
-"36051",2024,"Walked","Walked",5.1261396506902,0.962981948665373,18.7857142857143,"Livingston","Livingston County","New York"
-"36051",2024,"Worked from Home","Worked from Home",8.56431474497455,1.1716890630149,13.6810602821719,"Livingston","Livingston County","New York"
-"36055",2017,"Bicycle","Bicycle",0.509291006706919,0.0917114073380276,18.007662835249,"Monroe","Monroe County","New York"
-"36055",2017,"Carpooled","Carpooled",7.51977788556423,0.305797610485764,4.06657769869514,"Monroe","Monroe County","New York"
-"36055",2017,"Drove Alone","Drove Alone",81.010999793719,0.767142227946055,0.94696057313137,"Monroe","Monroe County","New York"
-"36055",2017,"Public Transportation","Public Transportation",3.12766562411146,0.249488478928677,7.97682709447415,"Monroe","Monroe County","New York"
-"36055",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.752925566018275,0.105637910177339,14.0303258310099,"Monroe","Monroe County","New York"
-"36055",2017,"Walked","Walked",3.24056264530265,0.209626073915492,6.46881720430108,"Monroe","Monroe County","New York"
-"36055",2017,"Worked from Home","Worked from Home",3.83877747857744,0.207117251222354,5.39539612228596,"Monroe","Monroe County","New York"
-"36055",2018,"Bicycle","Bicycle",0.50901609787868,0.0908458164802697,17.8473366282263,"Monroe","Monroe County","New York"
-"36055",2018,"Carpooled","Carpooled",7.46584896114315,0.373446187131201,5.00205923097083,"Monroe","Monroe County","New York"
-"36055",2018,"Drove Alone","Drove Alone",81.1957545653517,0.73710897864145,0.907817142148948,"Monroe","Monroe County","New York"
-"36055",2018,"Public Transportation","Public Transportation",3.01132917212906,0.237876276383722,7.89937807481667,"Monroe","Monroe County","New York"
-"36055",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.715026457097015,0.103797377878802,14.5165786312602,"Monroe","Monroe County","New York"
-"36055",2018,"Walked","Walked",3.0306164377818,0.187561670333111,6.1888950378159,"Monroe","Monroe County","New York"
-"36055",2018,"Worked from Home","Worked from Home",4.07240830861861,0.272537449440809,6.69229185256366,"Monroe","Monroe County","New York"
-"36055",2019,"Bicycle","Bicycle",0.455526252697195,0.0744342163220019,16.3402692778458,"Monroe","Monroe County","New York"
-"36055",2019,"Carpooled","Carpooled",7.59173250517137,0.338159941567746,4.45431844888367,"Monroe","Monroe County","New York"
-"36055",2019,"Drove Alone","Drove Alone",80.979688101119,0.726779033526063,0.897483122704223,"Monroe","Monroe County","New York"
-"36055",2019,"Public Transportation","Public Transportation",2.81734902677959,0.219120951419826,7.77755788640412,"Monroe","Monroe County","New York"
-"36055",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.817103700523548,0.103814706458728,12.7052057642389,"Monroe","Monroe County","New York"
-"36055",2019,"Walked","Walked",3.03423973950812,0.221351190111122,7.29511209114296,"Monroe","Monroe County","New York"
-"36055",2019,"Worked from Home","Worked from Home",4.30436067420116,0.210478776491054,4.889896373057,"Monroe","Monroe County","New York"
-"36055",2020,"Bicycle","Bicycle",0.487387724760079,0.127715705398713,26.204128440367,"Monroe","Monroe County","New York"
-"36055",2020,"Carpooled","Carpooled",7.47290582573653,0.435127687758855,5.82273747195213,"Monroe","Monroe County","New York"
-"36055",2020,"Drove Alone","Drove Alone",78.8480993555527,0.746172720819616,0.946342051258422,"Monroe","Monroe County","New York"
-"36055",2020,"Public Transportation","Public Transportation",2.47606378519169,0.238104553609855,9.61625282167043,"Monroe","Monroe County","New York"
-"36055",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.964155762856807,0.136515076570032,14.1590271851444,"Monroe","Monroe County","New York"
-"36055",2020,"Walked","Walked",2.72925947248104,0.184167723977576,6.74790088060618,"Monroe","Monroe County","New York"
-"36055",2020,"Worked from Home","Worked from Home",7.02212807342116,0.419757088640848,5.97763362120428,"Monroe","Monroe County","New York"
-"36055",2021,"Bicycle","Bicycle",0.42845018753251,0.087058887945903,20.3194888178914,"Monroe","Monroe County","New York"
-"36055",2021,"Carpooled","Carpooled",7.66556246064555,0.447614093684124,5.83928571428571,"Monroe","Monroe County","New York"
-"36055",2021,"Drove Alone","Drove Alone",76.5984066580885,0.908916691762258,1.18659999785554,"Monroe","Monroe County","New York"
-"36055",2021,"Public Transportation","Public Transportation",2.19043447312947,0.199304623976784,9.09886264216973,"Monroe","Monroe County","New York"
-"36055",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.985572316368714,0.147812524459922,14.9976335581877,"Monroe","Monroe County","New York"
-"36055",2021,"Walked","Walked",2.60848139732253,0.203411175294987,7.79806884970613,"Monroe","Monroe County","New York"
-"36055",2021,"Worked from Home","Worked from Home",9.5230925069127,0.445697703068963,4.68017823774616,"Monroe","Monroe County","New York"
-"36055",2022,"Bicycle","Bicycle",0.410487251923219,0.0713771970366157,17.3884077281812,"Monroe","Monroe County","New York"
-"36055",2022,"Carpooled","Carpooled",7.68166317073371,0.409940300221789,5.33660863683292,"Monroe","Monroe County","New York"
-"36055",2022,"Drove Alone","Drove Alone",74.722900594263,0.881412666854453,1.17957501628641,"Monroe","Monroe County","New York"
-"36055",2022,"Public Transportation","Public Transportation",1.97558954556518,0.185416626784772,9.38538205980066,"Monroe","Monroe County","New York"
-"36055",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.08870736169643,0.153145255521202,14.0667052423133,"Monroe","Monroe County","New York"
-"36055",2022,"Walked","Walked",2.38197465972767,0.201278226126242,8.45005740528129,"Monroe","Monroe County","New York"
-"36055",2022,"Worked from Home","Worked from Home",11.7386774160908,0.473113221736954,4.03037927499767,"Monroe","Monroe County","New York"
-"36055",2023,"Bicycle","Bicycle",0.400853182045939,0.0900824432330014,22.4726775956284,"Monroe","Monroe County","New York"
-"36055",2023,"Carpooled","Carpooled",7.58390125430904,0.481352386637132,6.3470286663297,"Monroe","Monroe County","New York"
-"36055",2023,"Drove Alone","Drove Alone",72.9229699277971,0.702862102672081,0.963841850336049,"Monroe","Monroe County","New York"
-"36055",2023,"Public Transportation","Public Transportation",1.77399437600795,0.165379318275784,9.32242630035499,"Monroe","Monroe County","New York"
-"36055",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.23459494388329,0.167470868950313,13.5648432532496,"Monroe","Monroe County","New York"
-"36055",2023,"Walked","Walked",2.40019056954556,0.201795625114657,8.40748345881816,"Monroe","Monroe County","New York"
-"36055",2023,"Worked from Home","Worked from Home",13.6834957464111,0.540768466216346,3.951975987994,"Monroe","Monroe County","New York"
-"36055",2024,"Bicycle","Bicycle",0.377739433857194,0.0886055462134159,23.4567901234568,"Monroe","Monroe County","New York"
-"36055",2024,"Carpooled","Carpooled",7.50897714086636,0.423825290711231,5.6442479815877,"Monroe","Monroe County","New York"
-"36055",2024,"Drove Alone","Drove Alone",70.8627656451883,0.874808318497162,1.2345105508263,"Monroe","Monroe County","New York"
-"36055",2024,"Public Transportation","Public Transportation",1.78390670905834,0.207112035266653,11.6100261417807,"Monroe","Monroe County","New York"
-"36055",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.3417019397208,0.18070502300023,13.4683432773328,"Monroe","Monroe County","New York"
-"36055",2024,"Walked","Walked",2.5591366582816,0.182971824533586,7.1497480973309,"Monroe","Monroe County","New York"
-"36055",2024,"Worked from Home","Worked from Home",15.5657724730274,0.557145090896123,3.57929612463211,"Monroe","Monroe County","New York"
-"36069",2017,"Bicycle","Bicycle",0.291583334890937,0.140184295620643,48.0769230769231,"Ontario","Ontario County","New York"
-"36069",2017,"Carpooled","Carpooled",7.89144128147137,0.785032055475599,9.94789199431549,"Ontario","Ontario County","New York"
-"36069",2017,"Drove Alone","Drove Alone",82.8732173230407,1.41118857591447,1.70282827371555,"Ontario","Ontario County","New York"
-"36069",2017,"Public Transportation","Public Transportation",0.69157585839517,0.214949253284985,31.0810810810811,"Ontario","Ontario County","New York"
-"36069",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.568213678249005,0.206874110962212,36.4078020085175,"Ontario","Ontario County","New York"
-"36069",2017,"Walked","Walked",3.48591615109998,0.484103100876619,13.887399463807,"Ontario","Ontario County","New York"
-"36069",2017,"Worked from Home","Worked from Home",4.19805237285284,0.575690174015439,13.713268032057,"Ontario","Ontario County","New York"
-"36069",2018,"Bicycle","Bicycle",0.192437037590614,0.100889320678574,52.4271844660194,"Ontario","Ontario County","New York"
-"36069",2018,"Carpooled","Carpooled",7.59285554143935,0.771616471115761,10.1624015748031,"Ontario","Ontario County","New York"
-"36069",2018,"Drove Alone","Drove Alone",83.2224796353038,1.43860698004633,1.72862787356322,"Ontario","Ontario County","New York"
-"36069",2018,"Public Transportation","Public Transportation",0.638965697630969,0.199910320603841,31.2865497076023,"Ontario","Ontario County","New York"
-"36069",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.534339735445781,0.199788056624537,37.3897060936074,"Ontario","Ontario County","New York"
-"36069",2018,"Walked","Walked",3.18735520514162,0.513788207159405,16.1195779601407,"Ontario","Ontario County","New York"
-"36069",2018,"Worked from Home","Worked from Home",4.63156714744787,0.609072565578058,13.1504638967326,"Ontario","Ontario County","New York"
-"36069",2019,"Bicycle","Bicycle",0.0851473419221087,0.0499777876499334,58.695652173913,"Ontario","Ontario County","New York"
-"36069",2019,"Carpooled","Carpooled",8.07048719087813,0.877387827632163,10.8715596330275,"Ontario","Ontario County","New York"
-"36069",2019,"Drove Alone","Drove Alone",82.9631274988894,1.69554272175329,2.04373047746542,"Ontario","Ontario County","New York"
-"36069",2019,"Public Transportation","Public Transportation",0.666370501999112,0.22582555901081,33.8888888888889,"Ontario","Ontario County","New York"
-"36069",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.52569228491041,0.193013620550339,36.7160839317306,"Ontario","Ontario County","New York"
-"36069",2019,"Walked","Walked",2.8950096253517,0.420183622093884,14.5140664961637,"Ontario","Ontario County","New York"
-"36069",2019,"Worked from Home","Worked from Home",4.79416555604916,0.660817414482452,13.7837837837838,"Ontario","Ontario County","New York"
-"36069",2020,"Bicycle","Bicycle",0.151809682495603,0.127742293807276,84.1463414634146,"Ontario","Ontario County","New York"
-"36069",2020,"Carpooled","Carpooled",8.34027584930112,0.903452744607979,10.8324084350721,"Ontario","Ontario County","New York"
-"36069",2020,"Drove Alone","Drove Alone",80.6979542719615,1.79394612607609,2.22303792241162,"Ontario","Ontario County","New York"
-"36069",2020,"Public Transportation","Public Transportation",0.581320003702675,0.2647412755716,45.5414012738854,"Ontario","Ontario County","New York"
-"36069",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.616495417939461,0.261307627862077,42.3859805374477,"Ontario","Ontario County","New York"
-"36069",2020,"Walked","Walked",2.7973711006202,0.453577709895399,16.2144275314361,"Ontario","Ontario County","New York"
-"36069",2020,"Worked from Home","Worked from Home",6.81477367397945,0.918263445339258,13.4745992936702,"Ontario","Ontario County","New York"
-"36069",2021,"Bicycle","Bicycle",0.182408522126154,0.111269198496954,61,"Ontario","Ontario County","New York"
-"36069",2021,"Carpooled","Carpooled",7.469628981066,0.922987121958338,12.3565323565324,"Ontario","Ontario County","New York"
-"36069",2021,"Drove Alone","Drove Alone",79.8292656232899,1.80037211338514,2.2552783109405,"Ontario","Ontario County","New York"
-"36069",2021,"Public Transportation","Public Transportation",0.472438072306738,0.233482908321477,49.4208494208494,"Ontario","Ontario County","New York"
-"36069",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.612892634343877,0.23689242444909,38.6515371819881,"Ontario","Ontario County","New York"
-"36069",2021,"Walked","Walked",2.97690708109883,0.496151180183138,16.6666666666667,"Ontario","Ontario County","New York"
-"36069",2021,"Worked from Home","Worked from Home",8.45645908576849,0.917514866294553,10.8498705780846,"Ontario","Ontario County","New York"
-"36069",2022,"Bicycle","Bicycle",0.187904132048708,0.114216237127646,60.7843137254902,"Ontario","Ontario County","New York"
-"36069",2022,"Carpooled","Carpooled",7.41116003168579,0.841884199473132,11.3596818294805,"Ontario","Ontario County","New York"
-"36069",2022,"Drove Alone","Drove Alone",78.2675975904058,1.8182488071772,2.32311820364355,"Ontario","Ontario County","New York"
-"36069",2022,"Public Transportation","Public Transportation",0.460549343256636,0.219221487390159,47.6,"Ontario","Ontario County","New York"
-"36069",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.70924598861522,0.244707336504497,34.5024632401913,"Ontario","Ontario County","New York"
-"36069",2022,"Walked","Walked",2.94198920472339,0.563712396146123,19.1609267376331,"Ontario","Ontario County","New York"
-"36069",2022,"Worked from Home","Worked from Home",10.0215537092644,1.00215537092644,10,"Ontario","Ontario County","New York"
-"36069",2023,"Bicycle","Bicycle",0.359173900029931,0.16836276563903,46.875,"Ontario","Ontario County","New York"
-"36069",2023,"Carpooled","Carpooled",6.81120921879677,0.789434301107453,11.5902224663554,"Ontario","Ontario County","New York"
-"36069",2023,"Drove Alone","Drove Alone",76.6948518407662,1.92307692307692,2.50743938728718,"Ontario","Ontario County","New York"
-"36069",2023,"Public Transportation","Public Transportation",0.331113439090093,0.162750673451063,49.1525423728814,"Ontario","Ontario County","New York"
-"36069",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.997081712062257,0.291048292794541,29.1900141456379,"Ontario","Ontario County","New York"
-"36069",2023,"Walked","Walked",3.30552229871296,0.568692008380724,17.2043010752688,"Ontario","Ontario County","New York"
-"36069",2023,"Worked from Home","Worked from Home",11.5010475905418,1.11306495061359,9.6779440468445,"Ontario","Ontario County","New York"
-"36069",2024,"Bicycle","Bicycle",0.354153851889131,0.182668828869131,51.578947368421,"Ontario","Ontario County","New York"
-"36069",2024,"Carpooled","Carpooled",6.93955152938545,0.948759529534567,13.6717700778942,"Ontario","Ontario County","New York"
-"36069",2024,"Drove Alone","Drove Alone",74.9725064772876,1.91056683255979,2.54835662075481,"Ontario","Ontario County","New York"
-"36069",2024,"Public Transportation","Public Transportation",0.268411340379131,0.175212958303044,65.2777777777778,"Ontario","Ontario County","New York"
-"36069",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.157523905385,0.344697967584312,29.7789070256534,"Ontario","Ontario County","New York"
-"36069",2024,"Walked","Walked",2.7344405301124,0.477175716229566,17.4505794137696,"Ontario","Ontario County","New York"
-"36069",2024,"Worked from Home","Worked from Home",13.5734123655613,1.12583645547913,8.29442460862401,"Ontario","Ontario County","New York"
-"36073",2017,"Bicycle","Bicycle",0.108639716393161,0.0972039567728286,89.4736842105263,"Orleans","Orleans County","New York"
-"36073",2017,"Carpooled","Carpooled",11.201326548116,1.93836125564641,17.3047473200613,"Orleans","Orleans County","New York"
-"36073",2017,"Drove Alone","Drove Alone",79.9188061066956,3.367831208188,4.21406596551477,"Orleans","Orleans County","New York"
-"36073",2017,"Public Transportation","Public Transportation",0.537480702155641,0.26874035107782,50,"Orleans","Orleans County","New York"
-"36073",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.63022471267654,1.04793310299137,39.8419609526437,"Orleans","Orleans County","New York"
-"36073",2017,"Walked","Walked",2.24140888558522,0.731888615701298,32.6530612244898,"Orleans","Orleans County","New York"
-"36073",2017,"Worked from Home","Worked from Home",3.36211332837784,0.800503173423295,23.8095238095238,"Orleans","Orleans County","New York"
-"36073",2018,"Bicycle","Bicycle",0.186641027091228,0.118771562694418,63.6363636363636,"Orleans","Orleans County","New York"
-"36073",2018,"Carpooled","Carpooled",10.8251795712912,1.66845766642158,15.4127481713689,"Orleans","Orleans County","New York"
-"36073",2018,"Drove Alone","Drove Alone",79.8597364402466,3.07109326395566,3.84560906515581,"Orleans","Orleans County","New York"
-"36073",2018,"Public Transportation","Public Transportation",0.684350432667836,0.525988349075279,76.8595041322314,"Orleans","Orleans County","New York"
-"36073",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.61863016797692,1.15769725824427,44.2100328790862,"Orleans","Orleans County","New York"
-"36073",2018,"Walked","Walked",2.63559753407613,0.774843051863582,29.3991416309013,"Orleans","Orleans County","New York"
-"36073",2018,"Worked from Home","Worked from Home",3.18986482665008,0.735252530965443,23.0496453900709,"Orleans","Orleans County","New York"
-"36073",2019,"Bicycle","Bicycle",0.388527025482802,0.228545309107531,58.8235294117647,"Orleans","Orleans County","New York"
-"36073",2019,"Carpooled","Carpooled",11.2101474117244,1.5083990401097,13.4556574923547,"Orleans","Orleans County","New York"
-"36073",2019,"Drove Alone","Drove Alone",78.5910181693521,2.49114386927208,3.1697564521992,"Orleans","Orleans County","New York"
-"36073",2019,"Public Transportation","Public Transportation",0.674208661867215,0.514226945491944,76.271186440678,"Orleans","Orleans County","New York"
-"36073",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.22260313107074,1.021654410811,45.9665694036352,"Orleans","Orleans County","New York"
-"36073",2019,"Walked","Walked",3.25105702205462,0.982744829162381,30.2284710017575,"Orleans","Orleans County","New York"
-"36073",2019,"Worked from Home","Worked from Home",3.66243857844818,0.891326705519369,24.3369734789392,"Orleans","Orleans County","New York"
-"36073",2020,"Bicycle","Bicycle",0.606520090978014,0.338251589199277,55.7692307692308,"Orleans","Orleans County","New York"
-"36073",2020,"Carpooled","Carpooled",11.4597305651134,2.24529072140899,19.5928753180662,"Orleans","Orleans County","New York"
-"36073",2020,"Drove Alone","Drove Alone",77.832857059544,3.37668396804106,4.33837854038663,"Orleans","Orleans County","New York"
-"36073",2020,"Public Transportation","Public Transportation",0.332419665247565,0.361579285006124,108.771929824561,"Orleans","Orleans County","New York"
-"36073",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.37633405260395,0.702668185502649,51.0536075288725,"Orleans","Orleans County","New York"
-"36073",2020,"Walked","Walked",4.05901907039132,1.37633405260395,33.9080459770115,"Orleans","Orleans County","New York"
-"36073",2020,"Worked from Home","Worked from Home",4.33311949612177,1.09640170292179,25.3028263795424,"Orleans","Orleans County","New York"
-"36073",2021,"Bicycle","Bicycle",0.760723272280414,0.339399613786646,44.6153846153846,"Orleans","Orleans County","New York"
-"36073",2021,"Carpooled","Carpooled",10.4043536778044,1.97788050792908,19.0101237345332,"Orleans","Orleans County","New York"
-"36073",2021,"Drove Alone","Drove Alone",76.6750541283867,3.60465796711335,4.70121346256582,"Orleans","Orleans County","New York"
-"36073",2021,"Public Transportation","Public Transportation",0.204810111767804,0.315992743870326,154.285714285714,"Orleans","Orleans County","New York"
-"36073",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.12417344490608,1.02344849091204,48.1810227581152,"Orleans","Orleans County","New York"
-"36073",2021,"Walked","Walked",3.41740300778278,1.16449177833694,34.0753424657534,"Orleans","Orleans County","New York"
-"36073",2021,"Worked from Home","Worked from Home",6.4134823570718,1.3224881502721,20.6204379562044,"Orleans","Orleans County","New York"
-"36073",2022,"Bicycle","Bicycle",0.661534074707727,0.387795836897633,58.6206896551724,"Orleans","Orleans County","New York"
-"36073",2022,"Carpooled","Carpooled",9.66638152266895,1.66524094667807,17.2271386430678,"Orleans","Orleans County","New York"
-"36073",2022,"Drove Alone","Drove Alone",75.6030795551754,3.12517821499857,4.13366523346157,"Orleans","Orleans County","New York"
-"36073",2022,"Public Transportation","Public Transportation",0.39349871685201,0.370687197034502,94.2028985507246,"Orleans","Orleans County","New York"
-"36073",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.61391502708868,0.604774219108911,37.4724944596281,"Orleans","Orleans County","New York"
-"36073",2022,"Walked","Walked",3.67265469061876,1.51126318790989,41.1490683229814,"Orleans","Orleans County","New York"
-"36073",2022,"Worked from Home","Worked from Home",8.38893641288851,1.64813230681494,19.6464989802855,"Orleans","Orleans County","New York"
-"36073",2023,"Bicycle","Bicycle",0.552958613613043,0.416144111275795,75.2577319587629,"Orleans","Orleans County","New York"
-"36073",2023,"Carpooled","Carpooled",7.67301333941398,1.44795348306921,18.8707280832095,"Orleans","Orleans County","New York"
-"36073",2023,"Drove Alone","Drove Alone",75.7154258351385,3.42036255843119,4.51739195904231,"Orleans","Orleans County","New York"
-"36073",2023,"Public Transportation","Public Transportation",0.245125983354236,0.393341694219587,160.46511627907,"Orleans","Orleans County","New York"
-"36073",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.45935469159731,0.66872243060143,45.8231596781652,"Orleans","Orleans County","New York"
-"36073",2023,"Walked","Walked",3.62558431193707,1.14582145707445,31.6037735849057,"Orleans","Orleans County","New York"
-"36073",2023,"Worked from Home","Worked from Home",10.7285372249458,1.90970242845742,17.8002125398512,"Orleans","Orleans County","New York"
-"36073",2024,"Bicycle","Bicycle",0.376798355788993,0.291162365836949,77.2727272727273,"Orleans","Orleans County","New York"
-"36073",2024,"Carpooled","Carpooled",8.76341630509249,1.80406485498972,20.586319218241,"Orleans","Orleans County","New York"
-"36073",2024,"Drove Alone","Drove Alone",74.8230189540991,3.68805663393469,4.92904013428964,"Orleans","Orleans County","New York"
-"36073",2024,"Public Transportation","Public Transportation",0.622288193651519,0.536652203699475,86.2385321100917,"Orleans","Orleans County","New York"
-"36073",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.04955469285225,0.92495679015646,45.1296466194444,"Orleans","Orleans County","New York"
-"36073",2024,"Walked","Walked",2.90020552637589,1.02763187942453,35.4330708661417,"Orleans","Orleans County","New York"
-"36073",2024,"Worked from Home","Worked from Home",10.4647179721398,2.00959123087463,19.2034915439171,"Orleans","Orleans County","New York"
-"36099",2017,"Bicycle","Bicycle",0.381955877510701,0.197563384919328,51.7241379310345,"Seneca","Seneca County","New York"
-"36099",2017,"Carpooled","Carpooled",10.1679288771814,1.60684886401054,15.8031088082902,"Seneca","Seneca County","New York"
-"36099",2017,"Drove Alone","Drove Alone",79.7563384919328,2.77905828119855,3.48443563702419,"Seneca","Seneca County","New York"
-"36099",2017,"Public Transportation","Public Transportation",0.665130062561739,0.322686862034903,48.5148514851485,"Seneca","Seneca County","New York"
-"36099",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.6463615409944,0.932276844998991,56.6264955652387,"Seneca","Seneca County","New York"
-"36099",2017,"Walked","Walked",3.33882120513665,0.777082647349358,23.2741617357002,"Seneca","Seneca County","New York"
-"36099",2017,"Worked from Home","Worked from Home",4.04346394468225,0.651959170233783,16.1237785016287,"Seneca","Seneca County","New York"
-"36099",2018,"Bicycle","Bicycle",0.427266153947282,0.243213041477684,56.9230769230769,"Seneca","Seneca County","New York"
-"36099",2018,"Carpooled","Carpooled",9.22237559981595,1.60389140866364,17.3913043478261,"Seneca","Seneca County","New York"
-"36099",2018,"Drove Alone","Drove Alone",80.0368106224939,3.11575626109249,3.89290407358738,"Seneca","Seneca County","New York"
-"36099",2018,"Public Transportation","Public Transportation",0.729639124433051,0.302372970485769,41.4414414414414,"Seneca","Seneca County","New York"
-"36099",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.59074475777296,0.721779869175558,45.3737072304453,"Seneca","Seneca County","New York"
-"36099",2018,"Walked","Walked",3.72707552750937,0.815092355222507,21.8694885361552,"Seneca","Seneca County","New York"
-"36099",2018,"Worked from Home","Worked from Home",4.26608821402748,0.709919148097022,16.6409861325116,"Seneca","Seneca County","New York"
-"36099",2019,"Bicycle","Bicycle",0.446905016008538,0.213447171824973,47.7611940298507,"Seneca","Seneca County","New York"
-"36099",2019,"Carpooled","Carpooled",9.79188900747065,1.17395944503735,11.9891008174387,"Seneca","Seneca County","New York"
-"36099",2019,"Drove Alone","Drove Alone",80.0493596584845,2.68143009605123,3.34972085659528,"Seneca","Seneca County","New York"
-"36099",2019,"Public Transportation","Public Transportation",0.613660618996798,0.340181430096051,55.4347826086957,"Seneca","Seneca County","New York"
-"36099",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.39407684098186,0.701008504152149,50.284782269134,"Seneca","Seneca County","New York"
-"36099",2019,"Walked","Walked",3.3551227321238,0.847118463180363,25.2485089463221,"Seneca","Seneca County","New York"
-"36099",2019,"Worked from Home","Worked from Home",4.34898612593383,0.80709711846318,18.558282208589,"Seneca","Seneca County","New York"
-"36099",2020,"Bicycle","Bicycle",0.338196286472149,0.271883289124668,80.3921568627451,"Seneca","Seneca County","New York"
-"36099",2020,"Carpooled","Carpooled",9.78779840848806,1.29310344827586,13.2113821138211,"Seneca","Seneca County","New York"
-"36099",2020,"Drove Alone","Drove Alone",78.7533156498674,2.85145888594164,3.62074772650724,"Seneca","Seneca County","New York"
-"36099",2020,"Public Transportation","Public Transportation",0.603448275862069,0.318302387267904,52.7472527472528,"Seneca","Seneca County","New York"
-"36099",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.50663129973475,0.932470157447583,37.2001322071681,"Seneca","Seneca County","New York"
-"36099",2020,"Walked","Walked",2.77188328912467,0.689655172413793,24.8803827751196,"Seneca","Seneca County","New York"
-"36099",2020,"Worked from Home","Worked from Home",5.23872679045093,0.981432360742706,18.7341772151899,"Seneca","Seneca County","New York"
-"36099",2021,"Bicycle","Bicycle",0.348175426849682,0.314697020421828,90.3846153846154,"Seneca","Seneca County","New York"
-"36099",2021,"Carpooled","Carpooled",9.46099765651155,1.38600602611316,14.6496815286624,"Seneca","Seneca County","New York"
-"36099",2021,"Drove Alone","Drove Alone",77.6699029126214,3.46166722464011,4.45689655172414,"Seneca","Seneca County","New York"
-"36099",2021,"Public Transportation","Public Transportation",0.528958821560094,0.301305657850686,56.9620253164557,"Seneca","Seneca County","New York"
-"36099",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.41044526280549,0.954715873182415,39.6074487943872,"Seneca","Seneca County","New York"
-"36099",2021,"Walked","Walked",2.79209909608303,0.74322062269836,26.6187050359712,"Seneca","Seneca County","New York"
-"36099",2021,"Worked from Home","Worked from Home",6.7894208235688,1.36591898225644,20.1183431952663,"Seneca","Seneca County","New York"
-"36099",2022,"Bicycle","Bicycle",0.386740331491713,0.352209944751381,91.0714285714286,"Seneca","Seneca County","New York"
-"36099",2022,"Carpooled","Carpooled",10.6975138121547,1.48480662983425,13.8799225306649,"Seneca","Seneca County","New York"
-"36099",2022,"Drove Alone","Drove Alone",76.5055248618785,3.28729281767956,4.29680447734248,"Seneca","Seneca County","New York"
-"36099",2022,"Public Transportation","Public Transportation",0.379834254143646,0.352209944751381,92.7272727272727,"Seneca","Seneca County","New York"
-"36099",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.76795580110497,0.947970751408868,53.6195956265641,"Seneca","Seneca County","New York"
-"36099",2022,"Walked","Walked",2.95580110497238,0.93232044198895,31.5420560747664,"Seneca","Seneca County","New York"
-"36099",2022,"Worked from Home","Worked from Home",7.30662983425414,1.40193370165746,19.187145557656,"Seneca","Seneca County","New York"
-"36099",2023,"Bicycle","Bicycle",0.146894236149972,0.223838836038053,152.380952380952,"Seneca","Seneca County","New York"
-"36099",2023,"Carpooled","Carpooled",11.2479015109121,1.49692221600448,13.3084577114428,"Seneca","Seneca County","New York"
-"36099",2023,"Drove Alone","Drove Alone",75.1888640179071,3.2876329043089,4.37249976742023,"Seneca","Seneca County","New York"
-"36099",2023,"Public Transportation","Public Transportation",0.363738108561835,0.307778399552322,84.6153846153846,"Seneca","Seneca County","New York"
-"36099",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.10548405148293,1.00369806597191,47.6706563160614,"Seneca","Seneca County","New York"
-"36099",2023,"Walked","Walked",3.04980414101847,0.867375489647454,28.4403669724771,"Seneca","Seneca County","New York"
-"36099",2023,"Worked from Home","Worked from Home",7.89731393396754,1.4829322887521,18.7776793622675,"Seneca","Seneca County","New York"
-"36099",2024,"Bicycle","Bicycle",0.269255296535109,0.297597959328279,110.526315789474,"Seneca","Seneca County","New York"
-"36099",2024,"Carpooled","Carpooled",8.96336710833983,1.52341812513286,16.99604743083,"Seneca","Seneca County","New York"
-"36099",2024,"Drove Alone","Drove Alone",76.0150216112804,3.16020690143839,4.15734526472782,"Seneca","Seneca County","New York"
-"36099",2024,"Public Transportation","Public Transportation",0.162970311060724,0.141713313965847,86.9565217391304,"Seneca","Seneca County","New York"
-"36099",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.60752497697159,1.06173918679909,40.7182748459119,"Seneca","Seneca County","New York"
-"36099",2024,"Walked","Walked",3.36569120668887,1.06284985474385,31.5789473684211,"Seneca","Seneca County","New York"
-"36099",2024,"Worked from Home","Worked from Home",8.6161694891235,1.62261744490895,18.8322368421053,"Seneca","Seneca County","New York"
-"36117",2017,"Bicycle","Bicycle",0.169923534409516,0.122722552629095,72.2222222222222,"Wayne","Wayne County","New York"
-"36117",2017,"Carpooled","Carpooled",8.10440857169829,0.927499291985273,11.4443797320909,"Wayne","Wayne County","New York"
-"36117",2017,"Drove Alone","Drove Alone",84.5817993014255,1.96120079297649,2.31870308881386,"Wayne","Wayne County","New York"
-"36117",2017,"Public Transportation","Public Transportation",0.65137354856981,0.344567166997074,52.8985507246377,"Wayne","Wayne County","New York"
-"36117",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.10686302275087,0.368092007516032,33.2554254636872,"Wayne","Wayne County","New York"
-"36117",2017,"Walked","Walked",2.17360521098839,0.415368639667705,19.1096634093377,"Wayne","Wayne County","New York"
-"36117",2017,"Worked from Home","Worked from Home",3.21202681015765,0.56169168318701,17.4871418074945,"Wayne","Wayne County","New York"
-"36117",2018,"Bicycle","Bicycle",0.217036172695449,0.142357059509918,65.5913978494624,"Wayne","Wayne County","New York"
-"36117",2018,"Carpooled","Carpooled",8.0046674445741,0.900816802800467,11.2536443148688,"Wayne","Wayne County","New York"
-"36117",2018,"Drove Alone","Drove Alone",84.4760793465578,1.91365227537923,2.26531852588541,"Wayne","Wayne County","New York"
-"36117",2018,"Public Transportation","Public Transportation",0.630105017502917,0.352392065344224,55.9259259259259,"Wayne","Wayne County","New York"
-"36117",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.13885647607935,0.462607100210459,40.6203160738077,"Wayne","Wayne County","New York"
-"36117",2018,"Walked","Walked",1.91831971995333,0.406067677946324,21.1678832116788,"Wayne","Wayne County","New York"
-"36117",2018,"Worked from Home","Worked from Home",3.61493582263711,0.630105017502917,17.4306003873467,"Wayne","Wayne County","New York"
-"36117",2019,"Bicycle","Bicycle",0.194183629177804,0.123363717360016,63.5294117647059,"Wayne","Wayne County","New York"
-"36117",2019,"Carpooled","Carpooled",9.27055490827679,1.09656637653348,11.828486939379,"Wayne","Wayne County","New York"
-"36117",2019,"Drove Alone","Drove Alone",83.9832773627579,1.72480752975579,2.05375115608509,"Wayne","Wayne County","New York"
-"36117",2019,"Public Transportation","Public Transportation",0.454618143604505,0.201037169031138,44.2211055276382,"Wayne","Wayne County","New York"
-"36117",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.847554428529002,0.279253132743669,32.9481061444438,"Wayne","Wayne County","New York"
-"36117",2019,"Walked","Walked",2.02407877001805,0.40892787791561,20.2031602708804,"Wayne","Wayne County","New York"
-"36117",2019,"Worked from Home","Worked from Home",3.22573275763599,0.571128321111187,17.7053824362606,"Wayne","Wayne County","New York"
-"36117",2020,"Bicycle","Bicycle",0.240046162723601,0.156953260242354,65.3846153846154,"Wayne","Wayne County","New York"
-"36117",2020,"Carpooled","Carpooled",9.79803808424697,1.200230813618,12.2497055359246,"Wayne","Wayne County","New York"
-"36117",2020,"Drove Alone","Drove Alone",82.0126947489902,2.08193883439123,2.53855679387594,"Wayne","Wayne County","New York"
-"36117",2020,"Public Transportation","Public Transportation",0.353144835545297,0.140796306982112,39.8692810457516,"Wayne","Wayne County","New York"
-"36117",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.445470282746682,0.193842218023447,43.5140626728801,"Wayne","Wayne County","New York"
-"36117",2020,"Walked","Walked",2.10271206001154,0.570109636468552,27.1130625686059,"Wayne","Wayne County","New York"
-"36117",2020,"Worked from Home","Worked from Home",5.04789382573572,1.00865551067513,19.9817101051669,"Wayne","Wayne County","New York"
-"36117",2021,"Bicycle","Bicycle",0.221596417524583,0.161580721111675,72.9166666666667,"Wayne","Wayne County","New York"
-"36117",2021,"Carpooled","Carpooled",9.0392871981903,1.25340473662342,13.8661899897855,"Wayne","Wayne County","New York"
-"36117",2021,"Drove Alone","Drove Alone",81.6998291860948,2.44679377683394,2.99485788551732,"Wayne","Wayne County","New York"
-"36117",2021,"Public Transportation","Public Transportation",0.427034762937999,0.200821753381654,47.027027027027,"Wayne","Wayne County","New York"
-"36117",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.614006740224366,0.332378596066891,54.1327275895107,"Wayne","Wayne County","New York"
-"36117",2021,"Walked","Walked",1.72891371589493,0.549374451779696,31.7757009345794,"Wayne","Wayne County","New York"
-"36117",2021,"Worked from Home","Worked from Home",6.269331979133,1.25109644060754,19.9558173784978,"Wayne","Wayne County","New York"
-"36117",2022,"Bicycle","Bicycle",0.161456383377012,0.131037064769749,81.1594202898551,"Wayne","Wayne County","New York"
-"36117",2022,"Carpooled","Carpooled",9.08367652564583,1.36886933732684,15.0695517774343,"Wayne","Wayne County","New York"
-"36117",2022,"Drove Alone","Drove Alone",80.1525645825534,2.52480344440285,3.14999708063292,"Wayne","Wayne County","New York"
-"36117",2022,"Public Transportation","Public Transportation",0.278453762635717,0.170816173717709,61.3445378151261,"Wayne","Wayne County","New York"
-"36117",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.769842755522276,0.383758537888782,49.8489509884954,"Wayne","Wayne County","New York"
-"36117",2022,"Walked","Walked",1.97491576188693,0.638805690752527,32.345971563981,"Wayne","Wayne County","New York"
-"36117",2022,"Worked from Home","Worked from Home",7.57909022837888,1.18401347809809,15.6221055881445,"Wayne","Wayne County","New York"
-"36117",2023,"Bicycle","Bicycle",0.0116395465232675,0.0209511837418814,180,"Wayne","Wayne County","New York"
-"36117",2023,"Carpooled","Carpooled",10.4360174127616,1.03359173126615,9.90408208788758,"Wayne","Wayne County","New York"
-"36117",2023,"Drove Alone","Drove Alone",77.4704937495635,2.82608189584934,3.64794615222813,"Wayne","Wayne County","New York"
-"36117",2023,"Public Transportation","Public Transportation",0.256070023511884,0.167609469935051,65.4545454545455,"Wayne","Wayne County","New York"
-"36117",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.11041273831972,0.593215058225907,53.4229334511746,"Wayne","Wayne County","New York"
-"36117",2023,"Walked","Walked",1.91354144842517,0.612240147123868,31.9951338199513,"Wayne","Wayne County","New York"
-"36117",2023,"Worked from Home","Worked from Home",8.80182508089485,1.17326628954536,13.3298069293838,"Wayne","Wayne County","New York"
-"36117",2024,"Bicycle","Bicycle",0.0447764711427427,0.054203096646478,121.052631578947,"Wayne","Wayne County","New York"
-"36117",2024,"Carpooled","Carpooled",8.86102797351118,1.20660806447812,13.6170212765957,"Wayne","Wayne County","New York"
-"36117",2024,"Drove Alone","Drove Alone",77.8191501897108,2.71486814507577,3.48868901608068,"Wayne","Wayne County","New York"
-"36117",2024,"Public Transportation","Public Transportation",0.216812386585912,0.143756038931963,66.304347826087,"Wayne","Wayne County","New York"
-"36117",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.15004831145571,0.649159382463749,56.4462706477136,"Wayne","Wayne County","New York"
-"36117",2024,"Walked","Walked",1.84290528598025,0.563240873848184,30.5626598465473,"Wayne","Wayne County","New York"
-"36117",2024,"Worked from Home","Worked from Home",10.0652793816134,1.43756038931963,14.2823694685085,"Wayne","Wayne County","New York"
-"36123",2017,"Bicycle","Bicycle",2.39108776378951,0.951000815143556,39.7727272727273,"Yates","Yates County","New York"
-"36123",2017,"Carpooled","Carpooled",9.781722670048,1.44914409926637,14.8148148148148,"Yates","Yates County","New York"
-"36123",2017,"Drove Alone","Drove Alone",67.729372339462,3.21528847024726,4.74725862530088,"Yates","Yates County","New York"
-"36123",2017,"Public Transportation","Public Transportation",0.289828819853274,0.335114572955348,115.625,"Yates","Yates County","New York"
-"36123",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.70274431663799,0.647887048917962,38.0495792931022,"Yates","Yates County","New York"
-"36123",2017,"Walked","Walked",8.14237840775292,1.52160130422969,18.6874304783092,"Yates","Yates County","New York"
-"36123",2017,"Worked from Home","Worked from Home",9.9628656824563,1.5306584548501,15.3636363636364,"Yates","Yates County","New York"
-"36123",2018,"Bicycle","Bicycle",2.52783354626757,0.812192005840482,32.129963898917,"Yates","Yates County","New York"
-"36123",2018,"Carpooled","Carpooled",9.29001642635517,1.7247672933017,18.565815324165,"Yates","Yates County","New York"
-"36123",2018,"Drove Alone","Drove Alone",67.9138528928637,3.3035225406096,4.86428379467885,"Yates","Yates County","New York"
-"36123",2018,"Public Transportation","Public Transportation",0.33765285636065,0.374155867859098,110.810810810811,"Yates","Yates County","New York"
-"36123",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.4236174484395,0.660908671600654,46.4245975858972,"Yates","Yates County","New York"
-"36123",2018,"Walked","Walked",7.61087789742654,1.68826428180325,22.1822541966427,"Yates","Yates County","New York"
-"36123",2018,"Worked from Home","Worked from Home",10.8961489322869,1.46924621281256,13.4840871021776,"Yates","Yates County","New York"
-"36123",2019,"Bicycle","Bicycle",1.78634909349449,0.746533949520085,41.7910447761194,"Yates","Yates County","New York"
-"36123",2019,"Carpooled","Carpooled",8.21187344472094,1.57305367934589,19.1558441558442,"Yates","Yates County","New York"
-"36123",2019,"Drove Alone","Drove Alone",70.9651617490224,3.53714895129755,4.98434564809017,"Yates","Yates County","New York"
-"36123",2019,"Public Transportation","Public Transportation",0.311055812300036,0.426590828297192,137.142857142857,"Yates","Yates County","New York"
-"36123",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.11980092428013,0.600271766468833,53.6052215579945,"Yates","Yates County","New York"
-"36123",2019,"Walked","Walked",5.9900462140064,1.28865979381443,21.513353115727,"Yates","Yates County","New York"
-"36123",2019,"Worked from Home","Worked from Home",11.6157127621756,1.81301102026306,15.6082631981637,"Yates","Yates County","New York"
-"36123",2020,"Bicycle","Bicycle",2.49241239768233,1.02087740274073,40.9594095940959,"Yates","Yates County","New York"
-"36123",2020,"Carpooled","Carpooled",7.20132438149545,1.17722799595328,16.3473818646232,"Yates","Yates County","New York"
-"36123",2020,"Drove Alone","Drove Alone",70.5325117262945,3.47650142554953,4.92893467205633,"Yates","Yates County","New York"
-"36123",2020,"Public Transportation","Public Transportation",0.27591281155155,0.377080842453785,136.666666666667,"Yates","Yates County","New York"
-"36123",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.50832336981514,0.769539028630882,51.0194991359974,"Yates","Yates County","New York"
-"36123",2020,"Walked","Walked",5.52745332474938,1.30598730801067,23.6272878535774,"Yates","Yates County","New York"
-"36123",2020,"Worked from Home","Worked from Home",12.4620619884117,2.26248505472271,18.1549815498155,"Yates","Yates County","New York"
-"36123",2021,"Bicycle","Bicycle",2.47718383311604,0.726392251815981,29.3233082706767,"Yates","Yates County","New York"
-"36123",2021,"Carpooled","Carpooled",7.64574408642205,1.61110076364314,21.0718635809988,"Yates","Yates County","New York"
-"36123",2021,"Drove Alone","Drove Alone",70.4041720990874,3.75302663438257,5.33068783068783,"Yates","Yates County","New York"
-"36123",2021,"Public Transportation","Public Transportation",0,0.223505308251071,NA,"Yates","Yates County","New York"
-"36123",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.35965729186068,0.785863455011726,57.7986423281912,"Yates","Yates County","New York"
-"36123",2021,"Walked","Walked",5.3641273980257,1.30378096479791,24.3055555555556,"Yates","Yates County","New York"
-"36123",2021,"Worked from Home","Worked from Home",12.7491152914882,1.93704600484262,15.1935719503287,"Yates","Yates County","New York"
-"36123",2022,"Bicycle","Bicycle",2.44794597636466,0.797223785406115,32.5670498084291,"Yates","Yates County","New York"
-"36123",2022,"Carpooled","Carpooled",8.92890639654849,1.77265053460889,19.8529411764706,"Yates","Yates County","New York"
-"36123",2022,"Drove Alone","Drove Alone",71.562558619396,3.96736072031514,5.54390563564875,"Yates","Yates County","New York"
-"36123",2022,"Public Transportation","Public Transportation",0.018758206715438,0.028137310073157,150,"Yates","Yates County","New York"
-"36123",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.35059088351154,0.847862643405704,62.777163222164,"Yates","Yates County","New York"
-"36123",2022,"Walked","Walked",3.48902644907147,0.891014818983305,25.5376344086022,"Yates","Yates County","New York"
-"36123",2022,"Worked from Home","Worked from Home",12.2022134683924,2.20408928906397,18.0630284396618,"Yates","Yates County","New York"
-"36123",2023,"Bicycle","Bicycle",2.2004652966266,0.697944939899186,31.7180616740088,"Yates","Yates County","New York"
-"36123",2023,"Carpooled","Carpooled",8.3171772004653,1.52190771616906,18.2983682983683,"Yates","Yates County","New York"
-"36123",2023,"Drove Alone","Drove Alone",70.153160139589,4.24583171772005,6.05223158767445,"Yates","Yates County","New York"
-"36123",2023,"Public Transportation","Public Transportation",0.164792555253974,0.213260953858085,129.411764705882,"Yates","Yates County","New York"
-"36123",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.7157813105855,0.81299869508576,47.3835849633034,"Yates","Yates County","New York"
-"36123",2023,"Walked","Walked",3.98410236525785,1.13416052733618,28.4671532846715,"Yates","Yates County","New York"
-"36123",2023,"Worked from Home","Worked from Home",13.4645211322218,2.13260953858085,15.8387329013679,"Yates","Yates County","New York"
-"36123",2024,"Bicycle","Bicycle",2.20385674931129,0.68870523415978,31.25,"Yates","Yates County","New York"
-"36123",2024,"Carpooled","Carpooled",8.0676898858717,1.62337662337662,20.1219512195122,"Yates","Yates County","New York"
-"36123",2024,"Drove Alone","Drove Alone",68.7426210153483,3.88626524990161,5.65335623300415,"Yates","Yates County","New York"
-"36123",2024,"Public Transportation","Public Transportation",0.137741046831956,0.127902400629673,92.8571428571429,"Yates","Yates County","New York"
-"36123",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.21369539551358,0.917793300276965,41.4597826845114,"Yates","Yates County","New York"
-"36123",2024,"Walked","Walked",5.18496654860291,1.5249901613538,29.4117647058823,"Yates","Yates County","New York"
-"36123",2024,"Worked from Home","Worked from Home",13.4494293585203,2.15466351829988,16.020482809071,"Yates","Yates County","New York"
+"GEOID","year","variable","Variable_Description","estimate","moe","moe_pct_of_estimate","County","Geography","State","count"
+"36037",2017,"Bicycle","Bicycle",0.568320490917332,0.34517624908476,60.7361963190184,"Genesee","Genesee County","New York",163
+"36037",2017,"Carpooled","Carpooled",8.34350266727102,1.03552874725428,12.4111993313832,"Genesee","Genesee County","New York",2393
+"36037",2017,"Drove Alone","Drove Alone",83.3862138698093,2.01875806282905,2.42097340692423,"Genesee","Genesee County","New York",23916
+"36037",2017,"Public Transportation","Public Transportation",0.383529165649733,0.188277954046233,49.0909090909091,"Genesee","Genesee County","New York",110
+"36037",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.08782817893379,0.406293247641329,37.3490276782082,"Genesee","Genesee County","New York",312
+"36037",2017,"Walked","Walked",3.62958055855793,0.777518217635368,21.4217098943324,"Genesee","Genesee County","New York",1041
+"36037",2017,"Worked from Home","Worked from Home",2.60102506886092,0.627593180154109,24.1286863270778,"Genesee","Genesee County","New York",746
+"36037",2018,"Bicycle","Bicycle",0.607704456499348,0.27466868090366,45.1977401129944,"Genesee","Genesee County","New York",177
+"36037",2018,"Carpooled","Carpooled",8.46322873034402,1.12614159170501,13.3062880324544,"Genesee","Genesee County","New York",2465
+"36037",2018,"Drove Alone","Drove Alone",83.5988463915402,2.28318341001167,2.73111832108095,"Genesee","Genesee County","New York",24349
+"36037",2018,"Public Transportation","Public Transportation",0.346769209640871,0.202568152166449,58.4158415841584,"Genesee","Genesee County","New York",101
+"36037",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.27377600769072,0.482359378748835,37.8684616319099,"Genesee","Genesee County","New York",371
+"36037",2018,"Walked","Walked",3.21019020806153,0.696971777793037,21.7112299465241,"Genesee","Genesee County","New York",935
+"36037",2018,"Worked from Home","Worked from Home",2.49948499622331,0.480670191581405,19.2307692307692,"Genesee","Genesee County","New York",728
+"36037",2019,"Bicycle","Bicycle",0.660831055599765,0.332145452029201,50.261780104712,"Genesee","Genesee County","New York",191
+"36037",2019,"Carpooled","Carpooled",8.41435145140643,1.2732242327786,15.1315789473684,"Genesee","Genesee County","New York",2432
+"36037",2019,"Drove Alone","Drove Alone",82.8979690689548,2.2592810434903,2.72537562604341,"Genesee","Genesee County","New York",23960
+"36037",2019,"Public Transportation","Public Transportation",0.176452271390513,0.128014392969588,72.5490196078431,"Genesee","Genesee County","New York",51
+"36037",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.57769089713871,0.532569473258195,33.7562620297842,"Genesee","Genesee County","New York",456
+"36037",2019,"Walked","Walked",3.40103103484067,0.979137113794416,28.7894201424212,"Genesee","Genesee County","New York",983
+"36037",2019,"Worked from Home","Worked from Home",2.87167422066914,0.557035601840639,19.3975903614458,"Genesee","Genesee County","New York",830
+"36037",2020,"Bicycle","Bicycle",0.375412251771805,0.224545645919585,59.8130841121495,"Genesee","Genesee County","New York",107
+"36037",2020,"Carpooled","Carpooled",8.49063223633429,1.29113746403761,15.2066115702479,"Genesee","Genesee County","New York",2420
+"36037",2020,"Drove Alone","Drove Alone",82.3240474352677,2.40684864220055,2.9236276849642,"Genesee","Genesee County","New York",23464
+"36037",2020,"Public Transportation","Public Transportation",0.157883657287208,0.122798400112273,77.7777777777778,"Genesee","Genesee County","New York",45
+"36037",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.41042733843239,0.475052309159922,33.6814450638709,"Genesee","Genesee County","New York",402
+"36037",2020,"Walked","Walked",4.41021682688934,1.12623675531542,25.5369928400955,"Genesee","Genesee County","New York",1257
+"36037",2020,"Worked from Home","Worked from Home",2.83138025401726,0.575398217668936,20.3221809169765,"Genesee","Genesee County","New York",807
+"36037",2021,"Bicycle","Bicycle",0.369666244190959,0.211237853823405,57.1428571428571,"Genesee","Genesee County","New York",105
+"36037",2021,"Carpooled","Carpooled",6.8300239402901,1.16532882692579,17.0618556701031,"Genesee","Genesee County","New York",1940
+"36037",2021,"Drove Alone","Drove Alone",81.9286016054077,2.74609209970427,3.35181126724249,"Genesee","Genesee County","New York",23271
+"36037",2021,"Public Transportation","Public Transportation",0.102098296014646,0.0774538797352486,75.8620689655173,"Genesee","Genesee County","New York",29
+"36037",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.71454724686664,0.559204315640459,32.6152759372723,"Genesee","Genesee County","New York",487
+"36037",2021,"Walked","Walked",4.23179833826222,1.10547810167582,26.1231281198003,"Genesee","Genesee County","New York",1202
+"36037",2021,"Worked from Home","Worked from Home",4.82326432896775,0.82382762991128,17.0802919708029,"Genesee","Genesee County","New York",1370
+"36037",2022,"Bicycle","Bicycle",0.559351435550678,0.304457110489609,54.4303797468354,"Genesee","Genesee County","New York",158
+"36037",2022,"Carpooled","Carpooled",7.20076468297518,1.12578326901972,15.6342182890855,"Genesee","Genesee County","New York",2034
+"36037",2022,"Drove Alone","Drove Alone",81.7715155591744,2.1630615640599,2.64525067105377,"Genesee","Genesee County","New York",23098
+"36037",2022,"Public Transportation","Public Transportation",0.120366764612171,0.109746167734627,91.1764705882353,"Genesee","Genesee County","New York",34
+"36037",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.47626296597869,0.496209117552678,33.6125154520635,"Genesee","Genesee County","New York",417
+"36037",2022,"Walked","Walked",3.56498035189578,0.70449959287712,19.7616683217478,"Genesee","Genesee County","New York",1007
+"36037",2022,"Worked from Home","Worked from Home",5.30675823981308,0.874429142917832,16.4776517678452,"Genesee","Genesee County","New York",1499
+"36037",2023,"Bicycle","Bicycle",0.392086972019248,0.217430048119765,55.4545454545455,"Genesee","Genesee County","New York",110
+"36037",2023,"Carpooled","Carpooled",6.17002316877562,1.21903404027803,19.7573656845754,"Genesee","Genesee County","New York",1731
+"36037",2023,"Drove Alone","Drove Alone",82.3703439672073,2.23489574050971,2.713228612229,"Genesee","Genesee County","New York",23109
+"36037",2023,"Public Transportation","Public Transportation",0.121190518624131,0.110497237569061,91.1764705882353,"Genesee","Genesee County","New York",34
+"36037",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.37586882908572,0.473921369401481,34.4452435713952,"Genesee","Genesee County","New York",386
+"36037",2023,"Walked","Walked",3.32561040812689,0.973088576011406,29.2604501607717,"Genesee","Genesee County","New York",933
+"36037",2023,"Worked from Home","Worked from Home",6.24487613616111,1.19051862413117,19.0639269406393,"Genesee","Genesee County","New York",1752
+"36037",2024,"Bicycle","Bicycle",0.367834510889358,0.280428290480006,76.2376237623762,"Genesee","Genesee County","New York",101
+"36037",2024,"Carpooled","Carpooled",6.40250564498507,1.07801005171535,16.8373151308305,"Genesee","Genesee County","New York",1758
+"36037",2024,"Drove Alone","Drove Alone",81.8122223031539,2.37089372860369,2.89797008547009,"Genesee","Genesee County","New York",22464
+"36037",2024,"Public Transportation","Public Transportation",0.163886663267536,0.134751256464418,82.2222222222222,"Genesee","Genesee County","New York",45
+"36037",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.21276130817977,0.535759353454702,44.1768177992769,"Genesee","Genesee County","New York",333
+"36037",2024,"Walked","Walked",3.29958482045306,0.750236725180275,22.7373068432671,"Genesee","Genesee County","New York",906
+"36037",2024,"Worked from Home","Worked from Home",6.74120474907131,0.93233301769976,13.8303619665046,"Genesee","Genesee County","New York",1851
+"36051",2017,"Bicycle","Bicycle",0.336525117957258,0.242853177907299,72.1649484536083,"Livingston","Livingston County","New York",97
+"36051",2017,"Carpooled","Carpooled",7.20927005273383,0.915903413821815,12.7045235803657,"Livingston","Livingston County","New York",2078
+"36051",2017,"Drove Alone","Drove Alone",81.1996946988621,2.3556758257008,2.90108951078829,"Livingston","Livingston County","New York",23405
+"36051",2017,"Public Transportation","Public Transportation",0.461421038023869,0.211629197890647,45.8646616541353,"Livingston","Livingston County","New York",133
+"36051",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.19344990285873,0.66507176972804,55.7268275890727,"Livingston","Livingston County","New York",344
+"36051",2017,"Walked","Walked",6.21704135442687,1.05814598945323,17.0200892857143,"Livingston","Livingston County","New York",1792
+"36051",2017,"Worked from Home","Worked from Home",3.38259783513739,0.596724951429364,17.6410256410256,"Livingston","Livingston County","New York",975
+"36051",2018,"Bicycle","Bicycle",0.393798559619683,0.312200659878667,79.2792792792793,"Livingston","Livingston County","New York",111
+"36051",2018,"Carpooled","Carpooled",7.23737893355093,0.961436123035442,13.2843137254902,"Livingston","Livingston County","New York",2040
+"36051",2018,"Drove Alone","Drove Alone",81.4382516763047,1.91932451129954,2.35678501415814,"Livingston","Livingston County","New York",22955
+"36051",2018,"Public Transportation","Public Transportation",0.603114911129244,0.319296129421364,52.9411764705882,"Livingston","Livingston County","New York",170
+"36051",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.358321211906198,0.14696360149862,41.0144854994217,"Livingston","Livingston County","New York",101
+"36051",2018,"Walked","Walked",6.17305850214638,1.01110440983432,16.3793103448276,"Livingston","Livingston County","New York",1740
+"36051",2018,"Worked from Home","Worked from Home",3.79607620534289,0.592471706815199,15.607476635514,"Livingston","Livingston County","New York",1070
+"36051",2019,"Bicycle","Bicycle",0.230229881047895,0.24418320717201,106.060606060606,"Livingston","Livingston County","New York",66
+"36051",2019,"Carpooled","Carpooled",8.2499040708829,1.20696270973593,14.630021141649,"Livingston","Livingston County","New York",2365
+"36051",2019,"Drove Alone","Drove Alone",80.1653469145708,2.29532214741689,2.86323484617728,"Livingston","Livingston County","New York",22981
+"36051",2019,"Public Transportation","Public Transportation",0.659294659364426,0.286043185544354,43.3862433862434,"Livingston","Livingston County","New York",189
+"36051",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.743014616109115,0.429518305327801,57.8075176470989,"Livingston","Livingston County","New York",213
+"36051",2019,"Walked","Walked",6.38364670178254,1.08835943768096,17.0491803278689,"Livingston","Livingston County","New York",1830
+"36051",2019,"Worked from Home","Worked from Home",3.56856315624237,0.582551365681794,16.3245356793744,"Livingston","Livingston County","New York",1023
+"36051",2020,"Bicycle","Bicycle",0.24313997915943,0.232719694338312,95.7142857142857,"Livingston","Livingston County","New York",70
+"36051",2020,"Carpooled","Carpooled",7.683223341438,0.993400486279958,12.9294755877034,"Livingston","Livingston County","New York",2212
+"36051",2020,"Drove Alone","Drove Alone",79.8853768669677,2.74748176450156,3.43927996869429,"Livingston","Livingston County","New York",22999
+"36051",2020,"Public Transportation","Public Transportation",0.590482806530045,0.257033692254255,43.5294117647059,"Livingston","Livingston County","New York",170
+"36051",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.857936783605418,0.41265146536637,48.0981201939181,"Livingston","Livingston County","New York",247
+"36051",2020,"Walked","Walked",5.8214657867315,0.889197638068774,15.2744630071599,"Livingston","Livingston County","New York",1676
+"36051",2020,"Worked from Home","Worked from Home",4.91837443556791,1.02118791246961,20.7627118644068,"Livingston","Livingston County","New York",1416
+"36051",2021,"Bicycle","Bicycle",0.124564025909317,0.13524094241583,108.571428571429,"Livingston","Livingston County","New York",35
+"36051",2021,"Carpooled","Carpooled",7.98633354687166,1.27411203644387,15.9536541889483,"Livingston","Livingston County","New York",2244
+"36051",2021,"Drove Alone","Drove Alone",78.3329774361165,2.17809096732864,2.78055429350295,"Livingston","Livingston County","New York",22010
+"36051",2021,"Public Transportation","Public Transportation",0.647732934728451,0.259804968325148,40.1098901098901,"Livingston","Livingston County","New York",182
+"36051",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.04633781763827,0.426616712013748,40.7723686195997,"Livingston","Livingston County","New York",294
+"36051",2021,"Walked","Walked",5.73706313616628,0.921773791728949,16.0669975186104,"Livingston","Livingston County","New York",1612
+"36051",2021,"Worked from Home","Worked from Home",6.12499110256958,1.12819417752153,18.4195235328298,"Livingston","Livingston County","New York",1721
+"36051",2022,"Bicycle","Bicycle",0.0920810313075506,0.123955234452472,134.615384615385,"Livingston","Livingston County","New York",26
+"36051",2022,"Carpooled","Carpooled",8.2200028332625,1.21476129763423,14.7781128823783,"Livingston","Livingston County","New York",2321
+"36051",2022,"Drove Alone","Drove Alone",76.3989233602493,2.2311942201445,2.920452438346,"Livingston","Livingston County","New York",21572
+"36051",2022,"Public Transportation","Public Transportation",0.61977617226236,0.286867828304292,46.2857142857143,"Livingston","Livingston County","New York",175
+"36051",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.32455021957784,0.505652530144105,38.1754140137672,"Livingston","Livingston County","New York",374
+"36051",2022,"Walked","Walked",6.10922226944326,1.08726448505454,17.7971014492754,"Livingston","Livingston County","New York",1725
+"36051",2022,"Worked from Home","Worked from Home",7.23544411389715,1.06955659441847,14.7821830641214,"Livingston","Livingston County","New York",2043
+"36051",2023,"Bicycle","Bicycle",0.211200675842163,0.207680664578127,98.3333333333334,"Livingston","Livingston County","New York",60
+"36051",2023,"Carpooled","Carpooled",8.6521876870006,1.32352423527755,15.2969894222945,"Livingston","Livingston County","New York",2458
+"36051",2023,"Drove Alone","Drove Alone",75.3634411630117,2.02048646555669,2.6809901914993,"Livingston","Livingston County","New York",21410
+"36051",2023,"Public Transportation","Public Transportation",0.577281847301911,0.267520856066739,46.3414634146341,"Livingston","Livingston County","New York",164
+"36051",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.61568517019254,0.651839179644237,40.3444428202901,"Livingston","Livingston County","New York",459
+"36051",2023,"Walked","Walked",6.21985990355169,1.24256397620472,19.9773627617431,"Livingston","Livingston County","New York",1767
+"36051",2023,"Worked from Home","Worked from Home",7.36034355309937,1.09472350311521,14.8732663797226,"Livingston","Livingston County","New York",2091
+"36051",2024,"Bicycle","Bicycle",0.516275493390941,0.285599209109882,55.3191489361702,"Livingston","Livingston County","New York",141
+"36051",2024,"Carpooled","Carpooled",7.59767126798726,1.1716890630149,15.421686746988,"Livingston","Livingston County","New York",2075
+"36051",2024,"Drove Alone","Drove Alone",75.9181282267218,2.65460803339314,3.49667213272885,"Livingston","Livingston County","New York",20734
+"36051",2024,"Public Transportation","Public Transportation",0.622459814726667,0.252645454212588,40.5882352941176,"Livingston","Livingston County","New York",170
+"36051",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.65501080150855,0.617638075870214,37.3192776329456,"Livingston","Livingston County","New York",452
+"36051",2024,"Walked","Walked",5.1261396506902,0.962981948665373,18.7857142857143,"Livingston","Livingston County","New York",1400
+"36051",2024,"Worked from Home","Worked from Home",8.56431474497455,1.1716890630149,13.6810602821719,"Livingston","Livingston County","New York",2339
+"36055",2017,"Bicycle","Bicycle",0.509291006706919,0.0917114073380276,18.007662835249,"Monroe","Monroe County","New York",1827
+"36055",2017,"Carpooled","Carpooled",7.51977788556423,0.305797610485764,4.06657769869514,"Monroe","Monroe County","New York",26976
+"36055",2017,"Drove Alone","Drove Alone",81.010999793719,0.767142227946055,0.94696057313137,"Monroe","Monroe County","New York",290614
+"36055",2017,"Public Transportation","Public Transportation",3.12766562411146,0.249488478928677,7.97682709447415,"Monroe","Monroe County","New York",11220
+"36055",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.752925566018275,0.105637910177339,14.0303258310099,"Monroe","Monroe County","New York",2701
+"36055",2017,"Walked","Walked",3.24056264530265,0.209626073915492,6.46881720430108,"Monroe","Monroe County","New York",11625
+"36055",2017,"Worked from Home","Worked from Home",3.83877747857744,0.207117251222354,5.39539612228596,"Monroe","Monroe County","New York",13771
+"36055",2018,"Bicycle","Bicycle",0.50901609787868,0.0908458164802697,17.8473366282263,"Monroe","Monroe County","New York",1821
+"36055",2018,"Carpooled","Carpooled",7.46584896114315,0.373446187131201,5.00205923097083,"Monroe","Monroe County","New York",26709
+"36055",2018,"Drove Alone","Drove Alone",81.1957545653517,0.73710897864145,0.907817142148948,"Monroe","Monroe County","New York",290477
+"36055",2018,"Public Transportation","Public Transportation",3.01132917212906,0.237876276383722,7.89937807481667,"Monroe","Monroe County","New York",10773
+"36055",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.715026457097015,0.103797377878802,14.5165786312602,"Monroe","Monroe County","New York",2558
+"36055",2018,"Walked","Walked",3.0306164377818,0.187561670333111,6.1888950378159,"Monroe","Monroe County","New York",10842
+"36055",2018,"Worked from Home","Worked from Home",4.07240830861861,0.272537449440809,6.69229185256366,"Monroe","Monroe County","New York",14569
+"36055",2019,"Bicycle","Bicycle",0.455526252697195,0.0744342163220019,16.3402692778458,"Monroe","Monroe County","New York",1634
+"36055",2019,"Carpooled","Carpooled",7.59173250517137,0.338159941567746,4.45431844888367,"Monroe","Monroe County","New York",27232
+"36055",2019,"Drove Alone","Drove Alone",80.979688101119,0.726779033526063,0.897483122704223,"Monroe","Monroe County","New York",290479
+"36055",2019,"Public Transportation","Public Transportation",2.81734902677959,0.219120951419826,7.77755788640412,"Monroe","Monroe County","New York",10106
+"36055",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.817103700523548,0.103814706458728,12.7052057642389,"Monroe","Monroe County","New York",2931
+"36055",2019,"Walked","Walked",3.03423973950812,0.221351190111122,7.29511209114296,"Monroe","Monroe County","New York",10884
+"36055",2019,"Worked from Home","Worked from Home",4.30436067420116,0.210478776491054,4.889896373057,"Monroe","Monroe County","New York",15440
+"36055",2020,"Bicycle","Bicycle",0.487387724760079,0.127715705398713,26.204128440367,"Monroe","Monroe County","New York",1744
+"36055",2020,"Carpooled","Carpooled",7.47290582573653,0.435127687758855,5.82273747195213,"Monroe","Monroe County","New York",26740
+"36055",2020,"Drove Alone","Drove Alone",78.8480993555527,0.746172720819616,0.946342051258422,"Monroe","Monroe County","New York",282139
+"36055",2020,"Public Transportation","Public Transportation",2.47606378519169,0.238104553609855,9.61625282167043,"Monroe","Monroe County","New York",8860
+"36055",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.964155762856807,0.136515076570032,14.1590271851444,"Monroe","Monroe County","New York",3450
+"36055",2020,"Walked","Walked",2.72925947248104,0.184167723977576,6.74790088060618,"Monroe","Monroe County","New York",9766
+"36055",2020,"Worked from Home","Worked from Home",7.02212807342116,0.419757088640848,5.97763362120428,"Monroe","Monroe County","New York",25127
+"36055",2021,"Bicycle","Bicycle",0.42845018753251,0.087058887945903,20.3194888178914,"Monroe","Monroe County","New York",1565
+"36055",2021,"Carpooled","Carpooled",7.66556246064555,0.447614093684124,5.83928571428571,"Monroe","Monroe County","New York",28000
+"36055",2021,"Drove Alone","Drove Alone",76.5984066580885,0.908916691762258,1.18659999785554,"Monroe","Monroe County","New York",279791
+"36055",2021,"Public Transportation","Public Transportation",2.19043447312947,0.199304623976784,9.09886264216973,"Monroe","Monroe County","New York",8001
+"36055",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.985572316368714,0.147812524459922,14.9976335581877,"Monroe","Monroe County","New York",3600
+"36055",2021,"Walked","Walked",2.60848139732253,0.203411175294987,7.79806884970613,"Monroe","Monroe County","New York",9528
+"36055",2021,"Worked from Home","Worked from Home",9.5230925069127,0.445697703068963,4.68017823774616,"Monroe","Monroe County","New York",34785
+"36055",2022,"Bicycle","Bicycle",0.410487251923219,0.0713771970366157,17.3884077281812,"Monroe","Monroe County","New York",1501
+"36055",2022,"Carpooled","Carpooled",7.68166317073371,0.409940300221789,5.33660863683292,"Monroe","Monroe County","New York",28089
+"36055",2022,"Drove Alone","Drove Alone",74.722900594263,0.881412666854453,1.17957501628641,"Monroe","Monroe County","New York",273234
+"36055",2022,"Public Transportation","Public Transportation",1.97558954556518,0.185416626784772,9.38538205980066,"Monroe","Monroe County","New York",7224
+"36055",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.08870736169643,0.153145255521202,14.0667052423133,"Monroe","Monroe County","New York",3981
+"36055",2022,"Walked","Walked",2.38197465972767,0.201278226126242,8.45005740528129,"Monroe","Monroe County","New York",8710
+"36055",2022,"Worked from Home","Worked from Home",11.7386774160908,0.473113221736954,4.03037927499767,"Monroe","Monroe County","New York",42924
+"36055",2023,"Bicycle","Bicycle",0.400853182045939,0.0900824432330014,22.4726775956284,"Monroe","Monroe County","New York",1464
+"36055",2023,"Carpooled","Carpooled",7.58390125430904,0.481352386637132,6.3470286663297,"Monroe","Monroe County","New York",27698
+"36055",2023,"Drove Alone","Drove Alone",72.9229699277971,0.702862102672081,0.963841850336049,"Monroe","Monroe County","New York",266330
+"36055",2023,"Public Transportation","Public Transportation",1.77399437600795,0.165379318275784,9.32242630035499,"Monroe","Monroe County","New York",6479
+"36055",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.23459494388329,0.167470868950313,13.5648432532496,"Monroe","Monroe County","New York",4509
+"36055",2023,"Walked","Walked",2.40019056954556,0.201795625114657,8.40748345881816,"Monroe","Monroe County","New York",8766
+"36055",2023,"Worked from Home","Worked from Home",13.6834957464111,0.540768466216346,3.951975987994,"Monroe","Monroe County","New York",49975
+"36055",2024,"Bicycle","Bicycle",0.377739433857194,0.0886055462134159,23.4567901234568,"Monroe","Monroe County","New York",1377
+"36055",2024,"Carpooled","Carpooled",7.50897714086636,0.423825290711231,5.6442479815877,"Monroe","Monroe County","New York",27373
+"36055",2024,"Drove Alone","Drove Alone",70.8627656451883,0.874808318497162,1.2345105508263,"Monroe","Monroe County","New York",258321
+"36055",2024,"Public Transportation","Public Transportation",1.78390670905834,0.207112035266653,11.6100261417807,"Monroe","Monroe County","New York",6503
+"36055",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.3417019397208,0.18070502300023,13.4683432773328,"Monroe","Monroe County","New York",4891
+"36055",2024,"Walked","Walked",2.5591366582816,0.182971824533586,7.1497480973309,"Monroe","Monroe County","New York",9329
+"36055",2024,"Worked from Home","Worked from Home",15.5657724730274,0.557145090896123,3.57929612463211,"Monroe","Monroe County","New York",56743
+"36069",2017,"Bicycle","Bicycle",0.291583334890937,0.140184295620643,48.0769230769231,"Ontario","Ontario County","New York",156
+"36069",2017,"Carpooled","Carpooled",7.89144128147137,0.785032055475599,9.94789199431549,"Ontario","Ontario County","New York",4222
+"36069",2017,"Drove Alone","Drove Alone",82.8732173230407,1.41118857591447,1.70282827371555,"Ontario","Ontario County","New York",44338
+"36069",2017,"Public Transportation","Public Transportation",0.69157585839517,0.214949253284985,31.0810810810811,"Ontario","Ontario County","New York",370
+"36069",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.568213678249005,0.206874110962212,36.4078020085175,"Ontario","Ontario County","New York",304
+"36069",2017,"Walked","Walked",3.48591615109998,0.484103100876619,13.887399463807,"Ontario","Ontario County","New York",1865
+"36069",2017,"Worked from Home","Worked from Home",4.19805237285284,0.575690174015439,13.713268032057,"Ontario","Ontario County","New York",2246
+"36069",2018,"Bicycle","Bicycle",0.192437037590614,0.100889320678574,52.4271844660194,"Ontario","Ontario County","New York",103
+"36069",2018,"Carpooled","Carpooled",7.59285554143935,0.771616471115761,10.1624015748031,"Ontario","Ontario County","New York",4064
+"36069",2018,"Drove Alone","Drove Alone",83.2224796353038,1.43860698004633,1.72862787356322,"Ontario","Ontario County","New York",44544
+"36069",2018,"Public Transportation","Public Transportation",0.638965697630969,0.199910320603841,31.2865497076023,"Ontario","Ontario County","New York",342
+"36069",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.534339735445781,0.199788056624537,37.3897060936074,"Ontario","Ontario County","New York",286
+"36069",2018,"Walked","Walked",3.18735520514162,0.513788207159405,16.1195779601407,"Ontario","Ontario County","New York",1706
+"36069",2018,"Worked from Home","Worked from Home",4.63156714744787,0.609072565578058,13.1504638967326,"Ontario","Ontario County","New York",2479
+"36069",2019,"Bicycle","Bicycle",0.0851473419221087,0.0499777876499334,58.695652173913,"Ontario","Ontario County","New York",46
+"36069",2019,"Carpooled","Carpooled",8.07048719087813,0.877387827632163,10.8715596330275,"Ontario","Ontario County","New York",4360
+"36069",2019,"Drove Alone","Drove Alone",82.9631274988894,1.69554272175329,2.04373047746542,"Ontario","Ontario County","New York",44820
+"36069",2019,"Public Transportation","Public Transportation",0.666370501999112,0.22582555901081,33.8888888888889,"Ontario","Ontario County","New York",360
+"36069",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.52569228491041,0.193013620550339,36.7160839317306,"Ontario","Ontario County","New York",284
+"36069",2019,"Walked","Walked",2.8950096253517,0.420183622093884,14.5140664961637,"Ontario","Ontario County","New York",1564
+"36069",2019,"Worked from Home","Worked from Home",4.79416555604916,0.660817414482452,13.7837837837838,"Ontario","Ontario County","New York",2590
+"36069",2020,"Bicycle","Bicycle",0.151809682495603,0.127742293807276,84.1463414634146,"Ontario","Ontario County","New York",82
+"36069",2020,"Carpooled","Carpooled",8.34027584930112,0.903452744607979,10.8324084350721,"Ontario","Ontario County","New York",4505
+"36069",2020,"Drove Alone","Drove Alone",80.6979542719615,1.79394612607609,2.22303792241162,"Ontario","Ontario County","New York",43589
+"36069",2020,"Public Transportation","Public Transportation",0.581320003702675,0.2647412755716,45.5414012738854,"Ontario","Ontario County","New York",314
+"36069",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.616495417939461,0.261307627862077,42.3859805374477,"Ontario","Ontario County","New York",333
+"36069",2020,"Walked","Walked",2.7973711006202,0.453577709895399,16.2144275314361,"Ontario","Ontario County","New York",1511
+"36069",2020,"Worked from Home","Worked from Home",6.81477367397945,0.918263445339258,13.4745992936702,"Ontario","Ontario County","New York",3681
+"36069",2021,"Bicycle","Bicycle",0.182408522126154,0.111269198496954,61,"Ontario","Ontario County","New York",100
+"36069",2021,"Carpooled","Carpooled",7.469628981066,0.922987121958338,12.3565323565324,"Ontario","Ontario County","New York",4095
+"36069",2021,"Drove Alone","Drove Alone",79.8292656232899,1.80037211338514,2.2552783109405,"Ontario","Ontario County","New York",43764
+"36069",2021,"Public Transportation","Public Transportation",0.472438072306738,0.233482908321477,49.4208494208494,"Ontario","Ontario County","New York",259
+"36069",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.612892634343877,0.23689242444909,38.6515371819881,"Ontario","Ontario County","New York",336
+"36069",2021,"Walked","Walked",2.97690708109883,0.496151180183138,16.6666666666667,"Ontario","Ontario County","New York",1632
+"36069",2021,"Worked from Home","Worked from Home",8.45645908576849,0.917514866294553,10.8498705780846,"Ontario","Ontario County","New York",4636
+"36069",2022,"Bicycle","Bicycle",0.187904132048708,0.114216237127646,60.7843137254902,"Ontario","Ontario County","New York",102
+"36069",2022,"Carpooled","Carpooled",7.41116003168579,0.841884199473132,11.3596818294805,"Ontario","Ontario County","New York",4023
+"36069",2022,"Drove Alone","Drove Alone",78.2675975904058,1.8182488071772,2.32311820364355,"Ontario","Ontario County","New York",42486
+"36069",2022,"Public Transportation","Public Transportation",0.460549343256636,0.219221487390159,47.6,"Ontario","Ontario County","New York",250
+"36069",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.70924598861522,0.244707336504497,34.5024632401913,"Ontario","Ontario County","New York",385
+"36069",2022,"Walked","Walked",2.94198920472339,0.563712396146123,19.1609267376331,"Ontario","Ontario County","New York",1597
+"36069",2022,"Worked from Home","Worked from Home",10.0215537092644,1.00215537092644,10,"Ontario","Ontario County","New York",5440
+"36069",2023,"Bicycle","Bicycle",0.359173900029931,0.16836276563903,46.875,"Ontario","Ontario County","New York",192
+"36069",2023,"Carpooled","Carpooled",6.81120921879677,0.789434301107453,11.5902224663554,"Ontario","Ontario County","New York",3641
+"36069",2023,"Drove Alone","Drove Alone",76.6948518407662,1.92307692307692,2.50743938728718,"Ontario","Ontario County","New York",40998
+"36069",2023,"Public Transportation","Public Transportation",0.331113439090093,0.162750673451063,49.1525423728814,"Ontario","Ontario County","New York",177
+"36069",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.997081712062257,0.291048292794541,29.1900141456379,"Ontario","Ontario County","New York",533
+"36069",2023,"Walked","Walked",3.30552229871296,0.568692008380724,17.2043010752688,"Ontario","Ontario County","New York",1767
+"36069",2023,"Worked from Home","Worked from Home",11.5010475905418,1.11306495061359,9.6779440468445,"Ontario","Ontario County","New York",6148
+"36069",2024,"Bicycle","Bicycle",0.354153851889131,0.182668828869131,51.578947368421,"Ontario","Ontario County","New York",190
+"36069",2024,"Carpooled","Carpooled",6.93955152938545,0.948759529534567,13.6717700778942,"Ontario","Ontario County","New York",3723
+"36069",2024,"Drove Alone","Drove Alone",74.9725064772876,1.91056683255979,2.54835662075481,"Ontario","Ontario County","New York",40222
+"36069",2024,"Public Transportation","Public Transportation",0.268411340379131,0.175212958303044,65.2777777777778,"Ontario","Ontario County","New York",144
+"36069",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.157523905385,0.344697967584312,29.7789070256534,"Ontario","Ontario County","New York",621
+"36069",2024,"Walked","Walked",2.7344405301124,0.477175716229566,17.4505794137696,"Ontario","Ontario County","New York",1467
+"36069",2024,"Worked from Home","Worked from Home",13.5734123655613,1.12583645547913,8.29442460862401,"Ontario","Ontario County","New York",7282
+"36073",2017,"Bicycle","Bicycle",0.108639716393161,0.0972039567728286,89.4736842105263,"Orleans","Orleans County","New York",19
+"36073",2017,"Carpooled","Carpooled",11.201326548116,1.93836125564641,17.3047473200613,"Orleans","Orleans County","New York",1959
+"36073",2017,"Drove Alone","Drove Alone",79.9188061066956,3.367831208188,4.21406596551477,"Orleans","Orleans County","New York",13977
+"36073",2017,"Public Transportation","Public Transportation",0.537480702155641,0.26874035107782,50,"Orleans","Orleans County","New York",94
+"36073",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.63022471267654,1.04793310299137,39.8419609526437,"Orleans","Orleans County","New York",460
+"36073",2017,"Walked","Walked",2.24140888558522,0.731888615701298,32.6530612244898,"Orleans","Orleans County","New York",392
+"36073",2017,"Worked from Home","Worked from Home",3.36211332837784,0.800503173423295,23.8095238095238,"Orleans","Orleans County","New York",588
+"36073",2018,"Bicycle","Bicycle",0.186641027091228,0.118771562694418,63.6363636363636,"Orleans","Orleans County","New York",33
+"36073",2018,"Carpooled","Carpooled",10.8251795712912,1.66845766642158,15.4127481713689,"Orleans","Orleans County","New York",1914
+"36073",2018,"Drove Alone","Drove Alone",79.8597364402466,3.07109326395566,3.84560906515581,"Orleans","Orleans County","New York",14120
+"36073",2018,"Public Transportation","Public Transportation",0.684350432667836,0.525988349075279,76.8595041322314,"Orleans","Orleans County","New York",121
+"36073",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.61863016797692,1.15769725824427,44.2100328790862,"Orleans","Orleans County","New York",463
+"36073",2018,"Walked","Walked",2.63559753407613,0.774843051863582,29.3991416309013,"Orleans","Orleans County","New York",466
+"36073",2018,"Worked from Home","Worked from Home",3.18986482665008,0.735252530965443,23.0496453900709,"Orleans","Orleans County","New York",564
+"36073",2019,"Bicycle","Bicycle",0.388527025482802,0.228545309107531,58.8235294117647,"Orleans","Orleans County","New York",68
+"36073",2019,"Carpooled","Carpooled",11.2101474117244,1.5083990401097,13.4556574923547,"Orleans","Orleans County","New York",1962
+"36073",2019,"Drove Alone","Drove Alone",78.5910181693521,2.49114386927208,3.1697564521992,"Orleans","Orleans County","New York",13755
+"36073",2019,"Public Transportation","Public Transportation",0.674208661867215,0.514226945491944,76.271186440678,"Orleans","Orleans County","New York",118
+"36073",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.22260313107074,1.021654410811,45.9665694036352,"Orleans","Orleans County","New York",389
+"36073",2019,"Walked","Walked",3.25105702205462,0.982744829162381,30.2284710017575,"Orleans","Orleans County","New York",569
+"36073",2019,"Worked from Home","Worked from Home",3.66243857844818,0.891326705519369,24.3369734789392,"Orleans","Orleans County","New York",641
+"36073",2020,"Bicycle","Bicycle",0.606520090978014,0.338251589199277,55.7692307692308,"Orleans","Orleans County","New York",104
+"36073",2020,"Carpooled","Carpooled",11.4597305651134,2.24529072140899,19.5928753180662,"Orleans","Orleans County","New York",1965
+"36073",2020,"Drove Alone","Drove Alone",77.832857059544,3.37668396804106,4.33837854038663,"Orleans","Orleans County","New York",13346
+"36073",2020,"Public Transportation","Public Transportation",0.332419665247565,0.361579285006124,108.771929824561,"Orleans","Orleans County","New York",57
+"36073",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.37633405260395,0.702668185502649,51.0536075288725,"Orleans","Orleans County","New York",236
+"36073",2020,"Walked","Walked",4.05901907039132,1.37633405260395,33.9080459770115,"Orleans","Orleans County","New York",696
+"36073",2020,"Worked from Home","Worked from Home",4.33311949612177,1.09640170292179,25.3028263795424,"Orleans","Orleans County","New York",743
+"36073",2021,"Bicycle","Bicycle",0.760723272280414,0.339399613786646,44.6153846153846,"Orleans","Orleans County","New York",130
+"36073",2021,"Carpooled","Carpooled",10.4043536778044,1.97788050792908,19.0101237345332,"Orleans","Orleans County","New York",1778
+"36073",2021,"Drove Alone","Drove Alone",76.6750541283867,3.60465796711335,4.70121346256582,"Orleans","Orleans County","New York",13103
+"36073",2021,"Public Transportation","Public Transportation",0.204810111767804,0.315992743870326,154.285714285714,"Orleans","Orleans County","New York",35
+"36073",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.12417344490608,1.02344849091204,48.1810227581152,"Orleans","Orleans County","New York",363
+"36073",2021,"Walked","Walked",3.41740300778278,1.16449177833694,34.0753424657534,"Orleans","Orleans County","New York",584
+"36073",2021,"Worked from Home","Worked from Home",6.4134823570718,1.3224881502721,20.6204379562044,"Orleans","Orleans County","New York",1096
+"36073",2022,"Bicycle","Bicycle",0.661534074707727,0.387795836897633,58.6206896551724,"Orleans","Orleans County","New York",116
+"36073",2022,"Carpooled","Carpooled",9.66638152266895,1.66524094667807,17.2271386430678,"Orleans","Orleans County","New York",1695
+"36073",2022,"Drove Alone","Drove Alone",75.6030795551754,3.12517821499857,4.13366523346157,"Orleans","Orleans County","New York",13257
+"36073",2022,"Public Transportation","Public Transportation",0.39349871685201,0.370687197034502,94.2028985507246,"Orleans","Orleans County","New York",69
+"36073",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.61391502708868,0.604774219108911,37.4724944596281,"Orleans","Orleans County","New York",283
+"36073",2022,"Walked","Walked",3.67265469061876,1.51126318790989,41.1490683229814,"Orleans","Orleans County","New York",644
+"36073",2022,"Worked from Home","Worked from Home",8.38893641288851,1.64813230681494,19.6464989802855,"Orleans","Orleans County","New York",1471
+"36073",2023,"Bicycle","Bicycle",0.552958613613043,0.416144111275795,75.2577319587629,"Orleans","Orleans County","New York",97
+"36073",2023,"Carpooled","Carpooled",7.67301333941398,1.44795348306921,18.8707280832095,"Orleans","Orleans County","New York",1346
+"36073",2023,"Drove Alone","Drove Alone",75.7154258351385,3.42036255843119,4.51739195904231,"Orleans","Orleans County","New York",13282
+"36073",2023,"Public Transportation","Public Transportation",0.245125983354236,0.393341694219587,160.46511627907,"Orleans","Orleans County","New York",43
+"36073",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.45935469159731,0.66872243060143,45.8231596781652,"Orleans","Orleans County","New York",256
+"36073",2023,"Walked","Walked",3.62558431193707,1.14582145707445,31.6037735849057,"Orleans","Orleans County","New York",636
+"36073",2023,"Worked from Home","Worked from Home",10.7285372249458,1.90970242845742,17.8002125398512,"Orleans","Orleans County","New York",1882
+"36073",2024,"Bicycle","Bicycle",0.376798355788993,0.291162365836949,77.2727272727273,"Orleans","Orleans County","New York",66
+"36073",2024,"Carpooled","Carpooled",8.76341630509249,1.80406485498972,20.586319218241,"Orleans","Orleans County","New York",1535
+"36073",2024,"Drove Alone","Drove Alone",74.8230189540991,3.68805663393469,4.92904013428964,"Orleans","Orleans County","New York",13106
+"36073",2024,"Public Transportation","Public Transportation",0.622288193651519,0.536652203699475,86.2385321100917,"Orleans","Orleans County","New York",109
+"36073",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.04955469285225,0.92495679015646,45.1296466194444,"Orleans","Orleans County","New York",359
+"36073",2024,"Walked","Walked",2.90020552637589,1.02763187942453,35.4330708661417,"Orleans","Orleans County","New York",508
+"36073",2024,"Worked from Home","Worked from Home",10.4647179721398,2.00959123087463,19.2034915439171,"Orleans","Orleans County","New York",1833
+"36099",2017,"Bicycle","Bicycle",0.381955877510701,0.197563384919328,51.7241379310345,"Seneca","Seneca County","New York",58
+"36099",2017,"Carpooled","Carpooled",10.1679288771814,1.60684886401054,15.8031088082902,"Seneca","Seneca County","New York",1544
+"36099",2017,"Drove Alone","Drove Alone",79.7563384919328,2.77905828119855,3.48443563702419,"Seneca","Seneca County","New York",12111
+"36099",2017,"Public Transportation","Public Transportation",0.665130062561739,0.322686862034903,48.5148514851485,"Seneca","Seneca County","New York",101
+"36099",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.6463615409944,0.932276844998991,56.6264955652387,"Seneca","Seneca County","New York",250
+"36099",2017,"Walked","Walked",3.33882120513665,0.777082647349358,23.2741617357002,"Seneca","Seneca County","New York",507
+"36099",2017,"Worked from Home","Worked from Home",4.04346394468225,0.651959170233783,16.1237785016287,"Seneca","Seneca County","New York",614
+"36099",2018,"Bicycle","Bicycle",0.427266153947282,0.243213041477684,56.9230769230769,"Seneca","Seneca County","New York",65
+"36099",2018,"Carpooled","Carpooled",9.22237559981595,1.60389140866364,17.3913043478261,"Seneca","Seneca County","New York",1403
+"36099",2018,"Drove Alone","Drove Alone",80.0368106224939,3.11575626109249,3.89290407358738,"Seneca","Seneca County","New York",12176
+"36099",2018,"Public Transportation","Public Transportation",0.729639124433051,0.302372970485769,41.4414414414414,"Seneca","Seneca County","New York",111
+"36099",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.59074475777296,0.721779869175558,45.3737072304453,"Seneca","Seneca County","New York",242
+"36099",2018,"Walked","Walked",3.72707552750937,0.815092355222507,21.8694885361552,"Seneca","Seneca County","New York",567
+"36099",2018,"Worked from Home","Worked from Home",4.26608821402748,0.709919148097022,16.6409861325116,"Seneca","Seneca County","New York",649
+"36099",2019,"Bicycle","Bicycle",0.446905016008538,0.213447171824973,47.7611940298507,"Seneca","Seneca County","New York",67
+"36099",2019,"Carpooled","Carpooled",9.79188900747065,1.17395944503735,11.9891008174387,"Seneca","Seneca County","New York",1468
+"36099",2019,"Drove Alone","Drove Alone",80.0493596584845,2.68143009605123,3.34972085659528,"Seneca","Seneca County","New York",12001
+"36099",2019,"Public Transportation","Public Transportation",0.613660618996798,0.340181430096051,55.4347826086957,"Seneca","Seneca County","New York",92
+"36099",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.39407684098186,0.701008504152149,50.284782269134,"Seneca","Seneca County","New York",209
+"36099",2019,"Walked","Walked",3.3551227321238,0.847118463180363,25.2485089463221,"Seneca","Seneca County","New York",503
+"36099",2019,"Worked from Home","Worked from Home",4.34898612593383,0.80709711846318,18.558282208589,"Seneca","Seneca County","New York",652
+"36099",2020,"Bicycle","Bicycle",0.338196286472149,0.271883289124668,80.3921568627451,"Seneca","Seneca County","New York",51
+"36099",2020,"Carpooled","Carpooled",9.78779840848806,1.29310344827586,13.2113821138211,"Seneca","Seneca County","New York",1476
+"36099",2020,"Drove Alone","Drove Alone",78.7533156498674,2.85145888594164,3.62074772650724,"Seneca","Seneca County","New York",11876
+"36099",2020,"Public Transportation","Public Transportation",0.603448275862069,0.318302387267904,52.7472527472528,"Seneca","Seneca County","New York",91
+"36099",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.50663129973475,0.932470157447583,37.2001322071681,"Seneca","Seneca County","New York",378
+"36099",2020,"Walked","Walked",2.77188328912467,0.689655172413793,24.8803827751196,"Seneca","Seneca County","New York",418
+"36099",2020,"Worked from Home","Worked from Home",5.23872679045093,0.981432360742706,18.7341772151899,"Seneca","Seneca County","New York",790
+"36099",2021,"Bicycle","Bicycle",0.348175426849682,0.314697020421828,90.3846153846154,"Seneca","Seneca County","New York",52
+"36099",2021,"Carpooled","Carpooled",9.46099765651155,1.38600602611316,14.6496815286624,"Seneca","Seneca County","New York",1413
+"36099",2021,"Drove Alone","Drove Alone",77.6699029126214,3.46166722464011,4.45689655172414,"Seneca","Seneca County","New York",11600
+"36099",2021,"Public Transportation","Public Transportation",0.528958821560094,0.301305657850686,56.9620253164557,"Seneca","Seneca County","New York",79
+"36099",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.41044526280549,0.954715873182415,39.6074487943872,"Seneca","Seneca County","New York",360
+"36099",2021,"Walked","Walked",2.79209909608303,0.74322062269836,26.6187050359712,"Seneca","Seneca County","New York",417
+"36099",2021,"Worked from Home","Worked from Home",6.7894208235688,1.36591898225644,20.1183431952663,"Seneca","Seneca County","New York",1014
+"36099",2022,"Bicycle","Bicycle",0.386740331491713,0.352209944751381,91.0714285714286,"Seneca","Seneca County","New York",56
+"36099",2022,"Carpooled","Carpooled",10.6975138121547,1.48480662983425,13.8799225306649,"Seneca","Seneca County","New York",1549
+"36099",2022,"Drove Alone","Drove Alone",76.5055248618785,3.28729281767956,4.29680447734248,"Seneca","Seneca County","New York",11078
+"36099",2022,"Public Transportation","Public Transportation",0.379834254143646,0.352209944751381,92.7272727272727,"Seneca","Seneca County","New York",55
+"36099",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.76795580110497,0.947970751408868,53.6195956265641,"Seneca","Seneca County","New York",256
+"36099",2022,"Walked","Walked",2.95580110497238,0.93232044198895,31.5420560747664,"Seneca","Seneca County","New York",428
+"36099",2022,"Worked from Home","Worked from Home",7.30662983425414,1.40193370165746,19.187145557656,"Seneca","Seneca County","New York",1058
+"36099",2023,"Bicycle","Bicycle",0.146894236149972,0.223838836038053,152.380952380952,"Seneca","Seneca County","New York",21
+"36099",2023,"Carpooled","Carpooled",11.2479015109121,1.49692221600448,13.3084577114428,"Seneca","Seneca County","New York",1608
+"36099",2023,"Drove Alone","Drove Alone",75.1888640179071,3.2876329043089,4.37249976742023,"Seneca","Seneca County","New York",10749
+"36099",2023,"Public Transportation","Public Transportation",0.363738108561835,0.307778399552322,84.6153846153846,"Seneca","Seneca County","New York",52
+"36099",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.10548405148293,1.00369806597191,47.6706563160614,"Seneca","Seneca County","New York",301
+"36099",2023,"Walked","Walked",3.04980414101847,0.867375489647454,28.4403669724771,"Seneca","Seneca County","New York",436
+"36099",2023,"Worked from Home","Worked from Home",7.89731393396754,1.4829322887521,18.7776793622675,"Seneca","Seneca County","New York",1129
+"36099",2024,"Bicycle","Bicycle",0.269255296535109,0.297597959328279,110.526315789474,"Seneca","Seneca County","New York",38
+"36099",2024,"Carpooled","Carpooled",8.96336710833983,1.52341812513286,16.99604743083,"Seneca","Seneca County","New York",1265
+"36099",2024,"Drove Alone","Drove Alone",76.0150216112804,3.16020690143839,4.15734526472782,"Seneca","Seneca County","New York",10728
+"36099",2024,"Public Transportation","Public Transportation",0.162970311060724,0.141713313965847,86.9565217391304,"Seneca","Seneca County","New York",23
+"36099",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.60752497697159,1.06173918679909,40.7182748459119,"Seneca","Seneca County","New York",368
+"36099",2024,"Walked","Walked",3.36569120668887,1.06284985474385,31.5789473684211,"Seneca","Seneca County","New York",475
+"36099",2024,"Worked from Home","Worked from Home",8.6161694891235,1.62261744490895,18.8322368421053,"Seneca","Seneca County","New York",1216
+"36117",2017,"Bicycle","Bicycle",0.169923534409516,0.122722552629095,72.2222222222222,"Wayne","Wayne County","New York",72
+"36117",2017,"Carpooled","Carpooled",8.10440857169829,0.927499291985273,11.4443797320909,"Wayne","Wayne County","New York",3434
+"36117",2017,"Drove Alone","Drove Alone",84.5817993014255,1.96120079297649,2.31870308881386,"Wayne","Wayne County","New York",35839
+"36117",2017,"Public Transportation","Public Transportation",0.65137354856981,0.344567166997074,52.8985507246377,"Wayne","Wayne County","New York",276
+"36117",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.10686302275087,0.368092007516032,33.2554254636872,"Wayne","Wayne County","New York",469
+"36117",2017,"Walked","Walked",2.17360521098839,0.415368639667705,19.1096634093377,"Wayne","Wayne County","New York",921
+"36117",2017,"Worked from Home","Worked from Home",3.21202681015765,0.56169168318701,17.4871418074945,"Wayne","Wayne County","New York",1361
+"36117",2018,"Bicycle","Bicycle",0.217036172695449,0.142357059509918,65.5913978494624,"Wayne","Wayne County","New York",93
+"36117",2018,"Carpooled","Carpooled",8.0046674445741,0.900816802800467,11.2536443148688,"Wayne","Wayne County","New York",3430
+"36117",2018,"Drove Alone","Drove Alone",84.4760793465578,1.91365227537923,2.26531852588541,"Wayne","Wayne County","New York",36198
+"36117",2018,"Public Transportation","Public Transportation",0.630105017502917,0.352392065344224,55.9259259259259,"Wayne","Wayne County","New York",270
+"36117",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.13885647607935,0.462607100210459,40.6203160738077,"Wayne","Wayne County","New York",488
+"36117",2018,"Walked","Walked",1.91831971995333,0.406067677946324,21.1678832116788,"Wayne","Wayne County","New York",822
+"36117",2018,"Worked from Home","Worked from Home",3.61493582263711,0.630105017502917,17.4306003873467,"Wayne","Wayne County","New York",1549
+"36117",2019,"Bicycle","Bicycle",0.194183629177804,0.123363717360016,63.5294117647059,"Wayne","Wayne County","New York",85
+"36117",2019,"Carpooled","Carpooled",9.27055490827679,1.09656637653348,11.828486939379,"Wayne","Wayne County","New York",4058
+"36117",2019,"Drove Alone","Drove Alone",83.9832773627579,1.72480752975579,2.05375115608509,"Wayne","Wayne County","New York",36762
+"36117",2019,"Public Transportation","Public Transportation",0.454618143604505,0.201037169031138,44.2211055276382,"Wayne","Wayne County","New York",199
+"36117",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.847554428529002,0.279253132743669,32.9481061444438,"Wayne","Wayne County","New York",371
+"36117",2019,"Walked","Walked",2.02407877001805,0.40892787791561,20.2031602708804,"Wayne","Wayne County","New York",886
+"36117",2019,"Worked from Home","Worked from Home",3.22573275763599,0.571128321111187,17.7053824362606,"Wayne","Wayne County","New York",1412
+"36117",2020,"Bicycle","Bicycle",0.240046162723601,0.156953260242354,65.3846153846154,"Wayne","Wayne County","New York",104
+"36117",2020,"Carpooled","Carpooled",9.79803808424697,1.200230813618,12.2497055359246,"Wayne","Wayne County","New York",4245
+"36117",2020,"Drove Alone","Drove Alone",82.0126947489902,2.08193883439123,2.53855679387594,"Wayne","Wayne County","New York",35532
+"36117",2020,"Public Transportation","Public Transportation",0.353144835545297,0.140796306982112,39.8692810457516,"Wayne","Wayne County","New York",153
+"36117",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.445470282746682,0.193842218023447,43.5140626728801,"Wayne","Wayne County","New York",193
+"36117",2020,"Walked","Walked",2.10271206001154,0.570109636468552,27.1130625686059,"Wayne","Wayne County","New York",911
+"36117",2020,"Worked from Home","Worked from Home",5.04789382573572,1.00865551067513,19.9817101051669,"Wayne","Wayne County","New York",2187
+"36117",2021,"Bicycle","Bicycle",0.221596417524583,0.161580721111675,72.9166666666667,"Wayne","Wayne County","New York",96
+"36117",2021,"Carpooled","Carpooled",9.0392871981903,1.25340473662342,13.8661899897855,"Wayne","Wayne County","New York",3916
+"36117",2021,"Drove Alone","Drove Alone",81.6998291860948,2.44679377683394,2.99485788551732,"Wayne","Wayne County","New York",35394
+"36117",2021,"Public Transportation","Public Transportation",0.427034762937999,0.200821753381654,47.027027027027,"Wayne","Wayne County","New York",185
+"36117",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.614006740224366,0.332378596066891,54.1327275895107,"Wayne","Wayne County","New York",266
+"36117",2021,"Walked","Walked",1.72891371589493,0.549374451779696,31.7757009345794,"Wayne","Wayne County","New York",749
+"36117",2021,"Worked from Home","Worked from Home",6.269331979133,1.25109644060754,19.9558173784978,"Wayne","Wayne County","New York",2716
+"36117",2022,"Bicycle","Bicycle",0.161456383377012,0.131037064769749,81.1594202898551,"Wayne","Wayne County","New York",69
+"36117",2022,"Carpooled","Carpooled",9.08367652564583,1.36886933732684,15.0695517774343,"Wayne","Wayne County","New York",3882
+"36117",2022,"Drove Alone","Drove Alone",80.1525645825534,2.52480344440285,3.14999708063292,"Wayne","Wayne County","New York",34254
+"36117",2022,"Public Transportation","Public Transportation",0.278453762635717,0.170816173717709,61.3445378151261,"Wayne","Wayne County","New York",119
+"36117",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",0.769842755522276,0.383758537888782,49.8489509884954,"Wayne","Wayne County","New York",329
+"36117",2022,"Walked","Walked",1.97491576188693,0.638805690752527,32.345971563981,"Wayne","Wayne County","New York",844
+"36117",2022,"Worked from Home","Worked from Home",7.57909022837888,1.18401347809809,15.6221055881445,"Wayne","Wayne County","New York",3239
+"36117",2023,"Bicycle","Bicycle",0.0116395465232675,0.0209511837418814,180,"Wayne","Wayne County","New York",5
+"36117",2023,"Carpooled","Carpooled",10.4360174127616,1.03359173126615,9.90408208788758,"Wayne","Wayne County","New York",4483
+"36117",2023,"Drove Alone","Drove Alone",77.4704937495635,2.82608189584934,3.64794615222813,"Wayne","Wayne County","New York",33279
+"36117",2023,"Public Transportation","Public Transportation",0.256070023511884,0.167609469935051,65.4545454545455,"Wayne","Wayne County","New York",110
+"36117",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.11041273831972,0.593215058225907,53.4229334511746,"Wayne","Wayne County","New York",477
+"36117",2023,"Walked","Walked",1.91354144842517,0.612240147123868,31.9951338199513,"Wayne","Wayne County","New York",822
+"36117",2023,"Worked from Home","Worked from Home",8.80182508089485,1.17326628954536,13.3298069293838,"Wayne","Wayne County","New York",3781
+"36117",2024,"Bicycle","Bicycle",0.0447764711427427,0.054203096646478,121.052631578947,"Wayne","Wayne County","New York",19
+"36117",2024,"Carpooled","Carpooled",8.86102797351118,1.20660806447812,13.6170212765957,"Wayne","Wayne County","New York",3760
+"36117",2024,"Drove Alone","Drove Alone",77.8191501897108,2.71486814507577,3.48868901608068,"Wayne","Wayne County","New York",33021
+"36117",2024,"Public Transportation","Public Transportation",0.216812386585912,0.143756038931963,66.304347826087,"Wayne","Wayne County","New York",92
+"36117",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.15004831145571,0.649159382463749,56.4462706477136,"Wayne","Wayne County","New York",488
+"36117",2024,"Walked","Walked",1.84290528598025,0.563240873848184,30.5626598465473,"Wayne","Wayne County","New York",782
+"36117",2024,"Worked from Home","Worked from Home",10.0652793816134,1.43756038931963,14.2823694685085,"Wayne","Wayne County","New York",4271
+"36123",2017,"Bicycle","Bicycle",2.39108776378951,0.951000815143556,39.7727272727273,"Yates","Yates County","New York",264
+"36123",2017,"Carpooled","Carpooled",9.781722670048,1.44914409926637,14.8148148148148,"Yates","Yates County","New York",1080
+"36123",2017,"Drove Alone","Drove Alone",67.729372339462,3.21528847024726,4.74725862530088,"Yates","Yates County","New York",7478
+"36123",2017,"Public Transportation","Public Transportation",0.289828819853274,0.335114572955348,115.625,"Yates","Yates County","New York",32
+"36123",2017,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.70274431663799,0.647887048917962,38.0495792931022,"Yates","Yates County","New York",188
+"36123",2017,"Walked","Walked",8.14237840775292,1.52160130422969,18.6874304783092,"Yates","Yates County","New York",899
+"36123",2017,"Worked from Home","Worked from Home",9.9628656824563,1.5306584548501,15.3636363636364,"Yates","Yates County","New York",1100
+"36123",2018,"Bicycle","Bicycle",2.52783354626757,0.812192005840482,32.129963898917,"Yates","Yates County","New York",277
+"36123",2018,"Carpooled","Carpooled",9.29001642635517,1.7247672933017,18.565815324165,"Yates","Yates County","New York",1018
+"36123",2018,"Drove Alone","Drove Alone",67.9138528928637,3.3035225406096,4.86428379467885,"Yates","Yates County","New York",7442
+"36123",2018,"Public Transportation","Public Transportation",0.33765285636065,0.374155867859098,110.810810810811,"Yates","Yates County","New York",37
+"36123",2018,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.4236174484395,0.660908671600654,46.4245975858972,"Yates","Yates County","New York",156
+"36123",2018,"Walked","Walked",7.61087789742654,1.68826428180325,22.1822541966427,"Yates","Yates County","New York",834
+"36123",2018,"Worked from Home","Worked from Home",10.8961489322869,1.46924621281256,13.4840871021776,"Yates","Yates County","New York",1194
+"36123",2019,"Bicycle","Bicycle",1.78634909349449,0.746533949520085,41.7910447761194,"Yates","Yates County","New York",201
+"36123",2019,"Carpooled","Carpooled",8.21187344472094,1.57305367934589,19.1558441558442,"Yates","Yates County","New York",924
+"36123",2019,"Drove Alone","Drove Alone",70.9651617490224,3.53714895129755,4.98434564809017,"Yates","Yates County","New York",7985
+"36123",2019,"Public Transportation","Public Transportation",0.311055812300036,0.426590828297192,137.142857142857,"Yates","Yates County","New York",35
+"36123",2019,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.11980092428013,0.600271766468833,53.6052215579945,"Yates","Yates County","New York",126
+"36123",2019,"Walked","Walked",5.9900462140064,1.28865979381443,21.513353115727,"Yates","Yates County","New York",674
+"36123",2019,"Worked from Home","Worked from Home",11.6157127621756,1.81301102026306,15.6082631981637,"Yates","Yates County","New York",1307
+"36123",2020,"Bicycle","Bicycle",2.49241239768233,1.02087740274073,40.9594095940959,"Yates","Yates County","New York",271
+"36123",2020,"Carpooled","Carpooled",7.20132438149545,1.17722799595328,16.3473818646232,"Yates","Yates County","New York",783
+"36123",2020,"Drove Alone","Drove Alone",70.5325117262945,3.47650142554953,4.92893467205633,"Yates","Yates County","New York",7669
+"36123",2020,"Public Transportation","Public Transportation",0.27591281155155,0.377080842453785,136.666666666667,"Yates","Yates County","New York",30
+"36123",2020,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.50832336981514,0.769539028630882,51.0194991359974,"Yates","Yates County","New York",164
+"36123",2020,"Walked","Walked",5.52745332474938,1.30598730801067,23.6272878535774,"Yates","Yates County","New York",601
+"36123",2020,"Worked from Home","Worked from Home",12.4620619884117,2.26248505472271,18.1549815498155,"Yates","Yates County","New York",1355
+"36123",2021,"Bicycle","Bicycle",2.47718383311604,0.726392251815981,29.3233082706767,"Yates","Yates County","New York",266
+"36123",2021,"Carpooled","Carpooled",7.64574408642205,1.61110076364314,21.0718635809988,"Yates","Yates County","New York",821
+"36123",2021,"Drove Alone","Drove Alone",70.4041720990874,3.75302663438257,5.33068783068783,"Yates","Yates County","New York",7560
+"36123",2021,"Public Transportation","Public Transportation",0,0.223505308251071,NA,"Yates","Yates County","New York",0
+"36123",2021,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.35965729186068,0.785863455011726,57.7986423281912,"Yates","Yates County","New York",146
+"36123",2021,"Walked","Walked",5.3641273980257,1.30378096479791,24.3055555555556,"Yates","Yates County","New York",576
+"36123",2021,"Worked from Home","Worked from Home",12.7491152914882,1.93704600484262,15.1935719503287,"Yates","Yates County","New York",1369
+"36123",2022,"Bicycle","Bicycle",2.44794597636466,0.797223785406115,32.5670498084291,"Yates","Yates County","New York",261
+"36123",2022,"Carpooled","Carpooled",8.92890639654849,1.77265053460889,19.8529411764706,"Yates","Yates County","New York",952
+"36123",2022,"Drove Alone","Drove Alone",71.562558619396,3.96736072031514,5.54390563564875,"Yates","Yates County","New York",7630
+"36123",2022,"Public Transportation","Public Transportation",0.018758206715438,0.028137310073157,150,"Yates","Yates County","New York",2
+"36123",2022,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.35059088351154,0.847862643405704,62.777163222164,"Yates","Yates County","New York",144
+"36123",2022,"Walked","Walked",3.48902644907147,0.891014818983305,25.5376344086022,"Yates","Yates County","New York",372
+"36123",2022,"Worked from Home","Worked from Home",12.2022134683924,2.20408928906397,18.0630284396618,"Yates","Yates County","New York",1301
+"36123",2023,"Bicycle","Bicycle",2.2004652966266,0.697944939899186,31.7180616740088,"Yates","Yates County","New York",227
+"36123",2023,"Carpooled","Carpooled",8.3171772004653,1.52190771616906,18.2983682983683,"Yates","Yates County","New York",858
+"36123",2023,"Drove Alone","Drove Alone",70.153160139589,4.24583171772005,6.05223158767445,"Yates","Yates County","New York",7237
+"36123",2023,"Public Transportation","Public Transportation",0.164792555253974,0.213260953858085,129.411764705882,"Yates","Yates County","New York",17
+"36123",2023,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",1.7157813105855,0.81299869508576,47.3835849633034,"Yates","Yates County","New York",177
+"36123",2023,"Walked","Walked",3.98410236525785,1.13416052733618,28.4671532846715,"Yates","Yates County","New York",411
+"36123",2023,"Worked from Home","Worked from Home",13.4645211322218,2.13260953858085,15.8387329013679,"Yates","Yates County","New York",1389
+"36123",2024,"Bicycle","Bicycle",2.20385674931129,0.68870523415978,31.25,"Yates","Yates County","New York",224
+"36123",2024,"Carpooled","Carpooled",8.0676898858717,1.62337662337662,20.1219512195122,"Yates","Yates County","New York",820
+"36123",2024,"Drove Alone","Drove Alone",68.7426210153483,3.88626524990161,5.65335623300415,"Yates","Yates County","New York",6987
+"36123",2024,"Public Transportation","Public Transportation",0.137741046831956,0.127902400629673,92.8571428571429,"Yates","Yates County","New York",14
+"36123",2024,"Taxi, Motorcycle, or Other","Taxi, Motorcycle, or Other",2.21369539551358,0.917793300276965,41.4597826845114,"Yates","Yates County","New York",225
+"36123",2024,"Walked","Walked",5.18496654860291,1.5249901613538,29.4117647058823,"Yates","Yates County","New York",527
+"36123",2024,"Worked from Home","Worked from Home",13.4494293585203,2.15466351829988,16.020482809071,"Yates","Yates County","New York",1367

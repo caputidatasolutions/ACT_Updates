@@ -1,257 +1,257 @@
-"GEOID","year","variable","Variable_Description","estimate","moe","moe_pct_of_estimate","County","Geography","State"
-"36037",2017,"Cost Burdened","Cost Burdened",12.6489723069837,1.51666363869671,11.9904099865831,"Genesee","Genesee County","New York"
-"36037",2017,"Not Burdened","Not Burdened",80.5112556854165,3.59639303447737,4.46694440902728,"Genesee","Genesee County","New York"
-"36037",2017,"Not Computed","Not Computed",0.598767919857217,0.300268404868566,50.1477108092511,"Genesee","Genesee County","New York"
-"36037",2017,"Severely Cost Burdened","Severely Cost Burdened",6.24100408774253,0.884503565346394,14.1724561130088,"Genesee","Genesee County","New York"
-"36037",2018,"Cost Burdened","Cost Burdened",11.8830300563921,1.5182666175089,12.776763252334,"Genesee","Genesee County","New York"
-"36037",2018,"Not Burdened","Not Burdened",81.4545665949654,3.50439032081797,4.30226378619585,"Genesee","Genesee County","New York"
-"36037",2018,"Not Computed","Not Computed",0.366257775710714,0.249714918840934,68.180100301316,"Genesee","Genesee County","New York"
-"36037",2018,"Severely Cost Burdened","Severely Cost Burdened",6.29614557293181,1.04337797916912,16.5716940163325,"Genesee","Genesee County","New York"
-"36037",2019,"Cost Burdened","Cost Burdened",11.5214352283318,1.49399910226995,12.9671266874472,"Genesee","Genesee County","New York"
-"36037",2019,"Not Burdened","Not Burdened",81.7742311276794,3.80303498773971,4.65065208843331,"Genesee","Genesee County","New York"
-"36037",2019,"Not Computed","Not Computed",0.524231127679403,0.23277308018043,44.4027582281958,"Genesee","Genesee County","New York"
-"36037",2019,"Severely Cost Burdened","Severely Cost Burdened",6.18010251630941,1.01348003715429,16.3990813174974,"Genesee","Genesee County","New York"
-"36037",2020,"Cost Burdened","Cost Burdened",11.6507628135535,1.87390857949702,16.0839990435397,"Genesee","Genesee County","New York"
-"36037",2020,"Not Burdened","Not Burdened",81.7781841037655,4.21359067590488,5.15246299741554,"Genesee","Genesee County","New York"
-"36037",2020,"Not Computed","Not Computed",0.468544654591166,0.225176395580116,48.0586841347269,"Genesee","Genesee County","New York"
-"36037",2020,"Severely Cost Burdened","Severely Cost Burdened",6.10250842808982,1.49930195570561,24.5686175344605,"Genesee","Genesee County","New York"
-"36037",2021,"Cost Burdened","Cost Burdened",11.0723135841406,1.81783011198089,16.4177983053575,"Genesee","Genesee County","New York"
-"36037",2021,"Not Burdened","Not Burdened",81.555530524893,4.07852938926512,5.0009231293275,"Genesee","Genesee County","New York"
-"36037",2021,"Not Computed","Not Computed",0.416760531651273,0.237610082335312,57.0135759722405,"Genesee","Genesee County","New York"
-"36037",2021,"Severely Cost Burdened","Severely Cost Burdened",6.95539535931516,1.4817354151221,21.3033959764438,"Genesee","Genesee County","New York"
-"36037",2022,"Cost Burdened","Cost Burdened",11.2506278252135,1.78765287036449,15.8893610039987,"Genesee","Genesee County","New York"
-"36037",2022,"Not Burdened","Not Burdened",81.8126011496177,4.0586426481507,4.96090161065569,"Genesee","Genesee County","New York"
-"36037",2022,"Not Computed","Not Computed",0.513421507896646,0.279033428204699,54.3478260869565,"Genesee","Genesee County","New York"
-"36037",2022,"Severely Cost Burdened","Severely Cost Burdened",6.42334951727217,1.43326519269977,22.3133614144111,"Genesee","Genesee County","New York"
-"36037",2023,"Cost Burdened","Cost Burdened",11.2453076546434,1.90507255649568,16.9410443449188,"Genesee","Genesee County","New York"
-"36037",2023,"Not Burdened","Not Burdened",82.0357978347206,4.19379362767671,5.11215071757581,"Genesee","Genesee County","New York"
-"36037",2023,"Not Computed","Not Computed",0.50051683803928,0.273214287133229,54.5864327369118,"Genesee","Genesee County","New York"
-"36037",2023,"Severely Cost Burdened","Severely Cost Burdened",6.2183776725967,1.36515029979375,21.953480017943,"Genesee","Genesee County","New York"
-"36037",2024,"Cost Burdened","Cost Burdened",11.5198081848401,1.96267665423783,17.037407418126,"Genesee","Genesee County","New York"
-"36037",2024,"Not Burdened","Not Burdened",81.8974442809656,4.42530679207325,5.40347361376913,"Genesee","Genesee County","New York"
-"36037",2024,"Not Computed","Not Computed",0.299711187401232,0.185596276670769,61.9250413306415,"Genesee","Genesee County","New York"
-"36037",2024,"Severely Cost Burdened","Severely Cost Burdened",6.28303634679309,1.3873458132581,22.0808178830004,"Genesee","Genesee County","New York"
-"36051",2017,"Cost Burdened","Cost Burdened",12.3099284436494,1.37446211664181,11.1654760865072,"Livingston","Livingston County","New York"
-"36051",2017,"Not Burdened","Not Burdened",79.0529964221825,3.42149810233401,4.32810678555624,"Livingston","Livingston County","New York"
-"36051",2017,"Not Computed","Not Computed",0.53108228980322,0.28466853882992,53.6015876062064,"Livingston","Livingston County","New York"
-"36051",2017,"Severely Cost Burdened","Severely Cost Burdened",8.10599284436494,1.30288505194245,16.0731088338942,"Livingston","Livingston County","New York"
-"36051",2018,"Cost Burdened","Cost Burdened",12.2381723733452,1.51507251913217,12.379891971713,"Livingston","Livingston County","New York"
-"36051",2018,"Not Burdened","Not Burdened",79.7073116237502,3.4953668036441,4.38525240964543,"Livingston","Livingston County","New York"
-"36051",2018,"Not Computed","Not Computed",0.301625425906273,0.205988816562428,68.2929219058732,"Livingston","Livingston County","New York"
-"36051",2018,"Severely Cost Burdened","Severely Cost Burdened",7.75289057699827,1.20939450172368,15.5992721645238,"Livingston","Livingston County","New York"
-"36051",2019,"Cost Burdened","Cost Burdened",11.4988368228647,1.45525535844995,12.6556744901037,"Livingston","Livingston County","New York"
-"36051",2019,"Not Burdened","Not Burdened",80.4475462501385,3.53910879762789,4.39927500911415,"Livingston","Livingston County","New York"
-"36051",2019,"Not Computed","Not Computed",0.27140799822754,0.234997268589747,86.5845038187609,"Livingston","Livingston County","New York"
-"36051",2019,"Severely Cost Burdened","Severely Cost Burdened",7.78220892876925,1.15445356419377,14.8345228811063,"Livingston","Livingston County","New York"
-"36051",2020,"Cost Burdened","Cost Burdened",12.9047797462934,1.77493559998708,13.7540944896552,"Livingston","Livingston County","New York"
-"36051",2020,"Not Burdened","Not Burdened",80.5331049617299,3.69621333827053,4.58968189544785,"Livingston","Livingston County","New York"
-"36051",2020,"Not Computed","Not Computed",0.192688540384307,0.193948198169389,100.653727399964,"Livingston","Livingston County","New York"
-"36051",2020,"Severely Cost Burdened","Severely Cost Burdened",6.36942675159236,1.00519416573681,15.7815484020678,"Livingston","Livingston County","New York"
-"36051",2021,"Cost Burdened","Cost Burdened",12.5436681222707,1.9346259580811,15.4231277424046,"Livingston","Livingston County","New York"
-"36051",2021,"Not Burdened","Not Burdened",80.9934497816594,4.10768779901481,5.07162963188781,"Livingston","Livingston County","New York"
-"36051",2021,"Not Computed","Not Computed",0.27292576419214,0.193604234180876,70.9365914038728,"Livingston","Livingston County","New York"
-"36051",2021,"Severely Cost Burdened","Severely Cost Burdened",6.18995633187773,0.988729850110963,15.9731312645792,"Livingston","Livingston County","New York"
-"36051",2022,"Cost Burdened","Cost Burdened",12.9731478485927,1.93578745761017,14.9214938440724,"Livingston","Livingston County","New York"
-"36051",2022,"Not Burdened","Not Burdened",80.9770300873504,3.77992924152462,4.66790303058434,"Livingston","Livingston County","New York"
-"36051",2022,"Not Computed","Not Computed",0.39361587404292,0.256162482912104,65.079306960108,"Livingston","Livingston County","New York"
-"36051",2022,"Severely Cost Burdened","Severely Cost Burdened",5.65620619001402,0.949374573508358,16.7846528506063,"Livingston","Livingston County","New York"
-"36051",2023,"Cost Burdened","Cost Burdened",12.1914814222507,1.83543607780145,15.0550701283242,"Livingston","Livingston County","New York"
-"36051",2023,"Not Burdened","Not Burdened",81.3262967109121,4.04780283541202,4.9772373747702,"Livingston","Livingston County","New York"
-"36051",2023,"Not Computed","Not Computed",0.447785063169679,0.245736565309795,54.8782408172196,"Livingston","Livingston County","New York"
-"36051",2023,"Severely Cost Burdened","Severely Cost Burdened",6.03443680366757,0.851139585650368,14.1047062607909,"Livingston","Livingston County","New York"
-"36051",2024,"Cost Burdened","Cost Burdened",12.3956326268465,1.8492048109339,14.9181963244771,"Livingston","Livingston County","New York"
-"36051",2024,"Not Burdened","Not Burdened",81.6741597088418,3.71850860472741,4.55285811079469,"Livingston","Livingston County","New York"
-"36051",2024,"Not Computed","Not Computed",0.642260757867694,0.322243485837944,50.1733107449679,"Livingston","Livingston County","New York"
-"36051",2024,"Severely Cost Burdened","Severely Cost Burdened",5.28794690644402,0.87266683990473,16.5029425473482,"Livingston","Livingston County","New York"
-"36055",2017,"Cost Burdened","Cost Burdened",12.8120095317054,0.494444441488747,3.85922630064521,"Monroe","Monroe County","New York"
-"36055",2017,"Not Burdened","Not Burdened",78.451984294586,1.15712822976541,1.47495087622055,"Monroe","Monroe County","New York"
-"36055",2017,"Not Computed","Not Computed",0.475542415567757,0.0958889098185655,20.1641129538534,"Monroe","Monroe County","New York"
-"36055",2017,"Severely Cost Burdened","Severely Cost Burdened",8.2604637581408,0.376807473696994,4.56157771197344,"Monroe","Monroe County","New York"
-"36055",2018,"Cost Burdened","Cost Burdened",12.3649998174792,0.444856085550046,3.5977039394792,"Monroe","Monroe County","New York"
-"36055",2018,"Not Burdened","Not Burdened",78.9052925807915,1.17897898421039,1.49416971365162,"Monroe","Monroe County","New York"
-"36055",2018,"Not Computed","Not Computed",0.598668119879641,0.121323016120566,20.2654880211356,"Monroe","Monroe County","New York"
-"36055",2018,"Severely Cost Burdened","Severely Cost Burdened",8.13103948184961,0.397190676437839,4.88486960768622,"Monroe","Monroe County","New York"
-"36055",2019,"Cost Burdened","Cost Burdened",11.8962577496441,0.46791894503122,3.93332890795189,"Monroe","Monroe County","New York"
-"36055",2019,"Not Burdened","Not Burdened",79.7323016117174,1.16952264168381,1.46681159083954,"Monroe","Monroe County","New York"
-"36055",2019,"Not Computed","Not Computed",0.605371696135737,0.113963955053053,18.8254515003787,"Monroe","Monroe County","New York"
-"36055",2019,"Severely Cost Burdened","Severely Cost Burdened",7.76606894250272,0.395085970755132,5.08733535177464,"Monroe","Monroe County","New York"
-"36055",2020,"Cost Burdened","Cost Burdened",11.7448362551017,0.641408091882516,5.4611922886869,"Monroe","Monroe County","New York"
-"36055",2020,"Not Burdened","Not Burdened",80.3728552289221,1.41552773294761,1.76120125248235,"Monroe","Monroe County","New York"
-"36055",2020,"Not Computed","Not Computed",0.640909584676105,0.143913505277508,22.4545721765476,"Monroe","Monroe County","New York"
-"36055",2020,"Severely Cost Burdened","Severely Cost Burdened",7.24139893130008,0.452193915539638,6.24456572313789,"Monroe","Monroe County","New York"
-"36055",2021,"Cost Burdened","Cost Burdened",11.7038513017138,0.623335174232811,5.32589793020982,"Monroe","Monroe County","New York"
-"36055",2021,"Not Burdened","Not Burdened",80.7017279030684,1.40829307863102,1.74505938747995,"Monroe","Monroe County","New York"
-"36055",2021,"Not Computed","Not Computed",0.623937042739687,0.140862051266305,22.5763244714218,"Monroe","Monroe County","New York"
-"36055",2021,"Severely Cost Burdened","Severely Cost Burdened",6.97048375247814,0.437851916936439,6.28151405963431,"Monroe","Monroe County","New York"
-"36055",2022,"Cost Burdened","Cost Burdened",11.8203781722341,0.586686079327015,4.96334441063089,"Monroe","Monroe County","New York"
-"36055",2022,"Not Burdened","Not Burdened",80.684064453008,1.42371604710274,1.76455667764722,"Monroe","Monroe County","New York"
-"36055",2022,"Not Computed","Not Computed",0.580536309725855,0.123242774196194,21.2291241962785,"Monroe","Monroe County","New York"
-"36055",2022,"Severely Cost Burdened","Severely Cost Burdened",6.91502106503205,0.418876173164777,6.05748224373393,"Monroe","Monroe County","New York"
-"36055",2023,"Cost Burdened","Cost Burdened",12.0751920092324,0.582055139559013,4.820255769962,"Monroe","Monroe County","New York"
-"36055",2023,"Not Burdened","Not Burdened",80.3081101516177,1.38839954375165,1.72884101136289,"Monroe","Monroe County","New York"
-"36055",2023,"Not Computed","Not Computed",0.524294639659358,0.123244042979105,23.5066379963713,"Monroe","Monroe County","New York"
-"36055",2023,"Severely Cost Burdened","Severely Cost Burdened",7.09240319949063,0.449821047070635,6.34229378136512,"Monroe","Monroe County","New York"
-"36055",2024,"Cost Burdened","Cost Burdened",12.1746551690116,0.646742910300378,5.3122072150885,"Monroe","Monroe County","New York"
-"36055",2024,"Not Burdened","Not Burdened",79.6081062414902,1.42562088019959,1.79079863534876,"Monroe","Monroe County","New York"
-"36055",2024,"Not Computed","Not Computed",0.594451131677092,0.134412394483517,22.6111764821285,"Monroe","Monroe County","New York"
-"36055",2024,"Severely Cost Burdened","Severely Cost Burdened",7.6227874578211,0.478141532935833,6.27252872497779,"Monroe","Monroe County","New York"
-"36069",2017,"Cost Burdened","Cost Burdened",11.4421562876285,0.993680352867113,8.68438018052156,"Ontario","Ontario County","New York"
-"36069",2017,"Not Burdened","Not Burdened",80.9873722560128,2.85606641120765,3.52655769862394,"Ontario","Ontario County","New York"
-"36069",2017,"Not Computed","Not Computed",0.595881317731328,0.212475229665445,35.6573068063943,"Ontario","Ontario County","New York"
-"36069",2017,"Severely Cost Burdened","Severely Cost Burdened",6.97459013862731,0.86573614809938,12.4127171760916,"Ontario","Ontario County","New York"
-"36069",2018,"Cost Burdened","Cost Burdened",11.866172370477,1.05778113720383,8.91425730369112,"Ontario","Ontario County","New York"
-"36069",2018,"Not Burdened","Not Burdened",80.3118968105641,2.81439951327513,3.50433699743589,"Ontario","Ontario County","New York"
-"36069",2018,"Not Computed","Not Computed",0.845614142590153,0.295352821681597,34.9276114016871,"Ontario","Ontario County","New York"
-"36069",2018,"Severely Cost Burdened","Severely Cost Burdened",6.97631667636876,0.944789692517195,13.5428154475489,"Ontario","Ontario County","New York"
-"36069",2019,"Cost Burdened","Cost Burdened",11.3420463483996,1.05041178249272,9.26121927407694,"Ontario","Ontario County","New York"
-"36069",2019,"Not Burdened","Not Burdened",81.3850063532402,2.83932672236247,3.48875898594733,"Ontario","Ontario County","New York"
-"36069",2019,"Not Computed","Not Computed",0.807769105100744,0.280445440192589,34.7185152813701,"Ontario","Ontario County","New York"
-"36069",2019,"Severely Cost Burdened","Severely Cost Burdened",6.46517819325951,0.809580020470554,12.5221609717518,"Ontario","Ontario County","New York"
-"36069",2020,"Cost Burdened","Cost Burdened",11.5263110389024,1.28138273338573,11.1170237299769,"Ontario","Ontario County","New York"
-"36069",2020,"Not Burdened","Not Burdened",81.6650118843458,3.19751118481722,3.91539915446966,"Ontario","Ontario County","New York"
-"36069",2020,"Not Computed","Not Computed",0.676956404007582,0.325440136787074,48.0740170061865,"Ontario","Ontario County","New York"
-"36069",2020,"Severely Cost Burdened","Severely Cost Burdened",6.13172067274423,0.852740846687436,13.9070400006626,"Ontario","Ontario County","New York"
-"36069",2021,"Cost Burdened","Cost Burdened",10.8367305041499,1.22265792783762,11.2825351462732,"Ontario","Ontario County","New York"
-"36069",2021,"Not Burdened","Not Burdened",82.4911282517524,3.06443352026419,3.71486435597284,"Ontario","Ontario County","New York"
-"36069",2021,"Not Computed","Not Computed",0.483913540780714,0.282068569986675,58.2890426111253,"Ontario","Ontario County","New York"
-"36069",2021,"Severely Cost Burdened","Severely Cost Burdened",6.18822770331701,0.800098123923145,12.9293581665438,"Ontario","Ontario County","New York"
-"36069",2022,"Cost Burdened","Cost Burdened",10.7051826677995,1.13617473044955,10.6133147439613,"Ontario","Ontario County","New York"
-"36069",2022,"Not Burdened","Not Burdened",82.03791052647,3.17635410694103,3.87181253954068,"Ontario","Ontario County","New York"
-"36069",2022,"Not Computed","Not Computed",0.665045557085518,0.370872437265173,55.7664709302738,"Ontario","Ontario County","New York"
-"36069",2022,"Severely Cost Burdened","Severely Cost Burdened",6.59186124864501,0.885360984165563,13.431122876677,"Ontario","Ontario County","New York"
-"36069",2023,"Cost Burdened","Cost Burdened",10.7725099372084,1.17119093161076,10.8720338940273,"Ontario","Ontario County","New York"
-"36069",2023,"Not Burdened","Not Burdened",81.4130998329397,3.12646861341693,3.84025251443867,"Ontario","Ontario County","New York"
-"36069",2023,"Not Computed","Not Computed",0.636557405380494,0.384124701643454,60.3440786952824,"Ontario","Ontario County","New York"
-"36069",2023,"Severely Cost Burdened","Severely Cost Burdened",7.17783282447146,0.924812244126794,12.8842822999976,"Ontario","Ontario County","New York"
-"36069",2024,"Cost Burdened","Cost Burdened",11.1495027810551,1.17601961633456,10.547731494653,"Ontario","Ontario County","New York"
-"36069",2024,"Not Burdened","Not Burdened",80.4399123546267,2.89460167030455,3.59846447562428,"Ontario","Ontario County","New York"
-"36069",2024,"Not Computed","Not Computed",0.530928703859767,0.236452727810764,44.5356836222624,"Ontario","Ontario County","New York"
-"36069",2024,"Severely Cost Burdened","Severely Cost Burdened",7.87965616045845,0.882089918990257,11.1945229719127,"Ontario","Ontario County","New York"
-"36073",2017,"Cost Burdened","Cost Burdened",16.5378924872596,2.09198829861428,12.6496668195533,"Orleans","Orleans County","New York"
-"36073",2017,"Not Burdened","Not Burdened",73.7547262863718,4.07976852154422,5.53153503099375,"Orleans","Orleans County","New York"
-"36073",2017,"Not Computed","Not Computed",0.772645076442545,0.391533959027275,50.6744909098492,"Orleans","Orleans County","New York"
-"36073",2017,"Severely Cost Burdened","Severely Cost Burdened",8.93473614992602,1.40726184836644,15.7504578171354,"Orleans","Orleans County","New York"
-"36073",2018,"Cost Burdened","Cost Burdened",14.5229224040175,1.92826030185796,13.2773573266806,"Orleans","Orleans County","New York"
-"36073",2018,"Not Burdened","Not Burdened",75.1255467357849,4.24431283482586,5.64962655080971,"Orleans","Orleans County","New York"
-"36073",2018,"Not Computed","Not Computed",0.566985258383282,0.312551132052077,55.1250896616421,"Orleans","Orleans County","New York"
-"36073",2018,"Severely Cost Burdened","Severely Cost Burdened",9.78454560181435,1.6268281336953,16.6265067372535,"Orleans","Orleans County","New York"
-"36073",2019,"Cost Burdened","Cost Burdened",14.0575079872204,1.95792825214655,13.9279896118607,"Orleans","Orleans County","New York"
-"36073",2019,"Not Burdened","Not Burdened",74.9201277955272,4.16688016410771,5.56176328940603,"Orleans","Orleans County","New York"
-"36073",2019,"Not Computed","Not Computed",0.662939297124601,0.32591383008152,49.1619415978389,"Orleans","Orleans County","New York"
-"36073",2019,"Severely Cost Burdened","Severely Cost Burdened",10.3594249201278,1.61626295308331,15.6018598092545,"Orleans","Orleans County","New York"
-"36073",2020,"Cost Burdened","Cost Burdened",12.9052918101033,2.05253804103516,15.9046232447706,"Orleans","Orleans County","New York"
-"36073",2020,"Not Burdened","Not Burdened",76.254903530542,4.73993975432935,6.21591469515253,"Orleans","Orleans County","New York"
-"36073",2020,"Not Computed","Not Computed",0.608438075414298,0.370866538208325,60.9538674836867,"Orleans","Orleans County","New York"
-"36073",2020,"Severely Cost Burdened","Severely Cost Burdened",10.2313665839404,1.81436122066027,17.7333223844033,"Orleans","Orleans County","New York"
-"36073",2021,"Cost Burdened","Cost Burdened",12.3912142561127,1.98957035267631,16.0562985317991,"Orleans","Orleans County","New York"
-"36073",2021,"Not Burdened","Not Burdened",76.5354330708661,4.9432383776139,6.45875796252022,"Orleans","Orleans County","New York"
-"36073",2021,"Not Computed","Not Computed",0.596767509324492,0.393155117302326,65.8807845868412,"Orleans","Orleans County","New York"
-"36073",2021,"Severely Cost Burdened","Severely Cost Burdened",10.4765851636966,2.10114754789084,20.0556528206511,"Orleans","Orleans County","New York"
-"36073",2022,"Cost Burdened","Cost Burdened",11.9128603822481,1.97230766956771,16.5561217565072,"Orleans","Orleans County","New York"
-"36073",2022,"Not Burdened","Not Burdened",76.7006802721088,4.78758399808494,6.2419055230021,"Orleans","Orleans County","New York"
-"36073",2022,"Not Computed","Not Computed",0.421120829284095,0.335574171608368,79.6859590580794,"Orleans","Orleans County","New York"
-"36073",2022,"Severely Cost Burdened","Severely Cost Burdened",10.9653385163589,2.05543442898531,18.7448333302146,"Orleans","Orleans County","New York"
-"36073",2023,"Cost Burdened","Cost Burdened",12.0583778610735,1.99026726307541,16.5052653516551,"Orleans","Orleans County","New York"
-"36073",2023,"Not Burdened","Not Burdened",77.2629396283595,4.960446236725,6.42021421989005,"Orleans","Orleans County","New York"
-"36073",2023,"Not Computed","Not Computed",0.494457293245075,0.354152696565508,71.6245268102404,"Orleans","Orleans County","New York"
-"36073",2023,"Severely Cost Burdened","Severely Cost Burdened",10.184225217322,1.77879094687374,17.4661391408378,"Orleans","Orleans County","New York"
-"36073",2024,"Cost Burdened","Cost Burdened",12.4091090691171,2.10384667130349,16.9540509281154,"Orleans","Orleans County","New York"
-"36073",2024,"Not Burdened","Not Burdened",76.9236915701159,5.2974560208198,6.88663779999582,"Orleans","Orleans County","New York"
-"36073",2024,"Not Computed","Not Computed",0.535357570914902,0.377668471373439,70.5450883468446,"Orleans","Orleans County","New York"
-"36073",2024,"Severely Cost Burdened","Severely Cost Burdened",10.1318417898522,2.07346174895768,20.4648058266604,"Orleans","Orleans County","New York"
-"36099",2017,"Cost Burdened","Cost Burdened",13.5290556900726,1.79441390530044,13.2634083738538,"Seneca","Seneca County","New York"
-"36099",2017,"Not Burdened","Not Burdened",80.3066989507668,3.86686022120225,4.81511539102472,"Seneca","Seneca County","New York"
-"36099",2017,"Not Computed","Not Computed",0.443906376109766,0.271086134837458,61.0683129206564,"Seneca","Seneca County","New York"
-"36099",2017,"Severely Cost Burdened","Severely Cost Burdened",5.72033898305085,1.06888721249077,18.6857320109498,"Seneca","Seneca County","New York"
-"36099",2018,"Cost Burdened","Cost Burdened",13.445966210137,1.78493364593445,13.2748633905444,"Seneca","Seneca County","New York"
-"36099",2018,"Not Burdened","Not Burdened",80.185944216735,4.23562676175711,5.28225589051943,"Seneca","Seneca County","New York"
-"36099",2018,"Not Computed","Not Computed",0.499850044986504,0.276503382703975,55.3172667437573,"Seneca","Seneca County","New York"
-"36099",2018,"Severely Cost Burdened","Severely Cost Burdened",5.86823952814156,1.21042174289036,20.626658763428,"Seneca","Seneca County","New York"
-"36099",2019,"Cost Burdened","Cost Burdened",12.2530433047296,1.60940691707491,13.1347525430983,"Seneca","Seneca County","New York"
-"36099",2019,"Not Burdened","Not Burdened",80.7723009379365,4.17353265780256,5.16703450234679,"Seneca","Seneca County","New York"
-"36099",2019,"Not Computed","Not Computed",0.449012173218918,0.224228747298386,49.9382334538761,"Seneca","Seneca County","New York"
-"36099",2019,"Severely Cost Burdened","Severely Cost Burdened",6.52564358411495,1.07989038217998,16.5484119422137,"Seneca","Seneca County","New York"
-"36099",2020,"Cost Burdened","Cost Burdened",12.9357706522825,2.41176210471284,18.644131606394,"Seneca","Seneca County","New York"
-"36099",2020,"Not Burdened","Not Burdened",80.4714813704925,4.65477245292917,5.78437525152357,"Seneca","Seneca County","New York"
-"36099",2020,"Not Computed","Not Computed",0.309659374687843,0.178688880431509,57.7049800645107,"Seneca","Seneca County","New York"
-"36099",2020,"Severely Cost Burdened","Severely Cost Burdened",6.28308860253721,1.26876183253658,20.1932825207054,"Seneca","Seneca County","New York"
-"36099",2021,"Cost Burdened","Cost Burdened",12.8814583543156,2.50557980066375,19.4510569513607,"Seneca","Seneca County","New York"
-"36099",2021,"Not Burdened","Not Burdened",80.0886292678014,4.73928383519552,5.91754894361876,"Seneca","Seneca County","New York"
-"36099",2021,"Not Computed","Not Computed",0.423003323597543,0.235121714773467,55.5838929996607,"Seneca","Seneca County","New York"
-"36099",2021,"Severely Cost Burdened","Severely Cost Burdened",6.60690905428543,1.35756302771715,20.5476269850664,"Seneca","Seneca County","New York"
-"36099",2022,"Cost Burdened","Cost Burdened",12.8111718275653,2.45689164890047,19.1777277049245,"Seneca","Seneca County","New York"
-"36099",2022,"Not Burdened","Not Burdened",79.2046144505161,5.11682991782323,6.46026743936746,"Seneca","Seneca County","New York"
-"36099",2022,"Not Computed","Not Computed",0.758955676988464,0.393617695583419,51.8630675700713,"Seneca","Seneca County","New York"
-"36099",2022,"Severely Cost Burdened","Severely Cost Burdened",7.22525804493018,1.48120635178147,20.5003937931435,"Seneca","Seneca County","New York"
-"36099",2023,"Cost Burdened","Cost Burdened",12.2969130787977,2.46796571155715,20.0697987839924,"Seneca","Seneca County","New York"
-"36099",2023,"Not Burdened","Not Burdened",79.4577579203899,5.00954142566342,6.30465993098189,"Seneca","Seneca County","New York"
-"36099",2023,"Not Computed","Not Computed",0.588952071486596,0.349403950732844,59.3263811520181,"Seneca","Seneca County","New York"
-"36099",2023,"Severely Cost Burdened","Severely Cost Burdened",7.65637692932575,1.38892005089746,18.140695837186,"Seneca","Seneca County","New York"
-"36099",2024,"Cost Burdened","Cost Burdened",12.7719080174021,2.40685190803884,18.8448891485863,"Seneca","Seneca County","New York"
-"36099",2024,"Not Burdened","Not Burdened",78.7859954423037,4.96885904537681,6.30677954563078,"Seneca","Seneca County","New York"
-"36099",2024,"Not Computed","Not Computed",0.74580484773151,0.42507322412851,56.9952348018978,"Seneca","Seneca County","New York"
-"36099",2024,"Severely Cost Burdened","Severely Cost Burdened",7.69629169256267,1.55627860247041,20.2211488940099,"Seneca","Seneca County","New York"
-"36117",2017,"Cost Burdened","Cost Burdened",13.6006261339784,1.16131947849319,8.53872069604108,"Wayne","Wayne County","New York"
-"36117",2017,"Not Burdened","Not Burdened",78.8359600128073,2.93727037455059,3.72580022374741,"Wayne","Wayne County","New York"
-"36117",2017,"Not Computed","Not Computed",0.45892774556192,0.216106479042121,47.0894342588758,"Wayne","Wayne County","New York"
-"36117",2017,"Severely Cost Burdened","Severely Cost Burdened",7.10448610765235,0.942335570116031,13.2639511969912,"Wayne","Wayne County","New York"
-"36117",2018,"Cost Burdened","Cost Burdened",13.3535331674061,1.291270965142,9.66988248693457,"Wayne","Wayne County","New York"
-"36117",2018,"Not Burdened","Not Burdened",78.7216390722505,2.82988550358163,3.59480002821635,"Wayne","Wayne County","New York"
-"36117",2018,"Not Computed","Not Computed",0.310211737546442,0.163318997549641,52.6475880124268,"Wayne","Wayne County","New York"
-"36117",2018,"Severely Cost Burdened","Severely Cost Burdened",7.61461602279696,0.971439189917067,12.7575597641264,"Wayne","Wayne County","New York"
-"36117",2019,"Cost Burdened","Cost Burdened",13.5869758825834,1.3984387037434,10.292494193178,"Wayne","Wayne County","New York"
-"36117",2019,"Not Burdened","Not Burdened",78.7146877560472,2.79573827831888,3.55173647767421,"Wayne","Wayne County","New York"
-"36117",2019,"Not Computed","Not Computed",0.381176302946101,0.197512255005224,51.8165094416041,"Wayne","Wayne County","New York"
-"36117",2019,"Severely Cost Burdened","Severely Cost Burdened",7.31716005842328,0.945022313047695,12.9151515820652,"Wayne","Wayne County","New York"
-"36117",2020,"Cost Burdened","Cost Burdened",12.2861853403861,1.3473466066124,10.9663542367664,"Wayne","Wayne County","New York"
-"36117",2020,"Not Burdened","Not Burdened",78.8692725149413,3.28063320813766,4.15958345186481,"Wayne","Wayne County","New York"
-"36117",2020,"Not Computed","Not Computed",0.851823864807309,0.656176626297152,77.0319608790939,"Wayne","Wayne County","New York"
-"36117",2020,"Severely Cost Burdened","Severely Cost Burdened",7.99271827986536,1.20584527591825,15.0867981792367,"Wayne","Wayne County","New York"
-"36117",2021,"Cost Burdened","Cost Burdened",12.3627118644068,1.39331106142,11.2702704447189,"Wayne","Wayne County","New York"
-"36117",2021,"Not Burdened","Not Burdened",78.9186440677966,3.47195270938448,4.39940745358199,"Wayne","Wayne County","New York"
-"36117",2021,"Not Computed","Not Computed",0.922033898305085,0.641206848333593,69.5426545067684,"Wayne","Wayne County","New York"
-"36117",2021,"Severely Cost Burdened","Severely Cost Burdened",7.79661016949153,1.34166219845175,17.2082760236203,"Wayne","Wayne County","New York"
-"36117",2022,"Cost Burdened","Cost Burdened",11.9604197104529,1.44996894099313,12.1230606959881,"Wayne","Wayne County","New York"
-"36117",2022,"Not Burdened","Not Burdened",78.649223004383,3.31362684752746,4.21317175294,"Wayne","Wayne County","New York"
-"36117",2022,"Not Computed","Not Computed",1.09244255545225,0.677380794262186,62.0060790273556,"Wayne","Wayne County","New York"
-"36117",2022,"Severely Cost Burdened","Severely Cost Burdened",8.29791472971178,1.45884236607741,17.5808310111193,"Wayne","Wayne County","New York"
-"36117",2023,"Cost Burdened","Cost Burdened",11.4310045527497,1.31751716392646,11.5258213558277,"Wayne","Wayne County","New York"
-"36117",2023,"Not Burdened","Not Burdened",78.7199895188497,3.66778842587081,4.65928469793883,"Wayne","Wayne County","New York"
-"36117",2023,"Not Computed","Not Computed",1.40840457240182,0.678007321885443,48.1400966150801,"Wayne","Wayne County","New York"
-"36117",2023,"Severely Cost Burdened","Severely Cost Burdened",8.44060135599882,1.3481755176194,15.9725055213186,"Wayne","Wayne County","New York"
-"36117",2024,"Cost Burdened","Cost Burdened",11.7192593558482,1.42363367170975,12.1478126601859,"Wayne","Wayne County","New York"
-"36117",2024,"Not Burdened","Not Burdened",78.448950319468,3.39816384271836,4.33168809637351,"Wayne","Wayne County","New York"
-"36117",2024,"Not Computed","Not Computed",1.17681575172774,0.706784729840535,60.0590813645104,"Wayne","Wayne County","New York"
-"36117",2024,"Severely Cost Burdened","Severely Cost Burdened",8.65497457295606,1.29138883026064,14.9207697766763,"Wayne","Wayne County","New York"
-"36123",2017,"Cost Burdened","Cost Burdened",13.4519177320734,1.97757098813291,14.7010339159137,"Yates","Yates County","New York"
-"36123",2017,"Not Burdened","Not Burdened",77.0566981656476,5.01349910730843,6.50624699300116,"Yates","Yates County","New York"
-"36123",2017,"Not Computed","Not Computed",0.444691495275153,0.317500268449023,71.3978728674741,"Yates","Yates County","New York"
-"36123",2017,"Severely Cost Burdened","Severely Cost Burdened",9.04669260700389,1.76656460056372,19.5271871976291,"Yates","Yates County","New York"
-"36123",2018,"Cost Burdened","Cost Burdened",12.7796420581655,2.04516635537973,16.0033148508489,"Yates","Yates County","New York"
-"36123",2018,"Not Burdened","Not Burdened",78.4815436241611,4.79145674692557,6.10520196935893,"Yates","Yates County","New York"
-"36123",2018,"Not Computed","Not Computed",0.349552572706935,0.310453066431411,88.8144132446981,"Yates","Yates County","New York"
-"36123",2018,"Severely Cost Burdened","Severely Cost Burdened",8.38926174496644,1.7423854636056,20.7692347261788,"Yates","Yates County","New York"
-"36123",2019,"Cost Burdened","Cost Burdened",12.3721451590304,1.90818790706136,15.4232583156251,"Yates","Yates County","New York"
-"36123",2019,"Not Burdened","Not Burdened",78.4503292700014,5.05508052495162,6.44367024586171,"Yates","Yates County","New York"
-"36123",2019,"Not Computed","Not Computed",0.266218299005184,0.226362539181778,85.0289180073869,"Yates","Yates County","New York"
-"36123",2019,"Severely Cost Burdened","Severely Cost Burdened",8.91130727196301,1.73832842026295,19.5069967537998,"Yates","Yates County","New York"
-"36123",2020,"Cost Burdened","Cost Burdened",12.608376193975,2.28034265878276,18.0859344906954,"Yates","Yates County","New York"
-"36123",2020,"Not Burdened","Not Burdened",77.3842762674504,5.5021045608943,7.1101066344257,"Yates","Yates County","New York"
-"36123",2020,"Not Computed","Not Computed",0.20573108008817,0.216970213963753,105.46302185881,"Yates","Yates County","New York"
-"36123",2020,"Severely Cost Burdened","Severely Cost Burdened",9.80161645848641,1.72427804777342,17.5917722865039,"Yates","Yates County","New York"
-"36123",2021,"Cost Burdened","Cost Burdened",11.7781851512374,2.17897800350343,18.5001167456984,"Yates","Yates County","New York"
-"36123",2021,"Not Burdened","Not Burdened",77.9560036663611,5.60880777341838,7.19483748477302,"Yates","Yates County","New York"
-"36123",2021,"Not Computed","Not Computed",0.366636113657195,0.374508117083143,102.147088934427,"Yates","Yates County","New York"
-"36123",2021,"Severely Cost Burdened","Severely Cost Burdened",9.89917506874427,1.95592959705697,19.7585110221218,"Yates","Yates County","New York"
-"36123",2022,"Cost Burdened","Cost Burdened",11.0900612066453,2.12191244184224,19.1334601523278,"Yates","Yates County","New York"
-"36123",2022,"Not Burdened","Not Burdened",78.0093267269018,5.85356321157127,7.50367098034786,"Yates","Yates County","New York"
-"36123",2022,"Not Computed","Not Computed",0.597493442145147,0.481130108400442,80.5247513132643,"Yates","Yates County","New York"
-"36123",2022,"Severely Cost Burdened","Severely Cost Burdened",10.3031186243078,1.95626047153015,18.9870712243845,"Yates","Yates County","New York"
-"36123",2023,"Cost Burdened","Cost Burdened",11.6457858769932,2.27719237165515,19.5537887756794,"Yates","Yates County","New York"
-"36123",2023,"Not Burdened","Not Burdened",77.2067198177676,5.54415383852893,7.1809213648953,"Yates","Yates County","New York"
-"36123",2023,"Not Computed","Not Computed",0.740318906605923,0.475819332775296,64.2722114118015,"Yates","Yates County","New York"
-"36123",2023,"Severely Cost Burdened","Severely Cost Burdened",10.4071753986333,1.96458931425007,18.8772576515629,"Yates","Yates County","New York"
-"36123",2024,"Cost Burdened","Cost Burdened",10.6470106470106,1.88093027669658,17.6662759065117,"Yates","Yates County","New York"
-"36123",2024,"Not Burdened","Not Burdened",79.3065793065793,5.68709435221995,7.17102465135341,"Yates","Yates County","New York"
-"36123",2024,"Not Computed","Not Computed",0.846300846300846,0.511647961069924,60.4569832709397,"Yates","Yates County","New York"
-"36123",2024,"Severely Cost Burdened","Severely Cost Burdened",9.2001092001092,1.64848994462674,17.9181562823969,"Yates","Yates County","New York"
+"GEOID","year","variable","Variable_Description","estimate","moe","moe_pct_of_estimate","County","Geography","State","count"
+"36037",2017,"Cost Burdened","Cost Burdened",12.6489723069837,1.51666363869671,11.9904099865831,"Genesee","Genesee County","New York",2197
+"36037",2017,"Not Burdened","Not Burdened",80.5112556854165,3.59639303447737,4.46694440902728,"Genesee","Genesee County","New York",13984
+"36037",2017,"Not Computed","Not Computed",0.598767919857217,0.300268404868566,50.1477108092511,"Genesee","Genesee County","New York",104
+"36037",2017,"Severely Cost Burdened","Severely Cost Burdened",6.24100408774253,0.884503565346394,14.1724561130088,"Genesee","Genesee County","New York",1084
+"36037",2018,"Cost Burdened","Cost Burdened",11.8830300563921,1.5182666175089,12.776763252334,"Genesee","Genesee County","New York",2044
+"36037",2018,"Not Burdened","Not Burdened",81.4545665949654,3.50439032081797,4.30226378619585,"Genesee","Genesee County","New York",14011
+"36037",2018,"Not Computed","Not Computed",0.366257775710714,0.249714918840934,68.180100301316,"Genesee","Genesee County","New York",63
+"36037",2018,"Severely Cost Burdened","Severely Cost Burdened",6.29614557293181,1.04337797916912,16.5716940163325,"Genesee","Genesee County","New York",1083
+"36037",2019,"Cost Burdened","Cost Burdened",11.5214352283318,1.49399910226995,12.9671266874472,"Genesee","Genesee County","New York",1978
+"36037",2019,"Not Burdened","Not Burdened",81.7742311276794,3.80303498773971,4.65065208843331,"Genesee","Genesee County","New York",14039
+"36037",2019,"Not Computed","Not Computed",0.524231127679403,0.23277308018043,44.4027582281958,"Genesee","Genesee County","New York",90
+"36037",2019,"Severely Cost Burdened","Severely Cost Burdened",6.18010251630941,1.01348003715429,16.3990813174974,"Genesee","Genesee County","New York",1061
+"36037",2020,"Cost Burdened","Cost Burdened",11.6507628135535,1.87390857949702,16.0839990435397,"Genesee","Genesee County","New York",2039
+"36037",2020,"Not Burdened","Not Burdened",81.7781841037655,4.21359067590488,5.15246299741554,"Genesee","Genesee County","New York",14312
+"36037",2020,"Not Computed","Not Computed",0.468544654591166,0.225176395580116,48.0586841347269,"Genesee","Genesee County","New York",82
+"36037",2020,"Severely Cost Burdened","Severely Cost Burdened",6.10250842808982,1.49930195570561,24.5686175344605,"Genesee","Genesee County","New York",1068
+"36037",2021,"Cost Burdened","Cost Burdened",11.0723135841406,1.81783011198089,16.4177983053575,"Genesee","Genesee County","New York",1966
+"36037",2021,"Not Burdened","Not Burdened",81.555530524893,4.07852938926512,5.0009231293275,"Genesee","Genesee County","New York",14481
+"36037",2021,"Not Computed","Not Computed",0.416760531651273,0.237610082335312,57.0135759722405,"Genesee","Genesee County","New York",74
+"36037",2021,"Severely Cost Burdened","Severely Cost Burdened",6.95539535931516,1.4817354151221,21.3033959764438,"Genesee","Genesee County","New York",1235
+"36037",2022,"Cost Burdened","Cost Burdened",11.2506278252135,1.78765287036449,15.8893610039987,"Genesee","Genesee County","New York",2016
+"36037",2022,"Not Burdened","Not Burdened",81.8126011496177,4.0586426481507,4.96090161065569,"Genesee","Genesee County","New York",14660
+"36037",2022,"Not Computed","Not Computed",0.513421507896646,0.279033428204699,54.3478260869565,"Genesee","Genesee County","New York",92
+"36037",2022,"Severely Cost Burdened","Severely Cost Burdened",6.42334951727217,1.43326519269977,22.3133614144111,"Genesee","Genesee County","New York",1151
+"36037",2023,"Cost Burdened","Cost Burdened",11.2453076546434,1.90507255649568,16.9410443449188,"Genesee","Genesee County","New York",2067
+"36037",2023,"Not Burdened","Not Burdened",82.0357978347206,4.19379362767671,5.11215071757581,"Genesee","Genesee County","New York",15079
+"36037",2023,"Not Computed","Not Computed",0.50051683803928,0.273214287133229,54.5864327369118,"Genesee","Genesee County","New York",92
+"36037",2023,"Severely Cost Burdened","Severely Cost Burdened",6.2183776725967,1.36515029979375,21.953480017943,"Genesee","Genesee County","New York",1143
+"36037",2024,"Cost Burdened","Cost Burdened",11.5198081848401,1.96267665423783,17.037407418126,"Genesee","Genesee County","New York",2114
+"36037",2024,"Not Burdened","Not Burdened",81.8974442809656,4.42530679207325,5.40347361376913,"Genesee","Genesee County","New York",15029
+"36037",2024,"Not Computed","Not Computed",0.299711187401232,0.185596276670769,61.9250413306415,"Genesee","Genesee County","New York",55
+"36037",2024,"Severely Cost Burdened","Severely Cost Burdened",6.28303634679309,1.3873458132581,22.0808178830004,"Genesee","Genesee County","New York",1153
+"36051",2017,"Cost Burdened","Cost Burdened",12.3099284436494,1.37446211664181,11.1654760865072,"Livingston","Livingston County","New York",2202
+"36051",2017,"Not Burdened","Not Burdened",79.0529964221825,3.42149810233401,4.32810678555624,"Livingston","Livingston County","New York",14141
+"36051",2017,"Not Computed","Not Computed",0.53108228980322,0.28466853882992,53.6015876062064,"Livingston","Livingston County","New York",95
+"36051",2017,"Severely Cost Burdened","Severely Cost Burdened",8.10599284436494,1.30288505194245,16.0731088338942,"Livingston","Livingston County","New York",1450
+"36051",2018,"Cost Burdened","Cost Burdened",12.2381723733452,1.51507251913217,12.379891971713,"Livingston","Livingston County","New York",2191
+"36051",2018,"Not Burdened","Not Burdened",79.7073116237502,3.4953668036441,4.38525240964543,"Livingston","Livingston County","New York",14270
+"36051",2018,"Not Computed","Not Computed",0.301625425906273,0.205988816562428,68.2929219058732,"Livingston","Livingston County","New York",54
+"36051",2018,"Severely Cost Burdened","Severely Cost Burdened",7.75289057699827,1.20939450172368,15.5992721645238,"Livingston","Livingston County","New York",1388
+"36051",2019,"Cost Burdened","Cost Burdened",11.4988368228647,1.45525535844995,12.6556744901037,"Livingston","Livingston County","New York",2076
+"36051",2019,"Not Burdened","Not Burdened",80.4475462501385,3.53910879762789,4.39927500911415,"Livingston","Livingston County","New York",14524
+"36051",2019,"Not Computed","Not Computed",0.27140799822754,0.234997268589747,86.5845038187609,"Livingston","Livingston County","New York",49
+"36051",2019,"Severely Cost Burdened","Severely Cost Burdened",7.78220892876925,1.15445356419377,14.8345228811063,"Livingston","Livingston County","New York",1405
+"36051",2020,"Cost Burdened","Cost Burdened",12.9047797462934,1.77493559998708,13.7540944896552,"Livingston","Livingston County","New York",2411
+"36051",2020,"Not Burdened","Not Burdened",80.5331049617299,3.69621333827053,4.58968189544785,"Livingston","Livingston County","New York",15046
+"36051",2020,"Not Computed","Not Computed",0.192688540384307,0.193948198169389,100.653727399964,"Livingston","Livingston County","New York",36
+"36051",2020,"Severely Cost Burdened","Severely Cost Burdened",6.36942675159236,1.00519416573681,15.7815484020678,"Livingston","Livingston County","New York",1190
+"36051",2021,"Cost Burdened","Cost Burdened",12.5436681222707,1.9346259580811,15.4231277424046,"Livingston","Livingston County","New York",2298
+"36051",2021,"Not Burdened","Not Burdened",80.9934497816594,4.10768779901481,5.07162963188781,"Livingston","Livingston County","New York",14838
+"36051",2021,"Not Computed","Not Computed",0.27292576419214,0.193604234180876,70.9365914038728,"Livingston","Livingston County","New York",50
+"36051",2021,"Severely Cost Burdened","Severely Cost Burdened",6.18995633187773,0.988729850110963,15.9731312645792,"Livingston","Livingston County","New York",1134
+"36051",2022,"Cost Burdened","Cost Burdened",12.9731478485927,1.93578745761017,14.9214938440724,"Livingston","Livingston County","New York",2406
+"36051",2022,"Not Burdened","Not Burdened",80.9770300873504,3.77992924152462,4.66790303058434,"Livingston","Livingston County","New York",15018
+"36051",2022,"Not Computed","Not Computed",0.39361587404292,0.256162482912104,65.079306960108,"Livingston","Livingston County","New York",73
+"36051",2022,"Severely Cost Burdened","Severely Cost Burdened",5.65620619001402,0.949374573508358,16.7846528506063,"Livingston","Livingston County","New York",1049
+"36051",2023,"Cost Burdened","Cost Burdened",12.1914814222507,1.83543607780145,15.0550701283242,"Livingston","Livingston County","New York",2287
+"36051",2023,"Not Burdened","Not Burdened",81.3262967109121,4.04780283541202,4.9772373747702,"Livingston","Livingston County","New York",15256
+"36051",2023,"Not Computed","Not Computed",0.447785063169679,0.245736565309795,54.8782408172196,"Livingston","Livingston County","New York",84
+"36051",2023,"Severely Cost Burdened","Severely Cost Burdened",6.03443680366757,0.851139585650368,14.1047062607909,"Livingston","Livingston County","New York",1132
+"36051",2024,"Cost Burdened","Cost Burdened",12.3956326268465,1.8492048109339,14.9181963244771,"Livingston","Livingston County","New York",2316
+"36051",2024,"Not Burdened","Not Burdened",81.6741597088418,3.71850860472741,4.55285811079469,"Livingston","Livingston County","New York",15260
+"36051",2024,"Not Computed","Not Computed",0.642260757867694,0.322243485837944,50.1733107449679,"Livingston","Livingston County","New York",120
+"36051",2024,"Severely Cost Burdened","Severely Cost Burdened",5.28794690644402,0.87266683990473,16.5029425473482,"Livingston","Livingston County","New York",988
+"36055",2017,"Cost Burdened","Cost Burdened",12.8120095317054,0.494444441488747,3.85922630064521,"Monroe","Monroe County","New York",24571
+"36055",2017,"Not Burdened","Not Burdened",78.451984294586,1.15712822976541,1.47495087622055,"Monroe","Monroe County","New York",150456
+"36055",2017,"Not Computed","Not Computed",0.475542415567757,0.0958889098185655,20.1641129538534,"Monroe","Monroe County","New York",912
+"36055",2017,"Severely Cost Burdened","Severely Cost Burdened",8.2604637581408,0.376807473696994,4.56157771197344,"Monroe","Monroe County","New York",15842
+"36055",2018,"Cost Burdened","Cost Burdened",12.3649998174792,0.444856085550046,3.5977039394792,"Monroe","Monroe County","New York",23711
+"36055",2018,"Not Burdened","Not Burdened",78.9052925807915,1.17897898421039,1.49416971365162,"Monroe","Monroe County","New York",151308
+"36055",2018,"Not Computed","Not Computed",0.598668119879641,0.121323016120566,20.2654880211356,"Monroe","Monroe County","New York",1148
+"36055",2018,"Severely Cost Burdened","Severely Cost Burdened",8.13103948184961,0.397190676437839,4.88486960768622,"Monroe","Monroe County","New York",15592
+"36055",2019,"Cost Burdened","Cost Burdened",11.8962577496441,0.46791894503122,3.93332890795189,"Monroe","Monroe County","New York",22815
+"36055",2019,"Not Burdened","Not Burdened",79.7323016117174,1.16952264168381,1.46681159083954,"Monroe","Monroe County","New York",152913
+"36055",2019,"Not Computed","Not Computed",0.605371696135737,0.113963955053053,18.8254515003787,"Monroe","Monroe County","New York",1161
+"36055",2019,"Severely Cost Burdened","Severely Cost Burdened",7.76606894250272,0.395085970755132,5.08733535177464,"Monroe","Monroe County","New York",14894
+"36055",2020,"Cost Burdened","Cost Burdened",11.7448362551017,0.641408091882516,5.4611922886869,"Monroe","Monroe County","New York",22705
+"36055",2020,"Not Burdened","Not Burdened",80.3728552289221,1.41552773294761,1.76120125248235,"Monroe","Monroe County","New York",155376
+"36055",2020,"Not Computed","Not Computed",0.640909584676105,0.143913505277508,22.4545721765476,"Monroe","Monroe County","New York",1239
+"36055",2020,"Severely Cost Burdened","Severely Cost Burdened",7.24139893130008,0.452193915539638,6.24456572313789,"Monroe","Monroe County","New York",13999
+"36055",2021,"Cost Burdened","Cost Burdened",11.7038513017138,0.623335174232811,5.32589793020982,"Monroe","Monroe County","New York",23260
+"36055",2021,"Not Burdened","Not Burdened",80.7017279030684,1.40829307863102,1.74505938747995,"Monroe","Monroe County","New York",160385
+"36055",2021,"Not Computed","Not Computed",0.623937042739687,0.140862051266305,22.5763244714218,"Monroe","Monroe County","New York",1240
+"36055",2021,"Severely Cost Burdened","Severely Cost Burdened",6.97048375247814,0.437851916936439,6.28151405963431,"Monroe","Monroe County","New York",13853
+"36055",2022,"Cost Burdened","Cost Burdened",11.8203781722341,0.586686079327015,4.96334441063089,"Monroe","Monroe County","New York",23680
+"36055",2022,"Not Burdened","Not Burdened",80.684064453008,1.42371604710274,1.76455667764722,"Monroe","Monroe County","New York",161636
+"36055",2022,"Not Computed","Not Computed",0.580536309725855,0.123242774196194,21.2291241962785,"Monroe","Monroe County","New York",1163
+"36055",2022,"Severely Cost Burdened","Severely Cost Burdened",6.91502106503205,0.418876173164777,6.05748224373393,"Monroe","Monroe County","New York",13853
+"36055",2023,"Cost Burdened","Cost Burdened",12.0751920092324,0.582055139559013,4.820255769962,"Monroe","Monroe County","New York",24275
+"36055",2023,"Not Burdened","Not Burdened",80.3081101516177,1.38839954375165,1.72884101136289,"Monroe","Monroe County","New York",161445
+"36055",2023,"Not Computed","Not Computed",0.524294639659358,0.123244042979105,23.5066379963713,"Monroe","Monroe County","New York",1054
+"36055",2023,"Severely Cost Burdened","Severely Cost Burdened",7.09240319949063,0.449821047070635,6.34229378136512,"Monroe","Monroe County","New York",14258
+"36055",2024,"Cost Burdened","Cost Burdened",12.1746551690116,0.646742910300378,5.3122072150885,"Monroe","Monroe County","New York",24679
+"36055",2024,"Not Burdened","Not Burdened",79.6081062414902,1.42562088019959,1.79079863534876,"Monroe","Monroe County","New York",161372
+"36055",2024,"Not Computed","Not Computed",0.594451131677092,0.134412394483517,22.6111764821285,"Monroe","Monroe County","New York",1205
+"36055",2024,"Severely Cost Burdened","Severely Cost Burdened",7.6227874578211,0.478141532935833,6.27252872497779,"Monroe","Monroe County","New York",15452
+"36069",2017,"Cost Burdened","Cost Burdened",11.4421562876285,0.993680352867113,8.68438018052156,"Ontario","Ontario County","New York",3706
+"36069",2017,"Not Burdened","Not Burdened",80.9873722560128,2.85606641120765,3.52655769862394,"Ontario","Ontario County","New York",26231
+"36069",2017,"Not Computed","Not Computed",0.595881317731328,0.212475229665445,35.6573068063943,"Ontario","Ontario County","New York",193
+"36069",2017,"Severely Cost Burdened","Severely Cost Burdened",6.97459013862731,0.86573614809938,12.4127171760916,"Ontario","Ontario County","New York",2259
+"36069",2018,"Cost Burdened","Cost Burdened",11.866172370477,1.05778113720383,8.91425730369112,"Ontario","Ontario County","New York",3873
+"36069",2018,"Not Burdened","Not Burdened",80.3118968105641,2.81439951327513,3.50433699743589,"Ontario","Ontario County","New York",26213
+"36069",2018,"Not Computed","Not Computed",0.845614142590153,0.295352821681597,34.9276114016871,"Ontario","Ontario County","New York",276
+"36069",2018,"Severely Cost Burdened","Severely Cost Burdened",6.97631667636876,0.944789692517195,13.5428154475489,"Ontario","Ontario County","New York",2277
+"36069",2019,"Cost Burdened","Cost Burdened",11.3420463483996,1.05041178249272,9.26121927407694,"Ontario","Ontario County","New York",3749
+"36069",2019,"Not Burdened","Not Burdened",81.3850063532402,2.83932672236247,3.48875898594733,"Ontario","Ontario County","New York",26901
+"36069",2019,"Not Computed","Not Computed",0.807769105100744,0.280445440192589,34.7185152813701,"Ontario","Ontario County","New York",267
+"36069",2019,"Severely Cost Burdened","Severely Cost Burdened",6.46517819325951,0.809580020470554,12.5221609717518,"Ontario","Ontario County","New York",2137
+"36069",2020,"Cost Burdened","Cost Burdened",11.5263110389024,1.28138273338573,11.1170237299769,"Ontario","Ontario County","New York",3831
+"36069",2020,"Not Burdened","Not Burdened",81.6650118843458,3.19751118481722,3.91539915446966,"Ontario","Ontario County","New York",27143
+"36069",2020,"Not Computed","Not Computed",0.676956404007582,0.325440136787074,48.0740170061865,"Ontario","Ontario County","New York",225
+"36069",2020,"Severely Cost Burdened","Severely Cost Burdened",6.13172067274423,0.852740846687436,13.9070400006626,"Ontario","Ontario County","New York",2038
+"36069",2021,"Cost Burdened","Cost Burdened",10.8367305041499,1.22265792783762,11.2825351462732,"Ontario","Ontario County","New York",3695
+"36069",2021,"Not Burdened","Not Burdened",82.4911282517524,3.06443352026419,3.71486435597284,"Ontario","Ontario County","New York",28127
+"36069",2021,"Not Computed","Not Computed",0.483913540780714,0.282068569986675,58.2890426111253,"Ontario","Ontario County","New York",165
+"36069",2021,"Severely Cost Burdened","Severely Cost Burdened",6.18822770331701,0.800098123923145,12.9293581665438,"Ontario","Ontario County","New York",2110
+"36069",2022,"Cost Burdened","Cost Burdened",10.7051826677995,1.13617473044955,10.6133147439613,"Ontario","Ontario County","New York",3654
+"36069",2022,"Not Burdened","Not Burdened",82.03791052647,3.17635410694103,3.87181253954068,"Ontario","Ontario County","New York",28002
+"36069",2022,"Not Computed","Not Computed",0.665045557085518,0.370872437265173,55.7664709302738,"Ontario","Ontario County","New York",227
+"36069",2022,"Severely Cost Burdened","Severely Cost Burdened",6.59186124864501,0.885360984165563,13.431122876677,"Ontario","Ontario County","New York",2250
+"36069",2023,"Cost Burdened","Cost Burdened",10.7725099372084,1.17119093161076,10.8720338940273,"Ontario","Ontario County","New York",3740
+"36069",2023,"Not Burdened","Not Burdened",81.4130998329397,3.12646861341693,3.84025251443867,"Ontario","Ontario County","New York",28265
+"36069",2023,"Not Computed","Not Computed",0.636557405380494,0.384124701643454,60.3440786952824,"Ontario","Ontario County","New York",221
+"36069",2023,"Severely Cost Burdened","Severely Cost Burdened",7.17783282447146,0.924812244126794,12.8842822999976,"Ontario","Ontario County","New York",2492
+"36069",2024,"Cost Burdened","Cost Burdened",11.1495027810551,1.17601961633456,10.547731494653,"Ontario","Ontario County","New York",3969
+"36069",2024,"Not Burdened","Not Burdened",80.4399123546267,2.89460167030455,3.59846447562428,"Ontario","Ontario County","New York",28635
+"36069",2024,"Not Computed","Not Computed",0.530928703859767,0.236452727810764,44.5356836222624,"Ontario","Ontario County","New York",189
+"36069",2024,"Severely Cost Burdened","Severely Cost Burdened",7.87965616045845,0.882089918990257,11.1945229719127,"Ontario","Ontario County","New York",2805
+"36073",2017,"Cost Burdened","Cost Burdened",16.5378924872596,2.09198829861428,12.6496668195533,"Orleans","Orleans County","New York",2012
+"36073",2017,"Not Burdened","Not Burdened",73.7547262863718,4.07976852154422,5.53153503099375,"Orleans","Orleans County","New York",8973
+"36073",2017,"Not Computed","Not Computed",0.772645076442545,0.391533959027275,50.6744909098492,"Orleans","Orleans County","New York",94
+"36073",2017,"Severely Cost Burdened","Severely Cost Burdened",8.93473614992602,1.40726184836644,15.7504578171354,"Orleans","Orleans County","New York",1087
+"36073",2018,"Cost Burdened","Cost Burdened",14.5229224040175,1.92826030185796,13.2773573266806,"Orleans","Orleans County","New York",1793
+"36073",2018,"Not Burdened","Not Burdened",75.1255467357849,4.24431283482586,5.64962655080971,"Orleans","Orleans County","New York",9275
+"36073",2018,"Not Computed","Not Computed",0.566985258383282,0.312551132052077,55.1250896616421,"Orleans","Orleans County","New York",70
+"36073",2018,"Severely Cost Burdened","Severely Cost Burdened",9.78454560181435,1.6268281336953,16.6265067372535,"Orleans","Orleans County","New York",1208
+"36073",2019,"Cost Burdened","Cost Burdened",14.0575079872204,1.95792825214655,13.9279896118607,"Orleans","Orleans County","New York",1760
+"36073",2019,"Not Burdened","Not Burdened",74.9201277955272,4.16688016410771,5.56176328940603,"Orleans","Orleans County","New York",9380
+"36073",2019,"Not Computed","Not Computed",0.662939297124601,0.32591383008152,49.1619415978389,"Orleans","Orleans County","New York",83
+"36073",2019,"Severely Cost Burdened","Severely Cost Burdened",10.3594249201278,1.61626295308331,15.6018598092545,"Orleans","Orleans County","New York",1297
+"36073",2020,"Cost Burdened","Cost Burdened",12.9052918101033,2.05253804103516,15.9046232447706,"Orleans","Orleans County","New York",1612
+"36073",2020,"Not Burdened","Not Burdened",76.254903530542,4.73993975432935,6.21591469515253,"Orleans","Orleans County","New York",9525
+"36073",2020,"Not Computed","Not Computed",0.608438075414298,0.370866538208325,60.9538674836867,"Orleans","Orleans County","New York",76
+"36073",2020,"Severely Cost Burdened","Severely Cost Burdened",10.2313665839404,1.81436122066027,17.7333223844033,"Orleans","Orleans County","New York",1278
+"36073",2021,"Cost Burdened","Cost Burdened",12.3912142561127,1.98957035267631,16.0562985317991,"Orleans","Orleans County","New York",1495
+"36073",2021,"Not Burdened","Not Burdened",76.5354330708661,4.9432383776139,6.45875796252022,"Orleans","Orleans County","New York",9234
+"36073",2021,"Not Computed","Not Computed",0.596767509324492,0.393155117302326,65.8807845868412,"Orleans","Orleans County","New York",72
+"36073",2021,"Severely Cost Burdened","Severely Cost Burdened",10.4765851636966,2.10114754789084,20.0556528206511,"Orleans","Orleans County","New York",1264
+"36073",2022,"Cost Burdened","Cost Burdened",11.9128603822481,1.97230766956771,16.5561217565072,"Orleans","Orleans County","New York",1471
+"36073",2022,"Not Burdened","Not Burdened",76.7006802721088,4.78758399808494,6.2419055230021,"Orleans","Orleans County","New York",9471
+"36073",2022,"Not Computed","Not Computed",0.421120829284095,0.335574171608368,79.6859590580794,"Orleans","Orleans County","New York",52
+"36073",2022,"Severely Cost Burdened","Severely Cost Burdened",10.9653385163589,2.05543442898531,18.7448333302146,"Orleans","Orleans County","New York",1354
+"36073",2023,"Cost Burdened","Cost Burdened",12.0583778610735,1.99026726307541,16.5052653516551,"Orleans","Orleans County","New York",1512
+"36073",2023,"Not Burdened","Not Burdened",77.2629396283595,4.960446236725,6.42021421989005,"Orleans","Orleans County","New York",9688
+"36073",2023,"Not Computed","Not Computed",0.494457293245075,0.354152696565508,71.6245268102404,"Orleans","Orleans County","New York",62
+"36073",2023,"Severely Cost Burdened","Severely Cost Burdened",10.184225217322,1.77879094687374,17.4661391408378,"Orleans","Orleans County","New York",1277
+"36073",2024,"Cost Burdened","Cost Burdened",12.4091090691171,2.10384667130349,16.9540509281154,"Orleans","Orleans County","New York",1553
+"36073",2024,"Not Burdened","Not Burdened",76.9236915701159,5.2974560208198,6.88663779999582,"Orleans","Orleans County","New York",9627
+"36073",2024,"Not Computed","Not Computed",0.535357570914902,0.377668471373439,70.5450883468446,"Orleans","Orleans County","New York",67
+"36073",2024,"Severely Cost Burdened","Severely Cost Burdened",10.1318417898522,2.07346174895768,20.4648058266604,"Orleans","Orleans County","New York",1268
+"36099",2017,"Cost Burdened","Cost Burdened",13.5290556900726,1.79441390530044,13.2634083738538,"Seneca","Seneca County","New York",1341
+"36099",2017,"Not Burdened","Not Burdened",80.3066989507668,3.86686022120225,4.81511539102472,"Seneca","Seneca County","New York",7960
+"36099",2017,"Not Computed","Not Computed",0.443906376109766,0.271086134837458,61.0683129206564,"Seneca","Seneca County","New York",44
+"36099",2017,"Severely Cost Burdened","Severely Cost Burdened",5.72033898305085,1.06888721249077,18.6857320109498,"Seneca","Seneca County","New York",567
+"36099",2018,"Cost Burdened","Cost Burdened",13.445966210137,1.78493364593445,13.2748633905444,"Seneca","Seneca County","New York",1345
+"36099",2018,"Not Burdened","Not Burdened",80.185944216735,4.23562676175711,5.28225589051943,"Seneca","Seneca County","New York",8021
+"36099",2018,"Not Computed","Not Computed",0.499850044986504,0.276503382703975,55.3172667437573,"Seneca","Seneca County","New York",50
+"36099",2018,"Severely Cost Burdened","Severely Cost Burdened",5.86823952814156,1.21042174289036,20.626658763428,"Seneca","Seneca County","New York",587
+"36099",2019,"Cost Burdened","Cost Burdened",12.2530433047296,1.60940691707491,13.1347525430983,"Seneca","Seneca County","New York",1228
+"36099",2019,"Not Burdened","Not Burdened",80.7723009379365,4.17353265780256,5.16703450234679,"Seneca","Seneca County","New York",8095
+"36099",2019,"Not Computed","Not Computed",0.449012173218918,0.224228747298386,49.9382334538761,"Seneca","Seneca County","New York",45
+"36099",2019,"Severely Cost Burdened","Severely Cost Burdened",6.52564358411495,1.07989038217998,16.5484119422137,"Seneca","Seneca County","New York",654
+"36099",2020,"Cost Burdened","Cost Burdened",12.9357706522825,2.41176210471284,18.644131606394,"Seneca","Seneca County","New York",1295
+"36099",2020,"Not Burdened","Not Burdened",80.4714813704925,4.65477245292917,5.78437525152357,"Seneca","Seneca County","New York",8056
+"36099",2020,"Not Computed","Not Computed",0.309659374687843,0.178688880431509,57.7049800645107,"Seneca","Seneca County","New York",31
+"36099",2020,"Severely Cost Burdened","Severely Cost Burdened",6.28308860253721,1.26876183253658,20.1932825207054,"Seneca","Seneca County","New York",629
+"36099",2021,"Cost Burdened","Cost Burdened",12.8814583543156,2.50557980066375,19.4510569513607,"Seneca","Seneca County","New York",1279
+"36099",2021,"Not Burdened","Not Burdened",80.0886292678014,4.73928383519552,5.91754894361876,"Seneca","Seneca County","New York",7952
+"36099",2021,"Not Computed","Not Computed",0.423003323597543,0.235121714773467,55.5838929996607,"Seneca","Seneca County","New York",42
+"36099",2021,"Severely Cost Burdened","Severely Cost Burdened",6.60690905428543,1.35756302771715,20.5476269850664,"Seneca","Seneca County","New York",656
+"36099",2022,"Cost Burdened","Cost Burdened",12.8111718275653,2.45689164890047,19.1777277049245,"Seneca","Seneca County","New York",1266
+"36099",2022,"Not Burdened","Not Burdened",79.2046144505161,5.11682991782323,6.46026743936746,"Seneca","Seneca County","New York",7827
+"36099",2022,"Not Computed","Not Computed",0.758955676988464,0.393617695583419,51.8630675700713,"Seneca","Seneca County","New York",75
+"36099",2022,"Severely Cost Burdened","Severely Cost Burdened",7.22525804493018,1.48120635178147,20.5003937931435,"Seneca","Seneca County","New York",714
+"36099",2023,"Cost Burdened","Cost Burdened",12.2969130787977,2.46796571155715,20.0697987839924,"Seneca","Seneca County","New York",1211
+"36099",2023,"Not Burdened","Not Burdened",79.4577579203899,5.00954142566342,6.30465993098189,"Seneca","Seneca County","New York",7825
+"36099",2023,"Not Computed","Not Computed",0.588952071486596,0.349403950732844,59.3263811520181,"Seneca","Seneca County","New York",58
+"36099",2023,"Severely Cost Burdened","Severely Cost Burdened",7.65637692932575,1.38892005089746,18.140695837186,"Seneca","Seneca County","New York",754
+"36099",2024,"Cost Burdened","Cost Burdened",12.7719080174021,2.40685190803884,18.8448891485863,"Seneca","Seneca County","New York",1233
+"36099",2024,"Not Burdened","Not Burdened",78.7859954423037,4.96885904537681,6.30677954563078,"Seneca","Seneca County","New York",7606
+"36099",2024,"Not Computed","Not Computed",0.74580484773151,0.42507322412851,56.9952348018978,"Seneca","Seneca County","New York",72
+"36099",2024,"Severely Cost Burdened","Severely Cost Burdened",7.69629169256267,1.55627860247041,20.2211488940099,"Seneca","Seneca County","New York",743
+"36117",2017,"Cost Burdened","Cost Burdened",13.6006261339784,1.16131947849319,8.53872069604108,"Wayne","Wayne County","New York",3823
+"36117",2017,"Not Burdened","Not Burdened",78.8359600128073,2.93727037455059,3.72580022374741,"Wayne","Wayne County","New York",22160
+"36117",2017,"Not Computed","Not Computed",0.45892774556192,0.216106479042121,47.0894342588758,"Wayne","Wayne County","New York",129
+"36117",2017,"Severely Cost Burdened","Severely Cost Burdened",7.10448610765235,0.942335570116031,13.2639511969912,"Wayne","Wayne County","New York",1997
+"36117",2018,"Cost Burdened","Cost Burdened",13.3535331674061,1.291270965142,9.66988248693457,"Wayne","Wayne County","New York",3702
+"36117",2018,"Not Burdened","Not Burdened",78.7216390722505,2.82988550358163,3.59480002821635,"Wayne","Wayne County","New York",21824
+"36117",2018,"Not Computed","Not Computed",0.310211737546442,0.163318997549641,52.6475880124268,"Wayne","Wayne County","New York",86
+"36117",2018,"Severely Cost Burdened","Severely Cost Burdened",7.61461602279696,0.971439189917067,12.7575597641264,"Wayne","Wayne County","New York",2111
+"36117",2019,"Cost Burdened","Cost Burdened",13.5869758825834,1.3984387037434,10.292494193178,"Wayne","Wayne County","New York",3814
+"36117",2019,"Not Burdened","Not Burdened",78.7146877560472,2.79573827831888,3.55173647767421,"Wayne","Wayne County","New York",22096
+"36117",2019,"Not Computed","Not Computed",0.381176302946101,0.197512255005224,51.8165094416041,"Wayne","Wayne County","New York",107
+"36117",2019,"Severely Cost Burdened","Severely Cost Burdened",7.31716005842328,0.945022313047695,12.9151515820652,"Wayne","Wayne County","New York",2054
+"36117",2020,"Cost Burdened","Cost Burdened",12.2861853403861,1.3473466066124,10.9663542367664,"Wayne","Wayne County","New York",3577
+"36117",2020,"Not Burdened","Not Burdened",78.8692725149413,3.28063320813766,4.15958345186481,"Wayne","Wayne County","New York",22962
+"36117",2020,"Not Computed","Not Computed",0.851823864807309,0.656176626297152,77.0319608790939,"Wayne","Wayne County","New York",248
+"36117",2020,"Severely Cost Burdened","Severely Cost Burdened",7.99271827986536,1.20584527591825,15.0867981792367,"Wayne","Wayne County","New York",2327
+"36117",2021,"Cost Burdened","Cost Burdened",12.3627118644068,1.39331106142,11.2702704447189,"Wayne","Wayne County","New York",3647
+"36117",2021,"Not Burdened","Not Burdened",78.9186440677966,3.47195270938448,4.39940745358199,"Wayne","Wayne County","New York",23281
+"36117",2021,"Not Computed","Not Computed",0.922033898305085,0.641206848333593,69.5426545067684,"Wayne","Wayne County","New York",272
+"36117",2021,"Severely Cost Burdened","Severely Cost Burdened",7.79661016949153,1.34166219845175,17.2082760236203,"Wayne","Wayne County","New York",2300
+"36117",2022,"Cost Burdened","Cost Burdened",11.9604197104529,1.44996894099313,12.1230606959881,"Wayne","Wayne County","New York",3602
+"36117",2022,"Not Burdened","Not Burdened",78.649223004383,3.31362684752746,4.21317175294,"Wayne","Wayne County","New York",23686
+"36117",2022,"Not Computed","Not Computed",1.09244255545225,0.677380794262186,62.0060790273556,"Wayne","Wayne County","New York",329
+"36117",2022,"Severely Cost Burdened","Severely Cost Burdened",8.29791472971178,1.45884236607741,17.5808310111193,"Wayne","Wayne County","New York",2499
+"36117",2023,"Cost Burdened","Cost Burdened",11.4310045527497,1.31751716392646,11.5258213558277,"Wayne","Wayne County","New York",3490
+"36117",2023,"Not Burdened","Not Burdened",78.7199895188497,3.66778842587081,4.65928469793883,"Wayne","Wayne County","New York",24034
+"36117",2023,"Not Computed","Not Computed",1.40840457240182,0.678007321885443,48.1400966150801,"Wayne","Wayne County","New York",430
+"36117",2023,"Severely Cost Burdened","Severely Cost Burdened",8.44060135599882,1.3481755176194,15.9725055213186,"Wayne","Wayne County","New York",2577
+"36117",2024,"Cost Burdened","Cost Burdened",11.7192593558482,1.42363367170975,12.1478126601859,"Wayne","Wayne County","New York",3595
+"36117",2024,"Not Burdened","Not Burdened",78.448950319468,3.39816384271836,4.33168809637351,"Wayne","Wayne County","New York",24065
+"36117",2024,"Not Computed","Not Computed",1.17681575172774,0.706784729840535,60.0590813645104,"Wayne","Wayne County","New York",361
+"36117",2024,"Severely Cost Burdened","Severely Cost Burdened",8.65497457295606,1.29138883026064,14.9207697766763,"Wayne","Wayne County","New York",2655
+"36123",2017,"Cost Burdened","Cost Burdened",13.4519177320734,1.97757098813291,14.7010339159137,"Yates","Yates County","New York",968
+"36123",2017,"Not Burdened","Not Burdened",77.0566981656476,5.01349910730843,6.50624699300116,"Yates","Yates County","New York",5545
+"36123",2017,"Not Computed","Not Computed",0.444691495275153,0.317500268449023,71.3978728674741,"Yates","Yates County","New York",32
+"36123",2017,"Severely Cost Burdened","Severely Cost Burdened",9.04669260700389,1.76656460056372,19.5271871976291,"Yates","Yates County","New York",651
+"36123",2018,"Cost Burdened","Cost Burdened",12.7796420581655,2.04516635537973,16.0033148508489,"Yates","Yates County","New York",914
+"36123",2018,"Not Burdened","Not Burdened",78.4815436241611,4.79145674692557,6.10520196935893,"Yates","Yates County","New York",5613
+"36123",2018,"Not Computed","Not Computed",0.349552572706935,0.310453066431411,88.8144132446981,"Yates","Yates County","New York",25
+"36123",2018,"Severely Cost Burdened","Severely Cost Burdened",8.38926174496644,1.7423854636056,20.7692347261788,"Yates","Yates County","New York",600
+"36123",2019,"Cost Burdened","Cost Burdened",12.3721451590304,1.90818790706136,15.4232583156251,"Yates","Yates County","New York",883
+"36123",2019,"Not Burdened","Not Burdened",78.4503292700014,5.05508052495162,6.44367024586171,"Yates","Yates County","New York",5599
+"36123",2019,"Not Computed","Not Computed",0.266218299005184,0.226362539181778,85.0289180073869,"Yates","Yates County","New York",19
+"36123",2019,"Severely Cost Burdened","Severely Cost Burdened",8.91130727196301,1.73832842026295,19.5069967537998,"Yates","Yates County","New York",636
+"36123",2020,"Cost Burdened","Cost Burdened",12.608376193975,2.28034265878276,18.0859344906954,"Yates","Yates County","New York",858
+"36123",2020,"Not Burdened","Not Burdened",77.3842762674504,5.5021045608943,7.1101066344257,"Yates","Yates County","New York",5266
+"36123",2020,"Not Computed","Not Computed",0.20573108008817,0.216970213963753,105.46302185881,"Yates","Yates County","New York",14
+"36123",2020,"Severely Cost Burdened","Severely Cost Burdened",9.80161645848641,1.72427804777342,17.5917722865039,"Yates","Yates County","New York",667
+"36123",2021,"Cost Burdened","Cost Burdened",11.7781851512374,2.17897800350343,18.5001167456984,"Yates","Yates County","New York",771
+"36123",2021,"Not Burdened","Not Burdened",77.9560036663611,5.60880777341838,7.19483748477302,"Yates","Yates County","New York",5103
+"36123",2021,"Not Computed","Not Computed",0.366636113657195,0.374508117083143,102.147088934427,"Yates","Yates County","New York",24
+"36123",2021,"Severely Cost Burdened","Severely Cost Burdened",9.89917506874427,1.95592959705697,19.7585110221218,"Yates","Yates County","New York",648
+"36123",2022,"Cost Burdened","Cost Burdened",11.0900612066453,2.12191244184224,19.1334601523278,"Yates","Yates County","New York",761
+"36123",2022,"Not Burdened","Not Burdened",78.0093267269018,5.85356321157127,7.50367098034786,"Yates","Yates County","New York",5353
+"36123",2022,"Not Computed","Not Computed",0.597493442145147,0.481130108400442,80.5247513132643,"Yates","Yates County","New York",41
+"36123",2022,"Severely Cost Burdened","Severely Cost Burdened",10.3031186243078,1.95626047153015,18.9870712243845,"Yates","Yates County","New York",707
+"36123",2023,"Cost Burdened","Cost Burdened",11.6457858769932,2.27719237165515,19.5537887756794,"Yates","Yates County","New York",818
+"36123",2023,"Not Burdened","Not Burdened",77.2067198177676,5.54415383852893,7.1809213648953,"Yates","Yates County","New York",5423
+"36123",2023,"Not Computed","Not Computed",0.740318906605923,0.475819332775296,64.2722114118015,"Yates","Yates County","New York",52
+"36123",2023,"Severely Cost Burdened","Severely Cost Burdened",10.4071753986333,1.96458931425007,18.8772576515629,"Yates","Yates County","New York",731
+"36123",2024,"Cost Burdened","Cost Burdened",10.6470106470106,1.88093027669658,17.6662759065117,"Yates","Yates County","New York",780
+"36123",2024,"Not Burdened","Not Burdened",79.3065793065793,5.68709435221995,7.17102465135341,"Yates","Yates County","New York",5810
+"36123",2024,"Not Computed","Not Computed",0.846300846300846,0.511647961069924,60.4569832709397,"Yates","Yates County","New York",62
+"36123",2024,"Severely Cost Burdened","Severely Cost Burdened",9.2001092001092,1.64848994462674,17.9181562823969,"Yates","Yates County","New York",674

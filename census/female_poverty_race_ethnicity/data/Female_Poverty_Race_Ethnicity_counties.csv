@@ -1,513 +1,513 @@
-"GEOID","year","variable","Variable_Description","estimate","moe","moe_pct_of_estimate","County","Geography","State"
-"36037",2017,"B17001B_FemPov","Black or African American alone",61.2111292962357,26.6775777414075,43.5828877005348,"Genesee","Genesee County","New York"
-"36037",2017,"B17001C_FemPov","American Indian and Alaska Native alone",24.4979919678715,13.2530120481928,54.0983606557377,"Genesee","Genesee County","New York"
-"36037",2017,"B17001D_FemPov","Asian alone",11.7370892018779,13.6150234741784,116,"Genesee","Genesee County","New York"
-"36037",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York"
-"36037",2017,"B17001F_FemPov","Some Other Race alone",21.4492753623188,16.8115942028986,78.3783783783784,"Genesee","Genesee County","New York"
-"36037",2017,"B17001G_FemPov","Two or More Races",33.4405144694534,15.5948553054662,46.6346153846154,"Genesee","Genesee County","New York"
-"36037",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",11.7227663326954,1.49724192277384,12.7720870678617,"Genesee","Genesee County","New York"
-"36037",2017,"B17001I_FemPov","Hispanic or Latino",27.7777777777778,13.4146341463415,48.2926829268293,"Genesee","Genesee County","New York"
-"36037",2018,"B17001B_FemPov","Black or African American alone",38.9873417721519,22.7848101265823,58.4415584415584,"Genesee","Genesee County","New York"
-"36037",2018,"B17001C_FemPov","American Indian and Alaska Native alone",12.8712871287129,8.91089108910891,69.2307692307692,"Genesee","Genesee County","New York"
-"36037",2018,"B17001D_FemPov","Asian alone",1.68067226890756,2.52100840336134,150,"Genesee","Genesee County","New York"
-"36037",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York"
-"36037",2018,"B17001F_FemPov","Some Other Race alone",27.3399014778325,17.7339901477833,64.8648648648649,"Genesee","Genesee County","New York"
-"36037",2018,"B17001G_FemPov","Two or More Races",44.5876288659794,21.7783505154639,48.8439306358381,"Genesee","Genesee County","New York"
-"36037",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",10.9483802603694,1.44187102633969,13.1697200138265,"Genesee","Genesee County","New York"
-"36037",2018,"B17001I_FemPov","Hispanic or Latino",25.0990752972259,9.90752972258917,39.4736842105263,"Genesee","Genesee County","New York"
-"36037",2019,"B17001B_FemPov","Black or African American alone",35.3293413173653,21.8562874251497,61.864406779661,"Genesee","Genesee County","New York"
-"36037",2019,"B17001C_FemPov","American Indian and Alaska Native alone",15.8227848101266,15.1898734177215,96,"Genesee","Genesee County","New York"
-"36037",2019,"B17001D_FemPov","Asian alone",2.73972602739726,2.73972602739726,100,"Genesee","Genesee County","New York"
-"36037",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York"
-"36037",2019,"B17001F_FemPov","Some Other Race alone",33.0143540669856,25.3588516746411,76.8115942028985,"Genesee","Genesee County","New York"
-"36037",2019,"B17001G_FemPov","Two or More Races",39.5180722891566,19.5180722891566,49.390243902439,"Genesee","Genesee County","New York"
-"36037",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",10.5970377156818,1.24446480378684,11.7435158501441,"Genesee","Genesee County","New York"
-"36037",2019,"B17001I_FemPov","Hispanic or Latino",26.1992619926199,10.7011070110701,40.8450704225352,"Genesee","Genesee County","New York"
-"36037",2020,"B17001B_FemPov","Black or African American alone",33.3333333333333,21.7741935483871,65.3225806451613,"Genesee","Genesee County","New York"
-"36037",2020,"B17001C_FemPov","American Indian and Alaska Native alone",14.1304347826087,12.5,88.4615384615385,"Genesee","Genesee County","New York"
-"36037",2020,"B17001D_FemPov","Asian alone",16.1849710982659,8.67052023121387,53.5714285714286,"Genesee","Genesee County","New York"
-"36037",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York"
-"36037",2020,"B17001F_FemPov","Some Other Race alone",29.3398533007335,23.4718826405868,80,"Genesee","Genesee County","New York"
-"36037",2020,"B17001G_FemPov","Two or More Races",31.062951496388,16.71826625387,53.8205980066445,"Genesee","Genesee County","New York"
-"36037",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",10.5184274240037,1.39118404365705,13.2261600292291,"Genesee","Genesee County","New York"
-"36037",2020,"B17001I_FemPov","Hispanic or Latino",20.6611570247934,9.44510035419126,45.7142857142857,"Genesee","Genesee County","New York"
-"36037",2021,"B17001B_FemPov","Black or African American alone",30.5031446540881,27.0440251572327,88.659793814433,"Genesee","Genesee County","New York"
-"36037",2021,"B17001C_FemPov","American Indian and Alaska Native alone",25.6637168141593,19.4690265486726,75.8620689655172,"Genesee","Genesee County","New York"
-"36037",2021,"B17001D_FemPov","Asian alone",21.0970464135021,10.5485232067511,50,"Genesee","Genesee County","New York"
-"36037",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York"
-"36037",2021,"B17001F_FemPov","Some Other Race alone",44.1379310344828,30.3448275862069,68.75,"Genesee","Genesee County","New York"
-"36037",2021,"B17001G_FemPov","Two or More Races",21.1009174311927,9.09090909090909,43.0830039525692,"Genesee","Genesee County","New York"
-"36037",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",10.4153916768666,1.45731334149327,13.9919206757253,"Genesee","Genesee County","New York"
-"36037",2021,"B17001I_FemPov","Hispanic or Latino",25.7324840764331,8.78980891719745,34.1584158415842,"Genesee","Genesee County","New York"
-"36037",2022,"B17001B_FemPov","Black or African American alone",26.5671641791045,20,75.2808988764045,"Genesee","Genesee County","New York"
-"36037",2022,"B17001C_FemPov","American Indian and Alaska Native alone",26.0869565217391,14.7826086956522,56.6666666666667,"Genesee","Genesee County","New York"
-"36037",2022,"B17001D_FemPov","Asian alone",18.8976377952756,8.26771653543307,43.75,"Genesee","Genesee County","New York"
-"36037",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York"
-"36037",2022,"B17001F_FemPov","Some Other Race alone",34.7953216374269,23.0994152046784,66.3865546218487,"Genesee","Genesee County","New York"
-"36037",2022,"B17001G_FemPov","Two or More Races",19.8513011152416,10.5576208178439,53.1835205992509,"Genesee","Genesee County","New York"
-"36037",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",11.1277790599277,1.70397722901762,15.3128240580712,"Genesee","Genesee County","New York"
-"36037",2022,"B17001I_FemPov","Hispanic or Latino",18.9249720044793,10.7502799552072,56.8047337278106,"Genesee","Genesee County","New York"
-"36037",2023,"B17001B_FemPov","Black or African American alone",25,14.9484536082474,59.7938144329897,"Genesee","Genesee County","New York"
-"36037",2023,"B17001C_FemPov","American Indian and Alaska Native alone",34.7826086956522,18.2608695652174,52.5,"Genesee","Genesee County","New York"
-"36037",2023,"B17001D_FemPov","Asian alone",30.2158273381295,12.2302158273381,40.4761904761905,"Genesee","Genesee County","New York"
-"36037",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York"
-"36037",2023,"B17001F_FemPov","Some Other Race alone",36.0606060606061,27.8787878787879,77.3109243697479,"Genesee","Genesee County","New York"
-"36037",2023,"B17001G_FemPov","Two or More Races",12.453300124533,7.22291407222914,58,"Genesee","Genesee County","New York"
-"36037",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",10.7675447179929,1.62824376687933,15.1217739003999,"Genesee","Genesee County","New York"
-"36037",2023,"B17001I_FemPov","Hispanic or Latino",10.3690685413005,6.41476274165202,61.864406779661,"Genesee","Genesee County","New York"
-"36037",2024,"B17001B_FemPov","Black or African American alone",18.1818181818182,12.9593810444874,71.2765957446808,"Genesee","Genesee County","New York"
-"36037",2024,"B17001C_FemPov","American Indian and Alaska Native alone",36.5853658536585,21.9512195121951,60,"Genesee","Genesee County","New York"
-"36037",2024,"B17001D_FemPov","Asian alone",33.0985915492958,14.0845070422535,42.5531914893617,"Genesee","Genesee County","New York"
-"36037",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York"
-"36037",2024,"B17001F_FemPov","Some Other Race alone",10.4895104895105,8.15850815850816,77.7777777777778,"Genesee","Genesee County","New York"
-"36037",2024,"B17001G_FemPov","Two or More Races",16.3068181818182,9.14772727272727,56.0975609756098,"Genesee","Genesee County","New York"
-"36037",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",11.1058414354596,1.7508497351988,15.7651245551601,"Genesee","Genesee County","New York"
-"36037",2024,"B17001I_FemPov","Hispanic or Latino",13.3676092544987,8.91173950299914,66.6666666666667,"Genesee","Genesee County","New York"
-"36051",2017,"B17001B_FemPov","Black or African American alone",62.5827814569536,29.1390728476821,46.5608465608466,"Livingston","Livingston County","New York"
-"36051",2017,"B17001C_FemPov","American Indian and Alaska Native alone",0,50,NA,"Livingston","Livingston County","New York"
-"36051",2017,"B17001D_FemPov","Asian alone",31.1440677966102,26.4830508474576,85.0340136054422,"Livingston","Livingston County","New York"
-"36051",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,180,NA,"Livingston","Livingston County","New York"
-"36051",2017,"B17001F_FemPov","Some Other Race alone",15.5555555555556,18.3333333333333,117.857142857143,"Livingston","Livingston County","New York"
-"36051",2017,"B17001G_FemPov","Two or More Races",51.1387163561077,26.5010351966874,51.8218623481781,"Livingston","Livingston County","New York"
-"36051",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",13.5956610366919,1.71811298776937,12.6372155287818,"Livingston","Livingston County","New York"
-"36051",2017,"B17001I_FemPov","Hispanic or Latino",36.737400530504,16.1803713527851,44.043321299639,"Livingston","Livingston County","New York"
-"36051",2018,"B17001B_FemPov","Black or African American alone",34.3195266272189,15.0887573964497,43.9655172413793,"Livingston","Livingston County","New York"
-"36051",2018,"B17001C_FemPov","American Indian and Alaska Native alone",4.47761194029851,7.46268656716418,166.666666666667,"Livingston","Livingston County","New York"
-"36051",2018,"B17001D_FemPov","Asian alone",29.5454545454545,25.4545454545455,86.1538461538461,"Livingston","Livingston County","New York"
-"36051",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,127.272727272727,NA,"Livingston","Livingston County","New York"
-"36051",2018,"B17001F_FemPov","Some Other Race alone",17.1945701357466,19.4570135746606,113.157894736842,"Livingston","Livingston County","New York"
-"36051",2018,"B17001G_FemPov","Two or More Races",42.7966101694915,25.8474576271186,60.3960396039604,"Livingston","Livingston County","New York"
-"36051",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",13.0823650159452,1.67149298046259,12.7766881479406,"Livingston","Livingston County","New York"
-"36051",2018,"B17001I_FemPov","Hispanic or Latino",36.9987063389392,12.8072445019405,34.6153846153846,"Livingston","Livingston County","New York"
-"36051",2019,"B17001B_FemPov","Black or African American alone",32.972972972973,19.4594594594595,59.0163934426229,"Livingston","Livingston County","New York"
-"36051",2019,"B17001C_FemPov","American Indian and Alaska Native alone",32.0754716981132,33.9622641509434,105.882352941176,"Livingston","Livingston County","New York"
-"36051",2019,"B17001D_FemPov","Asian alone",24.6085011185682,22.3713646532438,90.9090909090909,"Livingston","Livingston County","New York"
-"36051",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,93.3333333333333,NA,"Livingston","Livingston County","New York"
-"36051",2019,"B17001F_FemPov","Some Other Race alone",30.0275482093664,24.7933884297521,82.5688073394495,"Livingston","Livingston County","New York"
-"36051",2019,"B17001G_FemPov","Two or More Races",39.7291196388262,22.5733634311512,56.8181818181818,"Livingston","Livingston County","New York"
-"36051",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",12.5683463868775,1.62553568789715,12.933568489124,"Livingston","Livingston County","New York"
-"36051",2019,"B17001I_FemPov","Hispanic or Latino",32.5161290322581,14.7096774193548,45.2380952380952,"Livingston","Livingston County","New York"
-"36051",2020,"B17001B_FemPov","Black or African American alone",39.2953929539295,27.10027100271,68.9655172413793,"Livingston","Livingston County","New York"
-"36051",2020,"B17001C_FemPov","American Indian and Alaska Native alone",52.5,47.5,90.4761904761905,"Livingston","Livingston County","New York"
-"36051",2020,"B17001D_FemPov","Asian alone",32.463768115942,32.463768115942,100,"Livingston","Livingston County","New York"
-"36051",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,54.7169811320755,NA,"Livingston","Livingston County","New York"
-"36051",2020,"B17001F_FemPov","Some Other Race alone",28.0112044817927,28.0112044817927,100,"Livingston","Livingston County","New York"
-"36051",2020,"B17001G_FemPov","Two or More Races",19.53125,12.65625,64.8,"Livingston","Livingston County","New York"
-"36051",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",12.8579428784768,2.1317901810715,16.5795586527294,"Livingston","Livingston County","New York"
-"36051",2020,"B17001I_FemPov","Hispanic or Latino",34.3409915356711,14.993954050786,43.6619718309859,"Livingston","Livingston County","New York"
-"36051",2021,"B17001B_FemPov","Black or African American alone",20.5645161290323,12.9032258064516,62.7450980392157,"Livingston","Livingston County","New York"
-"36051",2021,"B17001C_FemPov","American Indian and Alaska Native alone",100,122.222222222222,122.222222222222,"Livingston","Livingston County","New York"
-"36051",2021,"B17001D_FemPov","Asian alone",7.83582089552239,13.0597014925373,166.666666666667,"Livingston","Livingston County","New York"
-"36051",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Livingston","Livingston County","New York"
-"36051",2021,"B17001F_FemPov","Some Other Race alone",29.9168975069252,27.1468144044321,90.7407407407408,"Livingston","Livingston County","New York"
-"36051",2021,"B17001G_FemPov","Two or More Races",8.26727066817667,4.64326160815402,56.1643835616438,"Livingston","Livingston County","New York"
-"36051",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",12.7890532431296,1.62825364063754,12.7316198445906,"Livingston","Livingston County","New York"
-"36051",2021,"B17001I_FemPov","Hispanic or Latino",33.1454340473506,13.1905298759865,39.7959183673469,"Livingston","Livingston County","New York"
-"36051",2022,"B17001B_FemPov","Black or African American alone",13.4615384615385,12.1794871794872,90.4761904761905,"Livingston","Livingston County","New York"
-"36051",2022,"B17001C_FemPov","American Indian and Alaska Native alone",100,183.333333333333,183.333333333333,"Livingston","Livingston County","New York"
-"36051",2022,"B17001D_FemPov","Asian alone",11.5131578947368,14.8026315789474,128.571428571429,"Livingston","Livingston County","New York"
-"36051",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Livingston","Livingston County","New York"
-"36051",2022,"B17001F_FemPov","Some Other Race alone",15.4929577464789,23.3802816901408,150.909090909091,"Livingston","Livingston County","New York"
-"36051",2022,"B17001G_FemPov","Two or More Races",7.34513274336283,4.24778761061947,57.8313253012048,"Livingston","Livingston County","New York"
-"36051",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",12.840035199143,1.51126755174657,11.7699642431466,"Livingston","Livingston County","New York"
-"36051",2022,"B17001I_FemPov","Hispanic or Latino",23.3507853403141,12.7748691099476,54.7085201793722,"Livingston","Livingston County","New York"
-"36051",2023,"B17001B_FemPov","Black or African American alone",20,23.2,116,"Livingston","Livingston County","New York"
-"36051",2023,"B17001C_FemPov","American Indian and Alaska Native alone",14.7058823529412,26.4705882352941,180,"Livingston","Livingston County","New York"
-"36051",2023,"B17001D_FemPov","Asian alone",7.39299610894942,10.5058365758755,142.105263157895,"Livingston","Livingston County","New York"
-"36051",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Livingston","Livingston County","New York"
-"36051",2023,"B17001F_FemPov","Some Other Race alone",23.0113636363636,26.4204545454545,114.814814814815,"Livingston","Livingston County","New York"
-"36051",2023,"B17001G_FemPov","Two or More Races",13.3720930232558,7.04134366925065,52.6570048309179,"Livingston","Livingston County","New York"
-"36051",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",12.541863956577,1.79774415829388,14.3339472068754,"Livingston","Livingston County","New York"
-"36051",2023,"B17001I_FemPov","Hispanic or Latino",21.6240875912409,9.85401459854015,45.5696202531646,"Livingston","Livingston County","New York"
-"36051",2024,"B17001B_FemPov","Black or African American alone",30.2752293577982,47.7064220183486,157.575757575758,"Livingston","Livingston County","New York"
-"36051",2024,"B17001C_FemPov","American Indian and Alaska Native alone",0,200,NA,"Livingston","Livingston County","New York"
-"36051",2024,"B17001D_FemPov","Asian alone",6.86274509803922,10.2941176470588,150,"Livingston","Livingston County","New York"
-"36051",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,800,NA,"Livingston","Livingston County","New York"
-"36051",2024,"B17001F_FemPov","Some Other Race alone",2.22929936305732,3.5031847133758,157.142857142857,"Livingston","Livingston County","New York"
-"36051",2024,"B17001G_FemPov","Two or More Races",12.0805369127517,5.8165548098434,48.1481481481481,"Livingston","Livingston County","New York"
-"36051",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",12.3035230352304,1.78861788617886,14.5374449339207,"Livingston","Livingston County","New York"
-"36051",2024,"B17001I_FemPov","Hispanic or Latino",16.9681309216193,8.61326442721792,50.761421319797,"Livingston","Livingston County","New York"
-"36055",2017,"B17001B_FemPov","Black or African American alone",36.7240976326422,1.81809075428228,4.95067509205801,"Monroe","Monroe County","New York"
-"36055",2017,"B17001C_FemPov","American Indian and Alaska Native alone",40.7878017789072,12.0711562897077,29.595015576324,"Monroe","Monroe County","New York"
-"36055",2017,"B17001D_FemPov","Asian alone",18.1172291296625,3.31557134399053,18.3006535947712,"Monroe","Monroe County","New York"
-"36055",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",10.9090909090909,16.3636363636364,150,"Monroe","Monroe County","New York"
-"36055",2017,"B17001F_FemPov","Some Other Race alone",37.0661221925554,5.76409612062196,15.5508474576271,"Monroe","Monroe County","New York"
-"36055",2017,"B17001G_FemPov","Two or More Races",25.6428830134009,4.42774357116987,17.2669491525424,"Monroe","Monroe County","New York"
-"36055",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",8.76409765546673,0.441893635293984,5.04208935894669,"Monroe","Monroe County","New York"
-"36055",2017,"B17001I_FemPov","Hispanic or Latino",35.1876847923898,2.08895744954364,5.93661521600146,"Monroe","Monroe County","New York"
-"36055",2018,"B17001B_FemPov","Black or African American alone",36.3006790829019,2.0540576884287,5.65845526949435,"Monroe","Monroe County","New York"
-"36055",2018,"B17001C_FemPov","American Indian and Alaska Native alone",39.3037619314992,11.0050533408198,28,"Monroe","Monroe County","New York"
-"36055",2018,"B17001D_FemPov","Asian alone",16.5429234338747,2.53673627223511,15.3342683496961,"Monroe","Monroe County","New York"
-"36055",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",12.1951219512195,24.390243902439,200,"Monroe","Monroe County","New York"
-"36055",2018,"B17001F_FemPov","Some Other Race alone",30.8156578720469,7.60475944128298,24.6782316731953,"Monroe","Monroe County","New York"
-"36055",2018,"B17001G_FemPov","Two or More Races",26.9279507603186,4.45329471397538,16.5378151260504,"Monroe","Monroe County","New York"
-"36055",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",8.78821376839216,0.465426545704048,5.29603122966819,"Monroe","Monroe County","New York"
-"36055",2018,"B17001I_FemPov","Hispanic or Latino",34.6974190698555,2.76077491007762,7.95671546785487,"Monroe","Monroe County","New York"
-"36055",2019,"B17001B_FemPov","Black or African American alone",33.4723109512121,2.0997948959349,6.27322953289804,"Monroe","Monroe County","New York"
-"36055",2019,"B17001C_FemPov","American Indian and Alaska Native alone",37.7049180327869,12.6366120218579,33.5144927536232,"Monroe","Monroe County","New York"
-"36055",2019,"B17001D_FemPov","Asian alone",14.0019937121386,2.69917951077371,19.2771084337349,"Monroe","Monroe County","New York"
-"36055",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",18.5483870967742,23.3870967741935,126.086956521739,"Monroe","Monroe County","New York"
-"36055",2019,"B17001F_FemPov","Some Other Race alone",29.5076826591408,6.25587958607714,21.2008501594049,"Monroe","Monroe County","New York"
-"36055",2019,"B17001G_FemPov","Two or More Races",27.0821791320406,4.35826408125577,16.0927378111149,"Monroe","Monroe County","New York"
-"36055",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",8.93802327095573,0.42819171345625,4.79067575095342,"Monroe","Monroe County","New York"
-"36055",2019,"B17001I_FemPov","Hispanic or Latino",33.222170758067,2.64319901188822,7.95612975183567,"Monroe","Monroe County","New York"
-"36055",2020,"B17001B_FemPov","Black or African American alone",32.1215456312015,1.9036645973414,5.92644145832218,"Monroe","Monroe County","New York"
-"36055",2020,"B17001C_FemPov","American Indian and Alaska Native alone",32.1076233183857,14.5291479820628,45.2513966480447,"Monroe","Monroe County","New York"
-"36055",2020,"B17001D_FemPov","Asian alone",15.8412069491009,3.29929899420908,20.8273208273208,"Monroe","Monroe County","New York"
-"36055",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",28.996282527881,23.7918215613383,82.051282051282,"Monroe","Monroe County","New York"
-"36055",2020,"B17001F_FemPov","Some Other Race alone",30.3471590170329,5.16187751917826,17.0094258783205,"Monroe","Monroe County","New York"
-"36055",2020,"B17001G_FemPov","Two or More Races",26.4941387483185,4.08686182819807,15.4255319148936,"Monroe","Monroe County","New York"
-"36055",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",8.71578231975503,0.624790031162272,7.16849054095964,"Monroe","Monroe County","New York"
-"36055",2020,"B17001I_FemPov","Hispanic or Latino",33.7776719828612,2.82670792668412,8.36856941508104,"Monroe","Monroe County","New York"
-"36055",2021,"B17001B_FemPov","Black or African American alone",32.2429746401645,2.27553118574366,7.05744805229314,"Monroe","Monroe County","New York"
-"36055",2021,"B17001C_FemPov","American Indian and Alaska Native alone",42.648709315376,18.5185185185185,43.421052631579,"Monroe","Monroe County","New York"
-"36055",2021,"B17001D_FemPov","Asian alone",17.7691119122949,4.02472224266058,22.6501035196687,"Monroe","Monroe County","New York"
-"36055",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",21.484375,22.265625,103.636363636364,"Monroe","Monroe County","New York"
-"36055",2021,"B17001F_FemPov","Some Other Race alone",28.9004457652303,4.88219061770325,16.8931325743665,"Monroe","Monroe County","New York"
-"36055",2021,"B17001G_FemPov","Two or More Races",22.1462163317657,3.78366823428816,17.0849420849421,"Monroe","Monroe County","New York"
-"36055",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",8.44277458414873,0.561093444227006,6.64584182172122,"Monroe","Monroe County","New York"
-"36055",2021,"B17001I_FemPov","Hispanic or Latino",32.4044014135088,2.9735398052116,9.17634542069332,"Monroe","Monroe County","New York"
-"36055",2022,"B17001B_FemPov","Black or African American alone",29.8983246482101,2.1251676200499,7.1079822868173,"Monroe","Monroe County","New York"
-"36055",2022,"B17001C_FemPov","American Indian and Alaska Native alone",46.1180124223603,20.8074534161491,45.1178451178451,"Monroe","Monroe County","New York"
-"36055",2022,"B17001D_FemPov","Asian alone",18.8615428900403,4.90788716177317,26.0206028233499,"Monroe","Monroe County","New York"
-"36055",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",21.6117216117216,22.3443223443223,103.389830508475,"Monroe","Monroe County","New York"
-"36055",2022,"B17001F_FemPov","Some Other Race alone",28.4787054325598,4.97910553925491,17.4836091164533,"Monroe","Monroe County","New York"
-"36055",2022,"B17001G_FemPov","Two or More Races",21.3367258848653,3.3804352764778,15.8432708688245,"Monroe","Monroe County","New York"
-"36055",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",8.85382517371282,0.581952489398766,6.57289338766925,"Monroe","Monroe County","New York"
-"36055",2022,"B17001I_FemPov","Hispanic or Latino",30.4809843400447,2.61185682326622,8.56880733944954,"Monroe","Monroe County","New York"
-"36055",2023,"B17001B_FemPov","Black or African American alone",28.569453087188,2.09154393970822,7.32090997095837,"Monroe","Monroe County","New York"
-"36055",2023,"B17001C_FemPov","American Indian and Alaska Native alone",36.0576923076923,18.9903846153846,52.6666666666667,"Monroe","Monroe County","New York"
-"36055",2023,"B17001D_FemPov","Asian alone",18.6280907838445,5.34406496990791,28.6882055274426,"Monroe","Monroe County","New York"
-"36055",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",21.2418300653595,19.281045751634,90.7692307692308,"Monroe","Monroe County","New York"
-"36055",2023,"B17001F_FemPov","Some Other Race alone",30.5127398553004,4.66341616860648,15.2835051546392,"Monroe","Monroe County","New York"
-"36055",2023,"B17001G_FemPov","Two or More Races",20.7247152358382,3.48979435822949,16.838804869052,"Monroe","Monroe County","New York"
-"36055",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",8.46667422840894,0.536231827373246,6.33344112348131,"Monroe","Monroe County","New York"
-"36055",2023,"B17001I_FemPov","Hispanic or Latino",29.5522224954239,2.77846078190312,9.40186743089581,"Monroe","Monroe County","New York"
-"36055",2024,"B17001B_FemPov","Black or African American alone",30.3063204172081,2.67696634213196,8.83302989369824,"Monroe","Monroe County","New York"
-"36055",2024,"B17001C_FemPov","American Indian and Alaska Native alone",37.5,18.5185185185185,49.3827160493827,"Monroe","Monroe County","New York"
-"36055",2024,"B17001D_FemPov","Asian alone",19.8073492686407,4.57367106671424,23.0907780979827,"Monroe","Monroe County","New York"
-"36055",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",40.6417112299465,38.5026737967914,94.7368421052632,"Monroe","Monroe County","New York"
-"36055",2024,"B17001F_FemPov","Some Other Race alone",27.250875626674,4.70434722889911,17.2631048387097,"Monroe","Monroe County","New York"
-"36055",2024,"B17001G_FemPov","Two or More Races",20.4722619202287,3.34870728855398,16.3572901792797,"Monroe","Monroe County","New York"
-"36055",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",9.02962085308057,0.567140600315956,6.28089052180379,"Monroe","Monroe County","New York"
-"36055",2024,"B17001I_FemPov","Hispanic or Latino",28.6534951143563,2.891119939869,10.0899381675098,"Monroe","Monroe County","New York"
-"36069",2017,"B17001B_FemPov","Black or African American alone",24.6051537822111,12.3025768911056,50,"Ontario","Ontario County","New York"
-"36069",2017,"B17001C_FemPov","American Indian and Alaska Native alone",13.1455399061033,17.3708920187793,132.142857142857,"Ontario","Ontario County","New York"
-"36069",2017,"B17001D_FemPov","Asian alone",24.9318801089918,14.441416893733,57.9234972677596,"Ontario","Ontario County","New York"
-"36069",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,103.846153846154,NA,"Ontario","Ontario County","New York"
-"36069",2017,"B17001F_FemPov","Some Other Race alone",37.7125193199382,17.1561051004637,45.4918032786885,"Ontario","Ontario County","New York"
-"36069",2017,"B17001G_FemPov","Two or More Races",15.983026874116,9.33521923620934,58.4070796460177,"Ontario","Ontario County","New York"
-"36069",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",9.083183262176,1.02183282410311,11.249721541546,"Ontario","Ontario County","New York"
-"36069",2017,"B17001I_FemPov","Hispanic or Latino",28.8309268747089,6.47414997671169,22.4555735056543,"Ontario","Ontario County","New York"
-"36069",2018,"B17001B_FemPov","Black or African American alone",19.5771339075959,9.78856695379796,50,"Ontario","Ontario County","New York"
-"36069",2018,"B17001C_FemPov","American Indian and Alaska Native alone",23.5059760956175,21.1155378486056,89.8305084745763,"Ontario","Ontario County","New York"
-"36069",2018,"B17001D_FemPov","Asian alone",23.0985915492958,13.6619718309859,59.1463414634146,"Ontario","Ontario County","New York"
-"36069",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,215.384615384615,NA,"Ontario","Ontario County","New York"
-"36069",2018,"B17001F_FemPov","Some Other Race alone",31.7757009345794,18.8473520249221,59.3137254901961,"Ontario","Ontario County","New York"
-"36069",2018,"B17001G_FemPov","Two or More Races",20.2860858257477,10.0130039011704,49.3589743589744,"Ontario","Ontario County","New York"
-"36069",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",9.1928432642487,1.00793393782383,10.9643328929987,"Ontario","Ontario County","New York"
-"36069",2018,"B17001I_FemPov","Hispanic or Latino",25.3164556962025,7.23327305605787,28.5714285714286,"Ontario","Ontario County","New York"
-"36069",2019,"B17001B_FemPov","Black or African American alone",23.3142037302726,11.3342898134864,48.6153846153846,"Ontario","Ontario County","New York"
-"36069",2019,"B17001C_FemPov","American Indian and Alaska Native alone",23.6514522821577,21.1618257261411,89.4736842105263,"Ontario","Ontario County","New York"
-"36069",2019,"B17001D_FemPov","Asian alone",8.9041095890411,6.43835616438356,72.3076923076923,"Ontario","Ontario County","New York"
-"36069",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,215.384615384615,NA,"Ontario","Ontario County","New York"
-"36069",2019,"B17001F_FemPov","Some Other Race alone",34.7949080622348,18.5289957567185,53.2520325203252,"Ontario","Ontario County","New York"
-"36069",2019,"B17001G_FemPov","Two or More Races",18.5282522996058,9.59264126149803,51.7730496453901,"Ontario","Ontario County","New York"
-"36069",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",8.37752499696393,0.967493826660729,11.5486832568253,"Ontario","Ontario County","New York"
-"36069",2019,"B17001I_FemPov","Hispanic or Latino",21.7713787085515,6.45724258289703,29.6593186372745,"Ontario","Ontario County","New York"
-"36069",2020,"B17001B_FemPov","Black or African American alone",16.0202360876897,9.52782462057336,59.4736842105263,"Ontario","Ontario County","New York"
-"36069",2020,"B17001C_FemPov","American Indian and Alaska Native alone",12.1827411167513,18.7817258883249,154.166666666667,"Ontario","Ontario County","New York"
-"36069",2020,"B17001D_FemPov","Asian alone",0,3.89784946236559,NA,"Ontario","Ontario County","New York"
-"36069",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,107.407407407407,NA,"Ontario","Ontario County","New York"
-"36069",2020,"B17001F_FemPov","Some Other Race alone",29.6703296703297,18.3673469387755,61.9047619047619,"Ontario","Ontario County","New York"
-"36069",2020,"B17001G_FemPov","Two or More Races",18.2926829268293,9.26829268292683,50.6666666666667,"Ontario","Ontario County","New York"
-"36069",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",8.35699797160243,1.33468559837728,15.9708737864078,"Ontario","Ontario County","New York"
-"36069",2020,"B17001I_FemPov","Hispanic or Latino",20.3217612193057,6.731583403895,33.125,"Ontario","Ontario County","New York"
-"36069",2021,"B17001B_FemPov","Black or African American alone",12.9597197898424,8.23117338003503,63.5135135135135,"Ontario","Ontario County","New York"
-"36069",2021,"B17001C_FemPov","American Indian and Alaska Native alone",17.3913043478261,25,143.75,"Ontario","Ontario County","New York"
-"36069",2021,"B17001D_FemPov","Asian alone",1.82440136830103,2.05245153933865,112.5,"Ontario","Ontario County","New York"
-"36069",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Ontario","Ontario County","New York"
-"36069",2021,"B17001F_FemPov","Some Other Race alone",24.4186046511628,18.1686046511628,74.4047619047619,"Ontario","Ontario County","New York"
-"36069",2021,"B17001G_FemPov","Two or More Races",23.0508474576271,9.83050847457627,42.6470588235294,"Ontario","Ontario County","New York"
-"36069",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",8.38204278397108,1.15496635532791,13.7790558351306,"Ontario","Ontario County","New York"
-"36069",2021,"B17001I_FemPov","Hispanic or Latino",22.0304975922953,7.90529695024077,35.8834244080146,"Ontario","Ontario County","New York"
-"36069",2022,"B17001B_FemPov","Black or African American alone",17.0923379174853,9.92141453831041,58.0459770114943,"Ontario","Ontario County","New York"
-"36069",2022,"B17001C_FemPov","American Indian and Alaska Native alone",17.7777777777778,28.8888888888889,162.5,"Ontario","Ontario County","New York"
-"36069",2022,"B17001D_FemPov","Asian alone",2.92682926829268,3.41463414634146,116.666666666667,"Ontario","Ontario County","New York"
-"36069",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Ontario","Ontario County","New York"
-"36069",2022,"B17001F_FemPov","Some Other Race alone",30.3066037735849,19.5754716981132,64.591439688716,"Ontario","Ontario County","New York"
-"36069",2022,"B17001G_FemPov","Two or More Races",27.4978279756733,12.9018245004344,46.9194312796209,"Ontario","Ontario County","New York"
-"36069",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",8.61586503366047,1.17608889609863,13.6502706519181,"Ontario","Ontario County","New York"
-"36069",2022,"B17001I_FemPov","Hispanic or Latino",22.2135619641465,7.09275136399065,31.9298245614035,"Ontario","Ontario County","New York"
-"36069",2023,"B17001B_FemPov","Black or African American alone",17.717206132879,10.1362862010221,57.2115384615385,"Ontario","Ontario County","New York"
-"36069",2023,"B17001C_FemPov","American Indian and Alaska Native alone",45.945945945946,56.7567567567568,123.529411764706,"Ontario","Ontario County","New York"
-"36069",2023,"B17001D_FemPov","Asian alone",2.11081794195251,2.5065963060686,118.75,"Ontario","Ontario County","New York"
-"36069",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Ontario","Ontario County","New York"
-"36069",2023,"B17001F_FemPov","Some Other Race alone",20.360824742268,14.9484536082474,73.4177215189873,"Ontario","Ontario County","New York"
-"36069",2023,"B17001G_FemPov","Two or More Races",25.3215729511209,13.1936787945608,52.1044992743106,"Ontario","Ontario County","New York"
-"36069",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",8.86443589953367,1.29059968911069,14.5592985694509,"Ontario","Ontario County","New York"
-"36069",2023,"B17001I_FemPov","Hispanic or Latino",21.2691771269177,7.32217573221757,34.4262295081967,"Ontario","Ontario County","New York"
-"36069",2024,"B17001B_FemPov","Black or African American alone",16.6304347826087,9.78260869565217,58.8235294117647,"Ontario","Ontario County","New York"
-"36069",2024,"B17001C_FemPov","American Indian and Alaska Native alone",51.5151515151515,66.6666666666667,129.411764705882,"Ontario","Ontario County","New York"
-"36069",2024,"B17001D_FemPov","Asian alone",2.49687890137328,2.74656679151061,110,"Ontario","Ontario County","New York"
-"36069",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Ontario","Ontario County","New York"
-"36069",2024,"B17001F_FemPov","Some Other Race alone",27.1400778210117,15.6614785992218,57.7060931899642,"Ontario","Ontario County","New York"
-"36069",2024,"B17001G_FemPov","Two or More Races",21.5252152521525,8.82533825338253,41,"Ontario","Ontario County","New York"
-"36069",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",8.48142497835319,1.06378592339092,12.5425376762275,"Ontario","Ontario County","New York"
-"36069",2024,"B17001I_FemPov","Hispanic or Latino",26.4188516428808,6.63790242283438,25.1256281407035,"Ontario","Ontario County","New York"
-"36073",2017,"B17001B_FemPov","Black or African American alone",31.2348668280872,11.501210653753,36.8217054263566,"Orleans","Orleans County","New York"
-"36073",2017,"B17001C_FemPov","American Indian and Alaska Native alone",25.4237288135593,30.5084745762712,120,"Orleans","Orleans County","New York"
-"36073",2017,"B17001D_FemPov","Asian alone",22.8813559322034,14.4067796610169,62.962962962963,"Orleans","Orleans County","New York"
-"36073",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,600,NA,"Orleans","Orleans County","New York"
-"36073",2017,"B17001F_FemPov","Some Other Race alone",90.2578796561605,58.7392550143267,65.0793650793651,"Orleans","Orleans County","New York"
-"36073",2017,"B17001G_FemPov","Two or More Races",23.2294617563739,21.8130311614731,93.9024390243902,"Orleans","Orleans County","New York"
-"36073",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",15.4901285583104,2.07759412304867,13.4123749536866,"Orleans","Orleans County","New York"
-"36073",2017,"B17001I_FemPov","Hispanic or Latino",64.9651972157773,14.7331786542923,22.6785714285714,"Orleans","Orleans County","New York"
-"36073",2018,"B17001B_FemPov","Black or African American alone",35.5203619909502,20.3619909502262,57.3248407643312,"Orleans","Orleans County","New York"
-"36073",2018,"B17001C_FemPov","American Indian and Alaska Native alone",18.9189189189189,20.2702702702703,107.142857142857,"Orleans","Orleans County","New York"
-"36073",2018,"B17001D_FemPov","Asian alone",19.1666666666667,15,78.2608695652174,"Orleans","Orleans County","New York"
-"36073",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Orleans","Orleans County","New York"
-"36073",2018,"B17001F_FemPov","Some Other Race alone",89.5674300254453,42.4936386768448,47.4431818181818,"Orleans","Orleans County","New York"
-"36073",2018,"B17001G_FemPov","Two or More Races",30.0613496932515,19.9386503067485,66.3265306122449,"Orleans","Orleans County","New York"
-"36073",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",13.1070222429254,1.81087690695237,13.8160817414482,"Orleans","Orleans County","New York"
-"36073",2018,"B17001I_FemPov","Hispanic or Latino",64,17.75,27.734375,"Orleans","Orleans County","New York"
-"36073",2019,"B17001B_FemPov","Black or African American alone",35.3675450762829,17.6144244105409,49.8039215686274,"Orleans","Orleans County","New York"
-"36073",2019,"B17001C_FemPov","American Indian and Alaska Native alone",20.6896551724138,22.4137931034483,108.333333333333,"Orleans","Orleans County","New York"
-"36073",2019,"B17001D_FemPov","Asian alone",2.58620689655172,4.31034482758621,166.666666666667,"Orleans","Orleans County","New York"
-"36073",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Orleans","Orleans County","New York"
-"36073",2019,"B17001F_FemPov","Some Other Race alone",86.9333333333333,57.0666666666667,65.6441717791411,"Orleans","Orleans County","New York"
-"36073",2019,"B17001G_FemPov","Two or More Races",23.3463035019455,21.9844357976654,94.1666666666667,"Orleans","Orleans County","New York"
-"36073",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",13.1973995271868,1.79078014184397,13.5691894312584,"Orleans","Orleans County","New York"
-"36073",2019,"B17001I_FemPov","Hispanic or Latino",59.8119858989424,25.0293772032902,41.8467583497053,"Orleans","Orleans County","New York"
-"36073",2020,"B17001B_FemPov","Black or African American alone",25.6443298969072,20.4896907216495,79.8994974874372,"Orleans","Orleans County","New York"
-"36073",2020,"B17001C_FemPov","American Indian and Alaska Native alone",10.6382978723404,17.0212765957447,160,"Orleans","Orleans County","New York"
-"36073",2020,"B17001D_FemPov","Asian alone",3.10077519379845,4.65116279069767,150,"Orleans","Orleans County","New York"
-"36073",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Orleans","Orleans County","New York"
-"36073",2020,"B17001F_FemPov","Some Other Race alone",81.8840579710145,54.3478260869565,66.3716814159292,"Orleans","Orleans County","New York"
-"36073",2020,"B17001G_FemPov","Two or More Races",16.696269982238,10.3019538188277,61.7021276595745,"Orleans","Orleans County","New York"
-"36073",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",14.0188589162091,2.33349248030556,16.6453810131971,"Orleans","Orleans County","New York"
-"36073",2020,"B17001I_FemPov","Hispanic or Latino",45.5456570155902,24.2761692650334,53.3007334963325,"Orleans","Orleans County","New York"
-"36073",2021,"B17001B_FemPov","Black or African American alone",13.9272271016311,11.2923462986198,81.0810810810811,"Orleans","Orleans County","New York"
-"36073",2021,"B17001C_FemPov","American Indian and Alaska Native alone",9.43396226415094,15.0943396226415,160,"Orleans","Orleans County","New York"
-"36073",2021,"B17001D_FemPov","Asian alone",2.17391304347826,3.6231884057971,166.666666666667,"Orleans","Orleans County","New York"
-"36073",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Orleans","Orleans County","New York"
-"36073",2021,"B17001F_FemPov","Some Other Race alone",83.1818181818182,50.6818181818182,60.9289617486339,"Orleans","Orleans County","New York"
-"36073",2021,"B17001G_FemPov","Two or More Races",13.2958801498127,9.73782771535581,73.2394366197183,"Orleans","Orleans County","New York"
-"36073",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",14.0106241699867,2.19727151998068,15.6828953037484,"Orleans","Orleans County","New York"
-"36073",2021,"B17001I_FemPov","Hispanic or Latino",46.1031833150384,24.03951701427,52.1428571428571,"Orleans","Orleans County","New York"
-"36073",2022,"B17001B_FemPov","Black or African American alone",16.7155425219941,11.4369501466276,68.4210526315789,"Orleans","Orleans County","New York"
-"36073",2022,"B17001C_FemPov","American Indian and Alaska Native alone",0,38.3561643835616,NA,"Orleans","Orleans County","New York"
-"36073",2022,"B17001D_FemPov","Asian alone",0.847457627118644,2.54237288135593,300,"Orleans","Orleans County","New York"
-"36073",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Orleans","Orleans County","New York"
-"36073",2022,"B17001F_FemPov","Some Other Race alone",26.980198019802,23.7623762376238,88.0733944954128,"Orleans","Orleans County","New York"
-"36073",2022,"B17001G_FemPov","Two or More Races",16.3328197226502,8.16640986132511,50,"Orleans","Orleans County","New York"
-"36073",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",13.5495254319786,2.34850328547092,17.3327346205658,"Orleans","Orleans County","New York"
-"36073",2022,"B17001I_FemPov","Hispanic or Latino",13.780487804878,11.4634146341463,83.1858407079646,"Orleans","Orleans County","New York"
-"36073",2023,"B17001B_FemPov","Black or African American alone",20.8728652751423,17.0777988614801,81.8181818181818,"Orleans","Orleans County","New York"
-"36073",2023,"B17001C_FemPov","American Indian and Alaska Native alone",0,31.8181818181818,NA,"Orleans","Orleans County","New York"
-"36073",2023,"B17001D_FemPov","Asian alone",0.840336134453782,2.52100840336134,300,"Orleans","Orleans County","New York"
-"36073",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Orleans","Orleans County","New York"
-"36073",2023,"B17001F_FemPov","Some Other Race alone",4.38144329896907,4.89690721649485,111.764705882353,"Orleans","Orleans County","New York"
-"36073",2023,"B17001G_FemPov","Two or More Races",17.6980198019802,10.6435643564356,60.1398601398601,"Orleans","Orleans County","New York"
-"36073",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",14.8857281789448,2.5164113785558,16.9048591261739,"Orleans","Orleans County","New York"
-"36073",2023,"B17001I_FemPov","Hispanic or Latino",7.90067720090294,5.64334085778781,71.4285714285714,"Orleans","Orleans County","New York"
-"36073",2024,"B17001B_FemPov","Black or African American alone",25.1356238698011,18.8065099457505,74.8201438848921,"Orleans","Orleans County","New York"
-"36073",2024,"B17001C_FemPov","American Indian and Alaska Native alone",0,32.5842696629214,NA,"Orleans","Orleans County","New York"
-"36073",2024,"B17001D_FemPov","Asian alone",5.22388059701492,6.71641791044776,128.571428571429,"Orleans","Orleans County","New York"
-"36073",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Orleans","Orleans County","New York"
-"36073",2024,"B17001F_FemPov","Some Other Race alone",4.11255411255411,3.8961038961039,94.7368421052632,"Orleans","Orleans County","New York"
-"36073",2024,"B17001G_FemPov","Two or More Races",29.8543689320388,14.1990291262136,47.5609756097561,"Orleans","Orleans County","New York"
-"36073",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",14.4702047844536,2.90265051349855,20.0594985125372,"Orleans","Orleans County","New York"
-"36073",2024,"B17001I_FemPov","Hispanic or Latino",10.0622406639004,7.88381742738589,78.3505154639175,"Orleans","Orleans County","New York"
-"36099",2017,"B17001B_FemPov","Black or African American alone",7.69230769230769,11.5384615384615,150,"Seneca","Seneca County","New York"
-"36099",2017,"B17001C_FemPov","American Indian and Alaska Native alone",11.7647058823529,17.6470588235294,150,"Seneca","Seneca County","New York"
-"36099",2017,"B17001D_FemPov","Asian alone",47.7941176470588,22.7941176470588,47.6923076923077,"Seneca","Seneca County","New York"
-"36099",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Seneca","Seneca County","New York"
-"36099",2017,"B17001F_FemPov","Some Other Race alone",14.7058823529412,26.4705882352941,180,"Seneca","Seneca County","New York"
-"36099",2017,"B17001G_FemPov","Two or More Races",32.2429906542056,28.0373831775701,86.9565217391304,"Seneca","Seneca County","New York"
-"36099",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",12.5320702585356,2.11828169199395,16.9028871391076,"Seneca","Seneca County","New York"
-"36099",2017,"B17001I_FemPov","Hispanic or Latino",37.1967654986523,20.2156334231806,54.3478260869565,"Seneca","Seneca County","New York"
-"36099",2018,"B17001B_FemPov","Black or African American alone",8.55614973262032,10.6951871657754,125,"Seneca","Seneca County","New York"
-"36099",2018,"B17001C_FemPov","American Indian and Alaska Native alone",17.2413793103448,24.1379310344828,140,"Seneca","Seneca County","New York"
-"36099",2018,"B17001D_FemPov","Asian alone",59.375,39.0625,65.7894736842105,"Seneca","Seneca County","New York"
-"36099",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Seneca","Seneca County","New York"
-"36099",2018,"B17001F_FemPov","Some Other Race alone",0,50,NA,"Seneca","Seneca County","New York"
-"36099",2018,"B17001G_FemPov","Two or More Races",24.8322147651007,15.1006711409396,60.8108108108108,"Seneca","Seneca County","New York"
-"36099",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",13.1254147312541,1.77836761778368,13.5490394337715,"Seneca","Seneca County","New York"
-"36099",2018,"B17001I_FemPov","Hispanic or Latino",23.5294117647059,21.8954248366013,93.0555555555556,"Seneca","Seneca County","New York"
-"36099",2019,"B17001B_FemPov","Black or African American alone",33.5294117647059,27.6470588235294,82.4561403508772,"Seneca","Seneca County","New York"
-"36099",2019,"B17001C_FemPov","American Indian and Alaska Native alone",12.8571428571429,18.5714285714286,144.444444444444,"Seneca","Seneca County","New York"
-"36099",2019,"B17001D_FemPov","Asian alone",55.0925925925926,26.8518518518519,48.7394957983193,"Seneca","Seneca County","New York"
-"36099",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,500,NA,"Seneca","Seneca County","New York"
-"36099",2019,"B17001F_FemPov","Some Other Race alone",18.6046511627907,37.2093023255814,200,"Seneca","Seneca County","New York"
-"36099",2019,"B17001G_FemPov","Two or More Races",20.2749140893471,18.213058419244,89.8305084745763,"Seneca","Seneca County","New York"
-"36099",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",12.0720841428284,1.72171233335566,14.2619311875694,"Seneca","Seneca County","New York"
-"36099",2019,"B17001I_FemPov","Hispanic or Latino",19.941348973607,19.0615835777126,95.5882352941177,"Seneca","Seneca County","New York"
-"36099",2020,"B17001B_FemPov","Black or African American alone",25.2293577981651,22.0183486238532,87.2727272727273,"Seneca","Seneca County","New York"
-"36099",2020,"B17001C_FemPov","American Indian and Alaska Native alone",15,23.3333333333333,155.555555555556,"Seneca","Seneca County","New York"
-"36099",2020,"B17001D_FemPov","Asian alone",40.9836065573771,20.7650273224044,50.6666666666667,"Seneca","Seneca County","New York"
-"36099",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,1300,NA,"Seneca","Seneca County","New York"
-"36099",2020,"B17001F_FemPov","Some Other Race alone",25,50,200,"Seneca","Seneca County","New York"
-"36099",2020,"B17001G_FemPov","Two or More Races",29.4906166219839,16.8900804289544,57.2727272727273,"Seneca","Seneca County","New York"
-"36099",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",11.5384615384615,1.92307692307692,16.6666666666667,"Seneca","Seneca County","New York"
-"36099",2020,"B17001I_FemPov","Hispanic or Latino",55.0387596899225,32.8165374677003,59.6244131455399,"Seneca","Seneca County","New York"
-"36099",2021,"B17001B_FemPov","Black or African American alone",19.8443579766537,21.011673151751,105.882352941176,"Seneca","Seneca County","New York"
-"36099",2021,"B17001C_FemPov","American Indian and Alaska Native alone",25.4545454545455,27.2727272727273,107.142857142857,"Seneca","Seneca County","New York"
-"36099",2021,"B17001D_FemPov","Asian alone",0,21.09375,NA,"Seneca","Seneca County","New York"
-"36099",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",80,120,150,"Seneca","Seneca County","New York"
-"36099",2021,"B17001F_FemPov","Some Other Race alone",20.4545454545455,45.4545454545455,222.222222222222,"Seneca","Seneca County","New York"
-"36099",2021,"B17001G_FemPov","Two or More Races",26.6375545851528,13.7554585152838,51.6393442622951,"Seneca","Seneca County","New York"
-"36099",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",11.8502688542672,1.89576726871639,15.9976730657359,"Seneca","Seneca County","New York"
-"36099",2021,"B17001I_FemPov","Hispanic or Latino",37.1345029239766,15.4970760233918,41.7322834645669,"Seneca","Seneca County","New York"
-"36099",2022,"B17001B_FemPov","Black or African American alone",50.7246376811594,25.1207729468599,49.5238095238095,"Seneca","Seneca County","New York"
-"36099",2022,"B17001C_FemPov","American Indian and Alaska Native alone",40.5405405405405,40.5405405405405,100,"Seneca","Seneca County","New York"
-"36099",2022,"B17001D_FemPov","Asian alone",1.61290322580645,3.2258064516129,200,"Seneca","Seneca County","New York"
-"36099",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,1400,NA,"Seneca","Seneca County","New York"
-"36099",2022,"B17001F_FemPov","Some Other Race alone",57.1428571428571,53.5714285714286,93.75,"Seneca","Seneca County","New York"
-"36099",2022,"B17001G_FemPov","Two or More Races",41.030534351145,19.4656488549618,47.4418604651163,"Seneca","Seneca County","New York"
-"36099",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",12.6738262425995,2.17540961035385,17.1645844649647,"Seneca","Seneca County","New York"
-"36099",2022,"B17001I_FemPov","Hispanic or Latino",41.1140583554377,16.9761273209549,41.2903225806452,"Seneca","Seneca County","New York"
-"36099",2023,"B17001B_FemPov","Black or African American alone",56.7441860465116,16.7441860465116,29.5081967213115,"Seneca","Seneca County","New York"
-"36099",2023,"B17001C_FemPov","American Indian and Alaska Native alone",60,100,166.666666666667,"Seneca","Seneca County","New York"
-"36099",2023,"B17001D_FemPov","Asian alone",1.68067226890756,2.52100840336134,150,"Seneca","Seneca County","New York"
-"36099",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,933.333333333333,NA,"Seneca","Seneca County","New York"
-"36099",2023,"B17001F_FemPov","Some Other Race alone",63.8418079096045,49.7175141242938,77.8761061946903,"Seneca","Seneca County","New York"
-"36099",2023,"B17001G_FemPov","Two or More Races",30.4804804804805,18.1681681681682,59.6059113300493,"Seneca","Seneca County","New York"
-"36099",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",12.9850226401951,1.89481017067224,14.5922746781116,"Seneca","Seneca County","New York"
-"36099",2023,"B17001I_FemPov","Hispanic or Latino",31.7894736842105,13.0526315789474,41.0596026490066,"Seneca","Seneca County","New York"
-"36099",2024,"B17001B_FemPov","Black or African American alone",50.8196721311475,17.2131147540984,33.8709677419355,"Seneca","Seneca County","New York"
-"36099",2024,"B17001C_FemPov","American Indian and Alaska Native alone",90.9090909090909,90.9090909090909,100,"Seneca","Seneca County","New York"
-"36099",2024,"B17001D_FemPov","Asian alone",3.03030303030303,5.05050505050505,166.666666666667,"Seneca","Seneca County","New York"
-"36099",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Seneca","Seneca County","New York"
-"36099",2024,"B17001F_FemPov","Some Other Race alone",59.5959595959596,48.4848484848485,81.3559322033898,"Seneca","Seneca County","New York"
-"36099",2024,"B17001G_FemPov","Two or More Races",31.1720698254364,14.3391521197007,46,"Seneca","Seneca County","New York"
-"36099",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",12.7650551314673,2.09923664122137,16.4451827242525,"Seneca","Seneca County","New York"
-"36099",2024,"B17001I_FemPov","Hispanic or Latino",30.0952380952381,16,53.1645569620253,"Seneca","Seneca County","New York"
-"36117",2017,"B17001B_FemPov","Black or African American alone",33.969769291965,12.3309466984885,36.2997658079625,"Wayne","Wayne County","New York"
-"36117",2017,"B17001C_FemPov","American Indian and Alaska Native alone",22.9885057471264,18.3908045977011,80,"Wayne","Wayne County","New York"
-"36117",2017,"B17001D_FemPov","Asian alone",11.3496932515337,7.05521472392638,62.1621621621622,"Wayne","Wayne County","New York"
-"36117",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,61.3636363636364,NA,"Wayne","Wayne County","New York"
-"36117",2017,"B17001F_FemPov","Some Other Race alone",2.94906166219839,4.28954423592493,145.454545454545,"Wayne","Wayne County","New York"
-"36117",2017,"B17001G_FemPov","Two or More Races",23.2531500572738,10.0801832760596,43.3497536945813,"Wayne","Wayne County","New York"
-"36117",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",11.3140268876789,1.32270033248205,11.690800681431,"Wayne","Wayne County","New York"
-"36117",2017,"B17001I_FemPov","Hispanic or Latino",17.7409816676523,7.68775872264932,43.3333333333333,"Wayne","Wayne County","New York"
-"36117",2018,"B17001B_FemPov","Black or African American alone",43.9212328767123,15.8390410958904,36.0623781676413,"Wayne","Wayne County","New York"
-"36117",2018,"B17001C_FemPov","American Indian and Alaska Native alone",33.8235294117647,29.4117647058824,86.9565217391304,"Wayne","Wayne County","New York"
-"36117",2018,"B17001D_FemPov","Asian alone",9.16666666666667,7.77777777777778,84.8484848484848,"Wayne","Wayne County","New York"
-"36117",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,68.2926829268293,NA,"Wayne","Wayne County","New York"
-"36117",2018,"B17001F_FemPov","Some Other Race alone",4.41558441558442,6.75324675324675,152.941176470588,"Wayne","Wayne County","New York"
-"36117",2018,"B17001G_FemPov","Two or More Races",26.1555806087937,10.2593010146561,39.2241379310345,"Wayne","Wayne County","New York"
-"36117",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",10.8552152599136,1.0896471387662,10.0380058126537,"Wayne","Wayne County","New York"
-"36117",2018,"B17001I_FemPov","Hispanic or Latino",18.4743742550656,6.91299165673421,37.4193548387097,"Wayne","Wayne County","New York"
-"36117",2019,"B17001B_FemPov","Black or African American alone",47.6190476190476,15.8730158730159,33.3333333333333,"Wayne","Wayne County","New York"
-"36117",2019,"B17001C_FemPov","American Indian and Alaska Native alone",17.8571428571429,17.8571428571429,100,"Wayne","Wayne County","New York"
-"36117",2019,"B17001D_FemPov","Asian alone",10.7981220657277,7.74647887323944,71.7391304347826,"Wayne","Wayne County","New York"
-"36117",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,43.0769230769231,NA,"Wayne","Wayne County","New York"
-"36117",2019,"B17001F_FemPov","Some Other Race alone",5.73951434878587,8.83002207505519,153.846153846154,"Wayne","Wayne County","New York"
-"36117",2019,"B17001G_FemPov","Two or More Races",25.9569377990431,11.4832535885167,44.2396313364055,"Wayne","Wayne County","New York"
-"36117",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",11.798027151089,1.30383826545561,11.0513245033113,"Wayne","Wayne County","New York"
-"36117",2019,"B17001I_FemPov","Hispanic or Latino",17.4216027874564,8.47851335656214,48.6666666666667,"Wayne","Wayne County","New York"
-"36117",2020,"B17001B_FemPov","Black or African American alone",53.7280701754386,16.8859649122807,31.4285714285714,"Wayne","Wayne County","New York"
-"36117",2020,"B17001C_FemPov","American Indian and Alaska Native alone",52.0833333333333,83.3333333333333,160,"Wayne","Wayne County","New York"
-"36117",2020,"B17001D_FemPov","Asian alone",10.1449275362319,8.21256038647343,80.9523809523809,"Wayne","Wayne County","New York"
-"36117",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,725,NA,"Wayne","Wayne County","New York"
-"36117",2020,"B17001F_FemPov","Some Other Race alone",6.68202764976959,7.14285714285714,106.896551724138,"Wayne","Wayne County","New York"
-"36117",2020,"B17001G_FemPov","Two or More Races",15.7360406091371,6.28172588832487,39.9193548387097,"Wayne","Wayne County","New York"
-"36117",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",11.0454086283785,1.35018602015424,12.2239571715369,"Wayne","Wayne County","New York"
-"36117",2020,"B17001I_FemPov","Hispanic or Latino",14.72326706072,8.00644814615798,54.3795620437956,"Wayne","Wayne County","New York"
-"36117",2021,"B17001B_FemPov","Black or African American alone",42.9813664596273,15.776397515528,36.7052023121387,"Wayne","Wayne County","New York"
-"36117",2021,"B17001C_FemPov","American Indian and Alaska Native alone",52.5641025641026,96.1538461538462,182.926829268293,"Wayne","Wayne County","New York"
-"36117",2021,"B17001D_FemPov","Asian alone",6.89655172413793,7.16180371352785,103.846153846154,"Wayne","Wayne County","New York"
-"36117",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,1000,NA,"Wayne","Wayne County","New York"
-"36117",2021,"B17001F_FemPov","Some Other Race alone",18.7393526405451,18.3986371379898,98.1818181818182,"Wayne","Wayne County","New York"
-"36117",2021,"B17001G_FemPov","Two or More Races",14.8073022312373,5.22312373225152,35.2739726027397,"Wayne","Wayne County","New York"
-"36117",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",11.2642212632405,1.39270302079247,12.3639529821506,"Wayne","Wayne County","New York"
-"36117",2021,"B17001I_FemPov","Hispanic or Latino",17.8461538461538,8.25641025641026,46.264367816092,"Wayne","Wayne County","New York"
-"36117",2022,"B17001B_FemPov","Black or African American alone",33.4164588528678,16.8329177057357,50.3731343283582,"Wayne","Wayne County","New York"
-"36117",2022,"B17001C_FemPov","American Indian and Alaska Native alone",62.5,120.3125,192.5,"Wayne","Wayne County","New York"
-"36117",2022,"B17001D_FemPov","Asian alone",6.74157303370786,7.02247191011236,104.166666666667,"Wayne","Wayne County","New York"
-"36117",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,1033.33333333333,NA,"Wayne","Wayne County","New York"
-"36117",2022,"B17001F_FemPov","Some Other Race alone",19.1904047976012,22.7886056971514,118.75,"Wayne","Wayne County","New York"
-"36117",2022,"B17001G_FemPov","Two or More Races",13.6637332098194,5.74339972209356,42.0338983050847,"Wayne","Wayne County","New York"
-"36117",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",10.8752659442878,1.30621938548315,12.0109190172884,"Wayne","Wayne County","New York"
-"36117",2022,"B17001I_FemPov","Hispanic or Latino",11.8427769270036,8.52475752935171,71.9827586206897,"Wayne","Wayne County","New York"
-"36117",2023,"B17001B_FemPov","Black or African American alone",38.107752956636,20.1051248357424,52.7586206896552,"Wayne","Wayne County","New York"
-"36117",2023,"B17001C_FemPov","American Indian and Alaska Native alone",41.5094339622642,71.6981132075472,172.727272727273,"Wayne","Wayne County","New York"
-"36117",2023,"B17001D_FemPov","Asian alone",7.97720797720798,7.12250712250712,89.2857142857143,"Wayne","Wayne County","New York"
-"36117",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,83.7837837837838,NA,"Wayne","Wayne County","New York"
-"36117",2023,"B17001F_FemPov","Some Other Race alone",23.9506172839506,20.2469135802469,84.5360824742268,"Wayne","Wayne County","New York"
-"36117",2023,"B17001G_FemPov","Two or More Races",13.9437211255775,7.05585888282234,50.6024096385542,"Wayne","Wayne County","New York"
-"36117",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",11.0712058860207,1.65606684125203,14.9583239468349,"Wayne","Wayne County","New York"
-"36117",2023,"B17001I_FemPov","Hispanic or Latino",13.256351039261,8.59122401847575,64.808362369338,"Wayne","Wayne County","New York"
-"36117",2024,"B17001B_FemPov","Black or African American alone",42.6705370101597,25.9796806966618,60.8843537414966,"Wayne","Wayne County","New York"
-"36117",2024,"B17001C_FemPov","American Indian and Alaska Native alone",40.5660377358491,79.2452830188679,195.348837209302,"Wayne","Wayne County","New York"
-"36117",2024,"B17001D_FemPov","Asian alone",8.79120879120879,8.79120879120879,100,"Wayne","Wayne County","New York"
-"36117",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,72.7272727272727,NA,"Wayne","Wayne County","New York"
-"36117",2024,"B17001F_FemPov","Some Other Race alone",24.905183312263,18.204804045512,73.0964467005076,"Wayne","Wayne County","New York"
-"36117",2024,"B17001G_FemPov","Two or More Races",11.7243743572163,5.00514226945492,42.6900584795322,"Wayne","Wayne County","New York"
-"36117",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",10.8680810175235,1.46155207727514,13.4481154025128,"Wayne","Wayne County","New York"
-"36117",2024,"B17001I_FemPov","Hispanic or Latino",16.4218958611482,7.52113929684023,45.79945799458,"Wayne","Wayne County","New York"
-"36123",2017,"B17001B_FemPov","Black or African American alone",26.3157894736842,25.5639097744361,97.1428571428571,"Yates","Yates County","New York"
-"36123",2017,"B17001C_FemPov","American Indian and Alaska Native alone",0,95.4545454545455,NA,"Yates","Yates County","New York"
-"36123",2017,"B17001D_FemPov","Asian alone",0,53.8461538461538,NA,"Yates","Yates County","New York"
-"36123",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York"
-"36123",2017,"B17001F_FemPov","Some Other Race alone",14.8936170212766,23.4042553191489,157.142857142857,"Yates","Yates County","New York"
-"36123",2017,"B17001G_FemPov","Two or More Races",16.3841807909604,14.6892655367232,89.6551724137931,"Yates","Yates County","New York"
-"36123",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",14.0138853175624,2.31421959372589,16.5137614678899,"Yates","Yates County","New York"
-"36123",2017,"B17001I_FemPov","Hispanic or Latino",25.1184834123223,18.0094786729858,71.6981132075472,"Yates","Yates County","New York"
-"36123",2018,"B17001B_FemPov","Black or African American alone",45.4545454545455,30.9090909090909,68,"Yates","Yates County","New York"
-"36123",2018,"B17001C_FemPov","American Indian and Alaska Native alone",0,68.75,NA,"Yates","Yates County","New York"
-"36123",2018,"B17001D_FemPov","Asian alone",0,29.3333333333333,NA,"Yates","Yates County","New York"
-"36123",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York"
-"36123",2018,"B17001F_FemPov","Some Other Race alone",17.1171171171171,26.1261261261261,152.631578947368,"Yates","Yates County","New York"
-"36123",2018,"B17001G_FemPov","Two or More Races",10.0502512562814,11.0552763819095,110,"Yates","Yates County","New York"
-"36123",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",11.2518182596047,2.48994609395054,22.1292775665399,"Yates","Yates County","New York"
-"36123",2018,"B17001I_FemPov","Hispanic or Latino",31.7596566523605,25.7510729613734,81.0810810810811,"Yates","Yates County","New York"
-"36123",2019,"B17001B_FemPov","Black or African American alone",39.568345323741,26.6187050359712,67.2727272727273,"Yates","Yates County","New York"
-"36123",2019,"B17001C_FemPov","American Indian and Alaska Native alone",13.3333333333333,23.3333333333333,175,"Yates","Yates County","New York"
-"36123",2019,"B17001D_FemPov","Asian alone",0,20.7547169811321,NA,"Yates","Yates County","New York"
-"36123",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York"
-"36123",2019,"B17001F_FemPov","Some Other Race alone",20,30,150,"Yates","Yates County","New York"
-"36123",2019,"B17001G_FemPov","Two or More Races",25.2066115702479,21.4876033057851,85.2459016393443,"Yates","Yates County","New York"
-"36123",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",11.6156828953037,2.22317966393796,19.1394658753709,"Yates","Yates County","New York"
-"36123",2019,"B17001I_FemPov","Hispanic or Latino",21.0743801652893,16.5289256198347,78.4313725490196,"Yates","Yates County","New York"
-"36123",2020,"B17001B_FemPov","Black or African American alone",50.9259259259259,32.4074074074074,63.6363636363636,"Yates","Yates County","New York"
-"36123",2020,"B17001C_FemPov","American Indian and Alaska Native alone",15.3846153846154,23.0769230769231,150,"Yates","Yates County","New York"
-"36123",2020,"B17001D_FemPov","Asian alone",0,20.7207207207207,NA,"Yates","Yates County","New York"
-"36123",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York"
-"36123",2020,"B17001F_FemPov","Some Other Race alone",53.0201342281879,37.5838926174497,70.8860759493671,"Yates","Yates County","New York"
-"36123",2020,"B17001G_FemPov","Two or More Races",28.4644194756554,26.9662921348315,94.7368421052632,"Yates","Yates County","New York"
-"36123",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",12.9200312581401,2.78718416254233,21.5725806451613,"Yates","Yates County","New York"
-"36123",2020,"B17001I_FemPov","Hispanic or Latino",46.7479674796748,26.4227642276423,56.5217391304348,"Yates","Yates County","New York"
-"36123",2021,"B17001B_FemPov","Black or African American alone",49.1228070175439,31.5789473684211,64.2857142857143,"Yates","Yates County","New York"
-"36123",2021,"B17001C_FemPov","American Indian and Alaska Native alone",9.52380952380952,28.5714285714286,300,"Yates","Yates County","New York"
-"36123",2021,"B17001D_FemPov","Asian alone",0,15.8940397350993,NA,"Yates","Yates County","New York"
-"36123",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York"
-"36123",2021,"B17001F_FemPov","Some Other Race alone",85.2631578947368,53.6842105263158,62.962962962963,"Yates","Yates County","New York"
-"36123",2021,"B17001G_FemPov","Two or More Races",45.3846153846154,41.5384615384615,91.5254237288136,"Yates","Yates County","New York"
-"36123",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",12.7691493116837,2.62089657606777,20.5252246026261,"Yates","Yates County","New York"
-"36123",2021,"B17001I_FemPov","Hispanic or Latino",58.1081081081081,32.8828828828829,56.5891472868217,"Yates","Yates County","New York"
-"36123",2022,"B17001B_FemPov","Black or African American alone",88.3333333333333,80,90.5660377358491,"Yates","Yates County","New York"
-"36123",2022,"B17001C_FemPov","American Indian and Alaska Native alone",60,100,166.666666666667,"Yates","Yates County","New York"
-"36123",2022,"B17001D_FemPov","Asian alone",6.10687022900763,9.9236641221374,162.5,"Yates","Yates County","New York"
-"36123",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York"
-"36123",2022,"B17001F_FemPov","Some Other Race alone",60.2272727272727,44.3181818181818,73.5849056603774,"Yates","Yates County","New York"
-"36123",2022,"B17001G_FemPov","Two or More Races",32.3741007194245,21.9424460431655,67.7777777777778,"Yates","Yates County","New York"
-"36123",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",13.7888088248376,2.446401565697,17.741935483871,"Yates","Yates County","New York"
-"36123",2022,"B17001I_FemPov","Hispanic or Latino",28.9256198347107,20.2479338842975,70,"Yates","Yates County","New York"
-"36123",2023,"B17001B_FemPov","Black or African American alone",60.8695652173913,73.9130434782609,121.428571428571,"Yates","Yates County","New York"
-"36123",2023,"B17001C_FemPov","American Indian and Alaska Native alone",50,100,200,"Yates","Yates County","New York"
-"36123",2023,"B17001D_FemPov","Asian alone",24.1935483870968,38.7096774193548,160,"Yates","Yates County","New York"
-"36123",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York"
-"36123",2023,"B17001F_FemPov","Some Other Race alone",62.8865979381443,51.5463917525773,81.9672131147541,"Yates","Yates County","New York"
-"36123",2023,"B17001G_FemPov","Two or More Races",43.421052631579,27.3684210526316,63.030303030303,"Yates","Yates County","New York"
-"36123",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",13.2679679769722,2.40172708464514,18.1016949152542,"Yates","Yates County","New York"
-"36123",2023,"B17001I_FemPov","Hispanic or Latino",31.6326530612245,20.4081632653061,64.5161290322581,"Yates","Yates County","New York"
-"36123",2024,"B17001B_FemPov","Black or African American alone",39.4366197183099,59.1549295774648,150,"Yates","Yates County","New York"
-"36123",2024,"B17001C_FemPov","American Indian and Alaska Native alone",0,357.142857142857,NA,"Yates","Yates County","New York"
-"36123",2024,"B17001D_FemPov","Asian alone",21.5189873417722,24.0506329113924,111.764705882353,"Yates","Yates County","New York"
-"36123",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York"
-"36123",2024,"B17001F_FemPov","Some Other Race alone",61.9318181818182,37.5,60.5504587155963,"Yates","Yates County","New York"
-"36123",2024,"B17001G_FemPov","Two or More Races",15.3605015673981,11.9122257053292,77.5510204081633,"Yates","Yates County","New York"
-"36123",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",12.4061527192822,3.06720380882622,24.7232472324723,"Yates","Yates County","New York"
-"36123",2024,"B17001I_FemPov","Hispanic or Latino",37.5,20,53.3333333333333,"Yates","Yates County","New York"
+"GEOID","year","variable","Variable_Description","estimate","moe","moe_pct_of_estimate","County","Geography","State","count"
+"36037",2017,"B17001B_FemPov","Black or African American alone",61.2111292962357,26.6775777414075,43.5828877005348,"Genesee","Genesee County","New York",374
+"36037",2017,"B17001C_FemPov","American Indian and Alaska Native alone",24.4979919678715,13.2530120481928,54.0983606557377,"Genesee","Genesee County","New York",61
+"36037",2017,"B17001D_FemPov","Asian alone",11.7370892018779,13.6150234741784,116,"Genesee","Genesee County","New York",25
+"36037",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York",0
+"36037",2017,"B17001F_FemPov","Some Other Race alone",21.4492753623188,16.8115942028986,78.3783783783784,"Genesee","Genesee County","New York",74
+"36037",2017,"B17001G_FemPov","Two or More Races",33.4405144694534,15.5948553054662,46.6346153846154,"Genesee","Genesee County","New York",208
+"36037",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",11.7227663326954,1.49724192277384,12.7720870678617,"Genesee","Genesee County","New York",3124
+"36037",2017,"B17001I_FemPov","Hispanic or Latino",27.7777777777778,13.4146341463415,48.2926829268293,"Genesee","Genesee County","New York",205
+"36037",2018,"B17001B_FemPov","Black or African American alone",38.9873417721519,22.7848101265823,58.4415584415584,"Genesee","Genesee County","New York",154
+"36037",2018,"B17001C_FemPov","American Indian and Alaska Native alone",12.8712871287129,8.91089108910891,69.2307692307692,"Genesee","Genesee County","New York",26
+"36037",2018,"B17001D_FemPov","Asian alone",1.68067226890756,2.52100840336134,150,"Genesee","Genesee County","New York",4
+"36037",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York",0
+"36037",2018,"B17001F_FemPov","Some Other Race alone",27.3399014778325,17.7339901477833,64.8648648648649,"Genesee","Genesee County","New York",111
+"36037",2018,"B17001G_FemPov","Two or More Races",44.5876288659794,21.7783505154639,48.8439306358381,"Genesee","Genesee County","New York",346
+"36037",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",10.9483802603694,1.44187102633969,13.1697200138265,"Genesee","Genesee County","New York",2893
+"36037",2018,"B17001I_FemPov","Hispanic or Latino",25.0990752972259,9.90752972258917,39.4736842105263,"Genesee","Genesee County","New York",190
+"36037",2019,"B17001B_FemPov","Black or African American alone",35.3293413173653,21.8562874251497,61.864406779661,"Genesee","Genesee County","New York",118
+"36037",2019,"B17001C_FemPov","American Indian and Alaska Native alone",15.8227848101266,15.1898734177215,96,"Genesee","Genesee County","New York",25
+"36037",2019,"B17001D_FemPov","Asian alone",2.73972602739726,2.73972602739726,100,"Genesee","Genesee County","New York",6
+"36037",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York",0
+"36037",2019,"B17001F_FemPov","Some Other Race alone",33.0143540669856,25.3588516746411,76.8115942028985,"Genesee","Genesee County","New York",138
+"36037",2019,"B17001G_FemPov","Two or More Races",39.5180722891566,19.5180722891566,49.390243902439,"Genesee","Genesee County","New York",328
+"36037",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",10.5970377156818,1.24446480378684,11.7435158501441,"Genesee","Genesee County","New York",2776
+"36037",2019,"B17001I_FemPov","Hispanic or Latino",26.1992619926199,10.7011070110701,40.8450704225352,"Genesee","Genesee County","New York",213
+"36037",2020,"B17001B_FemPov","Black or African American alone",33.3333333333333,21.7741935483871,65.3225806451613,"Genesee","Genesee County","New York",124
+"36037",2020,"B17001C_FemPov","American Indian and Alaska Native alone",14.1304347826087,12.5,88.4615384615385,"Genesee","Genesee County","New York",26
+"36037",2020,"B17001D_FemPov","Asian alone",16.1849710982659,8.67052023121387,53.5714285714286,"Genesee","Genesee County","New York",28
+"36037",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York",0
+"36037",2020,"B17001F_FemPov","Some Other Race alone",29.3398533007335,23.4718826405868,80,"Genesee","Genesee County","New York",120
+"36037",2020,"B17001G_FemPov","Two or More Races",31.062951496388,16.71826625387,53.8205980066445,"Genesee","Genesee County","New York",301
+"36037",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",10.5184274240037,1.39118404365705,13.2261600292291,"Genesee","Genesee County","New York",2737
+"36037",2020,"B17001I_FemPov","Hispanic or Latino",20.6611570247934,9.44510035419126,45.7142857142857,"Genesee","Genesee County","New York",175
+"36037",2021,"B17001B_FemPov","Black or African American alone",30.5031446540881,27.0440251572327,88.659793814433,"Genesee","Genesee County","New York",97
+"36037",2021,"B17001C_FemPov","American Indian and Alaska Native alone",25.6637168141593,19.4690265486726,75.8620689655172,"Genesee","Genesee County","New York",29
+"36037",2021,"B17001D_FemPov","Asian alone",21.0970464135021,10.5485232067511,50,"Genesee","Genesee County","New York",50
+"36037",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York",0
+"36037",2021,"B17001F_FemPov","Some Other Race alone",44.1379310344828,30.3448275862069,68.75,"Genesee","Genesee County","New York",128
+"36037",2021,"B17001G_FemPov","Two or More Races",21.1009174311927,9.09090909090909,43.0830039525692,"Genesee","Genesee County","New York",253
+"36037",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",10.4153916768666,1.45731334149327,13.9919206757253,"Genesee","Genesee County","New York",2723
+"36037",2021,"B17001I_FemPov","Hispanic or Latino",25.7324840764331,8.78980891719745,34.1584158415842,"Genesee","Genesee County","New York",202
+"36037",2022,"B17001B_FemPov","Black or African American alone",26.5671641791045,20,75.2808988764045,"Genesee","Genesee County","New York",89
+"36037",2022,"B17001C_FemPov","American Indian and Alaska Native alone",26.0869565217391,14.7826086956522,56.6666666666667,"Genesee","Genesee County","New York",30
+"36037",2022,"B17001D_FemPov","Asian alone",18.8976377952756,8.26771653543307,43.75,"Genesee","Genesee County","New York",48
+"36037",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York",0
+"36037",2022,"B17001F_FemPov","Some Other Race alone",34.7953216374269,23.0994152046784,66.3865546218487,"Genesee","Genesee County","New York",119
+"36037",2022,"B17001G_FemPov","Two or More Races",19.8513011152416,10.5576208178439,53.1835205992509,"Genesee","Genesee County","New York",267
+"36037",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",11.1277790599277,1.70397722901762,15.3128240580712,"Genesee","Genesee County","New York",2893
+"36037",2022,"B17001I_FemPov","Hispanic or Latino",18.9249720044793,10.7502799552072,56.8047337278106,"Genesee","Genesee County","New York",169
+"36037",2023,"B17001B_FemPov","Black or African American alone",25,14.9484536082474,59.7938144329897,"Genesee","Genesee County","New York",97
+"36037",2023,"B17001C_FemPov","American Indian and Alaska Native alone",34.7826086956522,18.2608695652174,52.5,"Genesee","Genesee County","New York",40
+"36037",2023,"B17001D_FemPov","Asian alone",30.2158273381295,12.2302158273381,40.4761904761905,"Genesee","Genesee County","New York",42
+"36037",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York",0
+"36037",2023,"B17001F_FemPov","Some Other Race alone",36.0606060606061,27.8787878787879,77.3109243697479,"Genesee","Genesee County","New York",119
+"36037",2023,"B17001G_FemPov","Two or More Races",12.453300124533,7.22291407222914,58,"Genesee","Genesee County","New York",200
+"36037",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",10.7675447179929,1.62824376687933,15.1217739003999,"Genesee","Genesee County","New York",2751
+"36037",2023,"B17001I_FemPov","Hispanic or Latino",10.3690685413005,6.41476274165202,61.864406779661,"Genesee","Genesee County","New York",118
+"36037",2024,"B17001B_FemPov","Black or African American alone",18.1818181818182,12.9593810444874,71.2765957446808,"Genesee","Genesee County","New York",94
+"36037",2024,"B17001C_FemPov","American Indian and Alaska Native alone",36.5853658536585,21.9512195121951,60,"Genesee","Genesee County","New York",30
+"36037",2024,"B17001D_FemPov","Asian alone",33.0985915492958,14.0845070422535,42.5531914893617,"Genesee","Genesee County","New York",47
+"36037",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Genesee","Genesee County","New York",0
+"36037",2024,"B17001F_FemPov","Some Other Race alone",10.4895104895105,8.15850815850816,77.7777777777778,"Genesee","Genesee County","New York",45
+"36037",2024,"B17001G_FemPov","Two or More Races",16.3068181818182,9.14772727272727,56.0975609756098,"Genesee","Genesee County","New York",287
+"36037",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",11.1058414354596,1.7508497351988,15.7651245551601,"Genesee","Genesee County","New York",2810
+"36037",2024,"B17001I_FemPov","Hispanic or Latino",13.3676092544987,8.91173950299914,66.6666666666667,"Genesee","Genesee County","New York",156
+"36051",2017,"B17001B_FemPov","Black or African American alone",62.5827814569536,29.1390728476821,46.5608465608466,"Livingston","Livingston County","New York",189
+"36051",2017,"B17001C_FemPov","American Indian and Alaska Native alone",0,50,NA,"Livingston","Livingston County","New York",0
+"36051",2017,"B17001D_FemPov","Asian alone",31.1440677966102,26.4830508474576,85.0340136054422,"Livingston","Livingston County","New York",147
+"36051",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,180,NA,"Livingston","Livingston County","New York",0
+"36051",2017,"B17001F_FemPov","Some Other Race alone",15.5555555555556,18.3333333333333,117.857142857143,"Livingston","Livingston County","New York",28
+"36051",2017,"B17001G_FemPov","Two or More Races",51.1387163561077,26.5010351966874,51.8218623481781,"Livingston","Livingston County","New York",247
+"36051",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",13.5956610366919,1.71811298776937,12.6372155287818,"Livingston","Livingston County","New York",3735
+"36051",2017,"B17001I_FemPov","Hispanic or Latino",36.737400530504,16.1803713527851,44.043321299639,"Livingston","Livingston County","New York",277
+"36051",2018,"B17001B_FemPov","Black or African American alone",34.3195266272189,15.0887573964497,43.9655172413793,"Livingston","Livingston County","New York",116
+"36051",2018,"B17001C_FemPov","American Indian and Alaska Native alone",4.47761194029851,7.46268656716418,166.666666666667,"Livingston","Livingston County","New York",3
+"36051",2018,"B17001D_FemPov","Asian alone",29.5454545454545,25.4545454545455,86.1538461538461,"Livingston","Livingston County","New York",130
+"36051",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,127.272727272727,NA,"Livingston","Livingston County","New York",0
+"36051",2018,"B17001F_FemPov","Some Other Race alone",17.1945701357466,19.4570135746606,113.157894736842,"Livingston","Livingston County","New York",38
+"36051",2018,"B17001G_FemPov","Two or More Races",42.7966101694915,25.8474576271186,60.3960396039604,"Livingston","Livingston County","New York",202
+"36051",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",13.0823650159452,1.67149298046259,12.7766881479406,"Livingston","Livingston County","New York",3569
+"36051",2018,"B17001I_FemPov","Hispanic or Latino",36.9987063389392,12.8072445019405,34.6153846153846,"Livingston","Livingston County","New York",286
+"36051",2019,"B17001B_FemPov","Black or African American alone",32.972972972973,19.4594594594595,59.0163934426229,"Livingston","Livingston County","New York",122
+"36051",2019,"B17001C_FemPov","American Indian and Alaska Native alone",32.0754716981132,33.9622641509434,105.882352941176,"Livingston","Livingston County","New York",17
+"36051",2019,"B17001D_FemPov","Asian alone",24.6085011185682,22.3713646532438,90.9090909090909,"Livingston","Livingston County","New York",110
+"36051",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,93.3333333333333,NA,"Livingston","Livingston County","New York",0
+"36051",2019,"B17001F_FemPov","Some Other Race alone",30.0275482093664,24.7933884297521,82.5688073394495,"Livingston","Livingston County","New York",109
+"36051",2019,"B17001G_FemPov","Two or More Races",39.7291196388262,22.5733634311512,56.8181818181818,"Livingston","Livingston County","New York",176
+"36051",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",12.5683463868775,1.62553568789715,12.933568489124,"Livingston","Livingston County","New York",3402
+"36051",2019,"B17001I_FemPov","Hispanic or Latino",32.5161290322581,14.7096774193548,45.2380952380952,"Livingston","Livingston County","New York",252
+"36051",2020,"B17001B_FemPov","Black or African American alone",39.2953929539295,27.10027100271,68.9655172413793,"Livingston","Livingston County","New York",145
+"36051",2020,"B17001C_FemPov","American Indian and Alaska Native alone",52.5,47.5,90.4761904761905,"Livingston","Livingston County","New York",21
+"36051",2020,"B17001D_FemPov","Asian alone",32.463768115942,32.463768115942,100,"Livingston","Livingston County","New York",112
+"36051",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,54.7169811320755,NA,"Livingston","Livingston County","New York",0
+"36051",2020,"B17001F_FemPov","Some Other Race alone",28.0112044817927,28.0112044817927,100,"Livingston","Livingston County","New York",100
+"36051",2020,"B17001G_FemPov","Two or More Races",19.53125,12.65625,64.8,"Livingston","Livingston County","New York",125
+"36051",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",12.8579428784768,2.1317901810715,16.5795586527294,"Livingston","Livingston County","New York",3444
+"36051",2020,"B17001I_FemPov","Hispanic or Latino",34.3409915356711,14.993954050786,43.6619718309859,"Livingston","Livingston County","New York",284
+"36051",2021,"B17001B_FemPov","Black or African American alone",20.5645161290323,12.9032258064516,62.7450980392157,"Livingston","Livingston County","New York",51
+"36051",2021,"B17001C_FemPov","American Indian and Alaska Native alone",100,122.222222222222,122.222222222222,"Livingston","Livingston County","New York",9
+"36051",2021,"B17001D_FemPov","Asian alone",7.83582089552239,13.0597014925373,166.666666666667,"Livingston","Livingston County","New York",21
+"36051",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Livingston","Livingston County","New York",0
+"36051",2021,"B17001F_FemPov","Some Other Race alone",29.9168975069252,27.1468144044321,90.7407407407408,"Livingston","Livingston County","New York",108
+"36051",2021,"B17001G_FemPov","Two or More Races",8.26727066817667,4.64326160815402,56.1643835616438,"Livingston","Livingston County","New York",73
+"36051",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",12.7890532431296,1.62825364063754,12.7316198445906,"Livingston","Livingston County","New York",3346
+"36051",2021,"B17001I_FemPov","Hispanic or Latino",33.1454340473506,13.1905298759865,39.7959183673469,"Livingston","Livingston County","New York",294
+"36051",2022,"B17001B_FemPov","Black or African American alone",13.4615384615385,12.1794871794872,90.4761904761905,"Livingston","Livingston County","New York",21
+"36051",2022,"B17001C_FemPov","American Indian and Alaska Native alone",100,183.333333333333,183.333333333333,"Livingston","Livingston County","New York",6
+"36051",2022,"B17001D_FemPov","Asian alone",11.5131578947368,14.8026315789474,128.571428571429,"Livingston","Livingston County","New York",35
+"36051",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Livingston","Livingston County","New York",0
+"36051",2022,"B17001F_FemPov","Some Other Race alone",15.4929577464789,23.3802816901408,150.909090909091,"Livingston","Livingston County","New York",55
+"36051",2022,"B17001G_FemPov","Two or More Races",7.34513274336283,4.24778761061947,57.8313253012048,"Livingston","Livingston County","New York",83
+"36051",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",12.840035199143,1.51126755174657,11.7699642431466,"Livingston","Livingston County","New York",3356
+"36051",2022,"B17001I_FemPov","Hispanic or Latino",23.3507853403141,12.7748691099476,54.7085201793722,"Livingston","Livingston County","New York",223
+"36051",2023,"B17001B_FemPov","Black or African American alone",20,23.2,116,"Livingston","Livingston County","New York",25
+"36051",2023,"B17001C_FemPov","American Indian and Alaska Native alone",14.7058823529412,26.4705882352941,180,"Livingston","Livingston County","New York",5
+"36051",2023,"B17001D_FemPov","Asian alone",7.39299610894942,10.5058365758755,142.105263157895,"Livingston","Livingston County","New York",19
+"36051",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Livingston","Livingston County","New York",0
+"36051",2023,"B17001F_FemPov","Some Other Race alone",23.0113636363636,26.4204545454545,114.814814814815,"Livingston","Livingston County","New York",81
+"36051",2023,"B17001G_FemPov","Two or More Races",13.3720930232558,7.04134366925065,52.6570048309179,"Livingston","Livingston County","New York",207
+"36051",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",12.541863956577,1.79774415829388,14.3339472068754,"Livingston","Livingston County","New York",3258
+"36051",2023,"B17001I_FemPov","Hispanic or Latino",21.6240875912409,9.85401459854015,45.5696202531646,"Livingston","Livingston County","New York",237
+"36051",2024,"B17001B_FemPov","Black or African American alone",30.2752293577982,47.7064220183486,157.575757575758,"Livingston","Livingston County","New York",33
+"36051",2024,"B17001C_FemPov","American Indian and Alaska Native alone",0,200,NA,"Livingston","Livingston County","New York",0
+"36051",2024,"B17001D_FemPov","Asian alone",6.86274509803922,10.2941176470588,150,"Livingston","Livingston County","New York",14
+"36051",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,800,NA,"Livingston","Livingston County","New York",0
+"36051",2024,"B17001F_FemPov","Some Other Race alone",2.22929936305732,3.5031847133758,157.142857142857,"Livingston","Livingston County","New York",7
+"36051",2024,"B17001G_FemPov","Two or More Races",12.0805369127517,5.8165548098434,48.1481481481481,"Livingston","Livingston County","New York",216
+"36051",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",12.3035230352304,1.78861788617886,14.5374449339207,"Livingston","Livingston County","New York",3178
+"36051",2024,"B17001I_FemPov","Hispanic or Latino",16.9681309216193,8.61326442721792,50.761421319797,"Livingston","Livingston County","New York",197
+"36055",2017,"B17001B_FemPov","Black or African American alone",36.7240976326422,1.81809075428228,4.95067509205801,"Monroe","Monroe County","New York",21997
+"36055",2017,"B17001C_FemPov","American Indian and Alaska Native alone",40.7878017789072,12.0711562897077,29.595015576324,"Monroe","Monroe County","New York",642
+"36055",2017,"B17001D_FemPov","Asian alone",18.1172291296625,3.31557134399053,18.3006535947712,"Monroe","Monroe County","New York",2448
+"36055",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",10.9090909090909,16.3636363636364,150,"Monroe","Monroe County","New York",6
+"36055",2017,"B17001F_FemPov","Some Other Race alone",37.0661221925554,5.76409612062196,15.5508474576271,"Monroe","Monroe County","New York",2360
+"36055",2017,"B17001G_FemPov","Two or More Races",25.6428830134009,4.42774357116987,17.2669491525424,"Monroe","Monroe County","New York",2832
+"36055",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",8.76409765546673,0.441893635293984,5.04208935894669,"Monroe","Monroe County","New York",23165
+"36055",2017,"B17001I_FemPov","Hispanic or Latino",35.1876847923898,2.08895744954364,5.93661521600146,"Monroe","Monroe County","New York",10949
+"36055",2018,"B17001B_FemPov","Black or African American alone",36.3006790829019,2.0540576884287,5.65845526949435,"Monroe","Monroe County","New York",21596
+"36055",2018,"B17001C_FemPov","American Indian and Alaska Native alone",39.3037619314992,11.0050533408198,28,"Monroe","Monroe County","New York",700
+"36055",2018,"B17001D_FemPov","Asian alone",16.5429234338747,2.53673627223511,15.3342683496961,"Monroe","Monroe County","New York",2139
+"36055",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",12.1951219512195,24.390243902439,200,"Monroe","Monroe County","New York",5
+"36055",2018,"B17001F_FemPov","Some Other Race alone",30.8156578720469,7.60475944128298,24.6782316731953,"Monroe","Monroe County","New York",1787
+"36055",2018,"B17001G_FemPov","Two or More Races",26.9279507603186,4.45329471397538,16.5378151260504,"Monroe","Monroe County","New York",2975
+"36055",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",8.78821376839216,0.465426545704048,5.29603122966819,"Monroe","Monroe County","New York",23055
+"36055",2018,"B17001I_FemPov","Hispanic or Latino",34.6974190698555,2.76077491007762,7.95671546785487,"Monroe","Monroe County","New York",10997
+"36055",2019,"B17001B_FemPov","Black or African American alone",33.4723109512121,2.0997948959349,6.27322953289804,"Monroe","Monroe County","New York",19910
+"36055",2019,"B17001C_FemPov","American Indian and Alaska Native alone",37.7049180327869,12.6366120218579,33.5144927536232,"Monroe","Monroe County","New York",552
+"36055",2019,"B17001D_FemPov","Asian alone",14.0019937121386,2.69917951077371,19.2771084337349,"Monroe","Monroe County","New York",1826
+"36055",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",18.5483870967742,23.3870967741935,126.086956521739,"Monroe","Monroe County","New York",23
+"36055",2019,"B17001F_FemPov","Some Other Race alone",29.5076826591408,6.25587958607714,21.2008501594049,"Monroe","Monroe County","New York",1882
+"36055",2019,"B17001G_FemPov","Two or More Races",27.0821791320406,4.35826408125577,16.0927378111149,"Monroe","Monroe County","New York",2933
+"36055",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",8.93802327095573,0.42819171345625,4.79067575095342,"Monroe","Monroe County","New York",23337
+"36055",2019,"B17001I_FemPov","Hispanic or Latino",33.222170758067,2.64319901188822,7.95612975183567,"Monroe","Monroe County","New York",10759
+"36055",2020,"B17001B_FemPov","Black or African American alone",32.1215456312015,1.9036645973414,5.92644145832218,"Monroe","Monroe County","New York",18679
+"36055",2020,"B17001C_FemPov","American Indian and Alaska Native alone",32.1076233183857,14.5291479820628,45.2513966480447,"Monroe","Monroe County","New York",358
+"36055",2020,"B17001D_FemPov","Asian alone",15.8412069491009,3.29929899420908,20.8273208273208,"Monroe","Monroe County","New York",2079
+"36055",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",28.996282527881,23.7918215613383,82.051282051282,"Monroe","Monroe County","New York",78
+"36055",2020,"B17001F_FemPov","Some Other Race alone",30.3471590170329,5.16187751917826,17.0094258783205,"Monroe","Monroe County","New York",2334
+"36055",2020,"B17001G_FemPov","Two or More Races",26.4941387483185,4.08686182819807,15.4255319148936,"Monroe","Monroe County","New York",4136
+"36055",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",8.71578231975503,0.624790031162272,7.16849054095964,"Monroe","Monroe County","New York",22571
+"36055",2020,"B17001I_FemPov","Hispanic or Latino",33.7776719828612,2.82670792668412,8.36856941508104,"Monroe","Monroe County","New York",11352
+"36055",2021,"B17001B_FemPov","Black or African American alone",32.2429746401645,2.27553118574366,7.05744805229314,"Monroe","Monroe County","New York",18817
+"36055",2021,"B17001C_FemPov","American Indian and Alaska Native alone",42.648709315376,18.5185185185185,43.421052631579,"Monroe","Monroe County","New York",380
+"36055",2021,"B17001D_FemPov","Asian alone",17.7691119122949,4.02472224266058,22.6501035196687,"Monroe","Monroe County","New York",2415
+"36055",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",21.484375,22.265625,103.636363636364,"Monroe","Monroe County","New York",55
+"36055",2021,"B17001F_FemPov","Some Other Race alone",28.9004457652303,4.88219061770325,16.8931325743665,"Monroe","Monroe County","New York",2723
+"36055",2021,"B17001G_FemPov","Two or More Races",22.1462163317657,3.78366823428816,17.0849420849421,"Monroe","Monroe County","New York",4144
+"36055",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",8.44277458414873,0.561093444227006,6.64584182172122,"Monroe","Monroe County","New York",22089
+"36055",2021,"B17001I_FemPov","Hispanic or Latino",32.4044014135088,2.9735398052116,9.17634542069332,"Monroe","Monroe County","New York",11279
+"36055",2022,"B17001B_FemPov","Black or African American alone",29.8983246482101,2.1251676200499,7.1079822868173,"Monroe","Monroe County","New York",17614
+"36055",2022,"B17001C_FemPov","American Indian and Alaska Native alone",46.1180124223603,20.8074534161491,45.1178451178451,"Monroe","Monroe County","New York",297
+"36055",2022,"B17001D_FemPov","Asian alone",18.8615428900403,4.90788716177317,26.0206028233499,"Monroe","Monroe County","New York",2621
+"36055",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",21.6117216117216,22.3443223443223,103.389830508475,"Monroe","Monroe County","New York",59
+"36055",2022,"B17001F_FemPov","Some Other Race alone",28.4787054325598,4.97910553925491,17.4836091164533,"Monroe","Monroe County","New York",3203
+"36055",2022,"B17001G_FemPov","Two or More Races",21.3367258848653,3.3804352764778,15.8432708688245,"Monroe","Monroe County","New York",4696
+"36055",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",8.85382517371282,0.581952489398766,6.57289338766925,"Monroe","Monroe County","New York",22821
+"36055",2022,"B17001I_FemPov","Hispanic or Latino",30.4809843400447,2.61185682326622,8.56880733944954,"Monroe","Monroe County","New York",10900
+"36055",2023,"B17001B_FemPov","Black or African American alone",28.569453087188,2.09154393970822,7.32090997095837,"Monroe","Monroe County","New York",16528
+"36055",2023,"B17001C_FemPov","American Indian and Alaska Native alone",36.0576923076923,18.9903846153846,52.6666666666667,"Monroe","Monroe County","New York",150
+"36055",2023,"B17001D_FemPov","Asian alone",18.6280907838445,5.34406496990791,28.6882055274426,"Monroe","Monroe County","New York",2569
+"36055",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",21.2418300653595,19.281045751634,90.7692307692308,"Monroe","Monroe County","New York",65
+"36055",2023,"B17001F_FemPov","Some Other Race alone",30.5127398553004,4.66341616860648,15.2835051546392,"Monroe","Monroe County","New York",3880
+"36055",2023,"B17001G_FemPov","Two or More Races",20.7247152358382,3.48979435822949,16.838804869052,"Monroe","Monroe County","New York",5422
+"36055",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",8.46667422840894,0.536231827373246,6.33344112348131,"Monroe","Monroe County","New York",21647
+"36055",2023,"B17001I_FemPov","Hispanic or Latino",29.5522224954239,2.77846078190312,9.40186743089581,"Monroe","Monroe County","New York",10817
+"36055",2024,"B17001B_FemPov","Black or African American alone",30.3063204172081,2.67696634213196,8.83302989369824,"Monroe","Monroe County","New York",17027
+"36055",2024,"B17001C_FemPov","American Indian and Alaska Native alone",37.5,18.5185185185185,49.3827160493827,"Monroe","Monroe County","New York",162
+"36055",2024,"B17001D_FemPov","Asian alone",19.8073492686407,4.57367106671424,23.0907780979827,"Monroe","Monroe County","New York",2776
+"36055",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",40.6417112299465,38.5026737967914,94.7368421052632,"Monroe","Monroe County","New York",76
+"36055",2024,"B17001F_FemPov","Some Other Race alone",27.250875626674,4.70434722889911,17.2631048387097,"Monroe","Monroe County","New York",3968
+"36055",2024,"B17001G_FemPov","Two or More Races",20.4722619202287,3.34870728855398,16.3572901792797,"Monroe","Monroe County","New York",6303
+"36055",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",9.02962085308057,0.567140600315956,6.28089052180379,"Monroe","Monroe County","New York",22863
+"36055",2024,"B17001I_FemPov","Hispanic or Latino",28.6534951143563,2.891119939869,10.0899381675098,"Monroe","Monroe County","New York",10674
+"36069",2017,"B17001B_FemPov","Black or African American alone",24.6051537822111,12.3025768911056,50,"Ontario","Ontario County","New York",296
+"36069",2017,"B17001C_FemPov","American Indian and Alaska Native alone",13.1455399061033,17.3708920187793,132.142857142857,"Ontario","Ontario County","New York",28
+"36069",2017,"B17001D_FemPov","Asian alone",24.9318801089918,14.441416893733,57.9234972677596,"Ontario","Ontario County","New York",183
+"36069",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,103.846153846154,NA,"Ontario","Ontario County","New York",0
+"36069",2017,"B17001F_FemPov","Some Other Race alone",37.7125193199382,17.1561051004637,45.4918032786885,"Ontario","Ontario County","New York",244
+"36069",2017,"B17001G_FemPov","Two or More Races",15.983026874116,9.33521923620934,58.4070796460177,"Ontario","Ontario County","New York",113
+"36069",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",9.083183262176,1.02183282410311,11.249721541546,"Ontario","Ontario County","New York",4489
+"36069",2017,"B17001I_FemPov","Hispanic or Latino",28.8309268747089,6.47414997671169,22.4555735056543,"Ontario","Ontario County","New York",619
+"36069",2018,"B17001B_FemPov","Black or African American alone",19.5771339075959,9.78856695379796,50,"Ontario","Ontario County","New York",250
+"36069",2018,"B17001C_FemPov","American Indian and Alaska Native alone",23.5059760956175,21.1155378486056,89.8305084745763,"Ontario","Ontario County","New York",59
+"36069",2018,"B17001D_FemPov","Asian alone",23.0985915492958,13.6619718309859,59.1463414634146,"Ontario","Ontario County","New York",164
+"36069",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,215.384615384615,NA,"Ontario","Ontario County","New York",0
+"36069",2018,"B17001F_FemPov","Some Other Race alone",31.7757009345794,18.8473520249221,59.3137254901961,"Ontario","Ontario County","New York",204
+"36069",2018,"B17001G_FemPov","Two or More Races",20.2860858257477,10.0130039011704,49.3589743589744,"Ontario","Ontario County","New York",156
+"36069",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",9.1928432642487,1.00793393782383,10.9643328929987,"Ontario","Ontario County","New York",4542
+"36069",2018,"B17001I_FemPov","Hispanic or Latino",25.3164556962025,7.23327305605787,28.5714285714286,"Ontario","Ontario County","New York",560
+"36069",2019,"B17001B_FemPov","Black or African American alone",23.3142037302726,11.3342898134864,48.6153846153846,"Ontario","Ontario County","New York",325
+"36069",2019,"B17001C_FemPov","American Indian and Alaska Native alone",23.6514522821577,21.1618257261411,89.4736842105263,"Ontario","Ontario County","New York",57
+"36069",2019,"B17001D_FemPov","Asian alone",8.9041095890411,6.43835616438356,72.3076923076923,"Ontario","Ontario County","New York",65
+"36069",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,215.384615384615,NA,"Ontario","Ontario County","New York",0
+"36069",2019,"B17001F_FemPov","Some Other Race alone",34.7949080622348,18.5289957567185,53.2520325203252,"Ontario","Ontario County","New York",246
+"36069",2019,"B17001G_FemPov","Two or More Races",18.5282522996058,9.59264126149803,51.7730496453901,"Ontario","Ontario County","New York",141
+"36069",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",8.37752499696393,0.967493826660729,11.5486832568253,"Ontario","Ontario County","New York",4139
+"36069",2019,"B17001I_FemPov","Hispanic or Latino",21.7713787085515,6.45724258289703,29.6593186372745,"Ontario","Ontario County","New York",499
+"36069",2020,"B17001B_FemPov","Black or African American alone",16.0202360876897,9.52782462057336,59.4736842105263,"Ontario","Ontario County","New York",190
+"36069",2020,"B17001C_FemPov","American Indian and Alaska Native alone",12.1827411167513,18.7817258883249,154.166666666667,"Ontario","Ontario County","New York",24
+"36069",2020,"B17001D_FemPov","Asian alone",0,3.89784946236559,NA,"Ontario","Ontario County","New York",0
+"36069",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,107.407407407407,NA,"Ontario","Ontario County","New York",0
+"36069",2020,"B17001F_FemPov","Some Other Race alone",29.6703296703297,18.3673469387755,61.9047619047619,"Ontario","Ontario County","New York",189
+"36069",2020,"B17001G_FemPov","Two or More Races",18.2926829268293,9.26829268292683,50.6666666666667,"Ontario","Ontario County","New York",225
+"36069",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",8.35699797160243,1.33468559837728,15.9708737864078,"Ontario","Ontario County","New York",4120
+"36069",2020,"B17001I_FemPov","Hispanic or Latino",20.3217612193057,6.731583403895,33.125,"Ontario","Ontario County","New York",480
+"36069",2021,"B17001B_FemPov","Black or African American alone",12.9597197898424,8.23117338003503,63.5135135135135,"Ontario","Ontario County","New York",148
+"36069",2021,"B17001C_FemPov","American Indian and Alaska Native alone",17.3913043478261,25,143.75,"Ontario","Ontario County","New York",16
+"36069",2021,"B17001D_FemPov","Asian alone",1.82440136830103,2.05245153933865,112.5,"Ontario","Ontario County","New York",16
+"36069",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Ontario","Ontario County","New York",0
+"36069",2021,"B17001F_FemPov","Some Other Race alone",24.4186046511628,18.1686046511628,74.4047619047619,"Ontario","Ontario County","New York",168
+"36069",2021,"B17001G_FemPov","Two or More Races",23.0508474576271,9.83050847457627,42.6470588235294,"Ontario","Ontario County","New York",408
+"36069",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",8.38204278397108,1.15496635532791,13.7790558351306,"Ontario","Ontario County","New York",4173
+"36069",2021,"B17001I_FemPov","Hispanic or Latino",22.0304975922953,7.90529695024077,35.8834244080146,"Ontario","Ontario County","New York",549
+"36069",2022,"B17001B_FemPov","Black or African American alone",17.0923379174853,9.92141453831041,58.0459770114943,"Ontario","Ontario County","New York",174
+"36069",2022,"B17001C_FemPov","American Indian and Alaska Native alone",17.7777777777778,28.8888888888889,162.5,"Ontario","Ontario County","New York",8
+"36069",2022,"B17001D_FemPov","Asian alone",2.92682926829268,3.41463414634146,116.666666666667,"Ontario","Ontario County","New York",24
+"36069",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Ontario","Ontario County","New York",0
+"36069",2022,"B17001F_FemPov","Some Other Race alone",30.3066037735849,19.5754716981132,64.591439688716,"Ontario","Ontario County","New York",257
+"36069",2022,"B17001G_FemPov","Two or More Races",27.4978279756733,12.9018245004344,46.9194312796209,"Ontario","Ontario County","New York",633
+"36069",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",8.61586503366047,1.17608889609863,13.6502706519181,"Ontario","Ontario County","New York",4249
+"36069",2022,"B17001I_FemPov","Hispanic or Latino",22.2135619641465,7.09275136399065,31.9298245614035,"Ontario","Ontario County","New York",570
+"36069",2023,"B17001B_FemPov","Black or African American alone",17.717206132879,10.1362862010221,57.2115384615385,"Ontario","Ontario County","New York",208
+"36069",2023,"B17001C_FemPov","American Indian and Alaska Native alone",45.945945945946,56.7567567567568,123.529411764706,"Ontario","Ontario County","New York",17
+"36069",2023,"B17001D_FemPov","Asian alone",2.11081794195251,2.5065963060686,118.75,"Ontario","Ontario County","New York",16
+"36069",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Ontario","Ontario County","New York",0
+"36069",2023,"B17001F_FemPov","Some Other Race alone",20.360824742268,14.9484536082474,73.4177215189873,"Ontario","Ontario County","New York",158
+"36069",2023,"B17001G_FemPov","Two or More Races",25.3215729511209,13.1936787945608,52.1044992743106,"Ontario","Ontario County","New York",689
+"36069",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",8.86443589953367,1.29059968911069,14.5592985694509,"Ontario","Ontario County","New York",4334
+"36069",2023,"B17001I_FemPov","Hispanic or Latino",21.2691771269177,7.32217573221757,34.4262295081967,"Ontario","Ontario County","New York",610
+"36069",2024,"B17001B_FemPov","Black or African American alone",16.6304347826087,9.78260869565217,58.8235294117647,"Ontario","Ontario County","New York",153
+"36069",2024,"B17001C_FemPov","American Indian and Alaska Native alone",51.5151515151515,66.6666666666667,129.411764705882,"Ontario","Ontario County","New York",17
+"36069",2024,"B17001D_FemPov","Asian alone",2.49687890137328,2.74656679151061,110,"Ontario","Ontario County","New York",20
+"36069",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Ontario","Ontario County","New York",0
+"36069",2024,"B17001F_FemPov","Some Other Race alone",27.1400778210117,15.6614785992218,57.7060931899642,"Ontario","Ontario County","New York",279
+"36069",2024,"B17001G_FemPov","Two or More Races",21.5252152521525,8.82533825338253,41,"Ontario","Ontario County","New York",700
+"36069",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",8.48142497835319,1.06378592339092,12.5425376762275,"Ontario","Ontario County","New York",4114
+"36069",2024,"B17001I_FemPov","Hispanic or Latino",26.4188516428808,6.63790242283438,25.1256281407035,"Ontario","Ontario County","New York",796
+"36073",2017,"B17001B_FemPov","Black or African American alone",31.2348668280872,11.501210653753,36.8217054263566,"Orleans","Orleans County","New York",258
+"36073",2017,"B17001C_FemPov","American Indian and Alaska Native alone",25.4237288135593,30.5084745762712,120,"Orleans","Orleans County","New York",15
+"36073",2017,"B17001D_FemPov","Asian alone",22.8813559322034,14.4067796610169,62.962962962963,"Orleans","Orleans County","New York",27
+"36073",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,600,NA,"Orleans","Orleans County","New York",0
+"36073",2017,"B17001F_FemPov","Some Other Race alone",90.2578796561605,58.7392550143267,65.0793650793651,"Orleans","Orleans County","New York",315
+"36073",2017,"B17001G_FemPov","Two or More Races",23.2294617563739,21.8130311614731,93.9024390243902,"Orleans","Orleans County","New York",82
+"36073",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",15.4901285583104,2.07759412304867,13.4123749536866,"Orleans","Orleans County","New York",2699
+"36073",2017,"B17001I_FemPov","Hispanic or Latino",64.9651972157773,14.7331786542923,22.6785714285714,"Orleans","Orleans County","New York",560
+"36073",2018,"B17001B_FemPov","Black or African American alone",35.5203619909502,20.3619909502262,57.3248407643312,"Orleans","Orleans County","New York",314
+"36073",2018,"B17001C_FemPov","American Indian and Alaska Native alone",18.9189189189189,20.2702702702703,107.142857142857,"Orleans","Orleans County","New York",14
+"36073",2018,"B17001D_FemPov","Asian alone",19.1666666666667,15,78.2608695652174,"Orleans","Orleans County","New York",23
+"36073",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Orleans","Orleans County","New York",0
+"36073",2018,"B17001F_FemPov","Some Other Race alone",89.5674300254453,42.4936386768448,47.4431818181818,"Orleans","Orleans County","New York",352
+"36073",2018,"B17001G_FemPov","Two or More Races",30.0613496932515,19.9386503067485,66.3265306122449,"Orleans","Orleans County","New York",98
+"36073",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",13.1070222429254,1.81087690695237,13.8160817414482,"Orleans","Orleans County","New York",2251
+"36073",2018,"B17001I_FemPov","Hispanic or Latino",64,17.75,27.734375,"Orleans","Orleans County","New York",512
+"36073",2019,"B17001B_FemPov","Black or African American alone",35.3675450762829,17.6144244105409,49.8039215686274,"Orleans","Orleans County","New York",255
+"36073",2019,"B17001C_FemPov","American Indian and Alaska Native alone",20.6896551724138,22.4137931034483,108.333333333333,"Orleans","Orleans County","New York",12
+"36073",2019,"B17001D_FemPov","Asian alone",2.58620689655172,4.31034482758621,166.666666666667,"Orleans","Orleans County","New York",3
+"36073",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Orleans","Orleans County","New York",0
+"36073",2019,"B17001F_FemPov","Some Other Race alone",86.9333333333333,57.0666666666667,65.6441717791411,"Orleans","Orleans County","New York",326
+"36073",2019,"B17001G_FemPov","Two or More Races",23.3463035019455,21.9844357976654,94.1666666666667,"Orleans","Orleans County","New York",120
+"36073",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",13.1973995271868,1.79078014184397,13.5691894312584,"Orleans","Orleans County","New York",2233
+"36073",2019,"B17001I_FemPov","Hispanic or Latino",59.8119858989424,25.0293772032902,41.8467583497053,"Orleans","Orleans County","New York",509
+"36073",2020,"B17001B_FemPov","Black or African American alone",25.6443298969072,20.4896907216495,79.8994974874372,"Orleans","Orleans County","New York",199
+"36073",2020,"B17001C_FemPov","American Indian and Alaska Native alone",10.6382978723404,17.0212765957447,160,"Orleans","Orleans County","New York",5
+"36073",2020,"B17001D_FemPov","Asian alone",3.10077519379845,4.65116279069767,150,"Orleans","Orleans County","New York",4
+"36073",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Orleans","Orleans County","New York",0
+"36073",2020,"B17001F_FemPov","Some Other Race alone",81.8840579710145,54.3478260869565,66.3716814159292,"Orleans","Orleans County","New York",339
+"36073",2020,"B17001G_FemPov","Two or More Races",16.696269982238,10.3019538188277,61.7021276595745,"Orleans","Orleans County","New York",94
+"36073",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",14.0188589162091,2.33349248030556,16.6453810131971,"Orleans","Orleans County","New York",2349
+"36073",2020,"B17001I_FemPov","Hispanic or Latino",45.5456570155902,24.2761692650334,53.3007334963325,"Orleans","Orleans County","New York",409
+"36073",2021,"B17001B_FemPov","Black or African American alone",13.9272271016311,11.2923462986198,81.0810810810811,"Orleans","Orleans County","New York",111
+"36073",2021,"B17001C_FemPov","American Indian and Alaska Native alone",9.43396226415094,15.0943396226415,160,"Orleans","Orleans County","New York",5
+"36073",2021,"B17001D_FemPov","Asian alone",2.17391304347826,3.6231884057971,166.666666666667,"Orleans","Orleans County","New York",3
+"36073",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Orleans","Orleans County","New York",0
+"36073",2021,"B17001F_FemPov","Some Other Race alone",83.1818181818182,50.6818181818182,60.9289617486339,"Orleans","Orleans County","New York",366
+"36073",2021,"B17001G_FemPov","Two or More Races",13.2958801498127,9.73782771535581,73.2394366197183,"Orleans","Orleans County","New York",71
+"36073",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",14.0106241699867,2.19727151998068,15.6828953037484,"Orleans","Orleans County","New York",2321
+"36073",2021,"B17001I_FemPov","Hispanic or Latino",46.1031833150384,24.03951701427,52.1428571428571,"Orleans","Orleans County","New York",420
+"36073",2022,"B17001B_FemPov","Black or African American alone",16.7155425219941,11.4369501466276,68.4210526315789,"Orleans","Orleans County","New York",114
+"36073",2022,"B17001C_FemPov","American Indian and Alaska Native alone",0,38.3561643835616,NA,"Orleans","Orleans County","New York",0
+"36073",2022,"B17001D_FemPov","Asian alone",0.847457627118644,2.54237288135593,300,"Orleans","Orleans County","New York",1
+"36073",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Orleans","Orleans County","New York",0
+"36073",2022,"B17001F_FemPov","Some Other Race alone",26.980198019802,23.7623762376238,88.0733944954128,"Orleans","Orleans County","New York",109
+"36073",2022,"B17001G_FemPov","Two or More Races",16.3328197226502,8.16640986132511,50,"Orleans","Orleans County","New York",106
+"36073",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",13.5495254319786,2.34850328547092,17.3327346205658,"Orleans","Orleans County","New York",2227
+"36073",2022,"B17001I_FemPov","Hispanic or Latino",13.780487804878,11.4634146341463,83.1858407079646,"Orleans","Orleans County","New York",113
+"36073",2023,"B17001B_FemPov","Black or African American alone",20.8728652751423,17.0777988614801,81.8181818181818,"Orleans","Orleans County","New York",110
+"36073",2023,"B17001C_FemPov","American Indian and Alaska Native alone",0,31.8181818181818,NA,"Orleans","Orleans County","New York",0
+"36073",2023,"B17001D_FemPov","Asian alone",0.840336134453782,2.52100840336134,300,"Orleans","Orleans County","New York",1
+"36073",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Orleans","Orleans County","New York",0
+"36073",2023,"B17001F_FemPov","Some Other Race alone",4.38144329896907,4.89690721649485,111.764705882353,"Orleans","Orleans County","New York",17
+"36073",2023,"B17001G_FemPov","Two or More Races",17.6980198019802,10.6435643564356,60.1398601398601,"Orleans","Orleans County","New York",143
+"36073",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",14.8857281789448,2.5164113785558,16.9048591261739,"Orleans","Orleans County","New York",2449
+"36073",2023,"B17001I_FemPov","Hispanic or Latino",7.90067720090294,5.64334085778781,71.4285714285714,"Orleans","Orleans County","New York",70
+"36073",2024,"B17001B_FemPov","Black or African American alone",25.1356238698011,18.8065099457505,74.8201438848921,"Orleans","Orleans County","New York",139
+"36073",2024,"B17001C_FemPov","American Indian and Alaska Native alone",0,32.5842696629214,NA,"Orleans","Orleans County","New York",0
+"36073",2024,"B17001D_FemPov","Asian alone",5.22388059701492,6.71641791044776,128.571428571429,"Orleans","Orleans County","New York",7
+"36073",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Orleans","Orleans County","New York",0
+"36073",2024,"B17001F_FemPov","Some Other Race alone",4.11255411255411,3.8961038961039,94.7368421052632,"Orleans","Orleans County","New York",19
+"36073",2024,"B17001G_FemPov","Two or More Races",29.8543689320388,14.1990291262136,47.5609756097561,"Orleans","Orleans County","New York",246
+"36073",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",14.4702047844536,2.90265051349855,20.0594985125372,"Orleans","Orleans County","New York",2353
+"36073",2024,"B17001I_FemPov","Hispanic or Latino",10.0622406639004,7.88381742738589,78.3505154639175,"Orleans","Orleans County","New York",97
+"36099",2017,"B17001B_FemPov","Black or African American alone",7.69230769230769,11.5384615384615,150,"Seneca","Seneca County","New York",12
+"36099",2017,"B17001C_FemPov","American Indian and Alaska Native alone",11.7647058823529,17.6470588235294,150,"Seneca","Seneca County","New York",6
+"36099",2017,"B17001D_FemPov","Asian alone",47.7941176470588,22.7941176470588,47.6923076923077,"Seneca","Seneca County","New York",65
+"36099",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Seneca","Seneca County","New York",0
+"36099",2017,"B17001F_FemPov","Some Other Race alone",14.7058823529412,26.4705882352941,180,"Seneca","Seneca County","New York",5
+"36099",2017,"B17001G_FemPov","Two or More Races",32.2429906542056,28.0373831775701,86.9565217391304,"Seneca","Seneca County","New York",69
+"36099",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",12.5320702585356,2.11828169199395,16.9028871391076,"Seneca","Seneca County","New York",1905
+"36099",2017,"B17001I_FemPov","Hispanic or Latino",37.1967654986523,20.2156334231806,54.3478260869565,"Seneca","Seneca County","New York",138
+"36099",2018,"B17001B_FemPov","Black or African American alone",8.55614973262032,10.6951871657754,125,"Seneca","Seneca County","New York",16
+"36099",2018,"B17001C_FemPov","American Indian and Alaska Native alone",17.2413793103448,24.1379310344828,140,"Seneca","Seneca County","New York",10
+"36099",2018,"B17001D_FemPov","Asian alone",59.375,39.0625,65.7894736842105,"Seneca","Seneca County","New York",114
+"36099",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Seneca","Seneca County","New York",0
+"36099",2018,"B17001F_FemPov","Some Other Race alone",0,50,NA,"Seneca","Seneca County","New York",0
+"36099",2018,"B17001G_FemPov","Two or More Races",24.8322147651007,15.1006711409396,60.8108108108108,"Seneca","Seneca County","New York",74
+"36099",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",13.1254147312541,1.77836761778368,13.5490394337715,"Seneca","Seneca County","New York",1978
+"36099",2018,"B17001I_FemPov","Hispanic or Latino",23.5294117647059,21.8954248366013,93.0555555555556,"Seneca","Seneca County","New York",72
+"36099",2019,"B17001B_FemPov","Black or African American alone",33.5294117647059,27.6470588235294,82.4561403508772,"Seneca","Seneca County","New York",57
+"36099",2019,"B17001C_FemPov","American Indian and Alaska Native alone",12.8571428571429,18.5714285714286,144.444444444444,"Seneca","Seneca County","New York",9
+"36099",2019,"B17001D_FemPov","Asian alone",55.0925925925926,26.8518518518519,48.7394957983193,"Seneca","Seneca County","New York",119
+"36099",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,500,NA,"Seneca","Seneca County","New York",0
+"36099",2019,"B17001F_FemPov","Some Other Race alone",18.6046511627907,37.2093023255814,200,"Seneca","Seneca County","New York",8
+"36099",2019,"B17001G_FemPov","Two or More Races",20.2749140893471,18.213058419244,89.8305084745763,"Seneca","Seneca County","New York",59
+"36099",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",12.0720841428284,1.72171233335566,14.2619311875694,"Seneca","Seneca County","New York",1802
+"36099",2019,"B17001I_FemPov","Hispanic or Latino",19.941348973607,19.0615835777126,95.5882352941177,"Seneca","Seneca County","New York",68
+"36099",2020,"B17001B_FemPov","Black or African American alone",25.2293577981651,22.0183486238532,87.2727272727273,"Seneca","Seneca County","New York",55
+"36099",2020,"B17001C_FemPov","American Indian and Alaska Native alone",15,23.3333333333333,155.555555555556,"Seneca","Seneca County","New York",9
+"36099",2020,"B17001D_FemPov","Asian alone",40.9836065573771,20.7650273224044,50.6666666666667,"Seneca","Seneca County","New York",75
+"36099",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,1300,NA,"Seneca","Seneca County","New York",0
+"36099",2020,"B17001F_FemPov","Some Other Race alone",25,50,200,"Seneca","Seneca County","New York",8
+"36099",2020,"B17001G_FemPov","Two or More Races",29.4906166219839,16.8900804289544,57.2727272727273,"Seneca","Seneca County","New York",110
+"36099",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",11.5384615384615,1.92307692307692,16.6666666666667,"Seneca","Seneca County","New York",1716
+"36099",2020,"B17001I_FemPov","Hispanic or Latino",55.0387596899225,32.8165374677003,59.6244131455399,"Seneca","Seneca County","New York",213
+"36099",2021,"B17001B_FemPov","Black or African American alone",19.8443579766537,21.011673151751,105.882352941176,"Seneca","Seneca County","New York",51
+"36099",2021,"B17001C_FemPov","American Indian and Alaska Native alone",25.4545454545455,27.2727272727273,107.142857142857,"Seneca","Seneca County","New York",14
+"36099",2021,"B17001D_FemPov","Asian alone",0,21.09375,NA,"Seneca","Seneca County","New York",0
+"36099",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",80,120,150,"Seneca","Seneca County","New York",8
+"36099",2021,"B17001F_FemPov","Some Other Race alone",20.4545454545455,45.4545454545455,222.222222222222,"Seneca","Seneca County","New York",9
+"36099",2021,"B17001G_FemPov","Two or More Races",26.6375545851528,13.7554585152838,51.6393442622951,"Seneca","Seneca County","New York",122
+"36099",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",11.8502688542672,1.89576726871639,15.9976730657359,"Seneca","Seneca County","New York",1719
+"36099",2021,"B17001I_FemPov","Hispanic or Latino",37.1345029239766,15.4970760233918,41.7322834645669,"Seneca","Seneca County","New York",127
+"36099",2022,"B17001B_FemPov","Black or African American alone",50.7246376811594,25.1207729468599,49.5238095238095,"Seneca","Seneca County","New York",105
+"36099",2022,"B17001C_FemPov","American Indian and Alaska Native alone",40.5405405405405,40.5405405405405,100,"Seneca","Seneca County","New York",15
+"36099",2022,"B17001D_FemPov","Asian alone",1.61290322580645,3.2258064516129,200,"Seneca","Seneca County","New York",2
+"36099",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,1400,NA,"Seneca","Seneca County","New York",0
+"36099",2022,"B17001F_FemPov","Some Other Race alone",57.1428571428571,53.5714285714286,93.75,"Seneca","Seneca County","New York",80
+"36099",2022,"B17001G_FemPov","Two or More Races",41.030534351145,19.4656488549618,47.4418604651163,"Seneca","Seneca County","New York",215
+"36099",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",12.6738262425995,2.17540961035385,17.1645844649647,"Seneca","Seneca County","New York",1841
+"36099",2022,"B17001I_FemPov","Hispanic or Latino",41.1140583554377,16.9761273209549,41.2903225806452,"Seneca","Seneca County","New York",155
+"36099",2023,"B17001B_FemPov","Black or African American alone",56.7441860465116,16.7441860465116,29.5081967213115,"Seneca","Seneca County","New York",122
+"36099",2023,"B17001C_FemPov","American Indian and Alaska Native alone",60,100,166.666666666667,"Seneca","Seneca County","New York",3
+"36099",2023,"B17001D_FemPov","Asian alone",1.68067226890756,2.52100840336134,150,"Seneca","Seneca County","New York",2
+"36099",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,933.333333333333,NA,"Seneca","Seneca County","New York",0
+"36099",2023,"B17001F_FemPov","Some Other Race alone",63.8418079096045,49.7175141242938,77.8761061946903,"Seneca","Seneca County","New York",113
+"36099",2023,"B17001G_FemPov","Two or More Races",30.4804804804805,18.1681681681682,59.6059113300493,"Seneca","Seneca County","New York",203
+"36099",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",12.9850226401951,1.89481017067224,14.5922746781116,"Seneca","Seneca County","New York",1864
+"36099",2023,"B17001I_FemPov","Hispanic or Latino",31.7894736842105,13.0526315789474,41.0596026490066,"Seneca","Seneca County","New York",151
+"36099",2024,"B17001B_FemPov","Black or African American alone",50.8196721311475,17.2131147540984,33.8709677419355,"Seneca","Seneca County","New York",124
+"36099",2024,"B17001C_FemPov","American Indian and Alaska Native alone",90.9090909090909,90.9090909090909,100,"Seneca","Seneca County","New York",10
+"36099",2024,"B17001D_FemPov","Asian alone",3.03030303030303,5.05050505050505,166.666666666667,"Seneca","Seneca County","New York",3
+"36099",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Seneca","Seneca County","New York",0
+"36099",2024,"B17001F_FemPov","Some Other Race alone",59.5959595959596,48.4848484848485,81.3559322033898,"Seneca","Seneca County","New York",118
+"36099",2024,"B17001G_FemPov","Two or More Races",31.1720698254364,14.3391521197007,46,"Seneca","Seneca County","New York",250
+"36099",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",12.7650551314673,2.09923664122137,16.4451827242525,"Seneca","Seneca County","New York",1806
+"36099",2024,"B17001I_FemPov","Hispanic or Latino",30.0952380952381,16,53.1645569620253,"Seneca","Seneca County","New York",158
+"36117",2017,"B17001B_FemPov","Black or African American alone",33.969769291965,12.3309466984885,36.2997658079625,"Wayne","Wayne County","New York",427
+"36117",2017,"B17001C_FemPov","American Indian and Alaska Native alone",22.9885057471264,18.3908045977011,80,"Wayne","Wayne County","New York",20
+"36117",2017,"B17001D_FemPov","Asian alone",11.3496932515337,7.05521472392638,62.1621621621622,"Wayne","Wayne County","New York",37
+"36117",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,61.3636363636364,NA,"Wayne","Wayne County","New York",0
+"36117",2017,"B17001F_FemPov","Some Other Race alone",2.94906166219839,4.28954423592493,145.454545454545,"Wayne","Wayne County","New York",11
+"36117",2017,"B17001G_FemPov","Two or More Races",23.2531500572738,10.0801832760596,43.3497536945813,"Wayne","Wayne County","New York",203
+"36117",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",11.3140268876789,1.32270033248205,11.690800681431,"Wayne","Wayne County","New York",4696
+"36117",2017,"B17001I_FemPov","Hispanic or Latino",17.7409816676523,7.68775872264932,43.3333333333333,"Wayne","Wayne County","New York",300
+"36117",2018,"B17001B_FemPov","Black or African American alone",43.9212328767123,15.8390410958904,36.0623781676413,"Wayne","Wayne County","New York",513
+"36117",2018,"B17001C_FemPov","American Indian and Alaska Native alone",33.8235294117647,29.4117647058824,86.9565217391304,"Wayne","Wayne County","New York",23
+"36117",2018,"B17001D_FemPov","Asian alone",9.16666666666667,7.77777777777778,84.8484848484848,"Wayne","Wayne County","New York",33
+"36117",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,68.2926829268293,NA,"Wayne","Wayne County","New York",0
+"36117",2018,"B17001F_FemPov","Some Other Race alone",4.41558441558442,6.75324675324675,152.941176470588,"Wayne","Wayne County","New York",17
+"36117",2018,"B17001G_FemPov","Two or More Races",26.1555806087937,10.2593010146561,39.2241379310345,"Wayne","Wayne County","New York",232
+"36117",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",10.8552152599136,1.0896471387662,10.0380058126537,"Wayne","Wayne County","New York",4473
+"36117",2018,"B17001I_FemPov","Hispanic or Latino",18.4743742550656,6.91299165673421,37.4193548387097,"Wayne","Wayne County","New York",310
+"36117",2019,"B17001B_FemPov","Black or African American alone",47.6190476190476,15.8730158730159,33.3333333333333,"Wayne","Wayne County","New York",510
+"36117",2019,"B17001C_FemPov","American Indian and Alaska Native alone",17.8571428571429,17.8571428571429,100,"Wayne","Wayne County","New York",15
+"36117",2019,"B17001D_FemPov","Asian alone",10.7981220657277,7.74647887323944,71.7391304347826,"Wayne","Wayne County","New York",46
+"36117",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,43.0769230769231,NA,"Wayne","Wayne County","New York",0
+"36117",2019,"B17001F_FemPov","Some Other Race alone",5.73951434878587,8.83002207505519,153.846153846154,"Wayne","Wayne County","New York",26
+"36117",2019,"B17001G_FemPov","Two or More Races",25.9569377990431,11.4832535885167,44.2396313364055,"Wayne","Wayne County","New York",217
+"36117",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",11.798027151089,1.30383826545561,11.0513245033113,"Wayne","Wayne County","New York",4832
+"36117",2019,"B17001I_FemPov","Hispanic or Latino",17.4216027874564,8.47851335656214,48.6666666666667,"Wayne","Wayne County","New York",300
+"36117",2020,"B17001B_FemPov","Black or African American alone",53.7280701754386,16.8859649122807,31.4285714285714,"Wayne","Wayne County","New York",490
+"36117",2020,"B17001C_FemPov","American Indian and Alaska Native alone",52.0833333333333,83.3333333333333,160,"Wayne","Wayne County","New York",50
+"36117",2020,"B17001D_FemPov","Asian alone",10.1449275362319,8.21256038647343,80.9523809523809,"Wayne","Wayne County","New York",42
+"36117",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,725,NA,"Wayne","Wayne County","New York",0
+"36117",2020,"B17001F_FemPov","Some Other Race alone",6.68202764976959,7.14285714285714,106.896551724138,"Wayne","Wayne County","New York",29
+"36117",2020,"B17001G_FemPov","Two or More Races",15.7360406091371,6.28172588832487,39.9193548387097,"Wayne","Wayne County","New York",248
+"36117",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",11.0454086283785,1.35018602015424,12.2239571715369,"Wayne","Wayne County","New York",4483
+"36117",2020,"B17001I_FemPov","Hispanic or Latino",14.72326706072,8.00644814615798,54.3795620437956,"Wayne","Wayne County","New York",274
+"36117",2021,"B17001B_FemPov","Black or African American alone",42.9813664596273,15.776397515528,36.7052023121387,"Wayne","Wayne County","New York",346
+"36117",2021,"B17001C_FemPov","American Indian and Alaska Native alone",52.5641025641026,96.1538461538462,182.926829268293,"Wayne","Wayne County","New York",41
+"36117",2021,"B17001D_FemPov","Asian alone",6.89655172413793,7.16180371352785,103.846153846154,"Wayne","Wayne County","New York",26
+"36117",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,1000,NA,"Wayne","Wayne County","New York",0
+"36117",2021,"B17001F_FemPov","Some Other Race alone",18.7393526405451,18.3986371379898,98.1818181818182,"Wayne","Wayne County","New York",110
+"36117",2021,"B17001G_FemPov","Two or More Races",14.8073022312373,5.22312373225152,35.2739726027397,"Wayne","Wayne County","New York",292
+"36117",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",11.2642212632405,1.39270302079247,12.3639529821506,"Wayne","Wayne County","New York",4594
+"36117",2021,"B17001I_FemPov","Hispanic or Latino",17.8461538461538,8.25641025641026,46.264367816092,"Wayne","Wayne County","New York",348
+"36117",2022,"B17001B_FemPov","Black or African American alone",33.4164588528678,16.8329177057357,50.3731343283582,"Wayne","Wayne County","New York",268
+"36117",2022,"B17001C_FemPov","American Indian and Alaska Native alone",62.5,120.3125,192.5,"Wayne","Wayne County","New York",40
+"36117",2022,"B17001D_FemPov","Asian alone",6.74157303370786,7.02247191011236,104.166666666667,"Wayne","Wayne County","New York",24
+"36117",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,1033.33333333333,NA,"Wayne","Wayne County","New York",0
+"36117",2022,"B17001F_FemPov","Some Other Race alone",19.1904047976012,22.7886056971514,118.75,"Wayne","Wayne County","New York",128
+"36117",2022,"B17001G_FemPov","Two or More Races",13.6637332098194,5.74339972209356,42.0338983050847,"Wayne","Wayne County","New York",295
+"36117",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",10.8752659442878,1.30621938548315,12.0109190172884,"Wayne","Wayne County","New York",4396
+"36117",2022,"B17001I_FemPov","Hispanic or Latino",11.8427769270036,8.52475752935171,71.9827586206897,"Wayne","Wayne County","New York",232
+"36117",2023,"B17001B_FemPov","Black or African American alone",38.107752956636,20.1051248357424,52.7586206896552,"Wayne","Wayne County","New York",290
+"36117",2023,"B17001C_FemPov","American Indian and Alaska Native alone",41.5094339622642,71.6981132075472,172.727272727273,"Wayne","Wayne County","New York",44
+"36117",2023,"B17001D_FemPov","Asian alone",7.97720797720798,7.12250712250712,89.2857142857143,"Wayne","Wayne County","New York",28
+"36117",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,83.7837837837838,NA,"Wayne","Wayne County","New York",0
+"36117",2023,"B17001F_FemPov","Some Other Race alone",23.9506172839506,20.2469135802469,84.5360824742268,"Wayne","Wayne County","New York",194
+"36117",2023,"B17001G_FemPov","Two or More Races",13.9437211255775,7.05585888282234,50.6024096385542,"Wayne","Wayne County","New York",332
+"36117",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",11.0712058860207,1.65606684125203,14.9583239468349,"Wayne","Wayne County","New York",4439
+"36117",2023,"B17001I_FemPov","Hispanic or Latino",13.256351039261,8.59122401847575,64.808362369338,"Wayne","Wayne County","New York",287
+"36117",2024,"B17001B_FemPov","Black or African American alone",42.6705370101597,25.9796806966618,60.8843537414966,"Wayne","Wayne County","New York",294
+"36117",2024,"B17001C_FemPov","American Indian and Alaska Native alone",40.5660377358491,79.2452830188679,195.348837209302,"Wayne","Wayne County","New York",43
+"36117",2024,"B17001D_FemPov","Asian alone",8.79120879120879,8.79120879120879,100,"Wayne","Wayne County","New York",24
+"36117",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,72.7272727272727,NA,"Wayne","Wayne County","New York",0
+"36117",2024,"B17001F_FemPov","Some Other Race alone",24.905183312263,18.204804045512,73.0964467005076,"Wayne","Wayne County","New York",197
+"36117",2024,"B17001G_FemPov","Two or More Races",11.7243743572163,5.00514226945492,42.6900584795322,"Wayne","Wayne County","New York",342
+"36117",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",10.8680810175235,1.46155207727514,13.4481154025128,"Wayne","Wayne County","New York",4298
+"36117",2024,"B17001I_FemPov","Hispanic or Latino",16.4218958611482,7.52113929684023,45.79945799458,"Wayne","Wayne County","New York",369
+"36123",2017,"B17001B_FemPov","Black or African American alone",26.3157894736842,25.5639097744361,97.1428571428571,"Yates","Yates County","New York",35
+"36123",2017,"B17001C_FemPov","American Indian and Alaska Native alone",0,95.4545454545455,NA,"Yates","Yates County","New York",0
+"36123",2017,"B17001D_FemPov","Asian alone",0,53.8461538461538,NA,"Yates","Yates County","New York",0
+"36123",2017,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York",0
+"36123",2017,"B17001F_FemPov","Some Other Race alone",14.8936170212766,23.4042553191489,157.142857142857,"Yates","Yates County","New York",14
+"36123",2017,"B17001G_FemPov","Two or More Races",16.3841807909604,14.6892655367232,89.6551724137931,"Yates","Yates County","New York",29
+"36123",2017,"B17001H_FemPov","White alone, not Hispanic or Latino",14.0138853175624,2.31421959372589,16.5137614678899,"Yates","Yates County","New York",1635
+"36123",2017,"B17001I_FemPov","Hispanic or Latino",25.1184834123223,18.0094786729858,71.6981132075472,"Yates","Yates County","New York",53
+"36123",2018,"B17001B_FemPov","Black or African American alone",45.4545454545455,30.9090909090909,68,"Yates","Yates County","New York",50
+"36123",2018,"B17001C_FemPov","American Indian and Alaska Native alone",0,68.75,NA,"Yates","Yates County","New York",0
+"36123",2018,"B17001D_FemPov","Asian alone",0,29.3333333333333,NA,"Yates","Yates County","New York",0
+"36123",2018,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York",0
+"36123",2018,"B17001F_FemPov","Some Other Race alone",17.1171171171171,26.1261261261261,152.631578947368,"Yates","Yates County","New York",19
+"36123",2018,"B17001G_FemPov","Two or More Races",10.0502512562814,11.0552763819095,110,"Yates","Yates County","New York",20
+"36123",2018,"B17001H_FemPov","White alone, not Hispanic or Latino",11.2518182596047,2.48994609395054,22.1292775665399,"Yates","Yates County","New York",1315
+"36123",2018,"B17001I_FemPov","Hispanic or Latino",31.7596566523605,25.7510729613734,81.0810810810811,"Yates","Yates County","New York",74
+"36123",2019,"B17001B_FemPov","Black or African American alone",39.568345323741,26.6187050359712,67.2727272727273,"Yates","Yates County","New York",55
+"36123",2019,"B17001C_FemPov","American Indian and Alaska Native alone",13.3333333333333,23.3333333333333,175,"Yates","Yates County","New York",4
+"36123",2019,"B17001D_FemPov","Asian alone",0,20.7547169811321,NA,"Yates","Yates County","New York",0
+"36123",2019,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York",0
+"36123",2019,"B17001F_FemPov","Some Other Race alone",20,30,150,"Yates","Yates County","New York",16
+"36123",2019,"B17001G_FemPov","Two or More Races",25.2066115702479,21.4876033057851,85.2459016393443,"Yates","Yates County","New York",61
+"36123",2019,"B17001H_FemPov","White alone, not Hispanic or Latino",11.6156828953037,2.22317966393796,19.1394658753709,"Yates","Yates County","New York",1348
+"36123",2019,"B17001I_FemPov","Hispanic or Latino",21.0743801652893,16.5289256198347,78.4313725490196,"Yates","Yates County","New York",51
+"36123",2020,"B17001B_FemPov","Black or African American alone",50.9259259259259,32.4074074074074,63.6363636363636,"Yates","Yates County","New York",55
+"36123",2020,"B17001C_FemPov","American Indian and Alaska Native alone",15.3846153846154,23.0769230769231,150,"Yates","Yates County","New York",4
+"36123",2020,"B17001D_FemPov","Asian alone",0,20.7207207207207,NA,"Yates","Yates County","New York",0
+"36123",2020,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York",0
+"36123",2020,"B17001F_FemPov","Some Other Race alone",53.0201342281879,37.5838926174497,70.8860759493671,"Yates","Yates County","New York",79
+"36123",2020,"B17001G_FemPov","Two or More Races",28.4644194756554,26.9662921348315,94.7368421052632,"Yates","Yates County","New York",76
+"36123",2020,"B17001H_FemPov","White alone, not Hispanic or Latino",12.9200312581401,2.78718416254233,21.5725806451613,"Yates","Yates County","New York",1488
+"36123",2020,"B17001I_FemPov","Hispanic or Latino",46.7479674796748,26.4227642276423,56.5217391304348,"Yates","Yates County","New York",115
+"36123",2021,"B17001B_FemPov","Black or African American alone",49.1228070175439,31.5789473684211,64.2857142857143,"Yates","Yates County","New York",56
+"36123",2021,"B17001C_FemPov","American Indian and Alaska Native alone",9.52380952380952,28.5714285714286,300,"Yates","Yates County","New York",2
+"36123",2021,"B17001D_FemPov","Asian alone",0,15.8940397350993,NA,"Yates","Yates County","New York",0
+"36123",2021,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York",0
+"36123",2021,"B17001F_FemPov","Some Other Race alone",85.2631578947368,53.6842105263158,62.962962962963,"Yates","Yates County","New York",81
+"36123",2021,"B17001G_FemPov","Two or More Races",45.3846153846154,41.5384615384615,91.5254237288136,"Yates","Yates County","New York",118
+"36123",2021,"B17001H_FemPov","White alone, not Hispanic or Latino",12.7691493116837,2.62089657606777,20.5252246026261,"Yates","Yates County","New York",1447
+"36123",2021,"B17001I_FemPov","Hispanic or Latino",58.1081081081081,32.8828828828829,56.5891472868217,"Yates","Yates County","New York",129
+"36123",2022,"B17001B_FemPov","Black or African American alone",88.3333333333333,80,90.5660377358491,"Yates","Yates County","New York",53
+"36123",2022,"B17001C_FemPov","American Indian and Alaska Native alone",60,100,166.666666666667,"Yates","Yates County","New York",6
+"36123",2022,"B17001D_FemPov","Asian alone",6.10687022900763,9.9236641221374,162.5,"Yates","Yates County","New York",8
+"36123",2022,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York",0
+"36123",2022,"B17001F_FemPov","Some Other Race alone",60.2272727272727,44.3181818181818,73.5849056603774,"Yates","Yates County","New York",53
+"36123",2022,"B17001G_FemPov","Two or More Races",32.3741007194245,21.9424460431655,67.7777777777778,"Yates","Yates County","New York",90
+"36123",2022,"B17001H_FemPov","White alone, not Hispanic or Latino",13.7888088248376,2.446401565697,17.741935483871,"Yates","Yates County","New York",1550
+"36123",2022,"B17001I_FemPov","Hispanic or Latino",28.9256198347107,20.2479338842975,70,"Yates","Yates County","New York",70
+"36123",2023,"B17001B_FemPov","Black or African American alone",60.8695652173913,73.9130434782609,121.428571428571,"Yates","Yates County","New York",28
+"36123",2023,"B17001C_FemPov","American Indian and Alaska Native alone",50,100,200,"Yates","Yates County","New York",4
+"36123",2023,"B17001D_FemPov","Asian alone",24.1935483870968,38.7096774193548,160,"Yates","Yates County","New York",15
+"36123",2023,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York",0
+"36123",2023,"B17001F_FemPov","Some Other Race alone",62.8865979381443,51.5463917525773,81.9672131147541,"Yates","Yates County","New York",61
+"36123",2023,"B17001G_FemPov","Two or More Races",43.421052631579,27.3684210526316,63.030303030303,"Yates","Yates County","New York",165
+"36123",2023,"B17001H_FemPov","White alone, not Hispanic or Latino",13.2679679769722,2.40172708464514,18.1016949152542,"Yates","Yates County","New York",1475
+"36123",2023,"B17001I_FemPov","Hispanic or Latino",31.6326530612245,20.4081632653061,64.5161290322581,"Yates","Yates County","New York",93
+"36123",2024,"B17001B_FemPov","Black or African American alone",39.4366197183099,59.1549295774648,150,"Yates","Yates County","New York",28
+"36123",2024,"B17001C_FemPov","American Indian and Alaska Native alone",0,357.142857142857,NA,"Yates","Yates County","New York",0
+"36123",2024,"B17001D_FemPov","Asian alone",21.5189873417722,24.0506329113924,111.764705882353,"Yates","Yates County","New York",17
+"36123",2024,"B17001E_FemPov","Native Hawaiian and Other Pacific Islander alone",0,0,NA,"Yates","Yates County","New York",0
+"36123",2024,"B17001F_FemPov","Some Other Race alone",61.9318181818182,37.5,60.5504587155963,"Yates","Yates County","New York",109
+"36123",2024,"B17001G_FemPov","Two or More Races",15.3605015673981,11.9122257053292,77.5510204081633,"Yates","Yates County","New York",49
+"36123",2024,"B17001H_FemPov","White alone, not Hispanic or Latino",12.4061527192822,3.06720380882622,24.7232472324723,"Yates","Yates County","New York",1355
+"36123",2024,"B17001I_FemPov","Hispanic or Latino",37.5,20,53.3333333333333,"Yates","Yates County","New York",120

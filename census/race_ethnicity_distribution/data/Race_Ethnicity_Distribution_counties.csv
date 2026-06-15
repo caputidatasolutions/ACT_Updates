@@ -1,513 +1,513 @@
-"GEOID","year","variable","Variable_Description","estimate","moe","moe_pct_of_estimate","County","Geography","State"
-"36037",2017,"B03002_003","White (Non-Hispanic)",90.7460238823308,0.0700411705417087,0.077183734939759,"Genesee","Genesee County","New York"
-"36037",2017,"B03002_004","Black (Non-Hispanic)",2.3608999436254,0.297247894494081,12.5904486251809,"Genesee","Genesee County","New York"
-"36037",2017,"B03002_005","Native American (Non-Hispanic)",0.949826605394879,0.191331978065155,20.1438848920863,"Genesee","Genesee County","New York"
-"36037",2017,"B03002_006","Asian (Non-Hispanic)",0.693578420486188,0.145207304781591,20.935960591133,"Genesee","Genesee County","New York"
-"36037",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0461246732835642,NA,"Genesee","Genesee County","New York"
-"36037",2017,"B03002_008","Other (Non-Hispanic)",0.109332558894374,0.0700411705417087,64.0625,"Genesee","Genesee County","New York"
-"36037",2017,"B03002_009","Two or More Races (Non-Hispanic)",2.034610588175,0.368997386268514,18.1360201511335,"Genesee","Genesee County","New York"
-"36037",2017,"B03002_012","Hispanic or Latino (Any Race)",3.10572800109333,0,0,"Genesee","Genesee County","New York"
-"36051",2017,"B03002_003","White (Non-Hispanic)",90.9511751821416,0.0388361580165597,0.0427000068320011,"Livingston","Livingston County","New York"
-"36051",2017,"B03002_004","Black (Non-Hispanic)",2.46842620353254,0.229910055458034,9.31403398363751,"Livingston","Livingston County","New York"
-"36051",2017,"B03002_005","Native American (Non-Hispanic)",0.14291706150094,0.091653332919081,64.1304347826087,"Livingston","Livingston County","New York"
-"36051",2017,"B03002_006","Asian (Non-Hispanic)",1.3794603327482,0.189520451120812,13.7387387387387,"Livingston","Livingston County","New York"
-"36051",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0.0233016948099358,0.0310689264132478,133.333333333333,"Livingston","Livingston County","New York"
-"36051",2017,"B03002_008","Other (Non-Hispanic)",0.108741242446367,0.107187796125705,98.5714285714286,"Livingston","Livingston County","New York"
-"36051",2017,"B03002_009","Two or More Races (Non-Hispanic)",1.48975502151523,0.288941015643204,19.3952033368092,"Livingston","Livingston County","New York"
-"36051",2017,"B03002_012","Hispanic or Latino (Any Race)",3.43622326130521,0,0,"Livingston","Livingston County","New York"
-"36055",2017,"B03002_003","White (Non-Hispanic)",70.9691724101085,0.0589036704600096,0.0829989535732838,"Monroe","Monroe County","New York"
-"36055",2017,"B03002_004","Black (Non-Hispanic)",14.4694662606187,0.151199444355399,1.04495522939167,"Monroe","Monroe County","New York"
-"36055",2017,"B03002_005","Native American (Non-Hispanic)",0.158278570283699,0.0264465459208206,16.7088607594937,"Monroe","Monroe County","New York"
-"36055",2017,"B03002_006","Asian (Non-Hispanic)",3.64428060052359,0.086819468931987,2.38234862923325,"Monroe","Monroe County","New York"
-"36055",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0.0188331463375541,0.00694555751455896,36.8794326241135,"Monroe","Monroe County","New York"
-"36055",2017,"B03002_008","Other (Non-Hispanic)",0.193674199925202,0.0709248276967463,36.6206896551724,"Monroe","Monroe County","New York"
-"36055",2017,"B03002_009","Two or More Races (Non-Hispanic)",2.1992039322541,0.183790137308329,8.35712116610993,"Monroe","Monroe County","New York"
-"36055",2017,"B03002_012","Hispanic or Latino (Any Race)",8.34709087994871,0,0,"Monroe","Monroe County","New York"
-"36069",2017,"B03002_003","White (Non-Hispanic)",90.2813929912048,0.107771415002146,0.119372787051088,"Ontario","Ontario County","New York"
-"36069",2017,"B03002_004","Black (Non-Hispanic)",2.26502634919765,0.197276488478505,8.70967741935484,"Ontario","Ontario County","New York"
-"36069",2017,"B03002_005","Native American (Non-Hispanic)",0.209149610470267,0.065758829492835,31.4410480349345,"Ontario","Ontario County","New York"
-"36069",2017,"B03002_006","Asian (Non-Hispanic)",1.30330346786494,0.143390780977432,11.0021023125438,"Ontario","Ontario County","New York"
-"36069",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0.118731219917619,0.115991268688751,97.6923076923077,"Ontario","Ontario County","New York"
-"36069",2017,"B03002_008","Other (Non-Hispanic)",0.150697317587747,0.10229151254441,67.8787878787879,"Ontario","Ontario County","New York"
-"36069",2017,"B03002_009","Two or More Races (Non-Hispanic)",1.23571800421953,0.230155903224923,18.6252771618625,"Ontario","Ontario County","New York"
-"36069",2017,"B03002_012","Hispanic or Latino (Any Race)",4.4359810395375,0,0,"Ontario","Ontario County","New York"
-"36073",2017,"B03002_003","White (Non-Hispanic)",86.5260677183532,0.067333589842247,0.0778188488368861,"Orleans","Orleans County","New York"
-"36073",2017,"B03002_004","Black (Non-Hispanic)",5.86283185840708,0.483358984224702,8.24446267432322,"Orleans","Orleans County","New York"
-"36073",2017,"B03002_005","Native American (Non-Hispanic)",0.379953828395537,0.165929203539823,43.6708860759494,"Orleans","Orleans County","New York"
-"36073",2017,"B03002_006","Asian (Non-Hispanic)",0.654097729896114,0.0841669873028088,12.8676470588235,"Orleans","Orleans County","New York"
-"36073",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0.0577145055790689,0.0841669873028088,145.833333333333,"Orleans","Orleans County","New York"
-"36073",2017,"B03002_008","Other (Non-Hispanic)",0.0577145055790689,0.067333589842247,116.666666666667,"Orleans","Orleans County","New York"
-"36073",2017,"B03002_009","Two or More Races (Non-Hispanic)",1.72181608310889,0.507406694882647,29.4692737430168,"Orleans","Orleans County","New York"
-"36073",2017,"B03002_012","Hispanic or Latino (Any Race)",4.73980377068103,0,0,"Orleans","Orleans County","New York"
-"36099",2017,"B03002_003","White (Non-Hispanic)",89.3493671612662,0.0200901185316993,0.0224849029937042,"Seneca","Seneca County","New York"
-"36099",2017,"B03002_004","Black (Non-Hispanic)",4.63507734695635,0.358752116637488,7.73993808049535,"Seneca","Seneca County","New York"
-"36099",2017,"B03002_005","Native American (Non-Hispanic)",0.31283184570789,0.137760812788795,44.0366972477064,"Seneca","Seneca County","New York"
-"36099",2017,"B03002_006","Asian (Non-Hispanic)",0.720374250208076,0.114800677323996,15.9362549800797,"Seneca","Seneca County","New York"
-"36099",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0.00861005079929972,0.0172201015985994,200,"Seneca","Seneca County","New York"
-"36099",2017,"B03002_008","Other (Non-Hispanic)",0.0229601354647992,0.0401802370633987,175,"Seneca","Seneca County","New York"
-"36099",2017,"B03002_009","Two or More Races (Non-Hispanic)",1.68182992279654,0.416152455299486,24.7440273037543,"Seneca","Seneca County","New York"
-"36099",2017,"B03002_012","Hispanic or Latino (Any Race)",3.26894928680079,0,0,"Seneca","Seneca County","New York"
-"36117",2017,"B03002_003","White (Non-Hispanic)",90.2462763281643,0.0535858795739376,0.0593773856985325,"Wayne","Wayne County","New York"
-"36117",2017,"B03002_004","Black (Non-Hispanic)",2.92097723146913,0.207781982021391,7.11344065892924,"Wayne","Wayne County","New York"
-"36117",2017,"B03002_005","Native American (Non-Hispanic)",0.145447387414973,0.0623345946064172,42.8571428571429,"Wayne","Wayne County","New York"
-"36117",2017,"B03002_006","Asian (Non-Hispanic)",0.66927669998469,0.122482010454714,18.3006535947712,"Wayne","Wayne County","New York"
-"36117",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0.0721768990179567,0.0754576671551366,104.545454545455,"Wayne","Wayne County","New York"
-"36117",2017,"B03002_008","Other (Non-Hispanic)",0.0393692176461582,0.0317140919927386,80.5555555555555,"Wayne","Wayne County","New York"
-"36117",2017,"B03002_009","Two or More Races (Non-Hispanic)",1.69506353754292,0.250431967804729,14.7741935483871,"Wayne","Wayne County","New York"
-"36117",2017,"B03002_012","Hispanic or Latino (Any Race)",4.21141269875987,0,0,"Wayne","Wayne County","New York"
-"36123",2017,"B03002_003","White (Non-Hispanic)",94.9049156799426,0.247179364509827,0.260449485402226,"Yates","Yates County","New York"
-"36123",2017,"B03002_004","Black (Non-Hispanic)",0.992704221983016,0.247179364509827,24.8995983935743,"Yates","Yates County","New York"
-"36123",2017,"B03002_005","Native American (Non-Hispanic)",0.0717617509867241,0.0837220428178447,116.666666666667,"Yates","Yates County","New York"
-"36123",2017,"B03002_006","Asian (Non-Hispanic)",0.657816050711637,0.135549974086034,20.6060606060606,"Yates","Yates County","New York"
-"36123",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0.00797352788741379,0.0119602918311207,150,"Yates","Yates County","New York"
-"36123",2017,"B03002_008","Other (Non-Hispanic)",0.199338197185345,0.211298489016465,106,"Yates","Yates County","New York"
-"36123",2017,"B03002_009","Two or More Races (Non-Hispanic)",1.00466451381414,0.310967587609138,30.9523809523809,"Yates","Yates County","New York"
-"36123",2017,"B03002_012","Hispanic or Latino (Any Race)",2.16082605748914,0,0,"Yates","Yates County","New York"
-"36037",2018,"B03002_003","White (Non-Hispanic)",90.6817868942731,0.0550660792951542,0.060724519422358,"Genesee","Genesee County","New York"
-"36037",2018,"B03002_004","Black (Non-Hispanic)",2.14929790748899,0.387183370044053,18.0144115292234,"Genesee","Genesee County","New York"
-"36037",2018,"B03002_005","Native American (Non-Hispanic)",0.862128303964758,0.178964757709251,20.7584830339321,"Genesee","Genesee County","New York"
-"36037",2018,"B03002_006","Asian (Non-Hispanic)",0.820828744493392,0.0739950440528634,9.0146750524109,"Genesee","Genesee County","New York"
-"36037",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0481828193832599,NA,"Genesee","Genesee County","New York"
-"36037",2018,"B03002_008","Other (Non-Hispanic)",0.0739950440528634,0.063670154185022,86.046511627907,"Genesee","Genesee County","New York"
-"36037",2018,"B03002_009","Two or More Races (Non-Hispanic)",2.23017621145374,0.406112334801762,18.2098765432099,"Genesee","Genesee County","New York"
-"36037",2018,"B03002_012","Hispanic or Latino (Any Race)",3.18178689427313,0,0,"Genesee","Genesee County","New York"
-"36051",2018,"B03002_003","White (Non-Hispanic)",90.9321357597759,0.0391193452986371,0.0430203744493392,"Livingston","Livingston County","New York"
-"36051",2018,"B03002_004","Black (Non-Hispanic)",2.65385638505954,0.178384214561785,6.72169811320755,"Livingston","Livingston County","New York"
-"36051",2018,"B03002_005","Native American (Non-Hispanic)",0.179948988373731,0.101710297776456,56.5217391304348,"Livingston","Livingston County","New York"
-"36051",2018,"B03002_006","Asian (Non-Hispanic)",1.30345658535059,0.173689893125949,13.3253301320528,"Livingston","Livingston County","New York"
-"36051",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0.0344250238628006,0.0578966310419829,168.181818181818,"Livingston","Livingston County","New York"
-"36051",2018,"B03002_008","Other (Non-Hispanic)",0.106404619212293,0.0891921072808926,83.8235294117647,"Livingston","Livingston County","New York"
-"36051",2018,"B03002_009","Two or More Races (Non-Hispanic)",1.31128045441031,0.233151297979877,17.7804295942721,"Livingston","Livingston County","New York"
-"36051",2018,"B03002_012","Hispanic or Latino (Any Race)",3.47849218395481,0,0,"Livingston","Livingston County","New York"
-"36055",2018,"B03002_003","White (Non-Hispanic)",70.826794294375,0.0502520665154626,0.070950643772753,"Monroe","Monroe County","New York"
-"36055",2018,"B03002_004","Black (Non-Hispanic)",14.4721920650106,0.134229450398254,0.927499094783166,"Monroe","Monroe County","New York"
-"36055",2018,"B03002_005","Native American (Non-Hispanic)",0.167417312508734,0.0253947608861562,15.1685393258427,"Monroe","Monroe County","New York"
-"36055",2018,"B03002_006","Asian (Non-Hispanic)",3.52825939740517,0.0763186464726811,2.16306790052934,"Monroe","Monroe County","New York"
-"36055",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0.0151831110060087,0.00685255452483581,45.1327433628319,"Monroe","Monroe County","New York"
-"36055",2018,"B03002_008","Other (Non-Hispanic)",0.170910771678258,0.0550891638271114,32.2327044025157,"Monroe","Monroe County","New York"
-"36055",2018,"B03002_009","Two or More Races (Non-Hispanic)",2.26953918586278,0.160833485612323,7.08661417322835,"Monroe","Monroe County","New York"
-"36055",2018,"B03002_012","Hispanic or Latino (Any Race)",8.54970386215347,0,0,"Monroe","Monroe County","New York"
-"36069",2018,"B03002_003","White (Non-Hispanic)",90.0211926337328,0.106876644256065,0.118723870601128,"Ontario","Ontario County","New York"
-"36069",2018,"B03002_004","Black (Non-Hispanic)",2.28642940660626,0.196397252265419,8.58969236915701,"Ontario","Ontario County","New York"
-"36069",2018,"B03002_005","Native American (Non-Hispanic)",0.204618532592809,0.0849532300496931,41.5178571428571,"Ontario","Ontario County","New York"
-"36069",2018,"B03002_006","Asian (Non-Hispanic)",1.32910698626133,0.162598655363929,12.233676975945,"Ontario","Ontario County","New York"
-"36069",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0.0337985969014908,0.0438468284127448,129.72972972973,"Ontario","Ontario County","New York"
-"36069",2018,"B03002_008","Other (Non-Hispanic)",0.200051154633148,0.105963168664133,52.9680365296804,"Ontario","Ontario County","New York"
-"36069",2018,"B03002_009","Two or More Races (Non-Hispanic)",1.30444314527916,0.279523531131248,21.4285714285714,"Ontario","Ontario County","New York"
-"36069",2018,"B03002_012","Hispanic or Latino (Any Race)",4.62035954399298,0,0,"Ontario","Ontario County","New York"
-"36073",2018,"B03002_003","White (Non-Hispanic)",86.5136612021858,0.0267152398299939,0.0308797933861097,"Orleans","Orleans County","New York"
-"36073",2018,"B03002_004","Black (Non-Hispanic)",5.9672131147541,0.517304189435337,8.66910866910867,"Orleans","Orleans County","New York"
-"36073",2018,"B03002_005","Native American (Non-Hispanic)",0.366727383120826,0.16514875531269,45.0331125827815,"Orleans","Orleans County","New York"
-"36073",2018,"B03002_006","Asian (Non-Hispanic)",0.718882817243473,0.0461445051608986,6.41891891891892,"Orleans","Orleans County","New York"
-"36073",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0.0510018214936248,0.0825743776563449,161.904761904762,"Orleans","Orleans County","New York"
-"36073",2018,"B03002_008","Other (Non-Hispanic)",0.0218579234972678,0.0364298724954463,166.666666666667,"Orleans","Orleans County","New York"
-"36073",2018,"B03002_009","Two or More Races (Non-Hispanic)",1.59805707346691,0.544019429265331,34.0425531914894,"Orleans","Orleans County","New York"
-"36073",2018,"B03002_012","Hispanic or Latino (Any Race)",4.76259866423801,0,0,"Orleans","Orleans County","New York"
-"36099",2018,"B03002_003","White (Non-Hispanic)",89.1973881890674,0.0202241996995262,0.0226735335082435,"Seneca","Seneca County","New York"
-"36099",2018,"B03002_004","Black (Non-Hispanic)",4.67179013059055,0.326476366578065,6.9882498453927,"Seneca","Seneca County","New York"
-"36099",2018,"B03002_005","Native American (Non-Hispanic)",0.390038137062291,0.147347740667976,37.7777777777778,"Seneca","Seneca County","New York"
-"36099",2018,"B03002_006","Asian (Non-Hispanic)",0.699179475326476,0.11845602681151,16.9421487603306,"Seneca","Seneca County","New York"
-"36099",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0722292846411649,NA,"Seneca","Seneca County","New York"
-"36099",2018,"B03002_008","Other (Non-Hispanic)",0.0231133710851728,0.0404483993990524,175,"Seneca","Seneca County","New York"
-"36099",2018,"B03002_009","Two or More Races (Non-Hispanic)",1.67283023228938,0.364035594591471,21.7616580310881,"Seneca","Seneca County","New York"
-"36099",2018,"B03002_012","Hispanic or Latino (Any Race)",3.34566046457876,0,0,"Seneca","Seneca County","New York"
-"36117",2018,"B03002_003","White (Non-Hispanic)",90.1492471603416,0.0550321387690411,0.06104558884575,"Wayne","Wayne County","New York"
-"36117",2018,"B03002_004","Black (Non-Hispanic)",2.85506735933785,0.203618913445452,7.13184271395528,"Wayne","Wayne County","New York"
-"36117",2018,"B03002_005","Native American (Non-Hispanic)",0.128775204719556,0.0726424231751343,56.4102564102564,"Wayne","Wayne County","New York"
-"36117",2018,"B03002_006","Asian (Non-Hispanic)",0.653781808576208,0.129875847494937,19.8653198653199,"Wayne","Wayne County","New York"
-"36117",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0.0858501364797041,0.0891520648058466,103.846153846154,"Wayne","Wayne County","New York"
-"36117",2018,"B03002_008","Other (Non-Hispanic)",0.0484282821167562,0.0341199260368055,70.4545454545455,"Wayne","Wayne County","New York"
-"36117",2018,"B03002_009","Two or More Races (Non-Hispanic)",1.81055736550145,0.235537553931496,13.0091185410334,"Wayne","Wayne County","New York"
-"36117",2018,"B03002_012","Hispanic or Latino (Any Race)",4.26829268292683,0,0,"Wayne","Wayne County","New York"
-"36123",2018,"B03002_003","White (Non-Hispanic)",94.7099044344036,0.251909312647447,0.265979903740606,"Yates","Yates County","New York"
-"36123",2018,"B03002_004","Black (Non-Hispanic)",0.827702027270183,0.203926586428886,24.6376811594203,"Yates","Yates County","New York"
-"36123",2018,"B03002_005","Native American (Non-Hispanic)",0.0639769682914151,0.0799712103642689,125,"Yates","Yates County","New York"
-"36123",2018,"B03002_006","Asian (Non-Hispanic)",0.755727937942341,0.107961133991763,14.2857142857143,"Yates","Yates County","New York"
-"36123",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0.0279899236274941,0.035987044663921,128.571428571429,"Yates","Yates County","New York"
-"36123",2018,"B03002_008","Other (Non-Hispanic)",0.219920828501739,0.219920828501739,100,"Yates","Yates County","New York"
-"36123",2018,"B03002_009","Two or More Races (Non-Hispanic)",1.19956815546403,0.291894917829581,24.3333333333333,"Yates","Yates County","New York"
-"36123",2018,"B03002_012","Hispanic or Latino (Any Race)",2.19520972449918,0,0,"Yates","Yates County","New York"
-"36037",2019,"B03002_003","White (Non-Hispanic)",90.5220730694714,0.036327151951287,0.0401307114601846,"Genesee","Genesee County","New York"
-"36037",2019,"B03002_004","Black (Non-Hispanic)",2.01702186548575,0.288887351231663,14.3224699828473,"Genesee","Genesee County","New York"
-"36037",2019,"B03002_005","Native American (Non-Hispanic)",0.830334901743703,0.190285081649599,22.9166666666667,"Genesee","Genesee County","New York"
-"36037",2019,"B03002_006","Asian (Non-Hispanic)",0.787088292277885,0.115900913368392,14.7252747252747,"Genesee","Genesee County","New York"
-"36037",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.048436202601716,NA,"Genesee","Genesee County","New York"
-"36037",2019,"B03002_008","Other (Non-Hispanic)",0.117630777747025,0.128009964018821,108.823529411765,"Genesee","Genesee County","New York"
-"36037",2019,"B03002_009","Two or More Races (Non-Hispanic)",2.42872958760033,0.371920841406034,15.3133903133903,"Genesee","Genesee County","New York"
-"36037",2019,"B03002_012","Hispanic or Latino (Any Race)",3.29712150567395,0,0,"Genesee","Genesee County","New York"
-"36051",2019,"B03002_003","White (Non-Hispanic)",90.7581261499269,0.0330235410671321,0.0363863187441522,"Livingston","Livingston County","New York"
-"36051",2019,"B03002_004","Black (Non-Hispanic)",2.57583620323631,0.20914909342517,8.11965811965812,"Livingston","Livingston County","New York"
-"36051",2019,"B03002_005","Native American (Non-Hispanic)",0.18556084980579,0.0802000283058923,43.2203389830509,"Livingston","Livingston County","New York"
-"36051",2019,"B03002_006","Asian (Non-Hispanic)",1.29578084949128,0.201286345552044,15.5339805825243,"Livingston","Livingston County","New York"
-"36051",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0.0471764872387602,0.0802000283058923,170,"Livingston","Livingston County","New York"
-"36051",2019,"B03002_008","Other (Non-Hispanic)",0.11479611894765,0.100643172776022,87.6712328767123,"Livingston","Livingston County","New York"
-"36051",2019,"B03002_009","Two or More Races (Non-Hispanic)",1.36182793162554,0.322372662798195,23.6720554272517,"Livingston","Livingston County","New York"
-"36051",2019,"B03002_012","Hispanic or Latino (Any Race)",3.66089540972779,0,0,"Livingston","Livingston County","New York"
-"36055",2019,"B03002_003","White (Non-Hispanic)",70.5716488125907,0.0454703830408924,0.0644315157800026,"Monroe","Monroe County","New York"
-"36055",2019,"B03002_004","Black (Non-Hispanic)",14.47545608274,0.156455785433603,1.0808349287188,"Monroe","Monroe County","New York"
-"36055",2019,"B03002_005","Native American (Non-Hispanic)",0.175289671900245,0.030806857149007,17.5748273215656,"Monroe","Monroe County","New York"
-"36055",2019,"B03002_006","Asian (Non-Hispanic)",3.58772084413479,0.0808511840460838,2.25355281412876,"Monroe","Monroe County","New York"
-"36055",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0.0182957754247378,0.0072644990657047,39.7058823529412,"Monroe","Monroe County","New York"
-"36055",2019,"B03002_008","Other (Non-Hispanic)",0.194392613887839,0.061613714298014,31.6955017301038,"Monroe","Monroe County","New York"
-"36055",2019,"B03002_009","Two or More Races (Non-Hispanic)",2.20921488253709,0.166948950750732,7.55693581780538,"Monroe","Monroe County","New York"
-"36055",2019,"B03002_012","Hispanic or Latino (Any Race)",8.76798131678462,0,0,"Monroe","Monroe County","New York"
-"36069",2019,"B03002_003","White (Non-Hispanic)",89.8393768662509,0.105925432148369,0.11790535046349,"Ontario","Ontario County","New York"
-"36069",2019,"B03002_004","Black (Non-Hispanic)",2.15320835349874,0.175324853211093,8.14249363867684,"Ontario","Ontario County","New York"
-"36069",2019,"B03002_005","Native American (Non-Hispanic)",0.240158522888112,0.101359680762663,42.2053231939163,"Ontario","Ontario County","New York"
-"36069",2019,"B03002_006","Asian (Non-Hispanic)",1.3706385659888,0.159801298499694,11.6588940706196,"Ontario","Ontario County","New York"
-"36069",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0.0328734099770799,0.042004912748491,127.777777777778,"Ontario","Ontario County","New York"
-"36069",2019,"B03002_008","Other (Non-Hispanic)",0.19724045986248,0.113230634365498,57.4074074074074,"Ontario","Ontario County","New York"
-"36069",2019,"B03002_009","Two or More Races (Non-Hispanic)",1.42268813178585,0.253855777045228,17.8433889602054,"Ontario","Ontario County","New York"
-"36069",2019,"B03002_012","Hispanic or Latino (Any Race)",4.74381568974806,0,0,"Ontario","Ontario County","New York"
-"36073",2019,"B03002_003","White (Non-Hispanic)",86.3680813612361,0.0293369841580286,0.0339673913043478,"Orleans","Orleans County","New York"
-"36073",2019,"B03002_004","Black (Non-Hispanic)",5.63514570702132,0.378936045374536,6.72451193058568,"Orleans","Orleans County","New York"
-"36073",2019,"B03002_005","Native American (Non-Hispanic)",0.332485820457657,0.124682182671621,37.5,"Orleans","Orleans County","New York"
-"36073",2019,"B03002_006","Asian (Non-Hispanic)",0.557402699002543,0.11979268531195,21.4912280701754,"Orleans","Orleans County","New York"
-"36073",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0611187169958928,NA,"Orleans","Orleans County","New York"
-"36073",2019,"B03002_008","Other (Non-Hispanic)",0.00488949735967143,0.0122237433991786,250,"Orleans","Orleans County","New York"
-"36073",2019,"B03002_009","Two or More Races (Non-Hispanic)",2.18316057109329,0.442499511050264,20.2687569988802,"Orleans","Orleans County","New York"
-"36073",2019,"B03002_012","Hispanic or Latino (Any Race)",4.91883434382945,0,0,"Orleans","Orleans County","New York"
-"36099",2019,"B03002_003","White (Non-Hispanic)",89.011340505961,0.0290782204129107,0.0326679951651367,"Seneca","Seneca County","New York"
-"36099",2019,"B03002_004","Black (Non-Hispanic)",4.7571968595522,0.261703983716197,5.50122249388753,"Seneca","Seneca County","New York"
-"36099",2019,"B03002_005","Native American (Non-Hispanic)",0.415818551904623,0.157022390229718,37.7622377622378,"Seneca","Seneca County","New York"
-"36099",2019,"B03002_006","Asian (Non-Hispanic)",0.828729281767956,0.0988659494038965,11.9298245614035,"Seneca","Seneca County","New York"
-"36099",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0.0232625763303286,0.0261703983716197,112.5,"Seneca","Seneca County","New York"
-"36099",2019,"B03002_008","Other (Non-Hispanic)",0.0523407967432393,0.0610642628671125,116.666666666667,"Seneca","Seneca County","New York"
-"36099",2019,"B03002_009","Two or More Races (Non-Hispanic)",1.42483280023263,0.314044780459436,22.0408163265306,"Seneca","Seneca County","New York"
-"36099",2019,"B03002_012","Hispanic or Latino (Any Race)",3.486478627508,0,0,"Seneca","Seneca County","New York"
-"36117",2019,"B03002_003","White (Non-Hispanic)",89.9280813972757,0.0386659154431666,0.0429964865728115,"Wayne","Wayne County","New York"
-"36117",2019,"B03002_004","Black (Non-Hispanic)",2.71655674499276,0.2286812713353,8.41805612037414,"Wayne","Wayne County","New York"
-"36117",2019,"B03002_005","Native American (Non-Hispanic)",0.124835669859367,0.0673891669152333,53.9823008849557,"Wayne","Wayne County","New York"
-"36117",2019,"B03002_006","Asian (Non-Hispanic)",0.784365713275666,0.101636120593467,12.9577464788732,"Wayne","Wayne County","New York"
-"36117",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0.1159977463295,0.0939029375048332,80.9523809523809,"Wayne","Wayne County","New York"
-"36117",2019,"B03002_008","Other (Non-Hispanic)",0.0530275411791999,0.0364564345607,68.75,"Wayne","Wayne County","New York"
-"36117",2019,"B03002_009","Two or More Races (Non-Hispanic)",1.86701134568433,0.260718744131066,13.9644970414201,"Wayne","Wayne County","New York"
-"36117",2019,"B03002_012","Hispanic or Latino (Any Race)",4.41012384140346,0,0,"Wayne","Wayne County","New York"
-"36123",2019,"B03002_003","White (Non-Hispanic)",94.7103274559194,0.223901483347327,0.236406619385343,"Yates","Yates County","New York"
-"36123",2019,"B03002_004","Black (Non-Hispanic)",0.959577785774259,0.259885650313862,27.0833333333333,"Yates","Yates County","New York"
-"36123",2019,"B03002_005","Native American (Non-Hispanic)",0.0839630562552477,0.0799648154811883,95.2380952380952,"Yates","Yates County","New York"
-"36123",2019,"B03002_006","Asian (Non-Hispanic)",0.651713246171684,0.13594018631802,20.8588957055215,"Yates","Yates County","New York"
-"36123",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0.0239894446443565,0.0399824077405941,166.666666666667,"Yates","Yates County","New York"
-"36123",2019,"B03002_008","Other (Non-Hispanic)",0.167926112510495,0.183919075606733,109.52380952381,"Yates","Yates County","New York"
-"36123",2019,"B03002_009","Two or More Races (Non-Hispanic)",1.17948102834753,0.331853984246931,28.135593220339,"Yates","Yates County","New York"
-"36123",2019,"B03002_012","Hispanic or Latino (Any Race)",2.22302187037703,0,0,"Yates","Yates County","New York"
-"36037",2020,"B03002_003","White (Non-Hispanic)",90.2404698196476,0.076449942662543,0.0847180237595548,"Genesee","Genesee County","New York"
-"36037",2020,"B03002_004","Black (Non-Hispanic)",2.17361086979185,0.300587274559544,13.8289368505196,"Genesee","Genesee County","New York"
-"36037",2020,"B03002_005","Native American (Non-Hispanic)",0.710636967022275,0.128574903568822,18.0929095354523,"Genesee","Genesee County","New York"
-"36037",2020,"B03002_006","Asian (Non-Hispanic)",0.802724397956702,0.104249921812559,12.987012987013,"Genesee","Genesee County","New York"
-"36037",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0503874622094033,NA,"Genesee","Genesee County","New York"
-"36037",2020,"B03002_008","Other (Non-Hispanic)",0.138999895750078,0.147687389234458,106.25,"Genesee","Genesee County","New York"
-"36037",2020,"B03002_009","Two or More Races (Non-Hispanic)",2.52979810265142,0.350974736768947,13.8736263736264,"Genesee","Genesee County","New York"
-"36037",2020,"B03002_012","Hispanic or Latino (Any Race)",3.40375994718004,0,0,"Genesee","Genesee County","New York"
-"36051",2020,"B03002_003","White (Non-Hispanic)",90.0945933120314,0.289474516751558,0.321300653135754,"Livingston","Livingston County","New York"
-"36051",2020,"B03002_004","Black (Non-Hispanic)",2.60368882280363,0.170837419722231,6.56136087484812,"Livingston","Livingston County","New York"
-"36051",2020,"B03002_005","Native American (Non-Hispanic)",0.224619570375526,0.056945806574077,25.3521126760563,"Livingston","Livingston County","New York"
-"36051",2020,"B03002_006","Asian (Non-Hispanic)",1.06298838938277,0.278401721028821,26.1904761904762,"Livingston","Livingston County","New York"
-"36051",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0.0838368819007245,0.110727957227372,132.075471698113,"Livingston","Livingston County","New York"
-"36051",2020,"B03002_008","Other (Non-Hispanic)",0.0854187098611155,0.0680186022968142,79.6296296296296,"Livingston","Livingston County","New York"
-"36051",2020,"B03002_009","Two or More Races (Non-Hispanic)",2.04688538074599,0.390711506216584,19.0880989180835,"Livingston","Livingston County","New York"
-"36051",2020,"B03002_012","Hispanic or Latino (Any Race)",3.79796893289886,0,0,"Livingston","Livingston County","New York"
-"36055",2020,"B03002_003","White (Non-Hispanic)",69.9470046455044,0.0904339213332544,0.129289198002944,"Monroe","Monroe County","New York"
-"36055",2020,"B03002_004","Black (Non-Hispanic)",14.1786123776047,0.147224270741935,1.03835457815659,"Monroe","Monroe County","New York"
-"36055",2020,"B03002_005","Native American (Non-Hispanic)",0.139957259206227,0.0262419861011676,18.75,"Monroe","Monroe County","New York"
-"36055",2020,"B03002_006","Asian (Non-Hispanic)",3.61318505041153,0.0820903154959601,2.2719654363291,"Monroe","Monroe County","New York"
-"36055",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0.0273185804027539,0.00753616011110453,27.5862068965517,"Monroe","Monroe County","New York"
-"36055",2020,"B03002_008","Other (Non-Hispanic)",0.24236829214463,0.0818211669205635,33.7590227651305,"Monroe","Monroe County","New York"
-"36055",2020,"B03002_009","Two or More Races (Non-Hispanic)",2.75567768919799,0.178041782624845,6.46090735947648,"Monroe","Monroe County","New York"
-"36055",2020,"B03002_012","Hispanic or Latino (Any Race)",9.09587610552777,0,0,"Monroe","Monroe County","New York"
-"36069",2020,"B03002_003","White (Non-Hispanic)",89.4911363346512,0.133000528358263,0.148618660803355,"Ontario","Ontario County","New York"
-"36069",2020,"B03002_004","Black (Non-Hispanic)",2.11525497841019,0.210432342813417,9.94832041343669,"Ontario","Ontario County","New York"
-"36069",2020,"B03002_005","Native American (Non-Hispanic)",0.184925392169366,0.0847195146391677,45.8128078817734,"Ontario","Ontario County","New York"
-"36069",2020,"B03002_006","Asian (Non-Hispanic)",1.32636143349063,0.181281542077359,13.6675824175824,"Ontario","Ontario County","New York"
-"36069",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0.0245959881210487,0.037349463443074,151.851851851852,"Ontario","Ontario County","New York"
-"36069",2020,"B03002_008","Other (Non-Hispanic)",0.126623790697251,0.0847195146391677,66.9064748201439,"Ontario","Ontario County","New York"
-"36069",2020,"B03002_009","Two or More Races (Non-Hispanic)",1.82101408348061,0.309727257820613,17.0085042521261,"Ontario","Ontario County","New York"
-"36069",2020,"B03002_012","Hispanic or Latino (Any Race)",4.91008799897972,0.00182192504600361,0.0371057513914657,"Ontario","Ontario County","New York"
-"36073",2020,"B03002_003","White (Non-Hispanic)",85.8851910200867,0.226467113036629,0.263685869876756,"Orleans","Orleans County","New York"
-"36073",2020,"B03002_004","Black (Non-Hispanic)",5.76506498621505,0.438164631744781,7.60034158838599,"Orleans","Orleans County","New York"
-"36073",2020,"B03002_005","Native American (Non-Hispanic)",0.322469476171721,0.172311933832217,53.4351145038168,"Orleans","Orleans County","New York"
-"36073",2020,"B03002_006","Asian (Non-Hispanic)",0.568629381646317,0.113233556518314,19.9134199134199,"Orleans","Orleans County","New York"
-"36073",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.064001575423395,NA,"Orleans","Orleans County","New York"
-"36073",2020,"B03002_008","Other (Non-Hispanic)",0.105848759354076,0.0984639621898385,93.0232558139535,"Orleans","Orleans County","New York"
-"36073",2020,"B03002_009","Two or More Races (Non-Hispanic)",2.23020874359984,0.516935801496652,23.1788079470199,"Orleans","Orleans County","New York"
-"36073",2020,"B03002_012","Hispanic or Latino (Any Race)",5.12258763292635,0,0,"Orleans","Orleans County","New York"
-"36099",2020,"B03002_003","White (Non-Hispanic)",88.3714827234291,0.24784954074938,0.28046325931303,"Seneca","Seneca County","New York"
-"36099",2020,"B03002_004","Black (Non-Hispanic)",4.82577635223794,0.338241726199154,7.00906344410876,"Seneca","Seneca County","New York"
-"36099",2020,"B03002_005","Native American (Non-Hispanic)",0.364484618749089,0.113719201049716,31.2,"Seneca","Seneca County","New York"
-"36099",2020,"B03002_006","Asian (Non-Hispanic)",0.772707391748068,0.0845604315497886,10.9433962264151,"Seneca","Seneca County","New York"
-"36099",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0.020411138649949,0.0174952616999563,85.7142857142857,"Seneca","Seneca County","New York"
-"36099",2020,"B03002_008","Other (Non-Hispanic)",0.102055693249745,0.090392185449774,88.5714285714286,"Seneca","Seneca County","New York"
-"36099",2020,"B03002_009","Two or More Races (Non-Hispanic)",1.91573115614521,0.38781163434903,20.2435312024353,"Seneca","Seneca County","New York"
-"36099",2020,"B03002_012","Hispanic or Latino (Any Race)",3.62735092579093,0,0,"Seneca","Seneca County","New York"
-"36117",2020,"B03002_003","White (Non-Hispanic)",89.2700576007458,0.355149107132948,0.397836762603344,"Wayne","Wayne County","New York"
-"36117",2020,"B03002_004","Black (Non-Hispanic)",2.38060885875054,0.258592943631178,10.8624708624709,"Wayne","Wayne County","New York"
-"36117",2020,"B03002_005","Native American (Non-Hispanic)",0.0566018889493136,0.0366247516730853,64.7058823529412,"Wayne","Wayne County","New York"
-"36117",2020,"B03002_006","Asian (Non-Hispanic)",0.837929924641799,0.0810183900647037,9.66887417218543,"Wayne","Wayne County","New York"
-"36117",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0.00443936383916185,0.00776888671853323,175,"Wayne","Wayne County","New York"
-"36117",2020,"B03002_008","Other (Non-Hispanic)",0.245274852113692,0.195332008923121,79.6380090497738,"Wayne","Wayne County","New York"
-"36117",2020,"B03002_009","Two or More Races (Non-Hispanic)",2.66916750829606,0.403982109363728,15.1351351351351,"Wayne","Wayne County","New York"
-"36117",2020,"B03002_012","Hispanic or Latino (Any Race)",4.53592000266362,0,0,"Wayne","Wayne County","New York"
-"36123",2020,"B03002_003","White (Non-Hispanic)",94.6559385132701,0.308234258036107,0.325636471284784,"Yates","Yates County","New York"
-"36123",2020,"B03002_004","Black (Non-Hispanic)",0.972739281854209,0.368279892718466,37.8600823045268,"Yates","Yates County","New York"
-"36123",2020,"B03002_005","Native American (Non-Hispanic)",0.016012169248629,0.0240182538729434,150,"Yates","Yates County","New York"
-"36123",2020,"B03002_006","Asian (Non-Hispanic)",0.656498939193787,0.196149073295705,29.8780487804878,"Yates","Yates County","New York"
-"36123",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0.0280212961851007,0.0400304231215724,142.857142857143,"Yates","Yates County","New York"
-"36123",2020,"B03002_008","Other (Non-Hispanic)",0.156118650174132,0.172130819422761,110.25641025641,"Yates","Yates County","New York"
-"36123",2020,"B03002_009","Two or More Races (Non-Hispanic)",1.29298266682679,0.448340738961611,34.6749226006192,"Yates","Yates County","New York"
-"36123",2020,"B03002_012","Hispanic or Latino (Any Race)",2.22168848324727,0.0120091269364717,0.540540540540541,"Yates","Yates County","New York"
-"36037",2021,"B03002_003","White (Non-Hispanic)",90.0217514172675,0.145580351790638,0.161716862312361,"Genesee","Genesee County","New York"
-"36037",2021,"B03002_004","Black (Non-Hispanic)",2.03812492506894,0.414475825098053,20.3361344537815,"Genesee","Genesee County","New York"
-"36037",2021,"B03002_005","Native American (Non-Hispanic)",0.484696935961772,0.0753592409269187,15.547703180212,"Genesee","Genesee County","New York"
-"36037",2021,"B03002_006","Asian (Non-Hispanic)",0.727901758953192,0.193536232380496,26.5882352941176,"Genesee","Genesee County","New York"
-"36037",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.05138130063199,NA,"Genesee","Genesee County","New York"
-"36037",2021,"B03002_008","Other (Non-Hispanic)",0.149005771832771,0.130165961601041,87.3563218390805,"Genesee","Genesee County","New York"
-"36037",2021,"B03002_009","Two or More Races (Non-Hispanic)",3.07945261787727,0.479558805898573,15.5728587319244,"Genesee","Genesee County","New York"
-"36037",2021,"B03002_012","Hispanic or Latino (Any Race)",3.49906657303852,0,0,"Genesee","Genesee County","New York"
-"36051",2021,"B03002_003","White (Non-Hispanic)",89.4768123624564,0.41122516183959,0.459588524649025,"Livingston","Livingston County","New York"
-"36051",2021,"B03002_004","Black (Non-Hispanic)",2.59425248582398,0.159028480555154,6.13003095975232,"Livingston","Livingston County","New York"
-"36051",2021,"B03002_005","Native American (Non-Hispanic)",0.0835301109986667,0.0690729764027436,82.6923076923077,"Livingston","Livingston County","New York"
-"36051",2021,"B03002_006","Asian (Non-Hispanic)",1.07464700496362,0.216857018938846,20.1793721973094,"Livingston","Livingston County","New York"
-"36051",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.048190448653077,NA,"Livingston","Livingston County","New York"
-"36051",2021,"B03002_008","Other (Non-Hispanic)",0.244164939842257,0.167060221997333,68.4210526315789,"Livingston","Livingston County","New York"
-"36051",2021,"B03002_009","Two or More Races (Non-Hispanic)",2.65208102420767,0.541339373202898,20.411871592974,"Livingston","Livingston County","New York"
-"36051",2021,"B03002_012","Hispanic or Latino (Any Race)",3.87451207170739,0,0,"Livingston","Livingston County","New York"
-"36055",2021,"B03002_003","White (Non-Hispanic)",69.7658358553448,0.0983716520627677,0.141002613753149,"Monroe","Monroe County","New York"
-"36055",2021,"B03002_004","Black (Non-Hispanic)",13.9793379917922,0.169146424553564,1.20997449702465,"Monroe","Monroe County","New York"
-"36055",2021,"B03002_005","Native American (Non-Hispanic)",0.0896568479874084,0.0208627127864662,23.2695139911635,"Monroe","Monroe County","New York"
-"36055",2021,"B03002_006","Asian (Non-Hispanic)",3.6398831688084,0.0761885144163986,2.09315823840963,"Monroe","Monroe County","New York"
-"36055",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0.0205986278144856,0.00607395435555344,29.4871794871795,"Monroe","Monroe County","New York"
-"36055",2021,"B03002_008","Other (Non-Hispanic)",0.279401900355458,0.0689261776869325,24.6691871455577,"Monroe","Monroe County","New York"
-"36055",2021,"B03002_009","Two or More Races (Non-Hispanic)",2.99142252011007,0.190537307283992,6.36945486647539,"Monroe","Monroe County","New York"
-"36055",2021,"B03002_012","Hispanic or Latino (Any Race)",9.23386308778713,0,0,"Monroe","Monroe County","New York"
-"36069",2021,"B03002_003","White (Non-Hispanic)",89.0942352311262,0.186507228270569,0.209337032622522,"Ontario","Ontario County","New York"
-"36069",2021,"B03002_004","Black (Non-Hispanic)",2.01499196858826,0.219525254328039,10.8945969884854,"Ontario","Ontario County","New York"
-"36069",2021,"B03002_005","Native American (Non-Hispanic)",0.103515973585579,0.058897019453864,56.8965517241379,"Ontario","Ontario County","New York"
-"36069",2021,"B03002_006","Asian (Non-Hispanic)",1.42780653221488,0.127610208816705,8.9375,"Ontario","Ontario County","New York"
-"36069",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0267713724790291,NA,"Ontario","Ontario County","New York"
-"36069",2021,"B03002_008","Other (Non-Hispanic)",0.155273960378369,0.124933071568802,80.4597701149425,"Ontario","Ontario County","New York"
-"36069",2021,"B03002_009","Two or More Races (Non-Hispanic)",2.19792968052829,0.301624129930394,13.723101908242,"Ontario","Ontario County","New York"
-"36069",2021,"B03002_012","Hispanic or Latino (Any Race)",5.00624665357844,0,0,"Ontario","Ontario County","New York"
-"36073",2021,"B03002_003","White (Non-Hispanic)",85.7026707401202,0.303045235044841,0.353600689952566,"Orleans","Orleans County","New York"
-"36073",2021,"B03002_004","Black (Non-Hispanic)",5.60510495713019,0.59130777569725,10.5494505494505,"Orleans","Orleans County","New York"
-"36073",2021,"B03002_005","Native American (Non-Hispanic)",0.295653887848625,0.125652902335666,42.5,"Orleans","Orleans County","New York"
-"36073",2021,"B03002_006","Asian (Non-Hispanic)",0.692322854045531,0.137971814329358,19.9288256227758,"Orleans","Orleans County","New York"
-"36073",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0665221247659407,NA,"Orleans","Orleans County","New York"
-"36073",2021,"B03002_008","Other (Non-Hispanic)",0.150290726323051,0.110870207943234,73.7704918032787,"Orleans","Orleans County","New York"
-"36073",2021,"B03002_009","Two or More Races (Non-Hispanic)",2.4292894451562,0.66029368286193,27.1805273833671,"Orleans","Orleans County","New York"
-"36073",2021,"B03002_012","Hispanic or Latino (Any Race)",5.12466738937617,0,0,"Orleans","Orleans County","New York"
-"36099",2021,"B03002_003","White (Non-Hispanic)",87.882005899705,0.383480825958702,0.436358754027927,"Seneca","Seneca County","New York"
-"36099",2021,"B03002_004","Black (Non-Hispanic)",5.03834808259587,0.312684365781711,6.20608899297424,"Seneca","Seneca County","New York"
-"36099",2021,"B03002_005","Native American (Non-Hispanic)",0.303834808259587,0.109144542772861,35.9223300970874,"Seneca","Seneca County","New York"
-"36099",2021,"B03002_006","Asian (Non-Hispanic)",0.610619469026549,0.115044247787611,18.8405797101449,"Seneca","Seneca County","New York"
-"36099",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0.0412979351032448,0.0589970501474926,142.857142857143,"Seneca","Seneca County","New York"
-"36099",2021,"B03002_008","Other (Non-Hispanic)",0.0766961651917404,0.0648967551622419,84.6153846153846,"Seneca","Seneca County","New York"
-"36099",2021,"B03002_009","Two or More Races (Non-Hispanic)",2.32448377581121,0.52212389380531,22.4619289340102,"Seneca","Seneca County","New York"
-"36099",2021,"B03002_012","Hispanic or Latino (Any Race)",3.72271386430678,0,0,"Seneca","Seneca County","New York"
-"36117",2021,"B03002_003","White (Non-Hispanic)",88.8505671615644,0.447816756448999,0.504011140001725,"Wayne","Wayne County","New York"
-"36117",2021,"B03002_004","Black (Non-Hispanic)",2.11535934831165,0.262777558796479,12.4223602484472,"Wayne","Wayne County","New York"
-"36117",2021,"B03002_005","Native American (Non-Hispanic)",0.0481758857793544,0.0350370078395305,72.7272727272727,"Wayne","Wayne County","New York"
-"36117",2021,"B03002_006","Asian (Non-Hispanic)",0.844172907633688,0.0886874260938116,10.5058365758755,"Wayne","Wayne County","New York"
-"36117",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0.00328471948495598,0.00547453247492664,166.666666666667,"Wayne","Wayne County","New York"
-"36117",2021,"B03002_008","Other (Non-Hispanic)",0.318617790040731,0.2014627950773,63.2302405498282,"Wayne","Wayne County","New York"
-"36117",2021,"B03002_009","Two or More Races (Non-Hispanic)",3.21026584329698,0.459860727893838,14.3246930422919,"Wayne","Wayne County","New York"
-"36117",2021,"B03002_012","Hispanic or Latino (Any Race)",4.60955634388823,0,0,"Wayne","Wayne County","New York"
-"36123",2021,"B03002_003","White (Non-Hispanic)",94.7557239600129,0.157207352466946,0.165908027396095,"Yates","Yates County","New York"
-"36123",2021,"B03002_004","Black (Non-Hispanic)",0.818284424379232,0.366817155756208,44.8275862068966,"Yates","Yates County","New York"
-"36123",2021,"B03002_005","Native American (Non-Hispanic)",0.0322476620445018,0.0604643663334408,187.5,"Yates","Yates County","New York"
-"36123",2021,"B03002_006","Asian (Non-Hispanic)",0.802160593356982,0.0927120283779426,11.5577889447236,"Yates","Yates County","New York"
-"36123",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0.0362786198000645,0.0604643663334408,166.666666666667,"Yates","Yates County","New York"
-"36123",2021,"B03002_008","Other (Non-Hispanic)",0.108835859400193,0.137052563689133,125.925925925926,"Yates","Yates County","New York"
-"36123",2021,"B03002_009","Two or More Races (Non-Hispanic)",1.24959690422444,0.403095775556272,32.258064516129,"Yates","Yates County","New York"
-"36123",2021,"B03002_012","Hispanic or Latino (Any Race)",2.19687197678168,0,0,"Yates","Yates County","New York"
-"36037",2022,"B03002_003","White (Non-Hispanic)",89.7532815614047,0.255996151467253,0.285222052067381,"Genesee","Genesee County","New York"
-"36037",2022,"B03002_004","Black (Non-Hispanic)",2.00158064737819,0.310975190708542,15.5364806866953,"Genesee","Genesee County","New York"
-"36037",2022,"B03002_005","Native American (Non-Hispanic)",0.462167548622088,0.0755961789567727,16.3568773234201,"Genesee","Genesee County","New York"
-"36037",2022,"B03002_006","Asian (Non-Hispanic)",0.817813208714178,0.149474262937255,18.2773109243698,"Genesee","Genesee County","New York"
-"36037",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.053260944264999,NA,"Genesee","Genesee County","New York"
-"36037",2022,"B03002_008","Other (Non-Hispanic)",0.228506631846608,0.185554257439351,81.203007518797,"Genesee","Genesee County","New York"
-"36037",2022,"B03002_009","Two or More Races (Non-Hispanic)",3.21455570063913,0.407188509380799,12.6670229823624,"Genesee","Genesee County","New York"
-"36037",2022,"B03002_012","Hispanic or Latino (Any Race)",3.52209470139509,0,0,"Genesee","Genesee County","New York"
-"36051",2022,"B03002_003","White (Non-Hispanic)",89.6385930945466,0.551790900290416,0.615572914791749,"Livingston","Livingston County","New York"
-"36051",2022,"B03002_004","Black (Non-Hispanic)",2.03936753791546,0.167796063246208,8.22784810126582,"Livingston","Livingston County","New York"
-"36051",2022,"B03002_005","Native American (Non-Hispanic)",0.0564698289770894,0.0419490158115521,74.2857142857143,"Livingston","Livingston County","New York"
-"36051",2022,"B03002_006","Asian (Non-Hispanic)",0.95837366892546,0.26460148434979,27.6094276094276,"Livingston","Livingston County","New York"
-"36051",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0500161342368506,NA,"Livingston","Livingston County","New York"
-"36051",2022,"B03002_008","Other (Non-Hispanic)",0.280735721200387,0.182316876411746,64.9425287356322,"Livingston","Livingston County","New York"
-"36051",2022,"B03002_009","Two or More Races (Non-Hispanic)",3.12681510164569,0.598580187157147,19.1434468524252,"Livingston","Livingston County","New York"
-"36051",2022,"B03002_012","Hispanic or Latino (Any Race)",3.89964504678929,0,0,"Livingston","Livingston County","New York"
-"36055",2022,"B03002_003","White (Non-Hispanic)",68.7696818904134,0.116339637707792,0.169172860059441,"Monroe","Monroe County","New York"
-"36055",2022,"B03002_004","Black (Non-Hispanic)",14.0540926433688,0.19037395261275,1.35458017421406,"Monroe","Monroe County","New York"
-"36055",2022,"B03002_005","Native American (Non-Hispanic)",0.0902954233572975,0.0171865373886511,19.0336749633968,"Monroe","Monroe County","New York"
-"36055",2022,"B03002_006","Asian (Non-Hispanic)",3.72207518184679,0.0966412217777225,2.59643389926831,"Monroe","Monroe County","New York"
-"36055",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0.0183763745924808,0.00515596121659532,28.0575539568345,"Monroe","Monroe County","New York"
-"36055",2022,"B03002_008","Other (Non-Hispanic)",0.324825556645505,0.0838174208031137,25.8038258038258,"Monroe","Monroe County","New York"
-"36055",2022,"B03002_009","Two or More Races (Non-Hispanic)",3.46678899955844,0.245899688791469,7.09300995309461,"Monroe","Monroe County","New York"
-"36055",2022,"B03002_012","Hispanic or Latino (Any Race)",9.55386393021737,0,0,"Monroe","Monroe County","New York"
-"36069",2022,"B03002_003","White (Non-Hispanic)",88.2293744656597,0.340196637218581,0.385582057312433,"Ontario","Ontario County","New York"
-"36069",2022,"B03002_004","Black (Non-Hispanic)",1.89512681675691,0.229766315189513,12.1240601503759,"Ontario","Ontario County","New York"
-"36069",2022,"B03002_005","Native American (Non-Hispanic)",0.0685736677115987,0.0391849529780564,57.1428571428571,"Ontario","Ontario County","New York"
-"36069",2022,"B03002_006","Asian (Non-Hispanic)",1.41422057566258,0.138037902536335,9.76070528967254,"Ontario","Ontario County","New York"
-"36069",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.027607580507267,NA,"Ontario","Ontario County","New York"
-"36069",2022,"B03002_008","Other (Non-Hispanic)",0.360679680820747,0.243124821886577,67.4074074074074,"Ontario","Ontario County","New York"
-"36069",2022,"B03002_009","Two or More Races (Non-Hispanic)",2.82042604730692,0.357117412368196,12.6618250710452,"Ontario","Ontario County","New York"
-"36069",2022,"B03002_012","Hispanic or Latino (Any Race)",5.2115987460815,0,0,"Ontario","Ontario County","New York"
-"36073",2022,"B03002_003","White (Non-Hispanic)",85.4064959649298,0.410979376307662,0.481203884627723,"Orleans","Orleans County","New York"
-"36073",2022,"B03002_004","Black (Non-Hispanic)",5.32280561920893,0.430905649098336,8.09546092653252,"Orleans","Orleans County","New York"
-"36073",2022,"B03002_005","Native American (Non-Hispanic)",0.303875660057786,0.139483909534722,45.9016393442623,"Orleans","Orleans County","New York"
-"36073",2022,"B03002_006","Asian (Non-Hispanic)",0.672511706685264,0.122048420842881,18.1481481481482,"Orleans","Orleans County","New York"
-"36073",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0697419547673608,NA,"Orleans","Orleans County","New York"
-"36073",2022,"B03002_008","Other (Non-Hispanic)",0.132011557238219,0.0921590116568696,69.811320754717,"Orleans","Orleans County","New York"
-"36073",2022,"B03002_009","Two or More Races (Non-Hispanic)",2.87685563415363,0.595297399621401,20.6926406926407,"Orleans","Orleans County","New York"
-"36073",2022,"B03002_012","Hispanic or Latino (Any Race)",5.28544385772641,0,0,"Orleans","Orleans County","New York"
-"36099",2022,"B03002_003","White (Non-Hispanic)",88.0449317999465,0.502213901518528,0.570406372350479,"Seneca","Seneca County","New York"
-"36099",2022,"B03002_004","Black (Non-Hispanic)",4.16332352678969,0.267451190157796,6.42398286937901,"Seneca","Seneca County","New York"
-"36099",2022,"B03002_005","Native American (Non-Hispanic)",0.228819351579448,0.13669727496954,59.7402597402597,"Seneca","Seneca County","New York"
-"36099",2022,"B03002_006","Asian (Non-Hispanic)",0.701316454191555,0.13669727496954,19.4915254237288,"Seneca","Seneca County","New York"
-"36099",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0.0148583994532109,0.0178300793438531,120,"Seneca","Seneca County","New York"
-"36099",2022,"B03002_008","Other (Non-Hispanic)",0.329856467861282,0.213960952126237,64.8648648648649,"Seneca","Seneca County","New York"
-"36099",2022,"B03002_009","Two or More Races (Non-Hispanic)",2.6982853407031,0.543817419987519,20.1541850220264,"Seneca","Seneca County","New York"
-"36099",2022,"B03002_012","Hispanic or Latino (Any Race)",3.8186086594752,0,0,"Seneca","Seneca County","New York"
-"36117",2022,"B03002_003","White (Non-Hispanic)",88.2637641802812,0.458806009373221,0.519812420911595,"Wayne","Wayne County","New York"
-"36117",2022,"B03002_004","Black (Non-Hispanic)",2.25679996495992,0.246375542026192,10.9170305676856,"Wayne","Wayne County","New York"
-"36117",2022,"B03002_005","Native American (Non-Hispanic)",0.0394200867241908,0.0284700626341378,72.2222222222222,"Wayne","Wayne County","New York"
-"36117",2022,"B03002_006","Asian (Non-Hispanic)",0.854101879024134,0.122640269808594,14.3589743589744,"Wayne","Wayne County","New York"
-"36117",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0.0032850072270159,0.0065700144540318,200,"Wayne","Wayne County","New York"
-"36117",2022,"B03002_008","Other (Non-Hispanic)",0.355875782926722,0.187245411939906,52.6153846153846,"Wayne","Wayne County","New York"
-"36117",2022,"B03002_009","Two or More Races (Non-Hispanic)",3.4503525907757,0.474136043099295,13.7416693113297,"Wayne","Wayne County","New York"
-"36117",2022,"B03002_012","Hispanic or Latino (Any Race)",4.77640050808112,0,0,"Wayne","Wayne County","New York"
-"36123",2022,"B03002_003","White (Non-Hispanic)",94.5737061465625,0.218508477319629,0.231045695704261,"Yates","Yates County","New York"
-"36123",2022,"B03002_004","Black (Non-Hispanic)",0.53817828673168,0.275158823291385,51.1278195488722,"Yates","Yates County","New York"
-"36123",2022,"B03002_005","Native American (Non-Hispanic)",0.0728361591065431,0.0687897058228463,94.4444444444445,"Yates","Yates County","New York"
-"36123",2022,"B03002_006","Asian (Non-Hispanic)",1.01565977420791,0.590782179419739,58.1673306772908,"Yates","Yates County","New York"
-"36123",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0.0202322664184842,0.0404645328369684,200,"Yates","Yates County","New York"
-"36123",2022,"B03002_008","Other (Non-Hispanic)",0.109254238659815,0.129486505078299,118.518518518519,"Yates","Yates County","New York"
-"36123",2022,"B03002_009","Two or More Races (Non-Hispanic)",1.46886254198195,0.546271193299073,37.1900826446281,"Yates","Yates County","New York"
-"36123",2022,"B03002_012","Hispanic or Latino (Any Race)",2.20127058633108,0,0,"Yates","Yates County","New York"
-"36037",2023,"B03002_003","White (Non-Hispanic)",88.3782337814749,0.257149267383463,0.290964478900193,"Genesee","Genesee County","New York"
-"36037",2023,"B03002_004","Black (Non-Hispanic)",1.80004487168424,0.308924287662013,17.1620325982742,"Genesee","Genesee County","New York"
-"36037",2023,"B03002_005","Native American (Non-Hispanic)",0.384860984070552,0.0569525223064046,14.7982062780269,"Genesee","Genesee County","New York"
-"36037",2023,"B03002_006","Asian (Non-Hispanic)",0.704140275788275,0.220906753188478,31.3725490196078,"Genesee","Genesee County","New York"
-"36037",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0535008542878346,NA,"Genesee","Genesee County","New York"
-"36037",2023,"B03002_008","Other (Non-Hispanic)",0.260600935402033,0.170857566919214,65.5629139072848,"Genesee","Genesee County","New York"
-"36037",2023,"B03002_009","Two or More Races (Non-Hispanic)",3.73815646411128,0.433184336330532,11.5881809787627,"Genesee","Genesee County","New York"
-"36037",2023,"B03002_012","Hispanic or Latino (Any Race)",4.73396268746872,0,0,"Genesee","Genesee County","New York"
-"36051",2023,"B03002_003","White (Non-Hispanic)",88.8728323699422,0.487107878158083,0.548095368594135,"Livingston","Livingston County","New York"
-"36051",2023,"B03002_004","Black (Non-Hispanic)",1.7519646684419,0.214327466389556,12.2335495829472,"Livingston","Livingston County","New York"
-"36051",2023,"B03002_005","Native American (Non-Hispanic)",0.0617003312333572,0.0340975514710658,55.2631578947368,"Livingston","Livingston County","New York"
-"36051",2023,"B03002_006","Asian (Non-Hispanic)",0.948236669481068,0.241930246151848,25.513698630137,"Livingston","Livingston County","New York"
-"36051",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0503344807430019,NA,"Livingston","Livingston County","New York"
-"36051",2023,"B03002_008","Other (Non-Hispanic)",0.379944144963305,0.225693316879912,59.4017094017094,"Livingston","Livingston County","New York"
-"36051",2023,"B03002_009","Two or More Races (Non-Hispanic)",3.505553029811,0.613755926479184,17.5081056044465,"Livingston","Livingston County","New York"
-"36051",2023,"B03002_012","Hispanic or Latino (Any Race)",4.47976878612717,0,0,"Livingston","Livingston County","New York"
-"36055",2023,"B03002_003","White (Non-Hispanic)",68.3559042420577,0.131420508495255,0.192259190998157,"Monroe","Monroe County","New York"
-"36055",2023,"B03002_004","Black (Non-Hispanic)",13.8170562867009,0.213375982006928,1.5442940781265,"Monroe","Monroe County","New York"
-"36055",2023,"B03002_005","Native American (Non-Hispanic)",0.0802314910591618,0.0180355087339603,22.4793388429752,"Monroe","Monroe County","New York"
-"36055",2023,"B03002_006","Asian (Non-Hispanic)",3.72406732549319,0.0873926489388225,2.34669895306602,"Monroe","Monroe County","New York"
-"36055",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0.0310316841451965,0.00901775436698017,29.0598290598291,"Monroe","Monroe County","New York"
-"36055",2023,"B03002_008","Other (Non-Hispanic)",0.357925279948227,0.0907079998090358,25.3427195257503,"Monroe","Monroe County","New York"
-"36055",2023,"B03002_009","Two or More Races (Non-Hispanic)",3.88346939533305,0.266288981895532,6.85698675044393,"Monroe","Monroe County","New York"
-"36055",2023,"B03002_012","Hispanic or Latino (Any Race)",9.7503142952625,0,0,"Monroe","Monroe County","New York"
-"36069",2023,"B03002_003","White (Non-Hispanic)",87.4089230906098,0.375428139317646,0.429507796278956,"Ontario","Ontario County","New York"
-"36069",2023,"B03002_004","Black (Non-Hispanic)",2.04795160357635,0.245540678795427,11.989574283232,"Ontario","Ontario County","New York"
-"36069",2023,"B03002_005","Native American (Non-Hispanic)",0.0444820070281571,0.0266892042168943,60,"Ontario","Ontario County","New York"
-"36069",2023,"B03002_006","Asian (Non-Hispanic)",1.3469151728126,0.122770339397714,9.11492734478203,"Ontario","Ontario County","New York"
-"36069",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0275788443574574,NA,"Ontario","Ontario County","New York"
-"36069",2023,"B03002_008","Other (Non-Hispanic)",0.328277211867799,0.197500111205018,60.1626016260163,"Ontario","Ontario County","New York"
-"36069",2023,"B03002_009","Two or More Races (Non-Hispanic)",3.25430363417997,0.410124104799609,12.6025150355385,"Ontario","Ontario County","New York"
-"36069",2023,"B03002_012","Hispanic or Latino (Any Race)",5.56914727992527,0,0,"Ontario","Ontario County","New York"
-"36073",2023,"B03002_003","White (Non-Hispanic)",85.6145744091115,0.446001108703321,0.5209406363128,"Orleans","Orleans County","New York"
-"36073",2023,"B03002_004","Black (Non-Hispanic)",4.55576273748929,0.352769238522401,7.74336283185841,"Orleans","Orleans County","New York"
-"36073",2023,"B03002_005","Native American (Non-Hispanic)",0.428362646777201,0.19906264173764,46.4705882352941,"Orleans","Orleans County","New York"
-"36073",2023,"B03002_006","Asian (Non-Hispanic)",0.670261553192562,0.1763846192612,26.3157894736842,"Orleans","Orleans County","New York"
-"36073",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0705538477044802,NA,"Orleans","Orleans County","New York"
-"36073",2023,"B03002_008","Other (Non-Hispanic)",0.264576928891801,0.16630549816056,62.8571428571429,"Orleans","Orleans County","New York"
-"36073",2023,"B03002_009","Two or More Races (Non-Hispanic)",3.23035831275513,0.609786826588721,18.8767550702028,"Orleans","Orleans County","New York"
-"36073",2023,"B03002_012","Hispanic or Latino (Any Race)",5.23610341178249,0,0,"Orleans","Orleans County","New York"
-"36099",2023,"B03002_003","White (Non-Hispanic)",88.0664150943396,0.555471698113208,0.630741807212395,"Seneca","Seneca County","New York"
-"36099",2023,"B03002_004","Black (Non-Hispanic)",3.60452830188679,0.316981132075472,8.79396984924623,"Seneca","Seneca County","New York"
-"36099",2023,"B03002_005","Native American (Non-Hispanic)",0.060377358490566,0.0633962264150943,105,"Seneca","Seneca County","New York"
-"36099",2023,"B03002_006","Asian (Non-Hispanic)",0.685283018867925,0.163018867924528,23.7885462555066,"Seneca","Seneca County","New York"
-"36099",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0.0120754716981132,0.0150943396226415,125,"Seneca","Seneca County","New York"
-"36099",2023,"B03002_008","Other (Non-Hispanic)",0.552452830188679,0.392452830188679,71.0382513661202,"Seneca","Seneca County","New York"
-"36099",2023,"B03002_009","Two or More Races (Non-Hispanic)",2.91320754716981,0.534339622641509,18.3419689119171,"Seneca","Seneca County","New York"
-"36099",2023,"B03002_012","Hispanic or Latino (Any Race)",4.10566037735849,0,0,"Seneca","Seneca County","New York"
-"36117",2023,"B03002_003","White (Non-Hispanic)",87.5208497936968,0.463084891581073,0.529113797081097,"Wayne","Wayne County","New York"
-"36117",2023,"B03002_004","Black (Non-Hispanic)",2.2276358528663,0.250197524361338,11.2315270935961,"Wayne","Wayne County","New York"
-"36117",2023,"B03002_005","Native American (Non-Hispanic)",0.0548678781494162,0.0307260117636731,56,"Wayne","Wayne County","New York"
-"36117",2023,"B03002_006","Asian (Non-Hispanic)",0.839478535686068,0.175577210078132,20.9150326797386,"Wayne","Wayne County","New York"
-"36117",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0.0263365815117198,0.0351154420156264,133.333333333333,"Wayne","Wayne County","New York"
-"36117",2023,"B03002_008","Other (Non-Hispanic)",0.415898516372575,0.2161794399087,51.9788918205805,"Wayne","Wayne County","New York"
-"36117",2023,"B03002_009","Two or More Races (Non-Hispanic)",3.83965411289615,0.459792818892108,11.9748499571306,"Wayne","Wayne County","New York"
-"36117",2023,"B03002_012","Hispanic or Latino (Any Race)",5.075278728821,0,0,"Wayne","Wayne County","New York"
-"36123",2023,"B03002_003","White (Non-Hispanic)",93.9887161586232,0.190769980111215,0.202971152185179,"Yates","Yates County","New York"
-"36123",2023,"B03002_004","Black (Non-Hispanic)",0.661606526768681,0.365304217234241,55.2147239263804,"Yates","Yates County","New York"
-"36123",2023,"B03002_005","Native American (Non-Hispanic)",0.064942971952754,0.0811787149409425,125,"Yates","Yates County","New York"
-"36123",2023,"B03002_006","Asian (Non-Hispanic)",0.67784226975687,0.454600803669278,67.065868263473,"Yates","Yates County","New York"
-"36123",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.101473393676178,NA,"Yates","Yates County","New York"
-"36123",2023,"B03002_008","Other (Non-Hispanic)",0.0852376506879896,0.105532329423225,123.809523809524,"Yates","Yates County","New York"
-"36123",2023,"B03002_009","Two or More Races (Non-Hispanic)",1.95640703007671,0.462718675163372,23.6514522821577,"Yates","Yates County","New York"
-"36123",2023,"B03002_012","Hispanic or Latino (Any Race)",2.56524739213378,0,0,"Yates","Yates County","New York"
-"36037",2024,"B03002_003","White (Non-Hispanic)",87.8796269057054,0.340907124439753,0.387925093042947,"Genesee","Genesee County","New York"
-"36037",2024,"B03002_004","Black (Non-Hispanic)",2.11466246733694,0.398013394015955,18.8216039279869,"Genesee","Genesee County","New York"
-"36037",2024,"B03002_005","Native American (Non-Hispanic)",0.320141208230225,0.0847941578555731,26.4864864864865,"Genesee","Genesee County","New York"
-"36037",2024,"B03002_006","Asian (Non-Hispanic)",0.664509318704899,0.155744371571461,23.4375,"Genesee","Genesee County","New York"
-"36037",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0553757765587416,NA,"Genesee","Genesee County","New York"
-"36037",2024,"B03002_008","Other (Non-Hispanic)",0.295914305985775,0.23015557132227,77.7777777777778,"Genesee","Genesee County","New York"
-"36037",2024,"B03002_009","Two or More Races (Non-Hispanic)",3.87630435911191,0.482807551871528,12.4553571428571,"Genesee","Genesee County","New York"
-"36037",2024,"B03002_012","Hispanic or Latino (Any Race)",4.84884143492481,0,0,"Genesee","Genesee County","New York"
-"36051",2024,"B03002_003","White (Non-Hispanic)",88.0695307164461,0.600019512829686,0.681302043906132,"Livingston","Livingston County","New York"
-"36051",2024,"B03002_004","Black (Non-Hispanic)",1.87810985723113,0.200006504276562,10.6493506493506,"Livingston","Livingston County","New York"
-"36051",2024,"B03002_005","Native American (Non-Hispanic)",0.0422777976519562,0.0308953136687372,73.0769230769231,"Livingston","Livingston County","New York"
-"36051",2024,"B03002_006","Asian (Non-Hispanic)",1.16101336628833,0.21951933396208,18.9075630252101,"Livingston","Livingston County","New York"
-"36051",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0.0536602816351751,0.0731731113206933,136.363636363636,"Livingston","Livingston County","New York"
-"36051",2024,"B03002_008","Other (Non-Hispanic)",0.526846401508992,0.284562099580474,54.0123456790123,"Livingston","Livingston County","New York"
-"36051",2024,"B03002_009","Two or More Races (Non-Hispanic)",3.62288204494455,0.574002406582328,15.8438061041293,"Livingston","Livingston County","New York"
-"36051",2024,"B03002_012","Hispanic or Latino (Any Race)",4.6456795342938,0,0,"Livingston","Livingston County","New York"
-"36055",2024,"B03002_003","White (Non-Hispanic)",67.7392992134028,0.146201739827238,0.215830015256949,"Monroe","Monroe County","New York"
-"36055",2024,"B03002_004","Black (Non-Hispanic)",13.455866842321,0.228987479983496,1.70176684019561,"Monroe","Monroe County","New York"
-"36055",2024,"B03002_005","Native American (Non-Hispanic)",0.0705801502614252,0.0168490208330846,23.8721804511278,"Monroe","Monroe County","New York"
-"36055",2024,"B03002_006","Asian (Non-Hispanic)",3.75361690102726,0.0933992965865476,2.4882479765313,"Monroe","Monroe County","New York"
-"36055",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0.0175123681099777,0.00796016732271712,45.4545454545455,"Monroe","Monroe County","New York"
-"36055",2024,"B03002_008","Other (Non-Hispanic)",0.522717654191758,0.119667848751514,22.8934010152284,"Monroe","Monroe County","New York"
-"36055",2024,"B03002_009","Two or More Races (Non-Hispanic)",4.4955044955045,0.253265990317783,5.63376125129113,"Monroe","Monroe County","New York"
-"36055",2024,"B03002_012","Hispanic or Latino (Any Race)",9.94490237518126,0,0,"Monroe","Monroe County","New York"
-"36069",2024,"B03002_003","White (Non-Hispanic)",86.9069922308546,0.422641509433962,0.486314735540821,"Ontario","Ontario County","New York"
-"36069",2024,"B03002_004","Black (Non-Hispanic)",2.05460599334073,0.31165371809101,15.1685393258427,"Ontario","Ontario County","New York"
-"36069",2024,"B03002_005","Native American (Non-Hispanic)",0.0204217536071032,0.018645948945616,91.304347826087,"Ontario","Ontario County","New York"
-"36069",2024,"B03002_006","Asian (Non-Hispanic)",1.34783573806881,0.12519422863485,9.28853754940712,"Ontario","Ontario County","New York"
-"36069",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0284128745837958,NA,"Ontario","Ontario County","New York"
-"36069",2024,"B03002_008","Other (Non-Hispanic)",0.407547169811321,0.266370699223085,65.359477124183,"Ontario","Ontario County","New York"
-"36069",2024,"B03002_009","Two or More Races (Non-Hispanic)",3.54628190899001,0.525638179800222,14.822233350025,"Ontario","Ontario County","New York"
-"36069",2024,"B03002_012","Hispanic or Latino (Any Race)",5.71631520532741,0,0,"Ontario","Ontario County","New York"
-"36073",2024,"B03002_003","White (Non-Hispanic)",84.5788729549586,0.623611391638053,0.737313432835821,"Orleans","Orleans County","New York"
-"36073",2024,"B03002_004","Black (Non-Hispanic)",4.85760452433852,0.421631993536659,8.67983367983368,"Orleans","Orleans County","New York"
-"36073",2024,"B03002_005","Native American (Non-Hispanic)",0.40143405372652,0.204504140577661,50.9433962264151,"Orleans","Orleans County","New York"
-"36073",2024,"B03002_006","Asian (Non-Hispanic)",0.764996970309028,0.159058776004847,20.7920792079208,"Orleans","Orleans County","New York"
-"36073",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0732175318117552,NA,"Orleans","Orleans County","New York"
-"36073",2024,"B03002_008","Other (Non-Hispanic)",0.386285598868915,0.189355685720057,49.0196078431373,"Orleans","Orleans County","New York"
-"36073",2024,"B03002_009","Two or More Races (Non-Hispanic)",3.54473843667946,0.818016562310644,23.0769230769231,"Orleans","Orleans County","New York"
-"36073",2024,"B03002_012","Hispanic or Latino (Any Race)",5.46606746111897,0,0,"Orleans","Orleans County","New York"
-"36099",2024,"B03002_003","White (Non-Hispanic)",87.275212636695,0.753341433778858,0.86317914447809,"Seneca","Seneca County","New York"
-"36099",2024,"B03002_004","Black (Non-Hispanic)",3.46597812879708,0.294653705953827,8.50131463628396,"Seneca","Seneca County","New York"
-"36099",2024,"B03002_005","Native American (Non-Hispanic)",0.0698663426488457,0.0607533414337789,86.9565217391304,"Seneca","Seneca County","New York"
-"36099",2024,"B03002_006","Asian (Non-Hispanic)",0.610571081409478,0.218712029161604,35.8208955223881,"Seneca","Seneca County","New York"
-"36099",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0880923450789793,NA,"Seneca","Seneca County","New York"
-"36099",2024,"B03002_008","Other (Non-Hispanic)",0.695625759416768,0.376670716889429,54.1484716157205,"Seneca","Seneca County","New York"
-"36099",2024,"B03002_009","Two or More Races (Non-Hispanic)",3.52065613608748,0.756379100850547,21.4840379637619,"Seneca","Seneca County","New York"
-"36099",2024,"B03002_012","Hispanic or Latino (Any Race)",4.36208991494532,0,0,"Seneca","Seneca County","New York"
-"36117",2024,"B03002_003","White (Non-Hispanic)",86.5983349646427,0.548779817220029,0.633707123172853,"Wayne","Wayne County","New York"
-"36117",2024,"B03002_004","Black (Non-Hispanic)",2.24350867160092,0.233148940382056,10.3921568627451,"Wayne","Wayne County","New York"
-"36117",2024,"B03002_005","Native American (Non-Hispanic)",0.0637860308592418,0.0318930154296209,50,"Wayne","Wayne County","New York"
-"36117",2024,"B03002_006","Asian (Non-Hispanic)",0.739038150645009,0.28153834310286,38.0952380952381,"Wayne","Wayne County","New York"
-"36117",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0.0274939788186387,0.0428906069570764,156,"Wayne","Wayne County","New York"
-"36117",2024,"B03002_008","Other (Non-Hispanic)",0.406910886515853,0.20015616579969,49.1891891891892,"Wayne","Wayne County","New York"
-"36117",2024,"B03002_009","Two or More Races (Non-Hispanic)",4.64868193865543,0.630161994523199,13.555713271824,"Wayne","Wayne County","New York"
-"36117",2024,"B03002_012","Hispanic or Latino (Any Race)",5.27224537826216,0,0,"Wayne","Wayne County","New York"
-"36123",2024,"B03002_003","White (Non-Hispanic)",93.6720215281742,0.26502487156487,0.282928527901106,"Yates","Yates County","New York"
-"36123",2024,"B03002_004","Black (Non-Hispanic)",0.815461143276523,0.346570985892522,42.5,"Yates","Yates County","New York"
-"36123",2024,"B03002_005","Native American (Non-Hispanic)",0.053004974312974,0.0693141971785044,130.769230769231,"Yates","Yates County","New York"
-"36123",2024,"B03002_006","Asian (Non-Hispanic)",0.852156894723966,0.0774688086112697,9.09090909090909,"Yates","Yates County","New York"
-"36123",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.101932642909565,NA,"Yates","Yates County","New York"
-"36123",2024,"B03002_008","Other (Non-Hispanic)",0.154937617222539,0.146783005789774,94.7368421052631,"Yates","Yates County","New York"
-"36123",2024,"B03002_009","Two or More Races (Non-Hispanic)",1.85517410095409,0.415885183071027,22.4175824175824,"Yates","Yates County","New York"
-"36123",2024,"B03002_012","Hispanic or Latino (Any Race)",2.59724374133572,0,0,"Yates","Yates County","New York"
+"GEOID","year","variable","Variable_Description","estimate","moe","moe_pct_of_estimate","County","Geography","State","count"
+"36037",2017,"B03002_003","White (Non-Hispanic)",90.7460238823308,0.0700411705417087,0.077183734939759,"Genesee","Genesee County","New York",53120
+"36037",2017,"B03002_004","Black (Non-Hispanic)",2.3608999436254,0.297247894494081,12.5904486251809,"Genesee","Genesee County","New York",1382
+"36037",2017,"B03002_005","Native American (Non-Hispanic)",0.949826605394879,0.191331978065155,20.1438848920863,"Genesee","Genesee County","New York",556
+"36037",2017,"B03002_006","Asian (Non-Hispanic)",0.693578420486188,0.145207304781591,20.935960591133,"Genesee","Genesee County","New York",406
+"36037",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0461246732835642,NA,"Genesee","Genesee County","New York",0
+"36037",2017,"B03002_008","Other (Non-Hispanic)",0.109332558894374,0.0700411705417087,64.0625,"Genesee","Genesee County","New York",64
+"36037",2017,"B03002_009","Two or More Races (Non-Hispanic)",2.034610588175,0.368997386268514,18.1360201511335,"Genesee","Genesee County","New York",1191
+"36037",2017,"B03002_012","Hispanic or Latino (Any Race)",3.10572800109333,0,0,"Genesee","Genesee County","New York",1818
+"36051",2017,"B03002_003","White (Non-Hispanic)",90.9511751821416,0.0388361580165597,0.0427000068320011,"Livingston","Livingston County","New York",58548
+"36051",2017,"B03002_004","Black (Non-Hispanic)",2.46842620353254,0.229910055458034,9.31403398363751,"Livingston","Livingston County","New York",1589
+"36051",2017,"B03002_005","Native American (Non-Hispanic)",0.14291706150094,0.091653332919081,64.1304347826087,"Livingston","Livingston County","New York",92
+"36051",2017,"B03002_006","Asian (Non-Hispanic)",1.3794603327482,0.189520451120812,13.7387387387387,"Livingston","Livingston County","New York",888
+"36051",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0.0233016948099358,0.0310689264132478,133.333333333333,"Livingston","Livingston County","New York",15
+"36051",2017,"B03002_008","Other (Non-Hispanic)",0.108741242446367,0.107187796125705,98.5714285714286,"Livingston","Livingston County","New York",70
+"36051",2017,"B03002_009","Two or More Races (Non-Hispanic)",1.48975502151523,0.288941015643204,19.3952033368092,"Livingston","Livingston County","New York",959
+"36051",2017,"B03002_012","Hispanic or Latino (Any Race)",3.43622326130521,0,0,"Livingston","Livingston County","New York",2212
+"36055",2017,"B03002_003","White (Non-Hispanic)",70.9691724101085,0.0589036704600096,0.0829989535732838,"Monroe","Monroe County","New York",531332
+"36055",2017,"B03002_004","Black (Non-Hispanic)",14.4694662606187,0.151199444355399,1.04495522939167,"Monroe","Monroe County","New York",108330
+"36055",2017,"B03002_005","Native American (Non-Hispanic)",0.158278570283699,0.0264465459208206,16.7088607594937,"Monroe","Monroe County","New York",1185
+"36055",2017,"B03002_006","Asian (Non-Hispanic)",3.64428060052359,0.086819468931987,2.38234862923325,"Monroe","Monroe County","New York",27284
+"36055",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0.0188331463375541,0.00694555751455896,36.8794326241135,"Monroe","Monroe County","New York",141
+"36055",2017,"B03002_008","Other (Non-Hispanic)",0.193674199925202,0.0709248276967463,36.6206896551724,"Monroe","Monroe County","New York",1450
+"36055",2017,"B03002_009","Two or More Races (Non-Hispanic)",2.1992039322541,0.183790137308329,8.35712116610993,"Monroe","Monroe County","New York",16465
+"36055",2017,"B03002_012","Hispanic or Latino (Any Race)",8.34709087994871,0,0,"Monroe","Monroe County","New York",62493
+"36069",2017,"B03002_003","White (Non-Hispanic)",90.2813929912048,0.107771415002146,0.119372787051088,"Ontario","Ontario County","New York",98850
+"36069",2017,"B03002_004","Black (Non-Hispanic)",2.26502634919765,0.197276488478505,8.70967741935484,"Ontario","Ontario County","New York",2480
+"36069",2017,"B03002_005","Native American (Non-Hispanic)",0.209149610470267,0.065758829492835,31.4410480349345,"Ontario","Ontario County","New York",229
+"36069",2017,"B03002_006","Asian (Non-Hispanic)",1.30330346786494,0.143390780977432,11.0021023125438,"Ontario","Ontario County","New York",1427
+"36069",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0.118731219917619,0.115991268688751,97.6923076923077,"Ontario","Ontario County","New York",130
+"36069",2017,"B03002_008","Other (Non-Hispanic)",0.150697317587747,0.10229151254441,67.8787878787879,"Ontario","Ontario County","New York",165
+"36069",2017,"B03002_009","Two or More Races (Non-Hispanic)",1.23571800421953,0.230155903224923,18.6252771618625,"Ontario","Ontario County","New York",1353
+"36069",2017,"B03002_012","Hispanic or Latino (Any Race)",4.4359810395375,0,0,"Ontario","Ontario County","New York",4857
+"36073",2017,"B03002_003","White (Non-Hispanic)",86.5260677183532,0.067333589842247,0.0778188488368861,"Orleans","Orleans County","New York",35981
+"36073",2017,"B03002_004","Black (Non-Hispanic)",5.86283185840708,0.483358984224702,8.24446267432322,"Orleans","Orleans County","New York",2438
+"36073",2017,"B03002_005","Native American (Non-Hispanic)",0.379953828395537,0.165929203539823,43.6708860759494,"Orleans","Orleans County","New York",158
+"36073",2017,"B03002_006","Asian (Non-Hispanic)",0.654097729896114,0.0841669873028088,12.8676470588235,"Orleans","Orleans County","New York",272
+"36073",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0.0577145055790689,0.0841669873028088,145.833333333333,"Orleans","Orleans County","New York",24
+"36073",2017,"B03002_008","Other (Non-Hispanic)",0.0577145055790689,0.067333589842247,116.666666666667,"Orleans","Orleans County","New York",24
+"36073",2017,"B03002_009","Two or More Races (Non-Hispanic)",1.72181608310889,0.507406694882647,29.4692737430168,"Orleans","Orleans County","New York",716
+"36073",2017,"B03002_012","Hispanic or Latino (Any Race)",4.73980377068103,0,0,"Orleans","Orleans County","New York",1971
+"36099",2017,"B03002_003","White (Non-Hispanic)",89.3493671612662,0.0200901185316993,0.0224849029937042,"Seneca","Seneca County","New York",31132
+"36099",2017,"B03002_004","Black (Non-Hispanic)",4.63507734695635,0.358752116637488,7.73993808049535,"Seneca","Seneca County","New York",1615
+"36099",2017,"B03002_005","Native American (Non-Hispanic)",0.31283184570789,0.137760812788795,44.0366972477064,"Seneca","Seneca County","New York",109
+"36099",2017,"B03002_006","Asian (Non-Hispanic)",0.720374250208076,0.114800677323996,15.9362549800797,"Seneca","Seneca County","New York",251
+"36099",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0.00861005079929972,0.0172201015985994,200,"Seneca","Seneca County","New York",3
+"36099",2017,"B03002_008","Other (Non-Hispanic)",0.0229601354647992,0.0401802370633987,175,"Seneca","Seneca County","New York",8
+"36099",2017,"B03002_009","Two or More Races (Non-Hispanic)",1.68182992279654,0.416152455299486,24.7440273037543,"Seneca","Seneca County","New York",586
+"36099",2017,"B03002_012","Hispanic or Latino (Any Race)",3.26894928680079,0,0,"Seneca","Seneca County","New York",1139
+"36117",2017,"B03002_003","White (Non-Hispanic)",90.2462763281643,0.0535858795739376,0.0593773856985325,"Wayne","Wayne County","New York",82523
+"36117",2017,"B03002_004","Black (Non-Hispanic)",2.92097723146913,0.207781982021391,7.11344065892924,"Wayne","Wayne County","New York",2671
+"36117",2017,"B03002_005","Native American (Non-Hispanic)",0.145447387414973,0.0623345946064172,42.8571428571429,"Wayne","Wayne County","New York",133
+"36117",2017,"B03002_006","Asian (Non-Hispanic)",0.66927669998469,0.122482010454714,18.3006535947712,"Wayne","Wayne County","New York",612
+"36117",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0.0721768990179567,0.0754576671551366,104.545454545455,"Wayne","Wayne County","New York",66
+"36117",2017,"B03002_008","Other (Non-Hispanic)",0.0393692176461582,0.0317140919927386,80.5555555555555,"Wayne","Wayne County","New York",36
+"36117",2017,"B03002_009","Two or More Races (Non-Hispanic)",1.69506353754292,0.250431967804729,14.7741935483871,"Wayne","Wayne County","New York",1550
+"36117",2017,"B03002_012","Hispanic or Latino (Any Race)",4.21141269875987,0,0,"Wayne","Wayne County","New York",3851
+"36123",2017,"B03002_003","White (Non-Hispanic)",94.9049156799426,0.247179364509827,0.260449485402226,"Yates","Yates County","New York",23805
+"36123",2017,"B03002_004","Black (Non-Hispanic)",0.992704221983016,0.247179364509827,24.8995983935743,"Yates","Yates County","New York",249
+"36123",2017,"B03002_005","Native American (Non-Hispanic)",0.0717617509867241,0.0837220428178447,116.666666666667,"Yates","Yates County","New York",18
+"36123",2017,"B03002_006","Asian (Non-Hispanic)",0.657816050711637,0.135549974086034,20.6060606060606,"Yates","Yates County","New York",165
+"36123",2017,"B03002_007","Pacific Islander (Non-Hispanic)",0.00797352788741379,0.0119602918311207,150,"Yates","Yates County","New York",2
+"36123",2017,"B03002_008","Other (Non-Hispanic)",0.199338197185345,0.211298489016465,106,"Yates","Yates County","New York",50
+"36123",2017,"B03002_009","Two or More Races (Non-Hispanic)",1.00466451381414,0.310967587609138,30.9523809523809,"Yates","Yates County","New York",252
+"36123",2017,"B03002_012","Hispanic or Latino (Any Race)",2.16082605748914,0,0,"Yates","Yates County","New York",542
+"36037",2018,"B03002_003","White (Non-Hispanic)",90.6817868942731,0.0550660792951542,0.060724519422358,"Genesee","Genesee County","New York",52697
+"36037",2018,"B03002_004","Black (Non-Hispanic)",2.14929790748899,0.387183370044053,18.0144115292234,"Genesee","Genesee County","New York",1249
+"36037",2018,"B03002_005","Native American (Non-Hispanic)",0.862128303964758,0.178964757709251,20.7584830339321,"Genesee","Genesee County","New York",501
+"36037",2018,"B03002_006","Asian (Non-Hispanic)",0.820828744493392,0.0739950440528634,9.0146750524109,"Genesee","Genesee County","New York",477
+"36037",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0481828193832599,NA,"Genesee","Genesee County","New York",0
+"36037",2018,"B03002_008","Other (Non-Hispanic)",0.0739950440528634,0.063670154185022,86.046511627907,"Genesee","Genesee County","New York",43
+"36037",2018,"B03002_009","Two or More Races (Non-Hispanic)",2.23017621145374,0.406112334801762,18.2098765432099,"Genesee","Genesee County","New York",1296
+"36037",2018,"B03002_012","Hispanic or Latino (Any Race)",3.18178689427313,0,0,"Genesee","Genesee County","New York",1849
+"36051",2018,"B03002_003","White (Non-Hispanic)",90.9321357597759,0.0391193452986371,0.0430203744493392,"Livingston","Livingston County","New York",58112
+"36051",2018,"B03002_004","Black (Non-Hispanic)",2.65385638505954,0.178384214561785,6.72169811320755,"Livingston","Livingston County","New York",1696
+"36051",2018,"B03002_005","Native American (Non-Hispanic)",0.179948988373731,0.101710297776456,56.5217391304348,"Livingston","Livingston County","New York",115
+"36051",2018,"B03002_006","Asian (Non-Hispanic)",1.30345658535059,0.173689893125949,13.3253301320528,"Livingston","Livingston County","New York",833
+"36051",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0.0344250238628006,0.0578966310419829,168.181818181818,"Livingston","Livingston County","New York",22
+"36051",2018,"B03002_008","Other (Non-Hispanic)",0.106404619212293,0.0891921072808926,83.8235294117647,"Livingston","Livingston County","New York",68
+"36051",2018,"B03002_009","Two or More Races (Non-Hispanic)",1.31128045441031,0.233151297979877,17.7804295942721,"Livingston","Livingston County","New York",838
+"36051",2018,"B03002_012","Hispanic or Latino (Any Race)",3.47849218395481,0,0,"Livingston","Livingston County","New York",2223
+"36055",2018,"B03002_003","White (Non-Hispanic)",70.826794294375,0.0502520665154626,0.070950643772753,"Monroe","Monroe County","New York",527127
+"36055",2018,"B03002_004","Black (Non-Hispanic)",14.4721920650106,0.134229450398254,0.927499094783166,"Monroe","Monroe County","New York",107709
+"36055",2018,"B03002_005","Native American (Non-Hispanic)",0.167417312508734,0.0253947608861562,15.1685393258427,"Monroe","Monroe County","New York",1246
+"36055",2018,"B03002_006","Asian (Non-Hispanic)",3.52825939740517,0.0763186464726811,2.16306790052934,"Monroe","Monroe County","New York",26259
+"36055",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0.0151831110060087,0.00685255452483581,45.1327433628319,"Monroe","Monroe County","New York",113
+"36055",2018,"B03002_008","Other (Non-Hispanic)",0.170910771678258,0.0550891638271114,32.2327044025157,"Monroe","Monroe County","New York",1272
+"36055",2018,"B03002_009","Two or More Races (Non-Hispanic)",2.26953918586278,0.160833485612323,7.08661417322835,"Monroe","Monroe County","New York",16891
+"36055",2018,"B03002_012","Hispanic or Latino (Any Race)",8.54970386215347,0,0,"Monroe","Monroe County","New York",63631
+"36069",2018,"B03002_003","White (Non-Hispanic)",90.0211926337328,0.106876644256065,0.118723870601128,"Ontario","Ontario County","New York",98548
+"36069",2018,"B03002_004","Black (Non-Hispanic)",2.28642940660626,0.196397252265419,8.58969236915701,"Ontario","Ontario County","New York",2503
+"36069",2018,"B03002_005","Native American (Non-Hispanic)",0.204618532592809,0.0849532300496931,41.5178571428571,"Ontario","Ontario County","New York",224
+"36069",2018,"B03002_006","Asian (Non-Hispanic)",1.32910698626133,0.162598655363929,12.233676975945,"Ontario","Ontario County","New York",1455
+"36069",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0.0337985969014908,0.0438468284127448,129.72972972973,"Ontario","Ontario County","New York",37
+"36069",2018,"B03002_008","Other (Non-Hispanic)",0.200051154633148,0.105963168664133,52.9680365296804,"Ontario","Ontario County","New York",219
+"36069",2018,"B03002_009","Two or More Races (Non-Hispanic)",1.30444314527916,0.279523531131248,21.4285714285714,"Ontario","Ontario County","New York",1428
+"36069",2018,"B03002_012","Hispanic or Latino (Any Race)",4.62035954399298,0,0,"Ontario","Ontario County","New York",5058
+"36073",2018,"B03002_003","White (Non-Hispanic)",86.5136612021858,0.0267152398299939,0.0308797933861097,"Orleans","Orleans County","New York",35622
+"36073",2018,"B03002_004","Black (Non-Hispanic)",5.9672131147541,0.517304189435337,8.66910866910867,"Orleans","Orleans County","New York",2457
+"36073",2018,"B03002_005","Native American (Non-Hispanic)",0.366727383120826,0.16514875531269,45.0331125827815,"Orleans","Orleans County","New York",151
+"36073",2018,"B03002_006","Asian (Non-Hispanic)",0.718882817243473,0.0461445051608986,6.41891891891892,"Orleans","Orleans County","New York",296
+"36073",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0.0510018214936248,0.0825743776563449,161.904761904762,"Orleans","Orleans County","New York",21
+"36073",2018,"B03002_008","Other (Non-Hispanic)",0.0218579234972678,0.0364298724954463,166.666666666667,"Orleans","Orleans County","New York",9
+"36073",2018,"B03002_009","Two or More Races (Non-Hispanic)",1.59805707346691,0.544019429265331,34.0425531914894,"Orleans","Orleans County","New York",658
+"36073",2018,"B03002_012","Hispanic or Latino (Any Race)",4.76259866423801,0,0,"Orleans","Orleans County","New York",1961
+"36099",2018,"B03002_003","White (Non-Hispanic)",89.1973881890674,0.0202241996995262,0.0226735335082435,"Seneca","Seneca County","New York",30873
+"36099",2018,"B03002_004","Black (Non-Hispanic)",4.67179013059055,0.326476366578065,6.9882498453927,"Seneca","Seneca County","New York",1617
+"36099",2018,"B03002_005","Native American (Non-Hispanic)",0.390038137062291,0.147347740667976,37.7777777777778,"Seneca","Seneca County","New York",135
+"36099",2018,"B03002_006","Asian (Non-Hispanic)",0.699179475326476,0.11845602681151,16.9421487603306,"Seneca","Seneca County","New York",242
+"36099",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0722292846411649,NA,"Seneca","Seneca County","New York",0
+"36099",2018,"B03002_008","Other (Non-Hispanic)",0.0231133710851728,0.0404483993990524,175,"Seneca","Seneca County","New York",8
+"36099",2018,"B03002_009","Two or More Races (Non-Hispanic)",1.67283023228938,0.364035594591471,21.7616580310881,"Seneca","Seneca County","New York",579
+"36099",2018,"B03002_012","Hispanic or Latino (Any Race)",3.34566046457876,0,0,"Seneca","Seneca County","New York",1158
+"36117",2018,"B03002_003","White (Non-Hispanic)",90.1492471603416,0.0550321387690411,0.06104558884575,"Wayne","Wayne County","New York",81906
+"36117",2018,"B03002_004","Black (Non-Hispanic)",2.85506735933785,0.203618913445452,7.13184271395528,"Wayne","Wayne County","New York",2594
+"36117",2018,"B03002_005","Native American (Non-Hispanic)",0.128775204719556,0.0726424231751343,56.4102564102564,"Wayne","Wayne County","New York",117
+"36117",2018,"B03002_006","Asian (Non-Hispanic)",0.653781808576208,0.129875847494937,19.8653198653199,"Wayne","Wayne County","New York",594
+"36117",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0.0858501364797041,0.0891520648058466,103.846153846154,"Wayne","Wayne County","New York",78
+"36117",2018,"B03002_008","Other (Non-Hispanic)",0.0484282821167562,0.0341199260368055,70.4545454545455,"Wayne","Wayne County","New York",44
+"36117",2018,"B03002_009","Two or More Races (Non-Hispanic)",1.81055736550145,0.235537553931496,13.0091185410334,"Wayne","Wayne County","New York",1645
+"36117",2018,"B03002_012","Hispanic or Latino (Any Race)",4.26829268292683,0,0,"Wayne","Wayne County","New York",3878
+"36123",2018,"B03002_003","White (Non-Hispanic)",94.7099044344036,0.251909312647447,0.265979903740606,"Yates","Yates County","New York",23686
+"36123",2018,"B03002_004","Black (Non-Hispanic)",0.827702027270183,0.203926586428886,24.6376811594203,"Yates","Yates County","New York",207
+"36123",2018,"B03002_005","Native American (Non-Hispanic)",0.0639769682914151,0.0799712103642689,125,"Yates","Yates County","New York",16
+"36123",2018,"B03002_006","Asian (Non-Hispanic)",0.755727937942341,0.107961133991763,14.2857142857143,"Yates","Yates County","New York",189
+"36123",2018,"B03002_007","Pacific Islander (Non-Hispanic)",0.0279899236274941,0.035987044663921,128.571428571429,"Yates","Yates County","New York",7
+"36123",2018,"B03002_008","Other (Non-Hispanic)",0.219920828501739,0.219920828501739,100,"Yates","Yates County","New York",55
+"36123",2018,"B03002_009","Two or More Races (Non-Hispanic)",1.19956815546403,0.291894917829581,24.3333333333333,"Yates","Yates County","New York",300
+"36123",2018,"B03002_012","Hispanic or Latino (Any Race)",2.19520972449918,0,0,"Yates","Yates County","New York",549
+"36037",2019,"B03002_003","White (Non-Hispanic)",90.5220730694714,0.036327151951287,0.0401307114601846,"Genesee","Genesee County","New York",52329
+"36037",2019,"B03002_004","Black (Non-Hispanic)",2.01702186548575,0.288887351231663,14.3224699828473,"Genesee","Genesee County","New York",1166
+"36037",2019,"B03002_005","Native American (Non-Hispanic)",0.830334901743703,0.190285081649599,22.9166666666667,"Genesee","Genesee County","New York",480
+"36037",2019,"B03002_006","Asian (Non-Hispanic)",0.787088292277885,0.115900913368392,14.7252747252747,"Genesee","Genesee County","New York",455
+"36037",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.048436202601716,NA,"Genesee","Genesee County","New York",0
+"36037",2019,"B03002_008","Other (Non-Hispanic)",0.117630777747025,0.128009964018821,108.823529411765,"Genesee","Genesee County","New York",68
+"36037",2019,"B03002_009","Two or More Races (Non-Hispanic)",2.42872958760033,0.371920841406034,15.3133903133903,"Genesee","Genesee County","New York",1404
+"36037",2019,"B03002_012","Hispanic or Latino (Any Race)",3.29712150567395,0,0,"Genesee","Genesee County","New York",1906
+"36051",2019,"B03002_003","White (Non-Hispanic)",90.7581261499269,0.0330235410671321,0.0363863187441522,"Livingston","Livingston County","New York",57714
+"36051",2019,"B03002_004","Black (Non-Hispanic)",2.57583620323631,0.20914909342517,8.11965811965812,"Livingston","Livingston County","New York",1638
+"36051",2019,"B03002_005","Native American (Non-Hispanic)",0.18556084980579,0.0802000283058923,43.2203389830509,"Livingston","Livingston County","New York",118
+"36051",2019,"B03002_006","Asian (Non-Hispanic)",1.29578084949128,0.201286345552044,15.5339805825243,"Livingston","Livingston County","New York",824
+"36051",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0.0471764872387602,0.0802000283058923,170,"Livingston","Livingston County","New York",30
+"36051",2019,"B03002_008","Other (Non-Hispanic)",0.11479611894765,0.100643172776022,87.6712328767123,"Livingston","Livingston County","New York",73
+"36051",2019,"B03002_009","Two or More Races (Non-Hispanic)",1.36182793162554,0.322372662798195,23.6720554272517,"Livingston","Livingston County","New York",866
+"36051",2019,"B03002_012","Hispanic or Latino (Any Race)",3.66089540972779,0,0,"Livingston","Livingston County","New York",2328
+"36055",2019,"B03002_003","White (Non-Hispanic)",70.5716488125907,0.0454703830408924,0.0644315157800026,"Monroe","Monroe County","New York",524588
+"36055",2019,"B03002_004","Black (Non-Hispanic)",14.47545608274,0.156455785433603,1.0808349287188,"Monroe","Monroe County","New York",107602
+"36055",2019,"B03002_005","Native American (Non-Hispanic)",0.175289671900245,0.030806857149007,17.5748273215656,"Monroe","Monroe County","New York",1303
+"36055",2019,"B03002_006","Asian (Non-Hispanic)",3.58772084413479,0.0808511840460838,2.25355281412876,"Monroe","Monroe County","New York",26669
+"36055",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0.0182957754247378,0.0072644990657047,39.7058823529412,"Monroe","Monroe County","New York",136
+"36055",2019,"B03002_008","Other (Non-Hispanic)",0.194392613887839,0.061613714298014,31.6955017301038,"Monroe","Monroe County","New York",1445
+"36055",2019,"B03002_009","Two or More Races (Non-Hispanic)",2.20921488253709,0.166948950750732,7.55693581780538,"Monroe","Monroe County","New York",16422
+"36055",2019,"B03002_012","Hispanic or Latino (Any Race)",8.76798131678462,0,0,"Monroe","Monroe County","New York",65176
+"36069",2019,"B03002_003","White (Non-Hispanic)",89.8393768662509,0.105925432148369,0.11790535046349,"Ontario","Ontario County","New York",98384
+"36069",2019,"B03002_004","Black (Non-Hispanic)",2.15320835349874,0.175324853211093,8.14249363867684,"Ontario","Ontario County","New York",2358
+"36069",2019,"B03002_005","Native American (Non-Hispanic)",0.240158522888112,0.101359680762663,42.2053231939163,"Ontario","Ontario County","New York",263
+"36069",2019,"B03002_006","Asian (Non-Hispanic)",1.3706385659888,0.159801298499694,11.6588940706196,"Ontario","Ontario County","New York",1501
+"36069",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0.0328734099770799,0.042004912748491,127.777777777778,"Ontario","Ontario County","New York",36
+"36069",2019,"B03002_008","Other (Non-Hispanic)",0.19724045986248,0.113230634365498,57.4074074074074,"Ontario","Ontario County","New York",216
+"36069",2019,"B03002_009","Two or More Races (Non-Hispanic)",1.42268813178585,0.253855777045228,17.8433889602054,"Ontario","Ontario County","New York",1558
+"36069",2019,"B03002_012","Hispanic or Latino (Any Race)",4.74381568974806,0,0,"Ontario","Ontario County","New York",5195
+"36073",2019,"B03002_003","White (Non-Hispanic)",86.3680813612361,0.0293369841580286,0.0339673913043478,"Orleans","Orleans County","New York",35328
+"36073",2019,"B03002_004","Black (Non-Hispanic)",5.63514570702132,0.378936045374536,6.72451193058568,"Orleans","Orleans County","New York",2305
+"36073",2019,"B03002_005","Native American (Non-Hispanic)",0.332485820457657,0.124682182671621,37.5,"Orleans","Orleans County","New York",136
+"36073",2019,"B03002_006","Asian (Non-Hispanic)",0.557402699002543,0.11979268531195,21.4912280701754,"Orleans","Orleans County","New York",228
+"36073",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0611187169958928,NA,"Orleans","Orleans County","New York",0
+"36073",2019,"B03002_008","Other (Non-Hispanic)",0.00488949735967143,0.0122237433991786,250,"Orleans","Orleans County","New York",2
+"36073",2019,"B03002_009","Two or More Races (Non-Hispanic)",2.18316057109329,0.442499511050264,20.2687569988802,"Orleans","Orleans County","New York",893
+"36073",2019,"B03002_012","Hispanic or Latino (Any Race)",4.91883434382945,0,0,"Orleans","Orleans County","New York",2012
+"36099",2019,"B03002_003","White (Non-Hispanic)",89.011340505961,0.0290782204129107,0.0326679951651367,"Seneca","Seneca County","New York",30611
+"36099",2019,"B03002_004","Black (Non-Hispanic)",4.7571968595522,0.261703983716197,5.50122249388753,"Seneca","Seneca County","New York",1636
+"36099",2019,"B03002_005","Native American (Non-Hispanic)",0.415818551904623,0.157022390229718,37.7622377622378,"Seneca","Seneca County","New York",143
+"36099",2019,"B03002_006","Asian (Non-Hispanic)",0.828729281767956,0.0988659494038965,11.9298245614035,"Seneca","Seneca County","New York",285
+"36099",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0.0232625763303286,0.0261703983716197,112.5,"Seneca","Seneca County","New York",8
+"36099",2019,"B03002_008","Other (Non-Hispanic)",0.0523407967432393,0.0610642628671125,116.666666666667,"Seneca","Seneca County","New York",18
+"36099",2019,"B03002_009","Two or More Races (Non-Hispanic)",1.42483280023263,0.314044780459436,22.0408163265306,"Seneca","Seneca County","New York",490
+"36099",2019,"B03002_012","Hispanic or Latino (Any Race)",3.486478627508,0,0,"Seneca","Seneca County","New York",1199
+"36117",2019,"B03002_003","White (Non-Hispanic)",89.9280813972757,0.0386659154431666,0.0429964865728115,"Wayne","Wayne County","New York",81402
+"36117",2019,"B03002_004","Black (Non-Hispanic)",2.71655674499276,0.2286812713353,8.41805612037414,"Wayne","Wayne County","New York",2459
+"36117",2019,"B03002_005","Native American (Non-Hispanic)",0.124835669859367,0.0673891669152333,53.9823008849557,"Wayne","Wayne County","New York",113
+"36117",2019,"B03002_006","Asian (Non-Hispanic)",0.784365713275666,0.101636120593467,12.9577464788732,"Wayne","Wayne County","New York",710
+"36117",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0.1159977463295,0.0939029375048332,80.9523809523809,"Wayne","Wayne County","New York",105
+"36117",2019,"B03002_008","Other (Non-Hispanic)",0.0530275411791999,0.0364564345607,68.75,"Wayne","Wayne County","New York",48
+"36117",2019,"B03002_009","Two or More Races (Non-Hispanic)",1.86701134568433,0.260718744131066,13.9644970414201,"Wayne","Wayne County","New York",1690
+"36117",2019,"B03002_012","Hispanic or Latino (Any Race)",4.41012384140346,0,0,"Wayne","Wayne County","New York",3992
+"36123",2019,"B03002_003","White (Non-Hispanic)",94.7103274559194,0.223901483347327,0.236406619385343,"Yates","Yates County","New York",23688
+"36123",2019,"B03002_004","Black (Non-Hispanic)",0.959577785774259,0.259885650313862,27.0833333333333,"Yates","Yates County","New York",240
+"36123",2019,"B03002_005","Native American (Non-Hispanic)",0.0839630562552477,0.0799648154811883,95.2380952380952,"Yates","Yates County","New York",21
+"36123",2019,"B03002_006","Asian (Non-Hispanic)",0.651713246171684,0.13594018631802,20.8588957055215,"Yates","Yates County","New York",163
+"36123",2019,"B03002_007","Pacific Islander (Non-Hispanic)",0.0239894446443565,0.0399824077405941,166.666666666667,"Yates","Yates County","New York",6
+"36123",2019,"B03002_008","Other (Non-Hispanic)",0.167926112510495,0.183919075606733,109.52380952381,"Yates","Yates County","New York",42
+"36123",2019,"B03002_009","Two or More Races (Non-Hispanic)",1.17948102834753,0.331853984246931,28.135593220339,"Yates","Yates County","New York",295
+"36123",2019,"B03002_012","Hispanic or Latino (Any Race)",2.22302187037703,0,0,"Yates","Yates County","New York",556
+"36037",2020,"B03002_003","White (Non-Hispanic)",90.2404698196476,0.076449942662543,0.0847180237595548,"Genesee","Genesee County","New York",51937
+"36037",2020,"B03002_004","Black (Non-Hispanic)",2.17361086979185,0.300587274559544,13.8289368505196,"Genesee","Genesee County","New York",1251
+"36037",2020,"B03002_005","Native American (Non-Hispanic)",0.710636967022275,0.128574903568822,18.0929095354523,"Genesee","Genesee County","New York",409
+"36037",2020,"B03002_006","Asian (Non-Hispanic)",0.802724397956702,0.104249921812559,12.987012987013,"Genesee","Genesee County","New York",462
+"36037",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0503874622094033,NA,"Genesee","Genesee County","New York",0
+"36037",2020,"B03002_008","Other (Non-Hispanic)",0.138999895750078,0.147687389234458,106.25,"Genesee","Genesee County","New York",80
+"36037",2020,"B03002_009","Two or More Races (Non-Hispanic)",2.52979810265142,0.350974736768947,13.8736263736264,"Genesee","Genesee County","New York",1456
+"36037",2020,"B03002_012","Hispanic or Latino (Any Race)",3.40375994718004,0,0,"Genesee","Genesee County","New York",1959
+"36051",2020,"B03002_003","White (Non-Hispanic)",90.0945933120314,0.289474516751558,0.321300653135754,"Livingston","Livingston County","New York",56956
+"36051",2020,"B03002_004","Black (Non-Hispanic)",2.60368882280363,0.170837419722231,6.56136087484812,"Livingston","Livingston County","New York",1646
+"36051",2020,"B03002_005","Native American (Non-Hispanic)",0.224619570375526,0.056945806574077,25.3521126760563,"Livingston","Livingston County","New York",142
+"36051",2020,"B03002_006","Asian (Non-Hispanic)",1.06298838938277,0.278401721028821,26.1904761904762,"Livingston","Livingston County","New York",672
+"36051",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0.0838368819007245,0.110727957227372,132.075471698113,"Livingston","Livingston County","New York",53
+"36051",2020,"B03002_008","Other (Non-Hispanic)",0.0854187098611155,0.0680186022968142,79.6296296296296,"Livingston","Livingston County","New York",54
+"36051",2020,"B03002_009","Two or More Races (Non-Hispanic)",2.04688538074599,0.390711506216584,19.0880989180835,"Livingston","Livingston County","New York",1294
+"36051",2020,"B03002_012","Hispanic or Latino (Any Race)",3.79796893289886,0,0,"Livingston","Livingston County","New York",2401
+"36055",2020,"B03002_003","White (Non-Hispanic)",69.9470046455044,0.0904339213332544,0.129289198002944,"Monroe","Monroe County","New York",519765
+"36055",2020,"B03002_004","Black (Non-Hispanic)",14.1786123776047,0.147224270741935,1.03835457815659,"Monroe","Monroe County","New York",105359
+"36055",2020,"B03002_005","Native American (Non-Hispanic)",0.139957259206227,0.0262419861011676,18.75,"Monroe","Monroe County","New York",1040
+"36055",2020,"B03002_006","Asian (Non-Hispanic)",3.61318505041153,0.0820903154959601,2.2719654363291,"Monroe","Monroe County","New York",26849
+"36055",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0.0273185804027539,0.00753616011110453,27.5862068965517,"Monroe","Monroe County","New York",203
+"36055",2020,"B03002_008","Other (Non-Hispanic)",0.24236829214463,0.0818211669205635,33.7590227651305,"Monroe","Monroe County","New York",1801
+"36055",2020,"B03002_009","Two or More Races (Non-Hispanic)",2.75567768919799,0.178041782624845,6.46090735947648,"Monroe","Monroe County","New York",20477
+"36055",2020,"B03002_012","Hispanic or Latino (Any Race)",9.09587610552777,0,0,"Monroe","Monroe County","New York",67590
+"36069",2020,"B03002_003","White (Non-Hispanic)",89.4911363346512,0.133000528358263,0.148618660803355,"Ontario","Ontario County","New York",98238
+"36069",2020,"B03002_004","Black (Non-Hispanic)",2.11525497841019,0.210432342813417,9.94832041343669,"Ontario","Ontario County","New York",2322
+"36069",2020,"B03002_005","Native American (Non-Hispanic)",0.184925392169366,0.0847195146391677,45.8128078817734,"Ontario","Ontario County","New York",203
+"36069",2020,"B03002_006","Asian (Non-Hispanic)",1.32636143349063,0.181281542077359,13.6675824175824,"Ontario","Ontario County","New York",1456
+"36069",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0.0245959881210487,0.037349463443074,151.851851851852,"Ontario","Ontario County","New York",27
+"36069",2020,"B03002_008","Other (Non-Hispanic)",0.126623790697251,0.0847195146391677,66.9064748201439,"Ontario","Ontario County","New York",139
+"36069",2020,"B03002_009","Two or More Races (Non-Hispanic)",1.82101408348061,0.309727257820613,17.0085042521261,"Ontario","Ontario County","New York",1999
+"36069",2020,"B03002_012","Hispanic or Latino (Any Race)",4.91008799897972,0.00182192504600361,0.0371057513914657,"Ontario","Ontario County","New York",5390
+"36073",2020,"B03002_003","White (Non-Hispanic)",85.8851910200867,0.226467113036629,0.263685869876756,"Orleans","Orleans County","New York",34890
+"36073",2020,"B03002_004","Black (Non-Hispanic)",5.76506498621505,0.438164631744781,7.60034158838599,"Orleans","Orleans County","New York",2342
+"36073",2020,"B03002_005","Native American (Non-Hispanic)",0.322469476171721,0.172311933832217,53.4351145038168,"Orleans","Orleans County","New York",131
+"36073",2020,"B03002_006","Asian (Non-Hispanic)",0.568629381646317,0.113233556518314,19.9134199134199,"Orleans","Orleans County","New York",231
+"36073",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.064001575423395,NA,"Orleans","Orleans County","New York",0
+"36073",2020,"B03002_008","Other (Non-Hispanic)",0.105848759354076,0.0984639621898385,93.0232558139535,"Orleans","Orleans County","New York",43
+"36073",2020,"B03002_009","Two or More Races (Non-Hispanic)",2.23020874359984,0.516935801496652,23.1788079470199,"Orleans","Orleans County","New York",906
+"36073",2020,"B03002_012","Hispanic or Latino (Any Race)",5.12258763292635,0,0,"Orleans","Orleans County","New York",2081
+"36099",2020,"B03002_003","White (Non-Hispanic)",88.3714827234291,0.24784954074938,0.28046325931303,"Seneca","Seneca County","New York",30307
+"36099",2020,"B03002_004","Black (Non-Hispanic)",4.82577635223794,0.338241726199154,7.00906344410876,"Seneca","Seneca County","New York",1655
+"36099",2020,"B03002_005","Native American (Non-Hispanic)",0.364484618749089,0.113719201049716,31.2,"Seneca","Seneca County","New York",125
+"36099",2020,"B03002_006","Asian (Non-Hispanic)",0.772707391748068,0.0845604315497886,10.9433962264151,"Seneca","Seneca County","New York",265
+"36099",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0.020411138649949,0.0174952616999563,85.7142857142857,"Seneca","Seneca County","New York",7
+"36099",2020,"B03002_008","Other (Non-Hispanic)",0.102055693249745,0.090392185449774,88.5714285714286,"Seneca","Seneca County","New York",35
+"36099",2020,"B03002_009","Two or More Races (Non-Hispanic)",1.91573115614521,0.38781163434903,20.2435312024353,"Seneca","Seneca County","New York",657
+"36099",2020,"B03002_012","Hispanic or Latino (Any Race)",3.62735092579093,0,0,"Seneca","Seneca County","New York",1244
+"36117",2020,"B03002_003","White (Non-Hispanic)",89.2700576007458,0.355149107132948,0.397836762603344,"Wayne","Wayne County","New York",80435
+"36117",2020,"B03002_004","Black (Non-Hispanic)",2.38060885875054,0.258592943631178,10.8624708624709,"Wayne","Wayne County","New York",2145
+"36117",2020,"B03002_005","Native American (Non-Hispanic)",0.0566018889493136,0.0366247516730853,64.7058823529412,"Wayne","Wayne County","New York",51
+"36117",2020,"B03002_006","Asian (Non-Hispanic)",0.837929924641799,0.0810183900647037,9.66887417218543,"Wayne","Wayne County","New York",755
+"36117",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0.00443936383916185,0.00776888671853323,175,"Wayne","Wayne County","New York",4
+"36117",2020,"B03002_008","Other (Non-Hispanic)",0.245274852113692,0.195332008923121,79.6380090497738,"Wayne","Wayne County","New York",221
+"36117",2020,"B03002_009","Two or More Races (Non-Hispanic)",2.66916750829606,0.403982109363728,15.1351351351351,"Wayne","Wayne County","New York",2405
+"36117",2020,"B03002_012","Hispanic or Latino (Any Race)",4.53592000266362,0,0,"Wayne","Wayne County","New York",4087
+"36123",2020,"B03002_003","White (Non-Hispanic)",94.6559385132701,0.308234258036107,0.325636471284784,"Yates","Yates County","New York",23646
+"36123",2020,"B03002_004","Black (Non-Hispanic)",0.972739281854209,0.368279892718466,37.8600823045268,"Yates","Yates County","New York",243
+"36123",2020,"B03002_005","Native American (Non-Hispanic)",0.016012169248629,0.0240182538729434,150,"Yates","Yates County","New York",4
+"36123",2020,"B03002_006","Asian (Non-Hispanic)",0.656498939193787,0.196149073295705,29.8780487804878,"Yates","Yates County","New York",164
+"36123",2020,"B03002_007","Pacific Islander (Non-Hispanic)",0.0280212961851007,0.0400304231215724,142.857142857143,"Yates","Yates County","New York",7
+"36123",2020,"B03002_008","Other (Non-Hispanic)",0.156118650174132,0.172130819422761,110.25641025641,"Yates","Yates County","New York",39
+"36123",2020,"B03002_009","Two or More Races (Non-Hispanic)",1.29298266682679,0.448340738961611,34.6749226006192,"Yates","Yates County","New York",323
+"36123",2020,"B03002_012","Hispanic or Latino (Any Race)",2.22168848324727,0.0120091269364717,0.540540540540541,"Yates","Yates County","New York",555
+"36037",2021,"B03002_003","White (Non-Hispanic)",90.0217514172675,0.145580351790638,0.161716862312361,"Genesee","Genesee County","New York",52561
+"36037",2021,"B03002_004","Black (Non-Hispanic)",2.03812492506894,0.414475825098053,20.3361344537815,"Genesee","Genesee County","New York",1190
+"36037",2021,"B03002_005","Native American (Non-Hispanic)",0.484696935961772,0.0753592409269187,15.547703180212,"Genesee","Genesee County","New York",283
+"36037",2021,"B03002_006","Asian (Non-Hispanic)",0.727901758953192,0.193536232380496,26.5882352941176,"Genesee","Genesee County","New York",425
+"36037",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.05138130063199,NA,"Genesee","Genesee County","New York",0
+"36037",2021,"B03002_008","Other (Non-Hispanic)",0.149005771832771,0.130165961601041,87.3563218390805,"Genesee","Genesee County","New York",87
+"36037",2021,"B03002_009","Two or More Races (Non-Hispanic)",3.07945261787727,0.479558805898573,15.5728587319244,"Genesee","Genesee County","New York",1798
+"36037",2021,"B03002_012","Hispanic or Latino (Any Race)",3.49906657303852,0,0,"Genesee","Genesee County","New York",2043
+"36051",2021,"B03002_003","White (Non-Hispanic)",89.4768123624564,0.41122516183959,0.459588524649025,"Livingston","Livingston County","New York",55702
+"36051",2021,"B03002_004","Black (Non-Hispanic)",2.59425248582398,0.159028480555154,6.13003095975232,"Livingston","Livingston County","New York",1615
+"36051",2021,"B03002_005","Native American (Non-Hispanic)",0.0835301109986667,0.0690729764027436,82.6923076923077,"Livingston","Livingston County","New York",52
+"36051",2021,"B03002_006","Asian (Non-Hispanic)",1.07464700496362,0.216857018938846,20.1793721973094,"Livingston","Livingston County","New York",669
+"36051",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.048190448653077,NA,"Livingston","Livingston County","New York",0
+"36051",2021,"B03002_008","Other (Non-Hispanic)",0.244164939842257,0.167060221997333,68.4210526315789,"Livingston","Livingston County","New York",152
+"36051",2021,"B03002_009","Two or More Races (Non-Hispanic)",2.65208102420767,0.541339373202898,20.411871592974,"Livingston","Livingston County","New York",1651
+"36051",2021,"B03002_012","Hispanic or Latino (Any Race)",3.87451207170739,0,0,"Livingston","Livingston County","New York",2412
+"36055",2021,"B03002_003","White (Non-Hispanic)",69.7658358553448,0.0983716520627677,0.141002613753149,"Monroe","Monroe County","New York",528359
+"36055",2021,"B03002_004","Black (Non-Hispanic)",13.9793379917922,0.169146424553564,1.20997449702465,"Monroe","Monroe County","New York",105870
+"36055",2021,"B03002_005","Native American (Non-Hispanic)",0.0896568479874084,0.0208627127864662,23.2695139911635,"Monroe","Monroe County","New York",679
+"36055",2021,"B03002_006","Asian (Non-Hispanic)",3.6398831688084,0.0761885144163986,2.09315823840963,"Monroe","Monroe County","New York",27566
+"36055",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0.0205986278144856,0.00607395435555344,29.4871794871795,"Monroe","Monroe County","New York",156
+"36055",2021,"B03002_008","Other (Non-Hispanic)",0.279401900355458,0.0689261776869325,24.6691871455577,"Monroe","Monroe County","New York",2116
+"36055",2021,"B03002_009","Two or More Races (Non-Hispanic)",2.99142252011007,0.190537307283992,6.36945486647539,"Monroe","Monroe County","New York",22655
+"36055",2021,"B03002_012","Hispanic or Latino (Any Race)",9.23386308778713,0,0,"Monroe","Monroe County","New York",69931
+"36069",2021,"B03002_003","White (Non-Hispanic)",89.0942352311262,0.186507228270569,0.209337032622522,"Ontario","Ontario County","New York",99839
+"36069",2021,"B03002_004","Black (Non-Hispanic)",2.01499196858826,0.219525254328039,10.8945969884854,"Ontario","Ontario County","New York",2258
+"36069",2021,"B03002_005","Native American (Non-Hispanic)",0.103515973585579,0.058897019453864,56.8965517241379,"Ontario","Ontario County","New York",116
+"36069",2021,"B03002_006","Asian (Non-Hispanic)",1.42780653221488,0.127610208816705,8.9375,"Ontario","Ontario County","New York",1600
+"36069",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0267713724790291,NA,"Ontario","Ontario County","New York",0
+"36069",2021,"B03002_008","Other (Non-Hispanic)",0.155273960378369,0.124933071568802,80.4597701149425,"Ontario","Ontario County","New York",174
+"36069",2021,"B03002_009","Two or More Races (Non-Hispanic)",2.19792968052829,0.301624129930394,13.723101908242,"Ontario","Ontario County","New York",2463
+"36069",2021,"B03002_012","Hispanic or Latino (Any Race)",5.00624665357844,0,0,"Ontario","Ontario County","New York",5610
+"36073",2021,"B03002_003","White (Non-Hispanic)",85.7026707401202,0.303045235044841,0.353600689952566,"Orleans","Orleans County","New York",34785
+"36073",2021,"B03002_004","Black (Non-Hispanic)",5.60510495713019,0.59130777569725,10.5494505494505,"Orleans","Orleans County","New York",2275
+"36073",2021,"B03002_005","Native American (Non-Hispanic)",0.295653887848625,0.125652902335666,42.5,"Orleans","Orleans County","New York",120
+"36073",2021,"B03002_006","Asian (Non-Hispanic)",0.692322854045531,0.137971814329358,19.9288256227758,"Orleans","Orleans County","New York",281
+"36073",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0665221247659407,NA,"Orleans","Orleans County","New York",0
+"36073",2021,"B03002_008","Other (Non-Hispanic)",0.150290726323051,0.110870207943234,73.7704918032787,"Orleans","Orleans County","New York",61
+"36073",2021,"B03002_009","Two or More Races (Non-Hispanic)",2.4292894451562,0.66029368286193,27.1805273833671,"Orleans","Orleans County","New York",986
+"36073",2021,"B03002_012","Hispanic or Latino (Any Race)",5.12466738937617,0,0,"Orleans","Orleans County","New York",2080
+"36099",2021,"B03002_003","White (Non-Hispanic)",87.882005899705,0.383480825958702,0.436358754027927,"Seneca","Seneca County","New York",29792
+"36099",2021,"B03002_004","Black (Non-Hispanic)",5.03834808259587,0.312684365781711,6.20608899297424,"Seneca","Seneca County","New York",1708
+"36099",2021,"B03002_005","Native American (Non-Hispanic)",0.303834808259587,0.109144542772861,35.9223300970874,"Seneca","Seneca County","New York",103
+"36099",2021,"B03002_006","Asian (Non-Hispanic)",0.610619469026549,0.115044247787611,18.8405797101449,"Seneca","Seneca County","New York",207
+"36099",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0.0412979351032448,0.0589970501474926,142.857142857143,"Seneca","Seneca County","New York",14
+"36099",2021,"B03002_008","Other (Non-Hispanic)",0.0766961651917404,0.0648967551622419,84.6153846153846,"Seneca","Seneca County","New York",26
+"36099",2021,"B03002_009","Two or More Races (Non-Hispanic)",2.32448377581121,0.52212389380531,22.4619289340102,"Seneca","Seneca County","New York",788
+"36099",2021,"B03002_012","Hispanic or Latino (Any Race)",3.72271386430678,0,0,"Seneca","Seneca County","New York",1262
+"36117",2021,"B03002_003","White (Non-Hispanic)",88.8505671615644,0.447816756448999,0.504011140001725,"Wayne","Wayne County","New York",81149
+"36117",2021,"B03002_004","Black (Non-Hispanic)",2.11535934831165,0.262777558796479,12.4223602484472,"Wayne","Wayne County","New York",1932
+"36117",2021,"B03002_005","Native American (Non-Hispanic)",0.0481758857793544,0.0350370078395305,72.7272727272727,"Wayne","Wayne County","New York",44
+"36117",2021,"B03002_006","Asian (Non-Hispanic)",0.844172907633688,0.0886874260938116,10.5058365758755,"Wayne","Wayne County","New York",771
+"36117",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0.00328471948495598,0.00547453247492664,166.666666666667,"Wayne","Wayne County","New York",3
+"36117",2021,"B03002_008","Other (Non-Hispanic)",0.318617790040731,0.2014627950773,63.2302405498282,"Wayne","Wayne County","New York",291
+"36117",2021,"B03002_009","Two or More Races (Non-Hispanic)",3.21026584329698,0.459860727893838,14.3246930422919,"Wayne","Wayne County","New York",2932
+"36117",2021,"B03002_012","Hispanic or Latino (Any Race)",4.60955634388823,0,0,"Wayne","Wayne County","New York",4210
+"36123",2021,"B03002_003","White (Non-Hispanic)",94.7557239600129,0.157207352466946,0.165908027396095,"Yates","Yates County","New York",23507
+"36123",2021,"B03002_004","Black (Non-Hispanic)",0.818284424379232,0.366817155756208,44.8275862068966,"Yates","Yates County","New York",203
+"36123",2021,"B03002_005","Native American (Non-Hispanic)",0.0322476620445018,0.0604643663334408,187.5,"Yates","Yates County","New York",8
+"36123",2021,"B03002_006","Asian (Non-Hispanic)",0.802160593356982,0.0927120283779426,11.5577889447236,"Yates","Yates County","New York",199
+"36123",2021,"B03002_007","Pacific Islander (Non-Hispanic)",0.0362786198000645,0.0604643663334408,166.666666666667,"Yates","Yates County","New York",9
+"36123",2021,"B03002_008","Other (Non-Hispanic)",0.108835859400193,0.137052563689133,125.925925925926,"Yates","Yates County","New York",27
+"36123",2021,"B03002_009","Two or More Races (Non-Hispanic)",1.24959690422444,0.403095775556272,32.258064516129,"Yates","Yates County","New York",310
+"36123",2021,"B03002_012","Hispanic or Latino (Any Race)",2.19687197678168,0,0,"Yates","Yates County","New York",545
+"36037",2022,"B03002_003","White (Non-Hispanic)",89.7532815614047,0.255996151467253,0.285222052067381,"Genesee","Genesee County","New York",52240
+"36037",2022,"B03002_004","Black (Non-Hispanic)",2.00158064737819,0.310975190708542,15.5364806866953,"Genesee","Genesee County","New York",1165
+"36037",2022,"B03002_005","Native American (Non-Hispanic)",0.462167548622088,0.0755961789567727,16.3568773234201,"Genesee","Genesee County","New York",269
+"36037",2022,"B03002_006","Asian (Non-Hispanic)",0.817813208714178,0.149474262937255,18.2773109243698,"Genesee","Genesee County","New York",476
+"36037",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.053260944264999,NA,"Genesee","Genesee County","New York",0
+"36037",2022,"B03002_008","Other (Non-Hispanic)",0.228506631846608,0.185554257439351,81.203007518797,"Genesee","Genesee County","New York",133
+"36037",2022,"B03002_009","Two or More Races (Non-Hispanic)",3.21455570063913,0.407188509380799,12.6670229823624,"Genesee","Genesee County","New York",1871
+"36037",2022,"B03002_012","Hispanic or Latino (Any Race)",3.52209470139509,0,0,"Genesee","Genesee County","New York",2050
+"36051",2022,"B03002_003","White (Non-Hispanic)",89.6385930945466,0.551790900290416,0.615572914791749,"Livingston","Livingston County","New York",55558
+"36051",2022,"B03002_004","Black (Non-Hispanic)",2.03936753791546,0.167796063246208,8.22784810126582,"Livingston","Livingston County","New York",1264
+"36051",2022,"B03002_005","Native American (Non-Hispanic)",0.0564698289770894,0.0419490158115521,74.2857142857143,"Livingston","Livingston County","New York",35
+"36051",2022,"B03002_006","Asian (Non-Hispanic)",0.95837366892546,0.26460148434979,27.6094276094276,"Livingston","Livingston County","New York",594
+"36051",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0500161342368506,NA,"Livingston","Livingston County","New York",0
+"36051",2022,"B03002_008","Other (Non-Hispanic)",0.280735721200387,0.182316876411746,64.9425287356322,"Livingston","Livingston County","New York",174
+"36051",2022,"B03002_009","Two or More Races (Non-Hispanic)",3.12681510164569,0.598580187157147,19.1434468524252,"Livingston","Livingston County","New York",1938
+"36051",2022,"B03002_012","Hispanic or Latino (Any Race)",3.89964504678929,0,0,"Livingston","Livingston County","New York",2417
+"36055",2022,"B03002_003","White (Non-Hispanic)",68.7696818904134,0.116339637707792,0.169172860059441,"Monroe","Monroe County","New York",520178
+"36055",2022,"B03002_004","Black (Non-Hispanic)",14.0540926433688,0.19037395261275,1.35458017421406,"Monroe","Monroe County","New York",106306
+"36055",2022,"B03002_005","Native American (Non-Hispanic)",0.0902954233572975,0.0171865373886511,19.0336749633968,"Monroe","Monroe County","New York",683
+"36055",2022,"B03002_006","Asian (Non-Hispanic)",3.72207518184679,0.0966412217777225,2.59643389926831,"Monroe","Monroe County","New York",28154
+"36055",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0.0183763745924808,0.00515596121659532,28.0575539568345,"Monroe","Monroe County","New York",139
+"36055",2022,"B03002_008","Other (Non-Hispanic)",0.324825556645505,0.0838174208031137,25.8038258038258,"Monroe","Monroe County","New York",2457
+"36055",2022,"B03002_009","Two or More Races (Non-Hispanic)",3.46678899955844,0.245899688791469,7.09300995309461,"Monroe","Monroe County","New York",26223
+"36055",2022,"B03002_012","Hispanic or Latino (Any Race)",9.55386393021737,0,0,"Monroe","Monroe County","New York",72266
+"36069",2022,"B03002_003","White (Non-Hispanic)",88.2293744656597,0.340196637218581,0.385582057312433,"Ontario","Ontario County","New York",99071
+"36069",2022,"B03002_004","Black (Non-Hispanic)",1.89512681675691,0.229766315189513,12.1240601503759,"Ontario","Ontario County","New York",2128
+"36069",2022,"B03002_005","Native American (Non-Hispanic)",0.0685736677115987,0.0391849529780564,57.1428571428571,"Ontario","Ontario County","New York",77
+"36069",2022,"B03002_006","Asian (Non-Hispanic)",1.41422057566258,0.138037902536335,9.76070528967254,"Ontario","Ontario County","New York",1588
+"36069",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.027607580507267,NA,"Ontario","Ontario County","New York",0
+"36069",2022,"B03002_008","Other (Non-Hispanic)",0.360679680820747,0.243124821886577,67.4074074074074,"Ontario","Ontario County","New York",405
+"36069",2022,"B03002_009","Two or More Races (Non-Hispanic)",2.82042604730692,0.357117412368196,12.6618250710452,"Ontario","Ontario County","New York",3167
+"36069",2022,"B03002_012","Hispanic or Latino (Any Race)",5.2115987460815,0,0,"Ontario","Ontario County","New York",5852
+"36073",2022,"B03002_003","White (Non-Hispanic)",85.4064959649298,0.410979376307662,0.481203884627723,"Orleans","Orleans County","New York",34289
+"36073",2022,"B03002_004","Black (Non-Hispanic)",5.32280561920893,0.430905649098336,8.09546092653252,"Orleans","Orleans County","New York",2137
+"36073",2022,"B03002_005","Native American (Non-Hispanic)",0.303875660057786,0.139483909534722,45.9016393442623,"Orleans","Orleans County","New York",122
+"36073",2022,"B03002_006","Asian (Non-Hispanic)",0.672511706685264,0.122048420842881,18.1481481481482,"Orleans","Orleans County","New York",270
+"36073",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0697419547673608,NA,"Orleans","Orleans County","New York",0
+"36073",2022,"B03002_008","Other (Non-Hispanic)",0.132011557238219,0.0921590116568696,69.811320754717,"Orleans","Orleans County","New York",53
+"36073",2022,"B03002_009","Two or More Races (Non-Hispanic)",2.87685563415363,0.595297399621401,20.6926406926407,"Orleans","Orleans County","New York",1155
+"36073",2022,"B03002_012","Hispanic or Latino (Any Race)",5.28544385772641,0,0,"Orleans","Orleans County","New York",2122
+"36099",2022,"B03002_003","White (Non-Hispanic)",88.0449317999465,0.502213901518528,0.570406372350479,"Seneca","Seneca County","New York",29628
+"36099",2022,"B03002_004","Black (Non-Hispanic)",4.16332352678969,0.267451190157796,6.42398286937901,"Seneca","Seneca County","New York",1401
+"36099",2022,"B03002_005","Native American (Non-Hispanic)",0.228819351579448,0.13669727496954,59.7402597402597,"Seneca","Seneca County","New York",77
+"36099",2022,"B03002_006","Asian (Non-Hispanic)",0.701316454191555,0.13669727496954,19.4915254237288,"Seneca","Seneca County","New York",236
+"36099",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0.0148583994532109,0.0178300793438531,120,"Seneca","Seneca County","New York",5
+"36099",2022,"B03002_008","Other (Non-Hispanic)",0.329856467861282,0.213960952126237,64.8648648648649,"Seneca","Seneca County","New York",111
+"36099",2022,"B03002_009","Two or More Races (Non-Hispanic)",2.6982853407031,0.543817419987519,20.1541850220264,"Seneca","Seneca County","New York",908
+"36099",2022,"B03002_012","Hispanic or Latino (Any Race)",3.8186086594752,0,0,"Seneca","Seneca County","New York",1285
+"36117",2022,"B03002_003","White (Non-Hispanic)",88.2637641802812,0.458806009373221,0.519812420911595,"Wayne","Wayne County","New York",80606
+"36117",2022,"B03002_004","Black (Non-Hispanic)",2.25679996495992,0.246375542026192,10.9170305676856,"Wayne","Wayne County","New York",2061
+"36117",2022,"B03002_005","Native American (Non-Hispanic)",0.0394200867241908,0.0284700626341378,72.2222222222222,"Wayne","Wayne County","New York",36
+"36117",2022,"B03002_006","Asian (Non-Hispanic)",0.854101879024134,0.122640269808594,14.3589743589744,"Wayne","Wayne County","New York",780
+"36117",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0.0032850072270159,0.0065700144540318,200,"Wayne","Wayne County","New York",3
+"36117",2022,"B03002_008","Other (Non-Hispanic)",0.355875782926722,0.187245411939906,52.6153846153846,"Wayne","Wayne County","New York",325
+"36117",2022,"B03002_009","Two or More Races (Non-Hispanic)",3.4503525907757,0.474136043099295,13.7416693113297,"Wayne","Wayne County","New York",3151
+"36117",2022,"B03002_012","Hispanic or Latino (Any Race)",4.77640050808112,0,0,"Wayne","Wayne County","New York",4362
+"36123",2022,"B03002_003","White (Non-Hispanic)",94.5737061465625,0.218508477319629,0.231045695704261,"Yates","Yates County","New York",23372
+"36123",2022,"B03002_004","Black (Non-Hispanic)",0.53817828673168,0.275158823291385,51.1278195488722,"Yates","Yates County","New York",133
+"36123",2022,"B03002_005","Native American (Non-Hispanic)",0.0728361591065431,0.0687897058228463,94.4444444444445,"Yates","Yates County","New York",18
+"36123",2022,"B03002_006","Asian (Non-Hispanic)",1.01565977420791,0.590782179419739,58.1673306772908,"Yates","Yates County","New York",251
+"36123",2022,"B03002_007","Pacific Islander (Non-Hispanic)",0.0202322664184842,0.0404645328369684,200,"Yates","Yates County","New York",5
+"36123",2022,"B03002_008","Other (Non-Hispanic)",0.109254238659815,0.129486505078299,118.518518518519,"Yates","Yates County","New York",27
+"36123",2022,"B03002_009","Two or More Races (Non-Hispanic)",1.46886254198195,0.546271193299073,37.1900826446281,"Yates","Yates County","New York",363
+"36123",2022,"B03002_012","Hispanic or Latino (Any Race)",2.20127058633108,0,0,"Yates","Yates County","New York",544
+"36037",2023,"B03002_003","White (Non-Hispanic)",88.3782337814749,0.257149267383463,0.290964478900193,"Genesee","Genesee County","New York",51209
+"36037",2023,"B03002_004","Black (Non-Hispanic)",1.80004487168424,0.308924287662013,17.1620325982742,"Genesee","Genesee County","New York",1043
+"36037",2023,"B03002_005","Native American (Non-Hispanic)",0.384860984070552,0.0569525223064046,14.7982062780269,"Genesee","Genesee County","New York",223
+"36037",2023,"B03002_006","Asian (Non-Hispanic)",0.704140275788275,0.220906753188478,31.3725490196078,"Genesee","Genesee County","New York",408
+"36037",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0535008542878346,NA,"Genesee","Genesee County","New York",0
+"36037",2023,"B03002_008","Other (Non-Hispanic)",0.260600935402033,0.170857566919214,65.5629139072848,"Genesee","Genesee County","New York",151
+"36037",2023,"B03002_009","Two or More Races (Non-Hispanic)",3.73815646411128,0.433184336330532,11.5881809787627,"Genesee","Genesee County","New York",2166
+"36037",2023,"B03002_012","Hispanic or Latino (Any Race)",4.73396268746872,0,0,"Genesee","Genesee County","New York",2743
+"36051",2023,"B03002_003","White (Non-Hispanic)",88.8728323699422,0.487107878158083,0.548095368594135,"Livingston","Livingston County","New York",54735
+"36051",2023,"B03002_004","Black (Non-Hispanic)",1.7519646684419,0.214327466389556,12.2335495829472,"Livingston","Livingston County","New York",1079
+"36051",2023,"B03002_005","Native American (Non-Hispanic)",0.0617003312333572,0.0340975514710658,55.2631578947368,"Livingston","Livingston County","New York",38
+"36051",2023,"B03002_006","Asian (Non-Hispanic)",0.948236669481068,0.241930246151848,25.513698630137,"Livingston","Livingston County","New York",584
+"36051",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0503344807430019,NA,"Livingston","Livingston County","New York",0
+"36051",2023,"B03002_008","Other (Non-Hispanic)",0.379944144963305,0.225693316879912,59.4017094017094,"Livingston","Livingston County","New York",234
+"36051",2023,"B03002_009","Two or More Races (Non-Hispanic)",3.505553029811,0.613755926479184,17.5081056044465,"Livingston","Livingston County","New York",2159
+"36051",2023,"B03002_012","Hispanic or Latino (Any Race)",4.47976878612717,0,0,"Livingston","Livingston County","New York",2759
+"36055",2023,"B03002_003","White (Non-Hispanic)",68.3559042420577,0.131420508495255,0.192259190998157,"Monroe","Monroe County","New York",515450
+"36055",2023,"B03002_004","Black (Non-Hispanic)",13.8170562867009,0.213375982006928,1.5442940781265,"Monroe","Monroe County","New York",104190
+"36055",2023,"B03002_005","Native American (Non-Hispanic)",0.0802314910591618,0.0180355087339603,22.4793388429752,"Monroe","Monroe County","New York",605
+"36055",2023,"B03002_006","Asian (Non-Hispanic)",3.72406732549319,0.0873926489388225,2.34669895306602,"Monroe","Monroe County","New York",28082
+"36055",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0.0310316841451965,0.00901775436698017,29.0598290598291,"Monroe","Monroe County","New York",234
+"36055",2023,"B03002_008","Other (Non-Hispanic)",0.357925279948227,0.0907079998090358,25.3427195257503,"Monroe","Monroe County","New York",2699
+"36055",2023,"B03002_009","Two or More Races (Non-Hispanic)",3.88346939533305,0.266288981895532,6.85698675044393,"Monroe","Monroe County","New York",29284
+"36055",2023,"B03002_012","Hispanic or Latino (Any Race)",9.7503142952625,0,0,"Monroe","Monroe County","New York",73524
+"36069",2023,"B03002_003","White (Non-Hispanic)",87.4089230906098,0.375428139317646,0.429507796278956,"Ontario","Ontario County","New York",98252
+"36069",2023,"B03002_004","Black (Non-Hispanic)",2.04795160357635,0.245540678795427,11.989574283232,"Ontario","Ontario County","New York",2302
+"36069",2023,"B03002_005","Native American (Non-Hispanic)",0.0444820070281571,0.0266892042168943,60,"Ontario","Ontario County","New York",50
+"36069",2023,"B03002_006","Asian (Non-Hispanic)",1.3469151728126,0.122770339397714,9.11492734478203,"Ontario","Ontario County","New York",1514
+"36069",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0275788443574574,NA,"Ontario","Ontario County","New York",0
+"36069",2023,"B03002_008","Other (Non-Hispanic)",0.328277211867799,0.197500111205018,60.1626016260163,"Ontario","Ontario County","New York",369
+"36069",2023,"B03002_009","Two or More Races (Non-Hispanic)",3.25430363417997,0.410124104799609,12.6025150355385,"Ontario","Ontario County","New York",3658
+"36069",2023,"B03002_012","Hispanic or Latino (Any Race)",5.56914727992527,0,0,"Ontario","Ontario County","New York",6260
+"36073",2023,"B03002_003","White (Non-Hispanic)",85.6145744091115,0.446001108703321,0.5209406363128,"Orleans","Orleans County","New York",33977
+"36073",2023,"B03002_004","Black (Non-Hispanic)",4.55576273748929,0.352769238522401,7.74336283185841,"Orleans","Orleans County","New York",1808
+"36073",2023,"B03002_005","Native American (Non-Hispanic)",0.428362646777201,0.19906264173764,46.4705882352941,"Orleans","Orleans County","New York",170
+"36073",2023,"B03002_006","Asian (Non-Hispanic)",0.670261553192562,0.1763846192612,26.3157894736842,"Orleans","Orleans County","New York",266
+"36073",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0705538477044802,NA,"Orleans","Orleans County","New York",0
+"36073",2023,"B03002_008","Other (Non-Hispanic)",0.264576928891801,0.16630549816056,62.8571428571429,"Orleans","Orleans County","New York",105
+"36073",2023,"B03002_009","Two or More Races (Non-Hispanic)",3.23035831275513,0.609786826588721,18.8767550702028,"Orleans","Orleans County","New York",1282
+"36073",2023,"B03002_012","Hispanic or Latino (Any Race)",5.23610341178249,0,0,"Orleans","Orleans County","New York",2078
+"36099",2023,"B03002_003","White (Non-Hispanic)",88.0664150943396,0.555471698113208,0.630741807212395,"Seneca","Seneca County","New York",29172
+"36099",2023,"B03002_004","Black (Non-Hispanic)",3.60452830188679,0.316981132075472,8.79396984924623,"Seneca","Seneca County","New York",1194
+"36099",2023,"B03002_005","Native American (Non-Hispanic)",0.060377358490566,0.0633962264150943,105,"Seneca","Seneca County","New York",20
+"36099",2023,"B03002_006","Asian (Non-Hispanic)",0.685283018867925,0.163018867924528,23.7885462555066,"Seneca","Seneca County","New York",227
+"36099",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0.0120754716981132,0.0150943396226415,125,"Seneca","Seneca County","New York",4
+"36099",2023,"B03002_008","Other (Non-Hispanic)",0.552452830188679,0.392452830188679,71.0382513661202,"Seneca","Seneca County","New York",183
+"36099",2023,"B03002_009","Two or More Races (Non-Hispanic)",2.91320754716981,0.534339622641509,18.3419689119171,"Seneca","Seneca County","New York",965
+"36099",2023,"B03002_012","Hispanic or Latino (Any Race)",4.10566037735849,0,0,"Seneca","Seneca County","New York",1360
+"36117",2023,"B03002_003","White (Non-Hispanic)",87.5208497936968,0.463084891581073,0.529113797081097,"Wayne","Wayne County","New York",79756
+"36117",2023,"B03002_004","Black (Non-Hispanic)",2.2276358528663,0.250197524361338,11.2315270935961,"Wayne","Wayne County","New York",2030
+"36117",2023,"B03002_005","Native American (Non-Hispanic)",0.0548678781494162,0.0307260117636731,56,"Wayne","Wayne County","New York",50
+"36117",2023,"B03002_006","Asian (Non-Hispanic)",0.839478535686068,0.175577210078132,20.9150326797386,"Wayne","Wayne County","New York",765
+"36117",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0.0263365815117198,0.0351154420156264,133.333333333333,"Wayne","Wayne County","New York",24
+"36117",2023,"B03002_008","Other (Non-Hispanic)",0.415898516372575,0.2161794399087,51.9788918205805,"Wayne","Wayne County","New York",379
+"36117",2023,"B03002_009","Two or More Races (Non-Hispanic)",3.83965411289615,0.459792818892108,11.9748499571306,"Wayne","Wayne County","New York",3499
+"36117",2023,"B03002_012","Hispanic or Latino (Any Race)",5.075278728821,0,0,"Wayne","Wayne County","New York",4625
+"36123",2023,"B03002_003","White (Non-Hispanic)",93.9887161586232,0.190769980111215,0.202971152185179,"Yates","Yates County","New York",23156
+"36123",2023,"B03002_004","Black (Non-Hispanic)",0.661606526768681,0.365304217234241,55.2147239263804,"Yates","Yates County","New York",163
+"36123",2023,"B03002_005","Native American (Non-Hispanic)",0.064942971952754,0.0811787149409425,125,"Yates","Yates County","New York",16
+"36123",2023,"B03002_006","Asian (Non-Hispanic)",0.67784226975687,0.454600803669278,67.065868263473,"Yates","Yates County","New York",167
+"36123",2023,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.101473393676178,NA,"Yates","Yates County","New York",0
+"36123",2023,"B03002_008","Other (Non-Hispanic)",0.0852376506879896,0.105532329423225,123.809523809524,"Yates","Yates County","New York",21
+"36123",2023,"B03002_009","Two or More Races (Non-Hispanic)",1.95640703007671,0.462718675163372,23.6514522821577,"Yates","Yates County","New York",482
+"36123",2023,"B03002_012","Hispanic or Latino (Any Race)",2.56524739213378,0,0,"Yates","Yates County","New York",632
+"36037",2024,"B03002_003","White (Non-Hispanic)",87.8796269057054,0.340907124439753,0.387925093042947,"Genesee","Genesee County","New York",50783
+"36037",2024,"B03002_004","Black (Non-Hispanic)",2.11466246733694,0.398013394015955,18.8216039279869,"Genesee","Genesee County","New York",1222
+"36037",2024,"B03002_005","Native American (Non-Hispanic)",0.320141208230225,0.0847941578555731,26.4864864864865,"Genesee","Genesee County","New York",185
+"36037",2024,"B03002_006","Asian (Non-Hispanic)",0.664509318704899,0.155744371571461,23.4375,"Genesee","Genesee County","New York",384
+"36037",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0553757765587416,NA,"Genesee","Genesee County","New York",0
+"36037",2024,"B03002_008","Other (Non-Hispanic)",0.295914305985775,0.23015557132227,77.7777777777778,"Genesee","Genesee County","New York",171
+"36037",2024,"B03002_009","Two or More Races (Non-Hispanic)",3.87630435911191,0.482807551871528,12.4553571428571,"Genesee","Genesee County","New York",2240
+"36037",2024,"B03002_012","Hispanic or Latino (Any Race)",4.84884143492481,0,0,"Genesee","Genesee County","New York",2802
+"36051",2024,"B03002_003","White (Non-Hispanic)",88.0695307164461,0.600019512829686,0.681302043906132,"Livingston","Livingston County","New York",54161
+"36051",2024,"B03002_004","Black (Non-Hispanic)",1.87810985723113,0.200006504276562,10.6493506493506,"Livingston","Livingston County","New York",1155
+"36051",2024,"B03002_005","Native American (Non-Hispanic)",0.0422777976519562,0.0308953136687372,73.0769230769231,"Livingston","Livingston County","New York",26
+"36051",2024,"B03002_006","Asian (Non-Hispanic)",1.16101336628833,0.21951933396208,18.9075630252101,"Livingston","Livingston County","New York",714
+"36051",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0.0536602816351751,0.0731731113206933,136.363636363636,"Livingston","Livingston County","New York",33
+"36051",2024,"B03002_008","Other (Non-Hispanic)",0.526846401508992,0.284562099580474,54.0123456790123,"Livingston","Livingston County","New York",324
+"36051",2024,"B03002_009","Two or More Races (Non-Hispanic)",3.62288204494455,0.574002406582328,15.8438061041293,"Livingston","Livingston County","New York",2228
+"36051",2024,"B03002_012","Hispanic or Latino (Any Race)",4.6456795342938,0,0,"Livingston","Livingston County","New York",2857
+"36055",2024,"B03002_003","White (Non-Hispanic)",67.7392992134028,0.146201739827238,0.215830015256949,"Monroe","Monroe County","New York",510587
+"36055",2024,"B03002_004","Black (Non-Hispanic)",13.455866842321,0.228987479983496,1.70176684019561,"Monroe","Monroe County","New York",101424
+"36055",2024,"B03002_005","Native American (Non-Hispanic)",0.0705801502614252,0.0168490208330846,23.8721804511278,"Monroe","Monroe County","New York",532
+"36055",2024,"B03002_006","Asian (Non-Hispanic)",3.75361690102726,0.0933992965865476,2.4882479765313,"Monroe","Monroe County","New York",28293
+"36055",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0.0175123681099777,0.00796016732271712,45.4545454545455,"Monroe","Monroe County","New York",132
+"36055",2024,"B03002_008","Other (Non-Hispanic)",0.522717654191758,0.119667848751514,22.8934010152284,"Monroe","Monroe County","New York",3940
+"36055",2024,"B03002_009","Two or More Races (Non-Hispanic)",4.4955044955045,0.253265990317783,5.63376125129113,"Monroe","Monroe County","New York",33885
+"36055",2024,"B03002_012","Hispanic or Latino (Any Race)",9.94490237518126,0,0,"Monroe","Monroe County","New York",74960
+"36069",2024,"B03002_003","White (Non-Hispanic)",86.9069922308546,0.422641509433962,0.486314735540821,"Ontario","Ontario County","New York",97879
+"36069",2024,"B03002_004","Black (Non-Hispanic)",2.05460599334073,0.31165371809101,15.1685393258427,"Ontario","Ontario County","New York",2314
+"36069",2024,"B03002_005","Native American (Non-Hispanic)",0.0204217536071032,0.018645948945616,91.304347826087,"Ontario","Ontario County","New York",23
+"36069",2024,"B03002_006","Asian (Non-Hispanic)",1.34783573806881,0.12519422863485,9.28853754940712,"Ontario","Ontario County","New York",1518
+"36069",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0284128745837958,NA,"Ontario","Ontario County","New York",0
+"36069",2024,"B03002_008","Other (Non-Hispanic)",0.407547169811321,0.266370699223085,65.359477124183,"Ontario","Ontario County","New York",459
+"36069",2024,"B03002_009","Two or More Races (Non-Hispanic)",3.54628190899001,0.525638179800222,14.822233350025,"Ontario","Ontario County","New York",3994
+"36069",2024,"B03002_012","Hispanic or Latino (Any Race)",5.71631520532741,0,0,"Ontario","Ontario County","New York",6438
+"36073",2024,"B03002_003","White (Non-Hispanic)",84.5788729549586,0.623611391638053,0.737313432835821,"Orleans","Orleans County","New York",33500
+"36073",2024,"B03002_004","Black (Non-Hispanic)",4.85760452433852,0.421631993536659,8.67983367983368,"Orleans","Orleans County","New York",1924
+"36073",2024,"B03002_005","Native American (Non-Hispanic)",0.40143405372652,0.204504140577661,50.9433962264151,"Orleans","Orleans County","New York",159
+"36073",2024,"B03002_006","Asian (Non-Hispanic)",0.764996970309028,0.159058776004847,20.7920792079208,"Orleans","Orleans County","New York",303
+"36073",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0732175318117552,NA,"Orleans","Orleans County","New York",0
+"36073",2024,"B03002_008","Other (Non-Hispanic)",0.386285598868915,0.189355685720057,49.0196078431373,"Orleans","Orleans County","New York",153
+"36073",2024,"B03002_009","Two or More Races (Non-Hispanic)",3.54473843667946,0.818016562310644,23.0769230769231,"Orleans","Orleans County","New York",1404
+"36073",2024,"B03002_012","Hispanic or Latino (Any Race)",5.46606746111897,0,0,"Orleans","Orleans County","New York",2165
+"36099",2024,"B03002_003","White (Non-Hispanic)",87.275212636695,0.753341433778858,0.86317914447809,"Seneca","Seneca County","New York",28731
+"36099",2024,"B03002_004","Black (Non-Hispanic)",3.46597812879708,0.294653705953827,8.50131463628396,"Seneca","Seneca County","New York",1141
+"36099",2024,"B03002_005","Native American (Non-Hispanic)",0.0698663426488457,0.0607533414337789,86.9565217391304,"Seneca","Seneca County","New York",23
+"36099",2024,"B03002_006","Asian (Non-Hispanic)",0.610571081409478,0.218712029161604,35.8208955223881,"Seneca","Seneca County","New York",201
+"36099",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.0880923450789793,NA,"Seneca","Seneca County","New York",0
+"36099",2024,"B03002_008","Other (Non-Hispanic)",0.695625759416768,0.376670716889429,54.1484716157205,"Seneca","Seneca County","New York",229
+"36099",2024,"B03002_009","Two or More Races (Non-Hispanic)",3.52065613608748,0.756379100850547,21.4840379637619,"Seneca","Seneca County","New York",1159
+"36099",2024,"B03002_012","Hispanic or Latino (Any Race)",4.36208991494532,0,0,"Seneca","Seneca County","New York",1436
+"36117",2024,"B03002_003","White (Non-Hispanic)",86.5983349646427,0.548779817220029,0.633707123172853,"Wayne","Wayne County","New York",78743
+"36117",2024,"B03002_004","Black (Non-Hispanic)",2.24350867160092,0.233148940382056,10.3921568627451,"Wayne","Wayne County","New York",2040
+"36117",2024,"B03002_005","Native American (Non-Hispanic)",0.0637860308592418,0.0318930154296209,50,"Wayne","Wayne County","New York",58
+"36117",2024,"B03002_006","Asian (Non-Hispanic)",0.739038150645009,0.28153834310286,38.0952380952381,"Wayne","Wayne County","New York",672
+"36117",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0.0274939788186387,0.0428906069570764,156,"Wayne","Wayne County","New York",25
+"36117",2024,"B03002_008","Other (Non-Hispanic)",0.406910886515853,0.20015616579969,49.1891891891892,"Wayne","Wayne County","New York",370
+"36117",2024,"B03002_009","Two or More Races (Non-Hispanic)",4.64868193865543,0.630161994523199,13.555713271824,"Wayne","Wayne County","New York",4227
+"36117",2024,"B03002_012","Hispanic or Latino (Any Race)",5.27224537826216,0,0,"Wayne","Wayne County","New York",4794
+"36123",2024,"B03002_003","White (Non-Hispanic)",93.6720215281742,0.26502487156487,0.282928527901106,"Yates","Yates County","New York",22974
+"36123",2024,"B03002_004","Black (Non-Hispanic)",0.815461143276523,0.346570985892522,42.5,"Yates","Yates County","New York",200
+"36123",2024,"B03002_005","Native American (Non-Hispanic)",0.053004974312974,0.0693141971785044,130.769230769231,"Yates","Yates County","New York",13
+"36123",2024,"B03002_006","Asian (Non-Hispanic)",0.852156894723966,0.0774688086112697,9.09090909090909,"Yates","Yates County","New York",209
+"36123",2024,"B03002_007","Pacific Islander (Non-Hispanic)",0,0.101932642909565,NA,"Yates","Yates County","New York",0
+"36123",2024,"B03002_008","Other (Non-Hispanic)",0.154937617222539,0.146783005789774,94.7368421052631,"Yates","Yates County","New York",38
+"36123",2024,"B03002_009","Two or More Races (Non-Hispanic)",1.85517410095409,0.415885183071027,22.4175824175824,"Yates","Yates County","New York",455
+"36123",2024,"B03002_012","Hispanic or Latino (Any Race)",2.59724374133572,0,0,"Yates","Yates County","New York",637
