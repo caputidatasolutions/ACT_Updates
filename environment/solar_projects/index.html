@@ -6,17 +6,18 @@
 <style>
   @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap');
   *,*::before,*::after{box-sizing:border-box}
-  /* Page background restored (dotted panel). Fill the iframe height so the chart
-     area can flex to fit. Old browsers use vh; modern browsers override with dvh.
-     The 18px top/bottom padding gives the floating-card look the original had. */
-  html,body{margin:0;padding:18px 0;height:100vh;height:100dvh;overflow:hidden;
+  /* Page background restored (dotted panel). The body is NOT height-locked:
+     it grows with content so the chart keeps a real minimum height instead of
+     being crushed when the embedding iframe is short. On a tall desktop iframe
+     it simply fills; on a short/mobile iframe the page scrolls. */
+  html,body{margin:0;padding:18px 0;min-height:100vh;min-height:100dvh;
     font-family:'DM Sans',system-ui,sans-serif;color:#1A2744;
     background:#F0F2F5;
     background-image:radial-gradient(rgba(26,39,68,.05) 1px, transparent 1px);
     background-size:22px 22px;}
-  /* White card restored; now a flex column filling the available height so the
-     chart can take all the space the header/topic/tabs/source leave. */
-  .card{display:flex;flex-direction:column;height:100%;max-width:1200px;margin:0 auto;
+  /* White card; flex column that sizes to its content. The chart area below
+     carries the real height floor. */
+  .card{display:flex;flex-direction:column;max-width:1200px;margin:0 auto;
     background:#fff;border:1px solid #E2E8F0;border-radius:16px;
     box-shadow:0 1px 3px rgba(16,24,40,.04);padding:22px 24px 18px;}
   .top{flex:0 0 auto;display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap}
@@ -32,11 +33,14 @@
     font:600 13px 'DM Sans',sans-serif;color:#475569;cursor:pointer;transition:all .15s}
   .tab:hover{background:#E2E8F0}
   .tab.active{background:#0062A3;color:#fff}
-  /* Framed white chart area restored, but it now grows to fill the remaining
-     height (flex:1 1 auto) instead of a fixed height, so the Plotly chart inside
-     gets real space and the bottom axis/legend never clip. */
-  .chartcard{flex:1 1 auto;min-height:0;position:relative;margin-top:16px;
+  /* Framed white chart area. It now has a real MINIMUM height per breakpoint so
+     it can never be crushed to a line when the embedding iframe is short. It
+     still flexes to fill extra space when the iframe is taller. Desktop keeps a
+     compact floor (no scroll); tablet and phone get taller floors (scroll ok). */
+  .chartcard{flex:1 1 auto;min-height:360px;position:relative;margin-top:16px;
     border:1px solid #E2E8F0;border-radius:12px;overflow:hidden;background:#fff}
+  @media (max-width:1024px){ .chartcard{min-height:460px} }
+  @media (max-width:640px){ .chartcard{min-height:540px} }
   .view{position:absolute;inset:0;width:100%;height:100%;border:none}
   .source-row{flex:0 0 auto;display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin-top:18px;
     padding-top:14px;border-top:1px solid #EEF2F6}
@@ -51,9 +55,9 @@
 <div class="card">
   <div class="top">
     <h1>Solar Electric Projects (Count)</h1>
-    <div class="meta"><span class="badge">environment</span><span class="updated">Updated Jun 14, 2026</span></div>
+    <div class="meta"><span class="badge">environment</span><span class="updated">Updated Jun 15, 2026</span></div>
   </div>
-  <p class="topic">This indicator shows the count of completed solar electric projects across the eight-county Rochester region (Monroe, Genesee, Livingston, Orleans, Ontario, Wayne, Yates, and Seneca).</p>
+  <p class="topic">This indicator shows the count of completed solar electric projects across the eight-county Rochester region.</p>
   <div class="tabs"><button class="tab active" onclick="showTab(0)">Bar Chart</button><button class="tab" onclick="showTab(1)">Map</button></div>
   <div class="chartcard"><iframe class="view" id="f0" scrolling="no" style="visibility:visible;z-index:2" src="../_views/Output_Solar_Electric/bar_final_project_count.html"></iframe><iframe class="view" id="f1" scrolling="no" style="visibility:hidden;z-index:1" src="../_views/Output_Solar_Electric/map_final_completed_count.html"></iframe></div>
   <div class="source-row"><span class="src-label">Source data</span><a class="dl" href="data/Solar_Electric_Programs_Reported_by_NYSERDA__Beginning.csv" download><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 21h16"/></svg>Download CSV</a></div>
@@ -67,6 +71,25 @@
       if(i===n){ try{ v.contentWindow.dispatchEvent(new Event('resize')); }catch(e){} }
     });
     document.querySelectorAll('.tab').forEach(function(t,i){t.classList.toggle('active', i===n);});
+    setTimeout(postHeight, 60);
+  }
+  // Auto-resize: report this wrapper's natural height to the embedding page so
+  // the outer <iframe> can grow to fit. With the receiver snippet in place (see
+  // the embed instructions) the chart shows fully with NO inner scroll on
+  // desktop; on phones the iframe just grows taller and the page scrolls. If the
+  // host does not add the receiver, the fixed iframe height is used and the
+  // chart still keeps its minimum height (it will not collapse to a line).
+  function postHeight(){
+    var card = document.querySelector('.card');
+    if(!card) return;
+    var h = Math.ceil(card.getBoundingClientRect().height) + 40;
+    try{ parent.postMessage({ actEmbedHeight: h, src: location.pathname }, '*'); }catch(e){}
+  }
+  window.addEventListener('load', function(){ postHeight(); setTimeout(postHeight, 350); });
+  window.addEventListener('resize', postHeight);
+  if(window.ResizeObserver){
+    var _c = document.querySelector('.card');
+    if(_c) new ResizeObserver(postHeight).observe(_c);
   }
 </script>
 </body></html>
