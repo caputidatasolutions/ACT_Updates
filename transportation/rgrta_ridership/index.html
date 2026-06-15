@@ -6,40 +6,42 @@
 <style>
   @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap');
   *,*::before,*::after{box-sizing:border-box}
-  /* Page background restored (dotted panel). Fill the iframe height so the chart
-     area can flex to fit. Old browsers use vh; modern browsers override with dvh.
-     The 18px top/bottom padding gives the floating-card look the original had. */
+  /* The body is locked to the height of the embedding <iframe> and clips
+     overflow, so the chart fills the frame exactly and never produces a
+     scrollbar. Control the overall size from the <iframe> height on your page:
+     a taller iframe gives a taller chart, but it always fits with no scroll. */
   html,body{margin:0;padding:18px 0;height:100vh;height:100dvh;overflow:hidden;
     font-family:'DM Sans',system-ui,sans-serif;color:#1A2744;
     background:#F0F2F5;
     background-image:radial-gradient(rgba(26,39,68,.05) 1px, transparent 1px);
     background-size:22px 22px;}
-  /* White card restored; now a flex column filling the available height so the
-     chart can take all the space the header/topic/tabs/source leave. */
-  .card{display:flex;flex-direction:column;height:100%;max-width:1200px;margin:0 auto;
+  /* White card fills the available height; the chart area below takes whatever
+     space the header/tabs/source leave. */
+  .card{display:flex;flex-direction:column;height:100%;
+    max-width:800px;margin:0 auto;
     background:#fff;border:1px solid #E2E8F0;border-radius:16px;
-    box-shadow:0 1px 3px rgba(16,24,40,.04);padding:22px 24px 18px;}
+    box-shadow:0 1px 3px rgba(16,24,40,.04);padding:16px 22px 14px;}
   .top{flex:0 0 auto;display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap}
   h1{margin:0;font-family:Georgia,'Freight Macro Pro','Times New Roman',serif;
-    font-size:1.5rem;font-weight:700;letter-spacing:-0.01em;color:#1A2744;line-height:1.2}
+    font-size:1.2rem;font-weight:700;letter-spacing:-0.01em;color:#1A2744;line-height:1.2}
   .meta{display:flex;align-items:center;gap:10px;white-space:nowrap}
   .badge{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
-    color:#0062A3;background:#E8F0F7;padding:4px 11px;border-radius:999px}
-  .updated{font-size:13px;color:#94A3B8}
-  .topic{flex:0 0 auto;margin:10px 0 0;font-size:.95rem;line-height:1.5;color:#475569;max-width:78ch}
-  .tabs{flex:0 0 auto;display:none;gap:8px;margin:16px 0 0;flex-wrap:wrap}
-  .tab{padding:8px 18px;border:none;border-radius:999px;background:#EEF2F6;
-    font:600 13px 'DM Sans',sans-serif;color:#475569;cursor:pointer;transition:all .15s}
+    color:#0062A3;background:#E8F0F7;padding:3px 9px;border-radius:999px;font-size:10px}
+  .updated{font-size:12px;color:#94A3B8}
+  .topic{flex:0 0 auto;margin:7px 0 0;font-size:.8rem;line-height:1.45;color:#475569;max-width:88ch}
+  .tabs{flex:0 0 auto;display:none;gap:8px;margin:11px 0 0;flex-wrap:wrap}
+  .tab{padding:6px 15px;border:none;border-radius:999px;background:#EEF2F6;
+    font:600 12px 'DM Sans',sans-serif;color:#475569;cursor:pointer;transition:all .15s}
   .tab:hover{background:#E2E8F0}
   .tab.active{background:#0062A3;color:#fff}
-  /* Framed white chart area restored, but it now grows to fill the remaining
-     height (flex:1 1 auto) instead of a fixed height, so the Plotly chart inside
-     gets real space and the bottom axis/legend never clip. */
-  .chartcard{flex:1 1 auto;min-height:0;position:relative;margin-top:16px;
+  /* Framed white chart area. Flexes to fill whatever height the card has after
+     the header/tabs/source. The card's min-height floor (and your iframe height)
+     control the overall size; min-height:0 here lets it flex correctly. */
+  .chartcard{flex:1 1 auto;min-height:0;position:relative;margin-top:11px;
     border:1px solid #E2E8F0;border-radius:12px;overflow:hidden;background:#fff}
   .view{position:absolute;inset:0;width:100%;height:100%;border:none}
-  .source-row{flex:0 0 auto;display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin-top:18px;
-    padding-top:14px;border-top:1px solid #EEF2F6}
+  .source-row{flex:0 0 auto;display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin-top:11px;
+    padding-top:10px;border-top:1px solid #EEF2F6}
   .src-label{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
     color:#94A3B8;margin-right:4px}
   .dl{display:inline-flex;align-items:center;gap:7px;text-decoration:none;
@@ -51,7 +53,7 @@
 <div class="card">
   <div class="top">
     <h1>RGRTA Ridership</h1>
-    <div class="meta"><span class="badge">transportation</span><span class="updated">Updated Jun 14, 2026</span></div>
+    <div class="meta"><span class="badge">transportation</span><span class="updated">Updated Jun 15, 2026</span></div>
   </div>
   <p class="topic">This indicator shows RGRTA transit ridership. Note: the RGRTA service area differs from the ACT eight-county region.</p>
   <div class="tabs"><button class="tab active" onclick="showTab(0)">Dashboard</button></div>
