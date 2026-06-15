@@ -8,16 +8,18 @@
   *,*::before,*::after{box-sizing:border-box}
   /* Page background restored (dotted panel). The body is NOT height-locked:
      it grows with content so the chart keeps a real minimum height instead of
-     being crushed when the embedding iframe is short. On a tall desktop iframe
-     it simply fills; on a short/mobile iframe the page scrolls. */
-  html,body{margin:0;padding:18px 0;min-height:100vh;min-height:100dvh;
+     being crushed when the embedding iframe is short. The card fills the height
+     you give the <iframe>, so YOU control the size from your page; a minimum
+     floor keeps it from collapsing if the iframe is very short. */
+  html,body{margin:0;padding:18px 0;height:100%;min-height:440px;
     font-family:'DM Sans',system-ui,sans-serif;color:#1A2744;
     background:#F0F2F5;
     background-image:radial-gradient(rgba(26,39,68,.05) 1px, transparent 1px);
     background-size:22px 22px;}
-  /* White card; flex column that sizes to its content. The chart area below
-     carries the real height floor. */
-  .card{display:flex;flex-direction:column;max-width:1200px;margin:0 auto;
+  /* White card; flex column that fills the iframe height (height:100%) but never
+     shrinks below the floor. Set the overall size from the <iframe> height. */
+  .card{display:flex;flex-direction:column;height:100%;min-height:440px;
+    max-width:1200px;margin:0 auto;
     background:#fff;border:1px solid #E2E8F0;border-radius:16px;
     box-shadow:0 1px 3px rgba(16,24,40,.04);padding:22px 24px 18px;}
   .top{flex:0 0 auto;display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap}
@@ -33,14 +35,11 @@
     font:600 13px 'DM Sans',sans-serif;color:#475569;cursor:pointer;transition:all .15s}
   .tab:hover{background:#E2E8F0}
   .tab.active{background:#0062A3;color:#fff}
-  /* Framed white chart area. It now has a real MINIMUM height per breakpoint so
-     it can never be crushed to a line when the embedding iframe is short. It
-     still flexes to fill extra space when the iframe is taller. Desktop keeps a
-     compact floor (no scroll); tablet and phone get taller floors (scroll ok). */
-  .chartcard{flex:1 1 auto;min-height:360px;position:relative;margin-top:16px;
+  /* Framed white chart area. Flexes to fill whatever height the card has after
+     the header/tabs/source. The card's min-height floor (and your iframe height)
+     control the overall size; min-height:0 here lets it flex correctly. */
+  .chartcard{flex:1 1 auto;min-height:0;position:relative;margin-top:16px;
     border:1px solid #E2E8F0;border-radius:12px;overflow:hidden;background:#fff}
-  @media (max-width:1024px){ .chartcard{min-height:460px} }
-  @media (max-width:640px){ .chartcard{min-height:540px} }
   .view{position:absolute;inset:0;width:100%;height:100%;border:none}
   .source-row{flex:0 0 auto;display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin-top:18px;
     padding-top:14px;border-top:1px solid #EEF2F6}
@@ -71,25 +70,6 @@
       if(i===n){ try{ v.contentWindow.dispatchEvent(new Event('resize')); }catch(e){} }
     });
     document.querySelectorAll('.tab').forEach(function(t,i){t.classList.toggle('active', i===n);});
-    setTimeout(postHeight, 60);
-  }
-  // Auto-resize: report this wrapper's natural height to the embedding page so
-  // the outer <iframe> can grow to fit. With the receiver snippet in place (see
-  // the embed instructions) the chart shows fully with NO inner scroll on
-  // desktop; on phones the iframe just grows taller and the page scrolls. If the
-  // host does not add the receiver, the fixed iframe height is used and the
-  // chart still keeps its minimum height (it will not collapse to a line).
-  function postHeight(){
-    var card = document.querySelector('.card');
-    if(!card) return;
-    var h = Math.ceil(card.getBoundingClientRect().height) + 40;
-    try{ parent.postMessage({ actEmbedHeight: h, src: location.pathname }, '*'); }catch(e){}
-  }
-  window.addEventListener('load', function(){ postHeight(); setTimeout(postHeight, 350); });
-  window.addEventListener('resize', postHeight);
-  if(window.ResizeObserver){
-    var _c = document.querySelector('.card');
-    if(_c) new ResizeObserver(postHeight).observe(_c);
   }
 </script>
 </body></html>
