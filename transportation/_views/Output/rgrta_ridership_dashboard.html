@@ -2,7 +2,7 @@
 <html lang="en"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>RGRTA Ridership - RGRTA Service Area</title>
+<title>RGRTA (RTS) Ridership</title>
 <style>
         @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&display=swap');
         *, *::before, *::after { box-sizing: border-box; }
@@ -48,7 +48,7 @@ function showChart(btn, file) {
 </head><body>
 <div class="card">
     <div class="header">
-        <h2>RGRTA Ridership - RGRTA Service Area</h2>
+        <h2>RGRTA (RTS) Ridership</h2>
         <div class="tabs"><button class="tab active" onclick="showChart(this, 'line_rts_main_ridership.html')">Trend: RTS Main (Monroe)</button><button class="tab" onclick="showChart(this, 'line_county_ridership.html')">Trend: Outer-County</button><button class="tab" onclick="showChart(this, 'bar_all_ridership.html')">Bar: All Subsidiaries</button><button class="tab" onclick="showChart(this, 'bar_county_ridership.html')">Bar: Outer-County & Paratransit</button></div>
     </div>
     <iframe id="chartFrame" src="charts/line_rts_main_ridership.html"></iframe>

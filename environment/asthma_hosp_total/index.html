@@ -18,7 +18,7 @@
   /* White card fills the available height; the chart area below takes whatever
      space the header/tabs/source leave. */
   .card{display:flex;flex-direction:column;height:100%;
-    max-width:800px;margin:0 auto;
+    max-width:960px;margin:0 auto;
     background:#fff;border:1px solid #E2E8F0;border-radius:16px;
     box-shadow:0 1px 3px rgba(16,24,40,.04);padding:16px 22px 14px;}
   .top{flex:0 0 auto;display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap}
@@ -55,7 +55,7 @@
     <h1>Asthma Hospitalizations (Total)</h1>
     <div class="meta"><span class="badge">environment</span><span class="updated">Updated Jun 15, 2026</span></div>
   </div>
-  <p class="topic">This indicator shows total asthma hospitalizations across the eight-county Rochester region.</p>
+  <p class="topic">The rate of hospitalizations due to asthma per 10,000 residents.</p>
   <div class="tabs"><button class="tab active" onclick="showTab(0)">Bar Chart</button><button class="tab" onclick="showTab(1)">Trend</button><button class="tab" onclick="showTab(2)">Map</button><button class="tab" onclick="showTab(3)">Concern Map</button></div>
   <div class="chartcard"><iframe class="view" id="f0" scrolling="no" style="visibility:visible;z-index:2" src="../_views/Output_Asthma/bar_final_asthma_hosp_total.html"></iframe><iframe class="view" id="f1" scrolling="no" style="visibility:hidden;z-index:1" src="../_views/Output_Asthma/line_final_asthma_hosp_total.html"></iframe><iframe class="view" id="f2" scrolling="no" style="visibility:hidden;z-index:1" src="../_views/Output_Asthma/map_final_asthma_hosp_total.html"></iframe><iframe class="view" id="f3" scrolling="no" style="visibility:hidden;z-index:1" src="../_views/Output_Asthma/concern_map_final_asthma_hosp_total.html"></iframe></div>
   <div class="source-row"><span class="src-label">Source data</span><a class="dl" href="data/AD-CountyMostRecentYearData.csv" download><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 21h16"/></svg>Download CSV</a></div>
