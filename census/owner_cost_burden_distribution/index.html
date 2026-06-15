@@ -6,19 +6,18 @@
 <style>
   @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap');
   *,*::before,*::after{box-sizing:border-box}
-  /* Page background restored (dotted panel). The body is NOT height-locked:
-     it grows with content so the chart keeps a real minimum height instead of
-     being crushed when the embedding iframe is short. The card fills the height
-     you give the <iframe>, so YOU control the size from your page; a minimum
-     floor keeps it from collapsing if the iframe is very short. */
-  html,body{margin:0;padding:18px 0;height:100%;min-height:440px;
+  /* The body is locked to the height of the embedding <iframe> and clips
+     overflow, so the chart fills the frame exactly and never produces a
+     scrollbar. Control the overall size from the <iframe> height on your page:
+     a taller iframe gives a taller chart, but it always fits with no scroll. */
+  html,body{margin:0;padding:18px 0;height:100vh;height:100dvh;overflow:hidden;
     font-family:'DM Sans',system-ui,sans-serif;color:#1A2744;
     background:#F0F2F5;
     background-image:radial-gradient(rgba(26,39,68,.05) 1px, transparent 1px);
     background-size:22px 22px;}
-  /* White card; flex column that fills the iframe height (height:100%) but never
-     shrinks below the floor. Set the overall size from the <iframe> height. */
-  .card{display:flex;flex-direction:column;height:100%;min-height:440px;
+  /* White card fills the available height; the chart area below takes whatever
+     space the header/tabs/source leave. */
+  .card{display:flex;flex-direction:column;height:100%;
     max-width:1200px;margin:0 auto;
     background:#fff;border:1px solid #E2E8F0;border-radius:16px;
     box-shadow:0 1px 3px rgba(16,24,40,.04);padding:22px 24px 18px;}
