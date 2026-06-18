@@ -39,10 +39,10 @@
      depends on the iframe/percentage chain and can never collapse. A wider
      screen gets a landscape chart; a phone gets a taller, near-portrait chart
      so the bars stay readable. min-height is a safety floor. */
-  .chartcard{width:100%;aspect-ratio:2/1;min-height:240px;position:relative;margin-top:11px;
+  .chartcard{width:100%;aspect-ratio:2/1;min-height:540px;position:relative;margin-top:11px;
     border:1px solid #E2E8F0;border-radius:12px;overflow:hidden;background:#fff}
-  @media (max-width:768px){ .chartcard{aspect-ratio:3/2} }
-  @media (max-width:480px){ .chartcard{aspect-ratio:3/4} }
+  @media (max-width:768px){ .chartcard{aspect-ratio:3/2;min-height:560px} }
+  @media (max-width:480px){ .chartcard{aspect-ratio:3/4;min-height:600px} }
   .view{position:absolute;inset:0;width:100%;height:100%;border:none}
   .source-row{flex:0 0 auto;display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin-top:11px;
     padding-top:10px;border-top:1px solid #EEF2F6}
@@ -57,7 +57,7 @@
 <div class="card">
   <div class="top">
     <h1>Asthma ED Visits, Ages 0-17</h1>
-    <div class="meta"><span class="badge">environment</span><span class="updated">Updated Jun 17, 2026</span></div>
+    <div class="meta"><span class="badge">environment</span><span class="updated">Updated Jun 18, 2026</span></div>
   </div>
   <p class="topic">This indicator shows asthma emergency department visits among residents ages 0 to 17 across the eight-county Rochester region.</p>
   <div class="tabs"><button class="tab active" onclick="showTab(0)">Bar Chart</button><button class="tab" onclick="showTab(1)">Trend</button><button class="tab" onclick="showTab(2)">Map</button><button class="tab" onclick="showTab(3)">Concern Map</button></div>
