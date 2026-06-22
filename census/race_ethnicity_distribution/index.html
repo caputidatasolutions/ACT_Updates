@@ -39,10 +39,10 @@
      depends on the iframe/percentage chain and can never collapse. A wider
      screen gets a landscape chart; a phone gets a taller, near-portrait chart
      so the bars stay readable. min-height is a safety floor. */
-  .chartcard{width:100%;aspect-ratio:2/1;min-height:240px;position:relative;margin-top:11px;
+  .chartcard{width:100%;aspect-ratio:2/1;min-height:540px;position:relative;margin-top:11px;
     border:1px solid #E2E8F0;border-radius:12px;overflow:hidden;background:#fff}
-  @media (max-width:768px){ .chartcard{aspect-ratio:3/2} }
-  @media (max-width:480px){ .chartcard{aspect-ratio:3/4} }
+  @media (max-width:768px){ .chartcard{aspect-ratio:3/2;min-height:560px} }
+  @media (max-width:480px){ .chartcard{aspect-ratio:3/4;min-height:600px} }
   .view{position:absolute;inset:0;width:100%;height:100%;border:none}
   .source-row{flex:0 0 auto;display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin-top:11px;
     padding-top:10px;border-top:1px solid #EEF2F6}
@@ -57,7 +57,7 @@
 <div class="card">
   <div class="top">
     <h1>Population by Race/Ethnicity</h1>
-    <div class="meta"><span class="badge">census</span><span class="updated">Updated Jun 17, 2026</span></div>
+    <div class="meta"><span class="badge">census</span><span class="updated">Updated Jun 22, 2026</span></div>
   </div>
   <p class="topic">The population by race and ethnicity (percent of total population).</p>
   <div class="tabs"><button class="tab active" onclick="showTab(0)">Bar Chart</button><button class="tab" onclick="showTab(1)">Trend</button><button class="tab" onclick="showTab(2)">Map</button></div>
@@ -65,6 +65,17 @@
   <div class="source-row"><span class="src-label">Source data</span><a class="dl" href="data/Race_Ethnicity_Distribution_counties.csv" download><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 21h16"/></svg>Counties</a><a class="dl" href="data/Race_Ethnicity_Distribution_subdivisions.csv" download><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 21h16"/></svg>Subdivisions</a></div>
 </div>
 <script>
+  // Auto-height: measure the rendered card and tell the embedding page how tall
+  // this wrapper actually is, so the parent <iframe> can match it exactly at any
+  // width. This removes all need for fixed iframe heights / media queries on the
+  // host page. Pairs with a one-line listener in the host's footer code injection
+  // (matches the sending iframe via e.source). Fires on load, on resize, on tab
+  // switch, after fonts load, and whenever the card's box changes (ResizeObserver).
+  function postHeight(){
+    var c = document.querySelector('.card');
+    var h = c ? c.getBoundingClientRect().bottom : document.documentElement.scrollHeight;
+    try{ parent.postMessage({ actEmbedHeight: Math.ceil(h) }, '*'); }catch(e){}
+  }
   function showTab(n){
     document.querySelectorAll('.view').forEach(function(v,i){
       v.style.visibility = (i===n) ? 'visible' : 'hidden';
@@ -73,6 +84,18 @@
       if(i===n){ try{ v.contentWindow.dispatchEvent(new Event('resize')); }catch(e){} }
     });
     document.querySelectorAll('.tab').forEach(function(t,i){t.classList.toggle('active', i===n);});
+    setTimeout(postHeight, 60);
   }
+  window.addEventListener('load', postHeight);
+  window.addEventListener('resize', function(){
+    clearTimeout(window.__actPH); window.__actPH = setTimeout(postHeight, 120);
+  });
+  if (window.ResizeObserver){
+    new ResizeObserver(postHeight).observe(document.querySelector('.card') || document.body);
+  }
+  if (document.fonts && document.fonts.ready){ document.fonts.ready.then(postHeight); }
+  // Safety re-measures for late Plotly layout.
+  setTimeout(postHeight, 400);
+  setTimeout(postHeight, 1500);
 </script>
 </body></html>
